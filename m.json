@@ -1,5 +1,27 @@
 {
     "AllMovieDataList": [
+    {
+            "id": "2814",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/wTb82Nt0/Ved-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/NG3RHJD4/Ved-2022.jpg",
+            "movieName": "Ved (2022)",
+            "htmlFile": "https://www.2814",
+            "directOne": "Marathi",
+            "directSecond": "Al2Gtph9ytI",
+            "imbd": "7.6",
+            "rating": "HDCamRip",
+            "catergory": "Drama,Romance",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/68iya18edex0",
+            "tape": "https://streamtape.to/v/JXW4dxlDoOIjdWl/Ved_2022_2814.mkv.mp4"
+        },
      {
             "id": "2813",
             "activity": "1",
@@ -19,7 +41,7 @@
             "pathName": "FALSE",
             "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
             "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
-            "hub": "https://v600.streamhub.to/sc6t7jsdxyytnuzvovqc52rz7np7bibxrijae2hgpxccaeaeseqafhunkmoa/v.mp4",
+            "hub": "https://streamhub.to/lu7nre0rdf8r",
             "tape": "https://streamtape.to/v/DavqJMRRDzckOkL/Connect_2022_2813.mkv.mp4"
         },
         {
