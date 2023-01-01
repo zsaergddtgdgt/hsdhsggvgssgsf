@@ -1,5 +1,28 @@
 {
     "AllMovieDataList": [
+    
+    {
+            "id": "2815",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/vHMpKW5M/Laththi-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/9XThKmSP/Laththi-2022.jpg",
+            "movieName": "Laththi (2022)",
+            "htmlFile": "https://www.2815",
+            "directOne": "Hindi",
+            "directSecond": "WiQWtEtD6_8",
+            "imbd": "7.6",
+            "rating": "HDCamRip",
+            "catergory": "Action,Drama",
+            "Industry": "South",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/7h0vk573rftw",
+            "tape": "https://streamtape.to/v/9OVBaRMKlKiaz7Y/Laththi_2022_2815.mkv.mp4"
+        },
     {
             "id": "2814",
             "activity": "1",
@@ -12,7 +35,7 @@
             "imbd": "7.6",
             "rating": "HDCamRip",
             "catergory": "Drama,Romance",
-            "Industry": "South",
+            "Industry": "Bollywood",
             "latest": "no",
             "latestCatergory": "yes",
             "keyName": "FALSE",
