@@ -35584,6 +35584,34 @@
                 "7": "https://streamhub.to/o2p5cbvfuddr",
                 "8": "https://streamhub.to/oe3vu3hy20o5"
             }
+        },
+        {
+            "id": "904",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/SQ6R3jKZ/Shark-Tank-India-Season-2.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/9QzMNpK2/Shark-Tank-India-Season-2.jpg",
+            "movieName": "Shark Tank India Season 2",
+            "htmlFile": "https://www.18904",
+            "directOne": "Reality",
+            "directSecond": "RNzG0NGwa2w",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Shark Tank India",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/wlBw4ZKdKmFJ7Yq/Shark_Tank_India_%282023%29_S02E01_18904_1.mkv.mp4",
+                "2": "https://streamtape.to/v/k9RGZXxLMXtOz97/Shark_Tank_India_%282023%29_S02E02_18904_2.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/dhowhad6uas5",
+                "2": "https://streamhub.to/z81e7qh86qa1"
+            }
         }
     ]
 }
