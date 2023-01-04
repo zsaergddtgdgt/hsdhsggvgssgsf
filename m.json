@@ -1,6 +1,28 @@
 {
     "AllMovieDataList": [
     
+    {
+            "id": "2816",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://i.postimg.cc/wTb82Nt0/Ved-2022.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/NG3RHJD4/Ved-2022.jpg",
+            "movieName": "Ved [Hindi] (2022)",
+            "htmlFile": "https://www.2816",
+            "directOne": "Hindi [HQ Dub]",
+            "directSecond": "Al2Gtph9ytI",
+            "imbd": "7.6",
+            "rating": "HDCamRip",
+            "catergory": "Drama,Romance",
+            "Industry": "Bollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/5lixqstorbot",
+            "tape": "https://streamtape.to/v/KPZrg3Vzdgh0dd8/Ved_2022_2816.mkv.mp4"
+        },
         {
             "id": "2751",
             "activity": "1",
@@ -50,7 +72,7 @@
             "activity": "1",
             "ImageUrlHorizontal": "https://i.postimg.cc/wTb82Nt0/Ved-2022.jpg",
             "ImageUrlVertical": "https://i.postimg.cc/NG3RHJD4/Ved-2022.jpg",
-            "movieName": "Ved (2022)",
+            "movieName": "Ved [Marathi] (2022)",
             "htmlFile": "https://www.2814",
             "directOne": "Marathi",
             "directSecond": "Al2Gtph9ytI",
