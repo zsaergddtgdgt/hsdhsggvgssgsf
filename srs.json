@@ -35670,7 +35670,7 @@
                 "1": "https://streamtape.to/v/A3Y8xJezypUXJrM/Guti_%282023%29_S01_Complete_18906_1.mkv.mp4"
             },
             "EpisodeHub": {
-                "1": "https://v600.streamhub.to/sc6t6mryxyytnuzvovrs55zuvmhjx6q664mquwkkte2hlc4onkxpyn7nhe2q/v.mp4"
+                "1": "https://streamhub.to/qxgrn4pmwkfv"
             }
         },
         {
@@ -35707,6 +35707,40 @@
                 "4": "https://streamhub.to/92jpo5z16fh4",
                 "5": "https://streamhub.to/ohrjnqamav97",
                 "6": "https://streamhub.to/6q4yaewbtnnl"
+            }
+        },
+        {
+            "id": "908",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://i.postimg.cc/s2WrGnbG/Story-of-Things-Season-1.jpg",
+            "ImageUrlVertical": "https://i.postimg.cc/Zq5y66VP/Story-of-Things-Season-1.jpg",
+            "movieName": "Story of Things Season 1",
+            "htmlFile": "https://www.18908",
+            "directOne": "Drama",
+            "directSecond": "sxcpbRHFFck",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Story of Things",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/MqddbRxDxqSmgjw/Story_of_Things_S01_E01_18908_1.mkv.mp4",
+                "2": "https://streamtape.to/v/WqqQj4P4e4UbDad/Story_of_Things_S01_E02_18908_2.mkv.mp4",
+                "3": "https://streamtape.to/v/xPK0RY6B73ToDK/Story_of_Things_S01_E03_18908_3.mkv.mp4",
+                "4": "https://streamtape.to/v/L2Dz4e0qZbIR06x/Story_of_Things_S01_E04_18908_4.mkv.mp4",
+                "5": "https://streamtape.to/v/Aq20dv6jwwFX86l/Story_of_Things_S01_E05_18908_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/74wqfwolhfjd",
+                "2": "https://streamhub.to/q251bek08p1b",
+                "3": "https://streamhub.to/9iwchvkgmiqk",
+                "4": "https://streamhub.to/804u7fy55ma4",
+                "5": "https://streamhub.to/liqvyy6ntzz2"
             }
         }
     ]
