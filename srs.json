@@ -35872,6 +35872,84 @@
                 "7": "https://streamhub.to/2qlj0oaiylfm",
                 "8": "https://streamhub.to/f1g7h4w989v7"
             }
+        },
+        {
+            "id": "912",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Shikaari%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Shikaari%20Season%201.jpg",
+            "movieName": "Shikaari Season 1",
+            "htmlFile": "https://www.18912",
+            "directOne": "Drama",
+            "directSecond": "YqYD_c8FdUE",
+            "imbd": "8.1",
+            "rating": "Punjabi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Shikaari",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/7DYabzd16oi46y/Shikaari_%282021%29_S01_18912_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE"
+            }
+        },
+        {
+            "id": "913",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Shikaari%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Shikaari%20Season%202.jpg",
+            "movieName": "Shikaari Season 2",
+            "htmlFile": "https://www.18913",
+            "directOne": "Drama",
+            "directSecond": "oTF2LryDWxY",
+            "imbd": "8.1",
+            "rating": "Punjabi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Shikaari",
+            "pathName": "S2",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/8woqW4KG0yI8Ao/Shikaari_%282023%29_S0202_18913_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE"
+            }
+        },
+        {
+            "id": "914",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Trial%20By%20Fire%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Trial%20By%20Fire%20Season%201.jpg",
+            "movieName": "Trial By Fire Season 1",
+            "htmlFile": "https://www.18914",
+            "directOne": "Crime,Drama",
+            "directSecond": "7rMFBiglRXI",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Trial By Fire",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/Ww8r4dJXzWcbBX2/Trial_By_Fire_%282023%29_S01_18914_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE"
+            }
         }
     ]
 }
