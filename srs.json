@@ -35896,7 +35896,7 @@
                 "1": "https://streamtape.to/v/7DYabzd16oi46y/Shikaari_%282021%29_S01_18912_1.mkv.mp4"
             },
             "EpisodeHub": {
-                "1": "FALSE"
+                "1": "https://streamhub.to/5t2a7br973tj"
             }
         },
         {
@@ -35922,7 +35922,7 @@
                 "1": "https://streamtape.to/v/8woqW4KG0yI8Ao/Shikaari_%282023%29_S0202_18913_1.mkv.mp4"
             },
             "EpisodeHub": {
-                "1": "https://streamhub.to/vqfr58gaaeyb"
+                "1": "https://streamhub.to/rj0j1qv8dmnr"
             }
         },
         {
@@ -35948,7 +35948,73 @@
                 "1": "https://streamtape.to/v/Ww8r4dJXzWcbBX2/Trial_By_Fire_%282023%29_S01_18914_1.mkv.mp4"
             },
             "EpisodeHub": {
-                "1": "https://streamhub.to/e/kl1qcrpx1iq8"
+                "1": "https://streamhub.to/q0xfinvnl9bv"
+            }
+        },
+        {
+            "id": "915",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Sky%20Rojo%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Sky%20Rojo%20Season%202.jpg",
+            "movieName": "Sky Rojo Season 3",
+            "htmlFile": "https://www.18915",
+            "directOne": "Action,Adventure",
+            "directSecond": "VX_KygyV56o",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Sky Rojo",
+            "pathName": "S3",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/x2L1e6L8byfQbz/Sky_Rojo_S03E01_18915_1.mkv.mp4",
+                "2": "https://streamtape.to/v/ydk2Aj9PD7h1pa2/Sky_Rojo_S03E02_18915_2.mkv.mp4",
+                "3": "https://streamtape.to/v/o1J0DAxA7GCJ6M4/Sky_Rojo_S03E03_18915_3.mkv.mp4",
+                "4": "https://streamtape.to/v/DkoDWdrr6otVYk/Sky_Rojo_S03E04_18915_4.mkv.mp4",
+                "5": "https://streamtape.to/v/PwPv49WKQAtBvp/Sky_Rojo_S03E05_18915_5.mkv.mp4",
+                "6": "https://streamtape.to/v/YeLXKog9jkHOKQ/Sky_Rojo_S03E06_18915_6.mkv.mp4",
+                "7": "https://streamtape.to/v/GKvgaJq1V2cawj/Sky_Rojo_S03E07_18915_7.mkv.mp4",
+                "8": "https://streamtape.to/v/YpeKOLL8eDfv0OQ/Sky_Rojo_S03E08_18915_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/i18pdd1wz1oh",
+                "2": "https://streamhub.to/sw32oadekyo3",
+                "3": "https://streamhub.to/h6v40s82x0c3",
+                "4": "https://streamhub.to/kw6ic0m02t6e",
+                "5": "https://streamhub.to/o4d4pnigt5ua",
+                "6": "https://streamhub.to/7mvap0374ku2",
+                "7": "https://streamhub.to/af70q4rhm7if",
+                "8": "https://streamhub.to/i3zpleorfpov"
+            }
+        },
+        {
+            "id": "916",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Swagger%20Sharma%E2%80%99s%20Trust%20Issues%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Swagger%20Sharma%E2%80%99s%20Trust%20Issues%20Season%201.jpg",
+            "movieName": "Swagger Sharma’s Trust Issues Season 1",
+            "htmlFile": "https://www.18916",
+            "directOne": "Drama",
+            "directSecond": "okkUPy5mmqs",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Swagger Sharma’s Trust Issues",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/PW3Oe1MoJvUBKy/Swagger_Sharma%27s_Trust_Issues_S01_Complete_18916_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/pvqz0naeu5r3"
             }
         }
     ]
