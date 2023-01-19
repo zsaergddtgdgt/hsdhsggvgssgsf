@@ -35480,40 +35480,6 @@
             }
         },
         {
-            "id": "875",
-            "activity": "FALSE",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/National%20Treasure%20Edge%20of%20History%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/National%20Treasure%20Edge%20of%20History%20Season%201.jpg",
-            "movieName": "National Treasure: Edge of History Season 1",
-            "htmlFile": "https://www.18875",
-            "directOne": "Action,Adventure",
-            "directSecond": "QOTKWuIlmh8",
-            "imbd": "6.8",
-            "rating": "English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "latest": "FALSE",
-            "latestCatergory": "FALSE",
-            "keyName": "National Treasure: Edge of History",
-            "pathName": "S1",
-            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
-            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/Jyg2xDkBpMfj4Jr/National_Treasure_Edge_of_History_S01E01_18875_1.mkv.mp4",
-                "2": "https://streamtape.to/v/KXpXgz2l0ec0VMd/National_Treasure_Edge_of_History_S01E02_18875_2.mkv.mp4",
-                "3": "https://streamtape.to/v/y293Q7Ax0WSoeJ/National_Treasure_Edge_Of_History_S01E03_18875_3.mkv.mp4",
-                "4": "https://streamtape.to/v/rlR6ZYmzg8tbrVQ/National_Treasure_Edge_Of_History_S01E04_18875_4.mkv.mp4",
-                "5": "https://streamtape.to/v/3xAjr98yAwCd7kv/National_Treasure_Edge_Of_History_S01E05_18875_5.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/0ry5xj2smo6o",
-                "2": "https://streamhub.to/0t2aov8hugrc",
-                "3": "https://streamhub.to/6mokzi9p2dhk",
-                "4": "https://streamhub.to/c6aiwnbldt8f",
-                "5": "https://streamhub.to/0smtvz5sif5v"
-            }
-        },
-        {
             "id": "903",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Kaleidoscope%20Season%201.jpg",
@@ -36005,7 +35971,9 @@
                 "8": "https://streamtape.to/v/dLaRBVYqdaskVXL/Shark_Tank_India_%282023%29_S02E08_18904_8.mkv.mp4",
                 "9": "https://streamtape.to/v/qa3LkZ0AldUzv0m/Shark_Tank_India_%282023%29_S02E09_18904_9.mkv.mp4",
                 "10":"https://streamtape.to/v/qKVmqAjD36Sz3pR/Shark_Tank_India_S02E10_18904_10.mkv.mp4",
-                "11":"https://streamtape.to/v/Qdbpp9ZAJvh0D89/Shark_Tank_India_S02E11_18904_11.mkv.mp4"
+                "11":"https://streamtape.to/v/Qdbpp9ZAJvh0D89/Shark_Tank_India_S02E11_18904_11.mkv.mp4",
+                "12":"https://streamtape.to/v/W3Qe46qY6xieaX/Shark_Tank_India_S02E12_18904_12.mkv.mp4",
+                "13":"https://streamtape.to/v/xgvP7JoP2KHkR3L/Shark_Tank_India_S02E13_18904_13.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/dhowhad6uas5",
@@ -36018,7 +35986,47 @@
                 "8": "https://streamhub.to/fyflvxu23paj",
                 "9": "https://streamhub.to/c0gga8ga9cf7",
                 "10":"https://streamhub.to/xh2syd5jx515",
-                "11":"https://streamhub.to/jht9hvjq3ov3"
+                "11":"https://streamhub.to/jht9hvjq3ov3",
+                "12":"https://streamhub.to/qpcce4wn56h4",
+                "13":"https://streamhub.to/948iqes86e5i"
+            }
+        },
+        {
+            "id": "875",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/National%20Treasure%20Edge%20of%20History%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/National%20Treasure%20Edge%20of%20History%20Season%201.jpg",
+            "movieName": "National Treasure: Edge of History Season 1",
+            "htmlFile": "https://www.18875",
+            "directOne": "Action,Adventure",
+            "directSecond": "QOTKWuIlmh8",
+            "imbd": "6.8",
+            "rating": "English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "National Treasure: Edge of History",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://techapp.meddyworld.com/Poster/h1/Crushed Season 1.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Crushed Season 1.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/Jyg2xDkBpMfj4Jr/National_Treasure_Edge_of_History_S01E01_18875_1.mkv.mp4",
+                "2": "https://streamtape.to/v/KXpXgz2l0ec0VMd/National_Treasure_Edge_of_History_S01E02_18875_2.mkv.mp4",
+                "3": "https://streamtape.to/v/y293Q7Ax0WSoeJ/National_Treasure_Edge_Of_History_S01E03_18875_3.mkv.mp4",
+                "4": "https://streamtape.to/v/rlR6ZYmzg8tbrVQ/National_Treasure_Edge_Of_History_S01E04_18875_4.mkv.mp4",
+                "5": "https://streamtape.to/v/3xAjr98yAwCd7kv/National_Treasure_Edge_Of_History_S01E05_18875_5.mkv.mp4",
+                "6":"https://streamtape.to/v/rBVb1aQrmMfbDjL/National_Treasure_Edge_of_History_S01E06_18875_6.mkv.mp4",
+                "7":"https://streamtape.to/v/M6QdMzlOjGim4xy/National_Treasure_Edge_of_History_S01E07_18875_7.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/0ry5xj2smo6o",
+                "2": "https://streamhub.to/0t2aov8hugrc",
+                "3": "https://streamhub.to/6mokzi9p2dhk",
+                "4": "https://streamhub.to/c6aiwnbldt8f",
+                "5": "https://streamhub.to/0smtvz5sif5v",
+                "6":"https://streamhub.to/0ju75zpfiqqh",
+                "7":"https://streamhub.to/op26i9a1v38v"
             }
         },
         {
@@ -36045,6 +36053,32 @@
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/q468ugwhclp8"
+            }
+        },
+        {
+            "id": "918",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Jhansi%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Jhansi%20Season%202.jpg",
+            "movieName": "Jhansi Season 2",
+            "htmlFile": "https://www.18918",
+            "directOne": "Action,Mystery",
+            "directSecond": "lyh8nLNyIYE",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Jhansi",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/dpL9lvLRQGIk4Ke/Jhansi_S02_E01-04_18918_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/rdtq5xc123w2"
             }
         }
     ]
