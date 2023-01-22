@@ -36196,6 +36196,34 @@
             "EpisodeHub": {
                 "1": "https://streamhub.to/r6386skyss75"
             }
+        },
+        {
+            "id": "923",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Shahmaran%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Shahmaran%20Season%201.jpg",
+            "movieName": "Shahmaran Season 1",
+            "htmlFile": "https://www.18923",
+            "directOne": "Adventure,Drama",
+            "directSecond": "wWvrVX8ALBs",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Shahmaran",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/jbL7pRlz8ySQkd",
+                "2":"https://streamtape.to/v/8wBvV0MOW2uoLVw"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/6flqj34worp5",
+                "2":"https://streamhub.to/f3uybjy382ho"
+            }
         }
     ]
 }
