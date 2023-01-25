@@ -1,5 +1,28 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "2868",
+            "activity": "1",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Pathaan%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Pathaan%20(2023).jpg",
+            "movieName": "Pathaan (2023)",
+            "htmlFile": "https://www.2868",
+            "directOne": "Hindi",
+            "directSecond": "vqu4z34wENw",
+            "imbd": "7.6",
+            "rating": "HDCamRip",
+            "catergory": "Action,Drama",
+            "Industry": "Bollywood",
+            "latest": "no",
+            "latestCatergory": "yes",
+            "keyName": "FALSE",
+            "pathName": "FALSE",
+            "driveImageUrlHorizontal": "https://leathermed.net//Poster/h1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "driveImageUrlVertical": "https://leathermed.net//Poster/v1/Yaar%20Mera%20Titliaan%20Warga%20%282022%29.jpg",
+            "hub": "https://streamhub.to/l1v4v1cmdq57",
+            "tape": "https://streamtape.to/v/jbl6KQbqZgTJ9Z/Pathaan_%282023%29_2868.mkv.mp4"
+        },
    
         {
             "id": "208",
