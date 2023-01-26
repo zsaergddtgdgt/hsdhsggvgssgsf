@@ -36210,7 +36210,9 @@
                 "13":"https://streamtape.to/v/xgvP7JoP2KHkR3L/Shark_Tank_India_S02E13_18904_13.mkv.mp4",
                 "14":"https://streamtape.to/v/A4634aLQd9CXJgW/Shark_Tank_India_S02E14_18904_14.mkv.mp4",
                 "15":"https://streamtape.to/v/bPjKG7g4j1FPw3o/Shark_Tank_India_S02E15_18904_15.mkv.mp4",
-                "16":"https://streamtape.to/v/yBzAPaxJXxs1DYY/Shark_Tank_India_S02E16_18904_16.mkv.mp4"
+                "16":"https://streamtape.to/v/yBzAPaxJXxs1DYY/Shark_Tank_India_S02E16_18904_16.mkv.mp4",
+                "17":"https://streamtape.to/v/m1GV7moBOVU6Ak/Shark_Tank_India_S02E17_18904_17.mkv.mp4",
+                "18":"https://streamtape.to/v/AL0lW7vo6bcXALj/Shark_Tank_India_S02E18_18904_18.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/dhowhad6uas5",
@@ -36228,7 +36230,9 @@
                 "13":"https://streamhub.to/948iqes86e5i",
                 "14":"https://streamhub.to/vo57bfe5ektl",
                 "15":"https://streamhub.to/l4zwek6xq7yk",
-                "16":"https://streamhub.to/h56oygz3pzv1"
+                "16":"https://streamhub.to/h56oygz3pzv1",
+                "17":"https://streamhub.to/b2bdedrg8v0z",
+                "18":"https://streamhub.to/z8ukq02je66c"
             }
         },
         {
@@ -36256,6 +36260,33 @@
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/nh5yno5wzqm1"
+            }
+        },
+        {
+            "id": "925",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Jaanbaaz%20Hindustan%20Ke%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Jaanbaaz%20Hindustan%20Ke%20Season%201.jpg",
+            "movieName": "Jaanbaaz Hindustan Ke Season 1",
+            "htmlFile": "https://www.18925",
+            "directOne": "Action",
+            "directSecond": "WqPincGob8Y",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Jaanbaaz Hindustan Ke",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+            "1": "https://streamtape.to/v/dRYYvoWL8RH0Rb/Jaanbaaz_Hindustan_Ke_%282023%29_18925_1.mkv.mp4"
+               
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/rdxbz5dba58i"
             }
         }
     ]
