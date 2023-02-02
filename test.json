@@ -1,6 +1,19 @@
 {
     "AllMovieDataList": [
-    
+    {
+            "id": "2885",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Anubhav%20Singh%20Bassi%20%E2%80%93%20Bas%20Kar%20Bassi%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Anubhav%20Singh%20Bassi%20%E2%80%93%20Bas%20Kar%20Bassi%20(2023).jpeg",
+            "movieName": "Anubhav Singh Bassi – Bas Kar Bassi (2023)",
+            "htmlFile": "https://www.2885",
+            "directOne": "Hindi",
+            "directSecond": "Cp-UpJGsaBA",
+            "rating": "HD 720p",
+            "catergory": "Comedy",
+            "Industry": "Bollywood",
+            "hub": "https://streamhub.to/s2brtaabt6b2",
+            "tape": "https://streamtape.to/v/z3b4DA80LYtyql/Anubhav_Singh_Bassi_-_Bas_Kar_Bassi_2023_2885.mkv.mp4"
+        },
         {
             "id": "2884",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Kranti%20(2023).jpg",
@@ -12,7 +25,7 @@
             "rating": "HDCamRip",
             "catergory": "Action,Drama",
             "Industry": "South",
-            "hub": "https://v902.streamhub.to/sc6tybdax4ytnuzvovks5yd26touwx5xwsakihiqw6p67baszlw2la3ysvpq/v.mp4",
+            "hub": "https://streamhub.to/f6899634ngmm",
             "tape": "https://streamtape.to/v/Aqb7lMbd3GHX3wX/Kranti_2023_2884.mkv.mp4"
         },
         {
@@ -28,6 +41,20 @@
             "Industry": "Bollywood",
             "hub": "https://streamhub.to/wiqtfqyrhzwq",
             "tape": "https://streamtape.to/v/xMdA9pR118ukBlx/Pathaan_%282023%29_2868.mkv.mp4"
+        },
+        {
+            "id": "2886",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Dear%20Sathya%20(2022).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Dear%20Sathya%20(2022).jpg",
+            "movieName": "Dear Sathya (2022)",
+            "htmlFile": "https://www.2886",
+            "directOne": "Hindi",
+            "directSecond": "Uem4-KmVGJA",
+            "rating": "HD 720p",
+            "catergory": "Thriller",
+            "Industry": "South",
+            "hub": "https://streamhub.to/h78czvfvm93y",
+            "tape": "https://streamtape.to/v/yD4AJ7mdWKU1l33/Dear_Sathya_%282022%29_2886.mkv.mp4"
         },
         {
             "id": "2694",
