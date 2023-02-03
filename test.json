@@ -1,5 +1,33 @@
 {
     "AllMovieDataList": [
+     {
+            "id": "2838",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Varisu%20%282023%29.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Varisu%20%282023%29.jpg",
+            "movieName": "Varisu (2023)",
+            "htmlFile": "https://www.12838",
+            "directOne": "Hindi",
+            "directSecond": "9fux9swQ5AQ",
+            "rating": "HD 720p",
+            "catergory": "Action,Drama",
+            "Industry": "South",
+            "hub": "https://streamhub.to/4l97u4ekdb1l",
+            "tape": "https://streamtape.to/v/D9AdBXO7aGckymY/Varisu_%282023%29_12838.mkv.mp4"
+        },
+        {
+            "id": "2761",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Vadh%20%282022%29.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Vadh%20%282022%29.jpg",
+            "movieName": "Vadh (2022)",
+            "htmlFile": "https://www.12761",
+            "directOne": "Hindi",
+            "directSecond": "O5EkZtIXb1Q",
+            "rating": "HD 720p",
+            "catergory": "Drama,Thriller",
+            "Industry": "Bollywood",
+            "hub": "https://streamhub.to/lmb8erstsxfi",
+            "tape": "https://streamtape.to/v/2BX8G3Qg34SZrZ1/Vadh_2022_12761.mkv.mp4"
+        },
         {
             "id": "2885",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Anubhav%20Singh%20Bassi%20%E2%80%93%20Bas%20Kar%20Bassi%20(2023).jpg",
@@ -615,20 +643,6 @@
             "Industry": "South",
             "hub": "https://streamhub.to/09hl8ufkw9cp",
             "tape": "https://streamtape.to/v/dZm4dRgV21fkobJ/Waltair_Veerayya_2023_12842.mkv.mp4"
-        },
-        {
-            "id": "2838",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Varisu%20%282023%29.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Varisu%20%282023%29.jpg",
-            "movieName": "Varisu (2023)",
-            "htmlFile": "https://www.12838",
-            "directOne": "Hindi",
-            "directSecond": "9fux9swQ5AQ",
-            "rating": "HDCamRip",
-            "catergory": "Action,Drama",
-            "Industry": "South",
-            "hub": "https://streamhub.to/dbu8rv49xtuw",
-            "tape": "https://streamtape.to/v/PvBXkXbAZ2F0KrL/Varisu_%282023%29_12838.mkv.mp4"
         },
         {
             "id": "2853",
@@ -1987,20 +2001,6 @@
             "Industry": "South",
             "hub": "https://streamhub.to/rq3qfh9dpi04",
             "tape": "https://streamtape.to/v/MJ980L34ZAU1qJ/Home_%282021%29_2762.mkv.mp4"
-        },
-        {
-            "id": "2761",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Vadh%20%282022%29.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Vadh%20%282022%29.jpg",
-            "movieName": "Vadh (2022)",
-            "htmlFile": "https://www.12761",
-            "directOne": "Hindi",
-            "directSecond": "O5EkZtIXb1Q",
-            "rating": "HDCamRip",
-            "catergory": "Drama,Thriller",
-            "Industry": "Bollywood",
-            "hub": "https://streamhub.to/3hm08ayynhia",
-            "tape": "https://streamtape.to/v/7zjzmogDbvUAKQO/Vadh_%282022%29_12761.mkv.mp4"
         },
         {
             "id": "2760",
