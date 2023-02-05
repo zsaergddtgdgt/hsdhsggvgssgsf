@@ -1,5 +1,62 @@
 {
     "AllMovieDataList": [
+      
+        {
+            "id": "2900",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Gatta%20Kusthi%20(2022).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Gatta%20Kusthi%20(2022).jpg",
+            "movieName": "Gatta Kusthi (2022)",
+            "htmlFile": "https://www.2900",
+            "directOne": "Hindi [HQ Dub]",
+            "directSecond": "a7ckcJZkwH8",
+            "rating": "HD 720p",
+            "catergory": "Romance,Drama",
+            "Industry": "South",
+            "hub": "https://streamhub.to/z0fd0zrhnmvy",
+            "tape": "https://streamtape.to/v/RwBYYYgXmMCdbZK/Gatta_Kusthi_%282022%29_2900.mkv.mp4"
+        }, 
+        {
+            "id": "2897",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Faraaz%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Faraaz%20(2023).jpg",
+            "movieName": "Faraaz (2023)",
+            "htmlFile": "https://www.12897",
+            "directOne": "Hindi",
+            "directSecond": "aNvVwGAtnLg",
+            "rating": "HDCamRip",
+            "catergory": "Action,Thriller",
+            "Industry": "Bollywood",
+            "hub": "https://streamhub.to/d1ryjrydd3rs",
+            "tape": "https://streamtape.to/v/8vBxRQbKX6uG38/Faraaz_%282023%29_12897.mkv.mp4"
+        }, 
+        {
+            "id": "2899",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Urvasivo%20Rakshasivo%20(2023).webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Urvasivo%20Rakshasivo%20(2023).jpg",
+            "movieName": "Urvasivo Rakshasivo (2023)",
+            "htmlFile": "https://www.2899",
+            "directOne": "Hindi [HQ Dub]",
+            "directSecond": "Zyl5IKot0zQ",
+            "rating": "HD 720p",
+            "catergory": "Romance,Drama",
+            "Industry": "South",
+            "hub": "https://streamhub.to/jixdcd7ua4n3",
+            "tape": "https://streamtape.to/v/OaQvG8ZV7ZUZqj0/Urvasiivo_Rakshasivo_%282023%29_2899.mkv.mp4"
+        }, 
+        {
+            "id": "2758",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Daman%20%282022%29.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Daman%20%282022%29.jpg",
+            "movieName": "Daman (2022)",
+            "htmlFile": "https://www.2758",
+            "directOne": "Hindi",
+            "directSecond": "YUQ_sHeaGWI",
+            "rating": "HDCamRip V2",
+            "catergory": "Adventure,Biography",
+            "Industry": "South",
+            "hub": "https://streamhub.to/d1v84md31rzn",
+            "tape": "https://streamtape.to/v/3VXq69dJ26Hdy4a/Daman_%282022%29_2758.mkv.mp4"
+        },
     {
             "id": "2891",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Almost%20Pyaar%20with%20DJ%20Mohabbat%20(2023).jpg",
@@ -29,6 +86,20 @@
             "tape": "https://streamtape.to/v/BLmZ0PXyRQtypZB/Michael_2023_2889.mkv.mp4"
         },
         {
+            "id": "2898",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Je%20Tere%20Naal%20Pyar%20Na%20Hunda%20(2022).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Je%20Tere%20Naal%20Pyar%20Na%20Hunda%20(2022).jpg",
+            "movieName": "Je Tere Naal Pyar Na Hunda (2022)",
+            "htmlFile": "https://www.2898",
+            "directOne": "Punjabi",
+            "directSecond": "QZ0vfNqOvYk",
+            "rating": "HD 720p",
+            "catergory": "Romance,Drama",
+            "Industry": "Punjabi",
+            "hub": "https://streamhub.to/no5deafke3w8",
+            "tape": "https://streamtape.to/v/KgXPwyj9gxCw4q/Je_Tere_Naal_Pyar_Na_Hunda_%282022%29_2898.mkv.mp4"
+        }, 
+        {
             "id": "2833",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Thunivu%20%282023%29.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Thunivu%20%282023%29.jpg",
@@ -55,7 +126,49 @@
             "Industry": "South",
             "hub": "https://streamhub.to/4l97u4ekdb1l",
             "tape": "https://streamtape.to/v/D9AdBXO7aGckymY/Varisu_%282023%29_12838.mkv.mp4"
-        }, 
+        },
+        {
+            "id": "2896",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/9%20(Nine)%20(2019).webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/9%20(Nine)%20(2019).jpg",
+            "movieName": "9 (Nine) (2019)",
+            "htmlFile": "https://www.12896",
+            "directOne": "Hindi",
+            "directSecond": "jmebRKH3NQc",
+            "rating": "HD 720p",
+            "catergory": "Horror,Sci-Fi",
+            "Industry": "South",
+            "hub": "https://streamhub.to/ztpk26v441m5",
+            "tape": "https://streamtape.to/v/lA6rjPRWQDI7L8q/9_%28Nine%29_%282019%29_12896.mkv.mp4"
+        },
+        {
+            "id": "2895",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Vattam%20(2022).webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Vattam%20(2022).jpg",
+            "movieName": "Vattam (2022)",
+            "htmlFile": "https://www.2895",
+            "directOne": "Hindi",
+            "directSecond": "5iVArZKu7H8",
+            "rating": "HD 720p",
+            "catergory": "Drama",
+            "Industry": "South",
+            "hub": "https://streamhub.to/tatku1nfs0et",
+            "tape": "https://streamtape.to/v/7Rm4Mem3XBSAZal/Vattaam_%282022%29_2895.mkv.mp4"
+        },
+        {
+            "id": "2894",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Dongata%20(2023).webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Dongata%20(2023).jpg",
+            "movieName": "Dongata (2023)",
+            "htmlFile": "https://www.12894",
+            "directOne": "Hindi",
+            "directSecond": "foIVWlRuHQw",
+            "rating": "HD 720p",
+            "catergory": "Comedy",
+            "Industry": "South",
+            "hub": "https://streamhub.to/8f7f2mmr7bpa",
+            "tape": "https://streamtape.to/v/wV9vwQlkYYHe2R/Dongata_%282023%29_12894.mkv.mp4"
+        },
         {
             "id": "2890",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/The%20Woman%20King%20(2022).jpg",
@@ -2197,20 +2310,6 @@
             "Industry": "South",
             "hub": "https://streamhub.to/ukviar24wrop",
             "tape": "https://streamtape.to/v/1OPPxkJPwPtezV8/Yashoda_%282022%29_12695.mkv.mp4"
-        },
-        {
-            "id": "2758",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Daman%20%282022%29.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Daman%20%282022%29.jpg",
-            "movieName": "Daman (2022)",
-            "htmlFile": "https://www.2758",
-            "directOne": "Hindi [HQ Dubbed]",
-            "directSecond": "YUQ_sHeaGWI",
-            "rating": "HDCamRip",
-            "catergory": "Adventure,Biography",
-            "Industry": "South",
-            "hub": "https://streamhub.to/sg77xox9lwkc",
-            "tape": "https://streamtape.to/v/oQqDPXPYovfJ0JO/Daman_%282022%29_2758.mkv.mp4"
         },
         {
             "id": "2757",
