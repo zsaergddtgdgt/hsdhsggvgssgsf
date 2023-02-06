@@ -1,6 +1,19 @@
 {
     "AllMovieDataList": [
-      
+      {
+            "id": "2901",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Kotigobba%203%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Kotigobba%203%20(2023).jpg",
+            "movieName": "Kotigobba 3 (2023)",
+            "htmlFile": "https://www.2901",
+            "directOne": "Hindi",
+            "directSecond": "0TE83vJDvy4",
+            "rating": "HD 720p",
+            "catergory": "Action,Drama",
+            "Industry": "South",
+            "hub": "https://streamhub.to/jgm50sm7vet5",
+            "tape": "https://streamtape.to/v/zPArj8ygZvFYrOm/Kotigoba_3_%282023%29_2901.mkv.mp4"
+        }, 
         {
             "id": "2900",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Gatta%20Kusthi%20(2022).jpg",
@@ -3672,7 +3685,7 @@
         {
             "id": "903",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/v6rychh5a1bl1xi6g.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/3wBc6Bh6/Oldboy-2003.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/mnfkynkmiscvrhc6g.jpg",
             "movieName": "Oldboy (2003)",
             "htmlFile": "https://www.2917",
             "directOne": "Dual [Hindi-English]",
@@ -3755,7 +3768,7 @@
         },
         {
             "id": "2653",
-            "ImageUrlHorizontal": "https://i.postimg.cc/0yn6mDpw/Bigil-2022.jpg",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Bigil%20%282022%29.JPG",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Bigil%20%282022%29.jpg",
             "movieName": "Bigil (2022)",
             "htmlFile": "https://www.12653",
@@ -4455,8 +4468,8 @@
         },
         {
             "id": "2599",
-            "ImageUrlHorizontal": "https://i.postimg.cc/sfwgYcP1/Babli-Bounce-2022.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/RCRNP9mS/Babli-Bounce-2022.jpg",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Babli%20Bouncer%20(2022).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Babli%20Bouncer%20(2022).jpg",
             "movieName": "Babli Bouncer (2022)",
             "htmlFile": "https://www.12599",
             "directOne": "Hindi",
@@ -4511,8 +4524,8 @@
         },
         {
             "id": "2595",
-            "ImageUrlHorizontal": "https://i.postimg.cc/zf20pWxn/Ninu-Veedani-Needanu-Nene-2019.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/cHqdKKfc/Ninu-Veedani-Needanu-Nene-2019.jpg",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Main%20Hoon%20Sarfira%20-%20Ninu%20Veedani%20Needanu%20Nene%20(2022).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Main%20Hoon%20Sarfira%20-%20Ninu%20Veedani%20Needanu%20Nene%20(2022).jpg",
             "movieName": "Main Hoon Sarfira (2019)",
             "htmlFile": "https://www.12595",
             "directOne": "Hindi",
@@ -5505,8 +5518,8 @@
         },
         {
             "id": "63",
-            "ImageUrlHorizontal": "https://i.postimg.cc/c1Ty3CTP/Kaduva-2022.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/g06tcd4t/Kaduva-2022.jpg",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Kaduva%20(2022).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Kaduva%20(2022).jpg",
             "movieName": "Kaduva (2022)",
             "htmlFile": "https://www.17639",
             "directOne": "Hindi",
@@ -6387,8 +6400,8 @@
         },
         {
             "id": "129",
-            "ImageUrlHorizontal": "https://i.postimg.cc/7PQFYcK2/Top-Gun-Maverick-2022.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/QMwHTFvD/Top-Gun-Maverick-2022.jpg",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Top%20Gun%20Maverick%20(2022).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Top%20Gun%20Maverick%20(2022).jpg",
             "movieName": "Top Gun Maverick (2022)",
             "htmlFile": "https://www.17234",
             "directOne": "Dual [Hindi-English]",
@@ -7255,8 +7268,8 @@
         },
         {
             "id": "192",
-            "ImageUrlHorizontal": "https://i.postimg.cc/593dzgfx/Bheemla-Nayak-2022.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/qq2Bnz0t/Bheemla-Nayak-2022.jpg",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Bheemla%20Nayak%20(2022).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Bheemla%20Nayak%20(2022).jpg",
             "movieName": "Bheemla Nayak (2022)",
             "htmlFile": "https://www.16431",
             "directOne": "Hindi",
@@ -11623,8 +11636,8 @@
         },
         {
             "id": "510",
-            "ImageUrlHorizontal": "https://i.postimg.cc/yNGGw2x7/h8kd2ktu7ynbvmr6g.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/L81CpjJ7/waclrs69wf4cari6g.jpg",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/h8kd2ktu7ynbvmr6g.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/waclrs69wf4cari6g.jpg",
             "movieName": "Drishyam 2 (2021)",
             "htmlFile": "https://www.13240",
             "directOne": "Malayalam",
