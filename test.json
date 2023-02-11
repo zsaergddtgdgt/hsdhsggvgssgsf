@@ -1,6 +1,62 @@
 {
     "AllMovieDataList": [
     
+         {
+            "id": "2911",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Shiv%20Shastri%20Balboa%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Shiv%20Shastri%20Balboa%20(2023).jpg",
+            "movieName": "Shiv Shastri Balboa (2023)",
+            "htmlFile": "https://www.2911",
+            "directOne": "Hindi",
+            "directSecond": "8Acp006qJPQ",
+            "rating": "HDCamRip",
+            "catergory": "Comedy",
+            "Industry": "Bollywood",
+            "hub": "https://streamhub.to/5lkptoieaw4d",
+            "tape": "https://streamtape.to/v/lwOjxrrZjBs7P16/Shiv_Shastri_Balboa_%282023%29_2911.mkv.mp4"
+        }, 
+         {
+            "id": "2908",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Vedha%20(2022).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Vedha%20(2022).jpg",
+            "movieName": "Vedha (2022)",
+            "htmlFile": "https://www.2908",
+            "directOne": "Hindi",
+            "directSecond": "cg3orlnXTTI",
+            "rating": "HD 720p",
+            "catergory": "Action,Drama",
+            "Industry": "South",
+            "hub": "https://streamhub.to/xn3prm42y4nz",
+            "tape": "https://streamtape.to/v/34wR6DAX4kIAZl/Vedha_2022_2908.mkv.mp4"
+        }, 
+         {
+            "id": "2909",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Christopher%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Christopher%20(2023).jpg",
+            "movieName": "Christopher (2023)",
+            "htmlFile": "https://www.2909",
+            "directOne": "Hindi [HQ DUB]",
+            "directSecond": "7X4oCIL7gQU",
+            "rating": "HD 720p",
+            "catergory": "Action,Crime",
+            "Industry": "South",
+            "hub": "https://streamhub.to/9iuwr5iozfvl",
+            "tape": "https://streamtape.to/v/wOWYRr9ZPrH60e/Christopher_2023_2909.mkv.mp4"
+        }, 
+         {
+            "id": "2910",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Lakiro%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Lakiro%20(2023).jpg",
+            "movieName": "Lakiro (2023)",
+            "htmlFile": "https://www.2910",
+            "directOne": "Gujarati",
+            "directSecond": "y3qYDPDN5M8",
+            "rating": "HD 720p",
+            "catergory": "Drama,Musical",
+            "Industry": "Bollywood",
+            "hub": "https://streamhub.to/34t2e96qb8jd",
+            "tape": "https://streamtape.to/v/q6k0QgOrb0FzbjJ/Lakiro_%282023%29_2910.mkv.mp4"
+        }, 
         {
             "id": "2763",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Salaam%20Venky%20%282022%29.jpg",
