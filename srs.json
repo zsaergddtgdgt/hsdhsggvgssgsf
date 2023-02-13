@@ -36164,38 +36164,6 @@
             }
         },
         {
-            "id": "917",
-            "activity": "FALSE",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Last%20of%20Us%20Season%201.webp",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Last%20of%20Us%20Season%201.jpg",
-            "movieName": "The Last of Us Season 1",
-            "htmlFile": "https://www.18917",
-            "directOne": "Action,Adventure",
-            "directSecond": "uLtkt8BonwM",
-            "imbd": "8.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "latest": "FALSE",
-            "latestCatergory": "FALSE",
-            "keyName": "The Last of Us",
-            "pathName": "S1",
-            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
-            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/g08oBz3wmKHqw0M/The_Last_of_Us_%282023%29_S01E01_18917_1.mkv.mp4",
-                "2": "https://streamtape.to/v/88PLLGpWw9tMrQ/The_Last_of_Us_S01E02_18917_2.mkv.mp4",
-                "3":"https://streamtape.to/v/pjKz07ov9pSrObw/The_Last_Of_Us_S01E03_18917_3.mkv.mp4",
-                "4":"https://streamtape.to/v/AKABoxe1zACX8G7/The_Last_of_Us_S01E04_18917_4.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/q468ugwhclp8",
-                "2": "https://streamhub.to/qiypf4yftjw9",
-                "3":"https://streamhub.to/rcpzohlvo2eq",
-                "4":"https://streamhub.to/yntkdppm69nz"
-            }
-        },
-        {
             "id": "924",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Rafta%20Rafta%20Season%201.jpg",
@@ -36725,6 +36693,148 @@
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/kplg6wr2lwn3"
+            }
+        },
+        {
+            "id": "917",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Last%20of%20Us%20Season%201.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Last%20of%20Us%20Season%201.jpg",
+            "movieName": "The Last of Us Season 1",
+            "htmlFile": "https://www.18917",
+            "directOne": "Action,Adventure",
+            "directSecond": "uLtkt8BonwM",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "The Last of Us",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/g08oBz3wmKHqw0M/The_Last_of_Us_%282023%29_S01E01_18917_1.mkv.mp4",
+                "2": "https://streamtape.to/v/88PLLGpWw9tMrQ/The_Last_of_Us_S01E02_18917_2.mkv.mp4",
+                "3":"https://streamtape.to/v/pjKz07ov9pSrObw/The_Last_Of_Us_S01E03_18917_3.mkv.mp4",
+                "4":"https://streamtape.to/v/AKABoxe1zACX8G7/The_Last_of_Us_S01E04_18917_4.mkv.mp4",
+                "5":"https://streamtape.to/v/1bwRKRjppAcrYZ/The_Last_of_Us_S01E05_18917_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/q468ugwhclp8",
+                "2": "https://streamhub.to/qiypf4yftjw9",
+                "3":"https://streamhub.to/rcpzohlvo2eq",
+                "4":"https://streamhub.to/yntkdppm69nz",
+                "5":"https://streamhub.to/1zxjr5xebmnq"
+            }
+        },
+        {
+            "id": "940",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Kalo%20Sada%20Abchha%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Kalo%20Sada%20Abchha%20Season%201.jpg",
+            "movieName": "Kalo Sada Abchha Season 1",
+            "htmlFile": "https://www.18940",
+            "directOne": "Drama",
+            "directSecond": "bFzQCSlFCR4",
+            "imbd": "8.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Kalo Sada Abchha",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/B7KRbLlmdlS217/Kalo_Sada_Abchha_%282023%29_S01_Complete_18940_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/pczevns7dr1u"
+            }
+        },
+        {
+            "id": "941",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Kabadi%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Kabadi%20Season%201.jpg",
+            "movieName": "Kabadi Season 1",
+            "htmlFile": "https://www.18941",
+            "directOne": "Drama",
+            "directSecond": "tU4JEGYFGn8",
+            "imbd": "8.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Kabadi",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/dQe4OxbLO0tkm4l/Kabadi_%282023%29_S01_Complete_18941_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/opjlaupav4rb"
+            }
+        },
+        {
+            "id": "939",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Golden%20Spoon%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Golden%20Spoon%20Season%201.jpg",
+            "movieName": "The Golden Spoon Season 1",
+            "htmlFile": "https://www.18939",
+            "directOne": "Drama,Fantasy",
+            "directSecond": "_t232SwD53g",
+            "imbd": "8.1",
+            "rating": "Hindi+Korean",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "The Golden Spoon",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/LX3LJozJoOfRzVp/The_Golden_Spoon_S01e01_18939_1.mkv.mp4",
+                "2": "https://streamtape.to/v/ZrwDqezDkeSg7d/The_Golden_Spoon_S01e02_18939_2.mkv.mp4",
+                "3": "https://streamtape.to/v/vwAkkZdLMWsDvy/The_Golden_Spoon_S01e03_18939_3.mkv.mp4",
+                "4": "https://streamtape.to/v/e4OB21jQpvCY1Dk/The_Golden_Spoon_S01e04_18939_4.mkv.mp4",
+                "5": "https://streamtape.to/v/JqVGwbGZegF6PQ/The_Golden_Spoon_S01e05_18939_5.mkv.mp4",
+                "6": "https://streamtape.to/v/8wYlm1WgyyUodk2/The_Golden_Spoon_S01e06_18939_6.mkv.mp4",
+                "7": "https://streamtape.to/v/D0ADPWLVrYFLWK/The_Golden_Spoon_S01e07_18939_7.mkv.mp4",
+                "8": "https://streamtape.to/v/yoqR7XvZJ0T1bbl/The_Golden_Spoon_S01e08_18939_8.mkv.mp4",
+                "9": "https://streamtape.to/v/eAJXzB2R4OfJ4W/The_Golden_Spoon_S01e09_18939_9.mkv.mp4",
+                "10": "https://streamtape.to/v/LeDYDRd8DyFRjoV/The_Golden_Spoon_S01e10_18939_10.mkv.mp4",
+                "11": "https://streamtape.to/v/88GOlo3O2aCjKy/The_Golden_Spoon_S01e11_18939_11.mkv.mp4",
+                "12": "https://streamtape.to/v/7zVOXyyQZ6hAXXm/The_Golden_Spoon_S01e12_18939_12.mkv.mp4",
+                "13": "https://streamtape.to/v/Rjb6M3P040FdOOP/The_Golden_Spoon_S01e13_18939_13.mkv.mp4",
+                "14": "https://streamtape.to/v/bpj1Lbo7oAtxke/The_Golden_Spoon_S01e14_18939_14.mkv.mp4",
+                "15": "https://streamtape.to/v/1jPJwByBM4f6md/The_Golden_Spoon_S01e15_18939_15.mkv.mp4",
+                "16": "https://streamtape.to/v/a2rJwj628qSxRwR/The_Golden_Spoon_S01e16_18939_16.mkv.mp4"
+            },
+            "EpisodeHub": {
+                 "1": "https://streamhub.to/paqi0aohmlwj",
+                "2": "https://streamhub.to/ubdmye6eub14",
+                "3": "https://streamhub.to/4n6f7vhc1smy",
+                "4": "https://streamhub.to/b2qduhqx1sic",
+                "5": "https://streamhub.to/edjjhk1httrx",
+                "6": "https://streamhub.to/8jjbn6zh3d7i",
+                "7": "https://streamhub.to/b7rilmcuapil",
+                "8": "https://streamhub.to/rn4b85ub3r6h",
+                "9": "https://streamhub.to/hyvf9904qdkk",
+                "10": "https://streamhub.to/1ao2i6u7hgqa",
+                "11": "https://streamhub.to/nuocrcfskwlw",
+                "12": "https://streamhub.to/5xl6azp70ilj",
+                "13": "https://streamhub.to/c2eud23sgx94",
+                "14": "https://streamhub.to/31ubwnqv25kx",
+                "15": "https://streamhub.to/8juq6qvmuurd",
+                "16": "https://streamhub.to/7h1ex5ql5jrv"
             }
         },
         {
