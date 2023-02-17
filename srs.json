@@ -36936,6 +36936,32 @@
             }
         },
         {
+            "id": "946",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Love%20Kills%20-%20Madhumita%20Shukla%20Hatyakand%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Love%20Kills%20-%20Madhumita%20Shukla%20Hatyakand%20Season%201.jpg",
+            "movieName": "Love Kills - Madhumita Shukla Hatyakand Season 1",
+            "htmlFile": "https://www.18946",
+            "directOne": "Crime",
+            "directSecond": "WsIcciNRk7w",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Love Kills - Madhumita Shukla Hatyakand",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/KXa34J2W91IzAw/Love_Kills_Madhumita_Shukla_Hatyakand_%282023%29_S01EP01_18946_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE"
+            }
+        },
+        {
             "id": "944",
             "activity": "FALSE",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Minus%20One%20Season%202.jpg",
@@ -36959,6 +36985,38 @@
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/popf2fved4e9"
+            }
+        },
+        {
+            "id": "945",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Night%20Manager%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Night%20Manager%20Season%201.jpg",
+            "movieName": "The Night Manager Season 1",
+            "htmlFile": "https://www.18945",
+            "directOne": "Crime",
+            "directSecond": "6QJQysiUxKc",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "The Night Manager",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/9kQog6oMYOIak6o/The_Night_Manager_S01E01_18945_1.mkv.mp4",
+                "2": "https://streamtape.to/v/3rAb8PGLD8Idb8v/The_Night_Manager_S01E02_18945_2.mkv.mp4",
+                "3": "https://streamtape.to/v/rgRQ2P00DBTMMx/The_Night_Manager_S01E03_18945_3.mkv.mp4",
+                "4": "https://streamtape.to/v/Lvegez9VbwHRdWO/The_Night_Manager_S01E04_18945_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://dry-dust-93c5.ringz.workers.dev/0:/colab/latest/The%20Night%20Manager%20S01E01%2018945%201.mkv",
+                "2": "https://dry-dust-93c5.ringz.workers.dev/0:/colab/latest/The%20Night%20Manager%20S01E02%2018945%202.mkv",
+                "3": "https://dry-dust-93c5.ringz.workers.dev/0:/colab/latest/The%20Night%20Manager%20S01E03%2018945%203.mkv",
+                "4": "https://dry-dust-93c5.ringz.workers.dev/0:/colab/latest/The%20Night%20Manager%20S01E04%2018945%204.mkv"
             }
         }
     ]

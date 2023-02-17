@@ -1,6 +1,34 @@
 {
     "AllMovieDataList": [
     
+         {
+            "id": "2939",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Ant-Man%20and%20the%20Wasp%20-%20Quantumania%20(2023).webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Ant-Man%20and%20the%20Wasp%20-%20Quantumania%20(2023).jpg",
+            "movieName": "Ant-Man and the Wasp - Quantumania (2023)",
+            "htmlFile": "https://www.2939",
+            "directOne": "Hindi",
+            "directSecond": "nYzlbXWHGJU",
+            "rating": "HDCamRip",
+            "catergory": "Action,Adventure",
+            "Industry": "Hollywood",
+            "hub": "https://weathered.softtechstudio1.workers.dev/0:/colab/latest/Ant-Man%20and%20the%20Wasp%20-%20Quantumania%202023%202939.mkv",
+            "tape": "https://streamtape.to/v/DAzOvOjwMPfkzV4/Ant-Man_and_the_Wasp_-_Quantumania_2023_2939.mkv.mp4"
+        }, 
+        {
+            "id": "2793",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Cirkus%20%282022%29.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Cirkus%20%282022%29.jpg",
+            "movieName": "Cirkus (2022)",
+            "htmlFile": "https://www.12793",
+            "directOne": "Hindi",
+            "directSecond": "EkzD0d0yFdM",
+            "rating": "HD 720p",
+            "catergory": "Comedy,Drama",
+            "Industry": "Bollywood",
+            "hub": "https://weathered.softtechstudio1.workers.dev/0:/colab/latest/Cirkus%20(2022)%2012793.mkv",
+            "tape": "https://streamtape.to/v/oAV3zWwAlvuJeJe/Cirkus_%282022%29_12793.mkv.mp4"
+        },
         {
             "id": "2935",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Lost%20(2023).jpg",
@@ -14,6 +42,48 @@
             "Industry": "Bollywood",
             "hub": "https://streamhub.to/ct5mghmtfawg",
             "tape": "https://streamtape.to/v/yPWllVbYg8f1z72/LOST_2023_2935.mkv.mp4"
+        },
+         {
+            "id": "2938",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Dilkhush%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Dilkhush%20(2023).jpg",
+            "movieName": "Dilkhush (2023)",
+            "htmlFile": "https://www.2938",
+            "directOne": "Bengali",
+            "directSecond": "I6HoGd_SM-M",
+            "rating": "HD 720p",
+            "catergory": "Drama,Romance",
+            "Industry": "Bengali",
+            "hub": "FALSE",
+            "tape": "https://streamtape.to/v/eo4940L8lguYBO4/Dilkhush_%282023%29_2938.mkv.mp4"
+        }, 
+         {
+            "id": "2937",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Sab%20Fadey%20Jange%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Sab%20Fadey%20Jange%20(2023).jpg",
+            "movieName": "Sab Fadey Jange (2023)",
+            "htmlFile": "https://www.2937",
+            "directOne": "Punjabi",
+            "directSecond": "cwqA9EXkMYU",
+            "rating": "HD 720p",
+            "catergory": "Drama",
+            "Industry": "Punjabi",
+            "hub": "FALSE",
+            "tape": "https://streamtape.to/v/AQp268wGDaSBMM/Sab_Fadey_Jange_%282023%29_2937.mkv.mp4"
+        }, 
+         {
+            "id": "2936",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Ho%20Ja%20Mukt%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Ho%20Ja%20Mukt%20(2023).jpg",
+            "movieName": "Ho Ja Mukt (2023)",
+            "htmlFile": "https://www.2936",
+            "directOne": "Hindi",
+            "directSecond": "y0rWgq3Vrak",
+            "rating": "HD 720p",
+            "catergory": "Drama",
+            "Industry": "Bollywood",
+            "hub": "FALSE",
+            "tape": "https://streamtape.to/v/BJ3aYRPxJQfVgJ/Ho_Ja_Mukt_2023_2936.mkv.mp4"
         }, 
         {
             "id": "2624",
@@ -2058,20 +2128,6 @@
             "Industry": "Bollywood",
             "hub": "https://streamhub.to/wppxo6x131rh",
             "tape": "https://streamtape.to/v/9WxkyokZwpsaMeJ/Double_XL_%282022%29_12681.mkv.mp4"
-        },
-        {
-            "id": "2793",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Cirkus%20%282022%29.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Cirkus%20%282022%29.jpg",
-            "movieName": "Cirkus (2022)",
-            "htmlFile": "https://www.12793",
-            "directOne": "Hindi",
-            "directSecond": "EkzD0d0yFdM",
-            "rating": "HDCamRip",
-            "catergory": "Comedy,Drama",
-            "Industry": "Bollywood",
-            "hub": "https://streamhub.to/uw7z1qqtxl26",
-            "tape": "https://streamtape.to/v/w4bOR3V4qOsJv66/Cirkus_%282022%29_12793.mkv.mp4"
         },
         {
             "id": "2808",
