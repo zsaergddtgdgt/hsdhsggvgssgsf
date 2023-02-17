@@ -1,6 +1,19 @@
 {
     "AllMovieDataList": [
-    
+    {
+            "id": "2940",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Shehzada%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Shehzada%20(2023).jpg",
+            "movieName": "Shehzada (2023)",
+            "htmlFile": "https://www.2940",
+            "directOne": "Hindi",
+            "directSecond": "vbSGPIS2_ao",
+            "rating": "HDCamRip",
+            "catergory": "Action,Comedy",
+            "Industry": "Bollywood",
+            "hub": "https://weathered.softtechstudio1.workers.dev/0:/colab/latest/Shehzada%20(2023)%202940.mkv",
+            "tape": "https://streamtape.to/v/rAlYQvYd6LUbV1Y/Shehzada_%282023%29_2940.mkv.mp4"
+        }, 
          {
             "id": "2939",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Ant-Man%20and%20the%20Wasp%20-%20Quantumania%20(2023).webp",
