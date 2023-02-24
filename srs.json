@@ -37122,6 +37122,84 @@
                 "3": "https://streamhub.to/wnp46xla23uq",
                 "4": "https://streamhub.to/fnl6ka5gpjoh"
             }
+        },
+        {
+            "id": "949",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Potluck%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Potluck%20Season%201.jpg",
+            "movieName": "Potluck Season 1",
+            "htmlFile": "https://www.18949",
+            "directOne": "Comedy,Drama",
+            "directSecond": "QaP21AFxu-g",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Potluck",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/kpk76WrZPVUyJL/Potluck_%282021%29_S01_Complete_18949_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://super-unit-6d0c.pacavok229.workers.dev/af5cf0a7ba3f4140e711e12bc5bfa2c1/drivebot.fun/Potluck.(2021).S01.Complete.18949.1.mkv"
+            }
+        },
+        {
+            "id": "950",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Potluck%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Potluck%20Season%202.jpg",
+            "movieName": "Potluck Season 2",
+            "htmlFile": "https://www.18950",
+            "directOne": "Comedy,Drama",
+            "directSecond": "sxAkWPA7j3Y",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Potluck",
+            "pathName": "S2",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/j61VVqxR0ZTzOVB/Potluck.%282023%29.S02.Complete.18950_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://yellow-lake-bb6e.kipege4534.workers.dev/3cd2460b65afefad3cb5dbe7e164f425/drivebot.fun/Potluck.(2023).S02.Complete.18950.mkv"
+            }
+        },
+        {
+            "id": "951",
+            "activity": "FALSE",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Iru%20Dhuruvam%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Iru%20Dhuruvam%20Season%201.jpg",
+            "movieName": "Iru Dhuruvam Season 1",
+            "htmlFile": "https://www.18951",
+            "directOne": "Crime,Thriller",
+            "directSecond": "f7XdqS6KzHA",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Iru Dhuruvam",
+            "pathName": "S1",
+            "driveImageUrlHorizontal": "https://www.mediafire.com/convkey/1499/z4gfwfu3jrhxpgp6g.jpg",
+            "driveImageUrlVertical": "https://techapp.meddyworld.com/Poster/v1/Jack%20Ryan%20Season%202.jpg",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/jVD3WywjKrFz34b/Iru_Dhuruvam_%282019%29_S01_Complete_18951_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://wild-waterfall-4970.yigoh92764.workers.dev/fd99331c2f98961f1b07a179818067ba/drivebot.fun/Iru.Dhuruvam.(2019).S01.Complete.18951.1.mkv"
+            }
         }
     ]
 }
