@@ -34282,29 +34282,6 @@
       "episodeServer4": {}
     },
     {
-      "id": "954",
-      "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Shwetkali%20Season%201.webp",
-      "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Shwetkali%20Season%201.jpg",
-      "movieName": "Shwetkali Season 1",
-      "htmlFile": "https://www.18954",
-      "directOne": "Mystery,Thriller",
-      "directSecond": "uyXUMkx2JvE",
-      "imbd": "8.1",
-      "rating": "Bengali",
-      "catergory": "webSeries",
-      "Industry": "webSeries",
-      "keyName": "Shwetkali",
-      "pathName": "S1",
-      "EpisodeTape": {
-        "1": "https://streamtape.to/v/KLvPzzKawlh09og/Shwetkali_%282023%29_S01_Complete_18953_1.mkv.mp4"
-      },
-      "EpisodeHub": {
-        "1": "FALSE"
-      },
-      "episodeServer3": {},
-      "episodeServer4": {}
-    },
-    {
       "id": "955",
       "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Iru%20Dhuruvam%20Season%202.webp",
       "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Iru%20Dhuruvam%20Season%202.webp",
@@ -34481,8 +34458,8 @@
                 "3": "https://streamhub.to/jq5bv9uj18dw",
                 "4": "https://streamhub.to/lc7f2ztihfxv"
       },
-      "episodeServer3": {},
-      "episodeServer4": {}
+      "episodeServer3": {"1":"https://desiupload.co/mzoz0elq3mxy","2":"https://desiupload.co/el0oydmrjsr8"},
+      "episodeServer4": {"1":"https://uptomega.me/a099vwekdfl0","2":"https://uptomega.me/ithrtzx2m2eo"}
     }
   ]
 }
