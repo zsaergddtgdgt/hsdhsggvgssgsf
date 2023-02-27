@@ -1,5 +1,38 @@
 {
   "AllMovieDataList": [
+  
+    {
+      "id": "2609",
+      "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Captain%20(2022).jpg",
+      "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Captain%20(2022).jpg",
+      "movieName": "Captain (2022)",
+      "htmlFile": "https://www.12609",
+      "directOne": "Hindi",
+      "directSecond": "2wPm_aoEOAM",
+      "rating": "HD 720p",
+      "catergory": "Action",
+      "Industry": "South",
+      "hub": "https://v700.streamhub.to/sc6t7d7ux4ytnuzvovic54z77hyaxs3ze7ogztrxvknfhrryfg4c7il3w3nq/v.mp4",
+      "tape": "https://streamtape.to/v/YOPawb6wzjT202/Captain_%282023%29_12609.mkv.mp4",
+      "server3": "FALSE",
+      "server4": "FALSE"
+    },
+    {
+      "id": "2842",
+      "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Waltair%20Veerayya%20%282023%29.jpg",
+      "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Waltair%20Veerayya%20%282023%29.jpg",
+      "movieName": "Waltair Veerayya (2023)",
+      "htmlFile": "https://www.12842",
+      "directOne": "Hindi",
+      "directSecond": "wImiBjJ_Pgs",
+      "rating": "HD 720p",
+      "catergory": "Action,Drama",
+      "Industry": "South",
+      "hub": "https://v700.streamhub.to/sc6t7mpux4ytnuzvovic5yd6ukt43qyajkuchpznqd3g5bsp4xpjqo5ynmwq/v.mp4",
+      "tape": "https://streamtape.to/v/wgJAbowBpgFJ2Z0/Waltair_Veerayya_%282023%2912842.mkv.mp4",
+      "server3": "FALSE",
+      "server4": "FALSE"
+    },
     {
       "id": "2957",
       "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Selfiee%20(2023).jpg",
@@ -107,7 +140,7 @@
       "rating": "HD 720p",
       "catergory": "Action,Drama",
       "Industry": "South",
-      "hub": "https://yellow-lake-bb6e.kipege4534.workers.dev/00e9720ab654da3cf1606e544d5c6688/drivebot.fun/Veera.Simha.Reddy.2023.2855.mkv",
+      "hub": "https://streamhub.to/2x2lv7ncxdsb",
       "tape": "https://streamtape.to/v/WbgpKXa2J6cbjpm/Veera_Simha_Reddy_2023_720p_DSNP_WEB-DL_HIN_TEL_DD%2B5_1_x264-Vegamovies_to.mkv.mp4",
       "server3": "FALSE",
       "server4": "FALSE"
@@ -2029,22 +2062,6 @@
       "Industry": "South",
       "hub": "https://streamhub.to/2e7nhpvspzgn",
       "tape": "https://streamtape.to/v/ko3G29vr7LiOAy3/Varalaru_Mukkiyam_2023_2847.mkv.mp4",
-      "server3": "FALSE",
-      "server4": "FALSE"
-    },
-    {
-      "id": "2842",
-      "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Waltair%20Veerayya%20%282023%29.jpg",
-      "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Waltair%20Veerayya%20%282023%29.jpg",
-      "movieName": "Waltair Veerayya (2023)",
-      "htmlFile": "https://www.12842",
-      "directOne": "Hindi",
-      "directSecond": "wImiBjJ_Pgs",
-      "rating": "HDCamRip",
-      "catergory": "Action,Drama",
-      "Industry": "South",
-      "hub": "https://streamhub.to/09hl8ufkw9cp",
-      "tape": "https://streamtape.to/v/egVAaO2grbUYqr8/Waltair_Veerayya_2023_12842.mkv.mp4",
       "server3": "FALSE",
       "server4": "FALSE"
     },
@@ -5949,22 +5966,6 @@
       "Industry": "South",
       "hub": "https://streamhub.to/qxq463mkh1wc",
       "tape": "https://streamtape.to/v/x3Gv0OLDWMC0RV/Viswasam_%282022%29_12610.mkv.mp4",
-      "server3": "FALSE",
-      "server4": "FALSE"
-    },
-    {
-      "id": "2609",
-      "ImageUrlHorizontal": "https://i.postimg.cc/SKtzxZgp/Captain-2022.jpg",
-      "ImageUrlVertical": "https://i.postimg.cc/fbHY0WTp/Captain-2022.jpg",
-      "movieName": "Captain (2022)",
-      "htmlFile": "https://www.12609",
-      "directOne": "Hindi",
-      "directSecond": "1W1zBgEo7pg",
-      "rating": "HD 720p",
-      "catergory": "Action",
-      "Industry": "South",
-      "hub": "https://streamhub.to/tr59l9jw9riv",
-      "tape": "https://streamtape.to/v/OXDpO7MrVoHZ4pW/Captain_%282022%2912609.mkv.mp4",
       "server3": "FALSE",
       "server4": "FALSE"
     },
