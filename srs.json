@@ -34015,39 +34015,6 @@
             "episodeServer4": {}
         },
         {
-            "id": "917",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Last%20of%20Us%20Season%201.webp",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Last%20of%20Us%20Season%201.jpg",
-            "movieName": "The Last of Us Season 1",
-            "htmlFile": "https://www.18917",
-            "directOne": "Action,Adventure",
-            "directSecond": "uLtkt8BonwM",
-            "imbd": "8.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "The Last of Us",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/xO4VaDLB7KUk2ZM/The_Last_of_Us_%282023%29_S01E01_18917_1.mkv.mp4",
-                "2": "https://streamtape.to/v/laxbQv2xDVI7G37/The_Last_of_Us_S01E02_18917_2.mkv.mp4",
-                "3": "https://streamtape.to/v/gwbZMYKB1YcqrQB/The_Last_Of_Us_S01E03_18917_3.mkv.mp4",
-                "4": "https://streamtape.to/v/ZKLVMzaW4zhqxAe/The_Last_of_Us_S01E04_18917_4.mkv.mp4",
-                "5": "https://streamtape.to/v/1W3B9wlXrdfdZ3/The_Last_of_Us_S01E05_18917_5.mkv.mp4",
-                "6": "https://streamtape.to/v/dgmwkgmOjlhk8yx/The_Last_of_Us_S01E06_18917_6.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/q468ugwhclp8",
-                "2": "https://streamhub.to/qiypf4yftjw9",
-                "3": "https://streamhub.to/rcpzohlvo2eq",
-                "4": "https://streamhub.to/yntkdppm69nz",
-                "5": "https://streamhub.to/1zxjr5xebmnq",
-                "6": "https://streamhub.to/ngkx5obv6emb"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {}
-        },
-        {
             "id": "947",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20First%20Responders%20Season%201.webp",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20First%20Responders%20Season%201.jpg",
@@ -34276,7 +34243,7 @@
                 "1": "https://streamtape.to/v/yVRXXV1lz8t1VeX/Shwetkali_%282023%29_S01_Complete_18953_1.mkv.mp4"
             },
             "EpisodeHub": {
-                "1": "FALSE"
+                "1": "https://streamhub.to/au4bgrza79uj"
             },
             "episodeServer3": {},
             "episodeServer4": {}
@@ -34332,6 +34299,33 @@
             "episodeServer4": {}
         },
         {
+            "id": "957",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Dakghor%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Dakghor%20Season%201.jpg",
+            "movieName": "Dakghor Season 1",
+            "htmlFile": "https://www.18957",
+            "directOne": "Comedy,Drama",
+            "directSecond": "5ct5oot0MWQ",
+            "imbd": "8.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Dakghor",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/mv4k6WKJbXTbKLj/Dakghor_%282023%29_18957_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/drjfmck3xw82"
+            },
+            "episodeServer3": {
+                
+            },
+            "episodeServer4": {
+                
+            }
+        },
+        {
             "id": "904",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Shark%20Tank%20India%20Season%202.webp",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Shark%20Tank%20India%20Season%202.jpg",
@@ -34385,7 +34379,10 @@
                 "37": "https://streamtape.to/v/Q3ep896pP7U0OGg/Shark_Tank_India_%282023%29_S02E37_18904_37.mkv.mp4",
                 "38": "https://streamtape.to/v/W3Bxlqay7bUMeD/Shark_Tank_India_%282023%29_S02E38_18904_38.mkv.mp4",
                 "39": "https://streamtape.to/v/elrLz8WlJXUjom/Shark_Tank_India_S02E39_18904_39.mkv.mp4",
-                "40": "https://streamtape.to/v/D2oL17L72zt3X7/Shark_Tank_India_S02E40_18904_40.mkv.mp4"
+                "40": "https://streamtape.to/v/D2oL17L72zt3X7/Shark_Tank_India_S02E40_18904_40.mkv.mp4",
+                "41":"https://streamtape.to/v/kg8DBYA61MFDvg/Shark_Tank_India_S02E41_18904_41.mkv.mp4",
+                "42":"https://streamtape.to/v/3rxgrAABLwfdkaZ/Shark_Tank_India_S02E42_18904_42.mkv.mp4",
+                "43":"https://streamtape.to/v/Dql338mjkyIkO3X/Shark_Tank_India_S02E43_18904_43.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/dhowhad6uas5",
@@ -34427,7 +34424,45 @@
                 "37": "https://streamhub.to/im5jasb2u2i6",
                 "38": "https://streamhub.to/sbx2u81uqeaf",
                 "39": "https://streamhub.to/b9e63d5c4pc7",
-                "40": "https://streamhub.to/qahoyn98kpu5"
+                "40": "https://streamhub.to/qahoyn98kpu5",
+                "41":"https://streamhub.to/42pake2e9p28",
+                "42":"https://streamhub.to/sz47jbuxmo24",
+                "43":"https://streamhub.to/xi9srvljy2r3"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "917",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Last%20of%20Us%20Season%201.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Last%20of%20Us%20Season%201.jpg",
+            "movieName": "The Last of Us Season 1",
+            "htmlFile": "https://www.18917",
+            "directOne": "Action,Adventure",
+            "directSecond": "uLtkt8BonwM",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Last of Us",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/xO4VaDLB7KUk2ZM/The_Last_of_Us_%282023%29_S01E01_18917_1.mkv.mp4",
+                "2": "https://streamtape.to/v/laxbQv2xDVI7G37/The_Last_of_Us_S01E02_18917_2.mkv.mp4",
+                "3": "https://streamtape.to/v/gwbZMYKB1YcqrQB/The_Last_Of_Us_S01E03_18917_3.mkv.mp4",
+                "4": "https://streamtape.to/v/ZKLVMzaW4zhqxAe/The_Last_of_Us_S01E04_18917_4.mkv.mp4",
+                "5": "https://streamtape.to/v/1W3B9wlXrdfdZ3/The_Last_of_Us_S01E05_18917_5.mkv.mp4",
+                "6": "https://streamtape.to/v/dgmwkgmOjlhk8yx/The_Last_of_Us_S01E06_18917_6.mkv.mp4",
+                "7":"https://streamtape.to/v/QA4lW4dJxKC0b0B/The_Last_of_Us_S01E07_18917_7.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/q468ugwhclp8",
+                "2": "https://streamhub.to/qiypf4yftjw9",
+                "3": "https://streamhub.to/rcpzohlvo2eq",
+                "4": "https://streamhub.to/yntkdppm69nz",
+                "5": "https://streamhub.to/1zxjr5xebmnq",
+                "6": "https://streamhub.to/ngkx5obv6emb",
+                "7":"https://streamhub.to/97q0bw0yy1k8"
             },
             "episodeServer3": {},
             "episodeServer4": {}
@@ -34466,6 +34501,29 @@
                 "1": "https://uptomega.me/a099vwekdfl0",
                 "2": "https://uptomega.me/ithrtzx2m2eo"
             }
+        },
+        {
+            "id": "958",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Mandalorian%20Season%203.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Mandalorian%20Season%203.jpeg",
+            "movieName": "The Mandalorian Season 3",
+            "htmlFile": "https://www.18958",
+            "directOne": "Action,Fantasy",
+            "directSecond": "uMCfX62dhS0",
+            "imbd": "8.2",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Mandalorian",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/QrJkGq3GmGu0mGR/The_Mandalorian_S03E01_18958_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/p4jjbvixvxs1"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
         }
     ]
 }
