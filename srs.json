@@ -34313,7 +34313,7 @@
             "keyName": "Dakghor",
             "pathName": "S1",
             "EpisodeTape": {
-                "1": "https://streamtape.xyz/v/mv4k6WKJbXTbKLj/Dakghor_%282023%29_18957_1.mkv.mp4"
+                "1": "https://streamtape.to/v/ogWkwDQy4BSJwMK/Dakghor_%282023%29_S01_Complete_18957_1.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/drjfmck3xw82"
@@ -34376,9 +34376,10 @@
                 "38": "https://streamtape.to/v/pYq1bk7YOpSrZyl/Shark_Tank_India_%282023%29_S02E38_18904_38.mkv.mp4",
                 "39": "https://streamtape.to/v/lkXPB7GXq1F7eJO/Shark_Tank_India_S02E39_18904_39.mkv.mp4",
                 "40": "https://streamtape.to/v/L3JPQ43wPVhZMJ/Shark_Tank_India_S02E40_18904_40.mkv.mp4",
-                "41": "https://streamtape.xyz/v/kg8DBYA61MFDvg/Shark_Tank_India_S02E41_18904_41.mkv.mp4",
-                "42": "https://streamtape.xyz/v/3rxgrAABLwfdkaZ/Shark_Tank_India_S02E42_18904_42.mkv.mp4",
-                "43": "https://streamtape.xyz/v/Dql338mjkyIkO3X/Shark_Tank_India_S02E43_18904_43.mkv.mp4"
+                "41": "https://streamtape.to/v/GkVPw3jYKoS1Rvo/Shark_Tank_India_S02E41_18904_41.mkv.mp4",
+                "42": "https://streamtape.to/v/8zaMkr0qYMSGq6/Shark_Tank_India_S02E42_18904_42.mkv.mp4",
+                "43": "https://streamtape.to/v/4G9Wg3qO61sK69K/Shark_Tank_India_S02E43_18904_43.mkv.mp4",
+                "44":"https://streamtape.to/v/aPgy7A7wbmuO0O/Shark_Tank_India_S02E44_18904_44.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/dhowhad6uas5",
@@ -34423,7 +34424,8 @@
                 "40": "https://streamhub.to/qahoyn98kpu5",
                 "41": "https://streamhub.to/42pake2e9p28",
                 "42": "https://streamhub.to/sz47jbuxmo24",
-                "43": "https://streamhub.to/xi9srvljy2r3"
+                "43": "https://streamhub.to/xi9srvljy2r3",
+                "44":"https://streamhub.to/jgdd97v5940f"
             },
             "episodeServer3": {},
             "episodeServer4": {}
@@ -34449,7 +34451,7 @@
                 "4": "https://streamtape.to/v/oMOwkpKVbgHbe4/The_Last_of_Us_S01E04_18917_4.mkv.mp4",
                 "5": "https://streamtape.to/v/AkAM6QgpZ3CXPAb/The_Last_of_Us_S01E05_18917_5.mkv.mp4",
                 "6": "https://streamtape.to/v/YZDZWZkDGlivPyj/The_Last_of_Us_S01E06_18917_6.mkv.mp4",
-                "7": "https://streamtape.xyz/v/QA4lW4dJxKC0b0B/The_Last_of_Us_S01E07_18917_7.mkv.mp4"
+                "7": "https://streamtape.to/v/Le66Zg2kzJHRl8M/The_Last_of_Us_S01E07_18917_7.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/q468ugwhclp8",
@@ -34513,10 +34515,74 @@
             "keyName": "The Mandalorian",
             "pathName": "S3",
             "EpisodeTape": {
-                "1": "https://streamtape.xyz/v/QrJkGq3GmGu0mGR/The_Mandalorian_S03E01_18958_1.mkv.mp4"
+                "1": "https://streamtape.to/v/bvWjz9Yak0tP1z1/The_Mandalorian_S03E01_18958_1.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/p4jjbvixvxs1"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "959",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Buker%20Moddhye%20Agun%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Buker%20Moddhye%20Agun%20Season%201.jpg",
+            "movieName": "Buker Moddhye Agun Season 1",
+            "htmlFile": "https://www.18959",
+            "directOne": "Thriller",
+            "directSecond": "6-LolBC0DOk",
+            "imbd": "8.2",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Buker Moddhye Agun",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/AAlm0gGj4mhXrjQ/Buker_Moddhye_Agun_%282023%29_S01_Complete_18959_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/x621drxbdtvh"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "960",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Taj%20-%20Divided%20by%20Blood%20Season%201.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Taj%20-%20Divided%20by%20Blood%20Season%201.jpg",
+            "movieName": "Taj - Divided by Blood Season 1",
+            "htmlFile": "https://www.18960",
+            "directOne": "History",
+            "directSecond": "4eOU0Fa1QU4",
+            "imbd": "8.2",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Taj - Divided by Blood",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/K7oaAz6XZdS08X0/Taj_Divided_by_Blood_S01E01_18960_1.mkv.mp4",
+                "2": "https://streamtape.to/v/z6312x06YdSYLa9/Taj_Divided_by_Blood_S01E02_18960_2.mkv.mp4",
+                "3": "https://streamtape.to/v/qDYqyXX9DdHzeQY/Taj_Divided_by_Blood_S01E03_18960_3.mkv.mp4",
+                "4": "https://streamtape.to/v/K4DbAkqWe2C0Qrb/Taj_Divided_by_Blood_S01E04_18960_4.mkv.mp4",
+                "5": "https://streamtape.to/v/VXx2M77XY9FYK7/Taj_Divided_by_Blood_S01E05_18960_5.mkv.mp4",
+                "6": "https://streamtape.to/v/XxP69D9dVoTDqZQ/Taj_Divided_by_Blood_S01E06_18960_6.mkv.mp4",
+                "7": "https://streamtape.to/v/8dvz0Ld2Y3ToKMd/Taj_Divided_by_Blood_S01E07_18960_7.mkv.mp4",
+                "8": "https://streamtape.to/v/yl08jD14kBF1qBd/Taj_Divided_by_Blood_S01E08_18960_8.mkv.mp4",
+                "9": "https://streamtape.to/v/WeV1Qm4o2bibJAo/Taj_Divided_by_Blood_S01E09_18960_9.mkv.mp4",
+                "10": "https://streamtape.to/v/xPb2PlVWzrTk43z/Taj_Divided_by_Blood_S01E10_18960_10.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/zyvkj0nuassj",
+                "2": "https://streamhub.to/x2ggzzacdgid",
+                "3": "https://streamhub.to/jb0p0psol64q",
+                "4": "https://streamhub.to/crvd92xssr1t",
+                "5": "https://streamhub.to/cqxeql4o1h0l",
+                "6": "https://streamhub.to/kimeo8u1lcj2",
+                "7": "https://streamhub.to/2tieexd944wa",
+                "8": "https://streamhub.to/hnir05di1e0o",
+                "9": "https://streamhub.to/1dq6gdt47r60",
+                "10": "https://streamhub.to/5nj6i8jr1kgo"
             },
             "episodeServer3": {},
             "episodeServer4": {}
