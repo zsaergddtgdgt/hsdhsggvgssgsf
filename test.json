@@ -1,5 +1,22 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "2593",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Middle%20Class%20Love%20%282022%29.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Middle%20Class%20Love%20%282022%29.jpg",
+            "movieName": "Middle Class Love (2022)",
+            "htmlFile": "https://www.12593",
+            "directOne": "Hindi",
+            "directSecond": "cNa4C5Y3eC0",
+            "rating": "HD 720p",
+            "catergory": "Comedy",
+            "Industry": "Bollywood",
+            "hub": "https://streamhub.to/llxdbodivhx6",
+            "tape": "https://streamtape.to/v/Rk8zLY0DYqidOx4/Middle_Class_Love_%282022%29_12593.mkv.mp4",
+            "server3": "FALSE",
+            "server4": "FALSE"
+        },
         {
             "id": "2980",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Tu%20Jhoothi%20Main%20Makkaar%20(2023).jpg",
@@ -2797,22 +2814,6 @@
             "Industry": "Bengali",
             "hub": "https://streamhub.to/dc3y9vvqn7r5",
             "tape": "https://streamtape.to/v/ZPx3bdzlgxIwLv/Ballabhpurer_Roopkotha_%282022%29_12839.mkv.mp4",
-            "server3": "FALSE",
-            "server4": "FALSE"
-        },
-        {
-            "id": "2593",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Middle%20Class%20Love%20%282022%29.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Middle%20Class%20Love%20%282022%29.jpg",
-            "movieName": "Middle Class Love (2022)",
-            "htmlFile": "https://www.12593",
-            "directOne": "Hindi",
-            "directSecond": "cNa4C5Y3eC0",
-            "rating": "HDTvRip",
-            "catergory": "Comedy",
-            "Industry": "Bollywood",
-            "hub": "https://streamhub.to/h88rhvl9yfyl",
-            "tape": "https://streamtape.to/v/zbbAv4RBZdTQao/Middle_Class_Love_%282022%29_12593.mkv.mp4",
             "server3": "FALSE",
             "server4": "FALSE"
         },
