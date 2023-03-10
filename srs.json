@@ -34406,41 +34406,6 @@
             "episodeServer4": {}
         },
         {
-            "id": "917",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Last%20of%20Us%20Season%201.webp",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Last%20of%20Us%20Season%201.jpg",
-            "movieName": "The Last of Us Season 1",
-            "htmlFile": "https://www.18917",
-            "directOne": "Action,Adventure",
-            "directSecond": "uLtkt8BonwM",
-            "imbd": "8.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "The Last of Us",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/dpWBg73pb2ikJ24/The_Last_of_Us_%282023%29_S01E01_18917_1.mkv.mp4",
-                "2": "https://streamtape.to/v/DX9Kxa1RD1hkXdj/The_Last_of_Us_S01E02_18917_2.mkv.mp4",
-                "3": "https://streamtape.to/v/Xw0oDRGDygiDQpG/The_Last_Of_Us_S01E03_18917_3.mkv.mp4",
-                "4": "https://streamtape.to/v/oMOwkpKVbgHbe4/The_Last_of_Us_S01E04_18917_4.mkv.mp4",
-                "5": "https://streamtape.to/v/AkAM6QgpZ3CXPAb/The_Last_of_Us_S01E05_18917_5.mkv.mp4",
-                "6": "https://streamtape.to/v/YZDZWZkDGlivPyj/The_Last_of_Us_S01E06_18917_6.mkv.mp4",
-                "7": "https://streamtape.to/v/Le66Zg2kzJHRl8M/The_Last_of_Us_S01E07_18917_7.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/q468ugwhclp8",
-                "2": "https://streamhub.to/qiypf4yftjw9",
-                "3": "https://streamhub.to/rcpzohlvo2eq",
-                "4": "https://streamhub.to/yntkdppm69nz",
-                "5": "https://streamhub.to/1zxjr5xebmnq",
-                "6": "https://streamhub.to/ngkx5obv6emb",
-                "7": "https://streamhub.to/97q0bw0yy1k8"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {}
-        },
-        {
             "id": "934",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Hansika%E2%80%99s%20Love%20Shaadi%20Drama%20Season%201.jpeg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Hansika%E2%80%99s%20Love%20Shaadi%20Drama%20Season%201.jpg",
@@ -34465,6 +34430,39 @@
                 "2": "https://streamhub.to/5z173wl7hvvs",
                 "3": "https://streamhub.to/35thausvnwgv",
                 "4":"https://streamhub.to/0ufbdyfpp79e"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "961",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Pimp%20-%20No%20Fucking%20Fairytale%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Pimp%20-%20No%20Fucking%20Fairytale%20Season%201.jpg",
+            "movieName": "The Pimp - No Fucking Fairytale Season 1",
+            "htmlFile": "https://www.18961",
+            "directOne": "Drama,Adult",
+            "directSecond": "H-S2q4Cj1-A",
+            "imbd": "8.2",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Pimp - No Fucking Fairytale",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/6KGQYBpd7kfoa8/The_Pimp_No_Fucking_Fairytale_S01_E01_18961_1.mkv.mp4",
+                "2": "https://streamtape.to/v/doQarapOY0UG68/The_Pimp_No_Fucking_Fairytale_S01_E02_18961_2.mkv.mp4",
+                "3": "https://streamtape.to/v/kw01pKBD3pFQP8/The_Pimp_No_Fucking_Fairytale_S01_E03_18961_3.mkv.mp4",
+                "4": "https://streamtape.to/v/7wXvRVmxY1cAgWk/The_Pimp_No_Fucking_Fairytale_S01_E04_18961_4.mkv.mp4",
+                "5": "https://streamtape.to/v/RqBax1eBZJtJbg/The_Pimp_No_Fucking_Fairytale_S01_E05_18961_5.mkv.mp4",
+                "6": "https://streamtape.to/v/OPl2QmpQd1HZvVY/The_Pimp_No_Fucking_Fairytale_S01_E06_18961_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/f4pu80sk1q0l",
+                "2": "https://streamhub.to/fqjo1ffjwfq0",
+                "3": "https://streamhub.to/hkdhgq2beg0n",
+                "4": "https://streamhub.to/g26i85c5h39v",
+                "5": "https://streamhub.to/gr7io9mlbc7w",
+                "6": "https://streamhub.to/heq019s2k09t"
             },
             "episodeServer3": {},
             "episodeServer4": {}
@@ -34505,24 +34503,244 @@
             }
         },
         {
-            "id": "958",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Mandalorian%20Season%203.webp",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Mandalorian%20Season%203.jpeg",
-            "movieName": "The Mandalorian Season 3",
-            "htmlFile": "https://www.18958",
-            "directOne": "Action,Fantasy",
-            "directSecond": "uMCfX62dhS0",
+            "id": "962",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Sex%20Life%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Sex%20Life%20Season%202.jpg",
+            "movieName": "Sex Life Season 2",
+            "htmlFile": "https://www.18962",
+            "directOne": "Drama,Romance",
+            "directSecond": "WnV0JoflZiA",
             "imbd": "8.2",
-            "rating": "Hindi",
+            "rating": "Hindi+English",
             "catergory": "webSeries",
             "Industry": "webSeries",
-            "keyName": "The Mandalorian",
-            "pathName": "S3",
+            "keyName": "Sex Life",
+            "pathName": "S2",
             "EpisodeTape": {
-                "1": "https://streamtape.to/v/bvWjz9Yak0tP1z1/The_Mandalorian_S03E01_18958_1.mkv.mp4"
+                "1": "https://streamtape.to/v/9vD2oPbQQzUOW7/Sex_Life_S02E01_18962_1.mkv.mp4",
+                "2": "https://streamtape.to/v/qyrVGP1x6ZUzdpP/Sex_Life_S02E2_18962_2.mkv.mp4",
+                "3": "https://streamtape.to/v/oxaOVvW31mubBL/Sex_Life_S02E03_18962_3.mkv.mp4",
+                "4": "https://streamtape.to/v/X1JYQ6P2k4S3mr/Sex_Life_S02E04_18962_4.mkv.mp4",
+                "5": "https://streamtape.to/v/mLx7jo6gYDhXqr/Sex_Life_S02E05_18962_5.mkv.mp4",
+                "6": "https://streamtape.to/v/mY810egPzmtbo9A/Sex_Life_S02E06_18962_6.mkv.mp4"
             },
             "EpisodeHub": {
-                "1": "https://streamhub.to/p4jjbvixvxs1"
+                "1": "https://streamhub.to/vrk2r4jvad0q",
+                "2": "https://streamhub.to/p3ukb94q9xif",
+                "3": "https://streamhub.to/zv3nw6bvzr02",
+                "4": "https://streamhub.to/230htwwkyubj",
+                "5": "https://streamhub.to/3qi6a8hiy82m",
+                "6": "https://streamhub.to/7m0uxeszl9ul"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "964",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Ragnarok%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Ragnarok%20Season%201.jpg",
+            "movieName": "Ragnarok Season 1",
+            "htmlFile": "https://www.18964",
+            "directOne": "Action,Drama",
+            "directSecond": "7H9AaiBLHCo",
+            "imbd": "8.2",
+            "rating": "Hindi+English+Norweign",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Ragnarok",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/PGd99YxYLGsGGY/Ragnarok_S01E01_18964_1.mkv.mp4",
+                "2": "https://streamtape.to/v/GjrzdPqd3VUYp7/Ragnarok_S01E02_18964_2.mkv.mp4",
+                "3": "https://streamtape.to/v/YyL8eDrvQqHv9eJ/Ragnarok_S01E03_18964_3.mkv.mp4",
+                "4": "https://streamtape.to/v/wOAJmgbYGWIJbDV/Ragnarok_S01E04_18964_4.mkv.mp4",
+                "5": "https://streamtape.to/v/Zo71eygPWlhKmQ/Ragnarok_S01E05_18964_5.mkv.mp4",
+                "6": "https://streamtape.to/v/qJGLde3BDauzqWx/Ragnarok_S01E06_18964_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/0xsshs8bmbb7",
+                "2": "https://streamhub.to/skhqp5e9fglp",
+                "3": "https://streamhub.to/rlr36t0nglho",
+                "4": "https://streamhub.to/cu9yhaouzp89",
+                "5": "https://streamhub.to/vqrncvkc6mqh",
+                "6": "https://streamhub.to/lqgp47l5v8k9"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "963",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Ragnarok%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Ragnarok%20Season%202.jpg",
+            "movieName": "Ragnarok Season 2",
+            "htmlFile": "https://www.18963",
+            "directOne": "Action,Drama",
+            "directSecond": "qDpe7TQpGCI",
+            "imbd": "8.2",
+            "rating": "Hindi+English+Norweign",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Ragnarok",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/ePmw6OK2oKCYD3e/Ragnarok_S02E01_18963_1.mkv.mp4",
+                "2": "https://streamtape.to/v/XwXRw03ALQhDOgV/Ragnarok_S02E02_18963_2.mkv.mp4",
+                "3": "https://streamtape.to/v/MAJoq73KqkUmPDq/Ragnarok_S02E03_18963_3.mkv.mp4",
+                "4": "https://streamtape.to/v/ZxpBzqBrarUgdy/Ragnarok_S02E04_18963_4.mkv.mp4",
+                "5": "https://streamtape.to/v/Yy2Q399MqqTvbm3/Ragnarok_S02E05_18963_5.mkv.mp4",
+                "6": "https://streamtape.to/v/ezxZa0w4QahYMQY/Ragnarok_S02E06_18963_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/vzflujaquvkn",
+                "2": "https://streamhub.to/saga2lipeqrt",
+                "3": "https://streamhub.to/qjxhjnf0xf23",
+                "4": "https://streamhub.to/gzh5dd0pteeb",
+                "5": "https://streamhub.to/z3rq96q6r7y8",
+                "6": "https://streamhub.to/sb3mq475z79m"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "966",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Triptych%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Triptych%20Season%201.jpg",
+            "movieName": "Triptych Season 1",
+            "htmlFile": "https://www.18966",
+            "directOne": "Thriller,Mystery",
+            "directSecond": "4fxdkBTqNYI",
+            "imbd": "8.2",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Triptych",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/gP69v07qo0sqAJ2/Triptych_S01E01_18966_1.mkv.mp4",
+                "2": "https://streamtape.to/v/pVQrGvJdbJUrQvm/Triptych_S01E02_18966_2.mkv.mp4",
+                "3": "https://streamtape.to/v/J08Dzpo26oijqby/Triptych_S01E03_18966_3.mkv.mp4",
+                "4": "https://streamtape.to/v/O7ramD2z7lC9YB/Triptych_S01E04_18966_4.mkv.mp4",
+                "5": "https://streamtape.to/v/wYl7Q206BVUJbR8/Triptych_S01E05_18966_5.mkv.mp4",
+                "6": "https://streamtape.to/v/V6ZgMqgRqPCKBAY/Triptych_S01E06_18966_6.mkv.mp4",
+                "7": "https://streamtape.to/v/41rXd3jZzyTK3vZ/Triptych_S01E07_18966_7.mkv.mp4",
+                "8": "https://streamtape.to/v/rBVdzWXGdwCbZWZ/Triptych_S01E08_18966_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/dkl0xfodd99h",
+                "2": "https://streamhub.to/w3r22op4vwat",
+                "3": "https://streamhub.to/dtiom6dosg7d",
+                "4": "https://streamhub.to/ycjcjisswz36",
+                "5": "https://streamhub.to/zjgwrd2l4m89",
+                "6": "https://streamhub.to/aqati9nh1act",
+                "7": "https://streamhub.to/91ocs7t7jsdy",
+                "8": "https://streamhub.to/1pdqgn8bwwp8"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "965",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Consultant%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Consultant%20Season%201.jpg",
+            "movieName": "The Consultant Season 1",
+            "htmlFile": "https://www.18965",
+            "directOne": "Thriller,Drama",
+            "directSecond": "Rj6gQdEyGXI",
+            "imbd": "8.2",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Consultant",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/W8rqzY3dYmsbb9D/The_Consultant_S01_E01_18965_1.mkv.mp4",
+                "2": "https://streamtape.to/v/0ABGdpO1oVsboPG/The_Consultant_S01_E02_18965_2.mkv.mp4",
+                "3": "https://streamtape.to/v/MXrDb86R0BfmPdB/The_Consultant_S01_E03_18965_3.mkv.mp4",
+                "4": "https://streamtape.to/v/z1KDMJKRx7IYjY0/The_Consultant_S01_E04_18965_4.mkv.mp4",
+                "5": "https://streamtape.to/v/01vdYbxK2YfLp3/The_Consultant_S01_E05_18965_5.mkv.mp4",
+                "6": "https://streamtape.to/v/1bDG6YeOmVCeaYQ/The_Consultant_S01_E06_18965_6.mkv.mp4",
+                "7": "https://streamtape.to/v/q8gKlpGALMHzqJv/The_Consultant_S01_E07_18965_7.mkv.mp4",
+                "8": "https://streamtape.to/v/W3dgpOoZgVTbdO1/The_Consultant_S01_E08_18965_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/p9vlkpc5j28z",
+                "2": "https://streamhub.to/nw0ghxir5r26",
+                "3": "https://streamhub.to/qjdk2af46vun",
+                "4": "https://streamhub.to/11xly1k9k9kz",
+                "5": "https://streamhub.to/mfcbyuv7l137",
+                "6": "https://streamhub.to/qb0sb557a0oe",
+                "7": "https://streamhub.to/eovz3vqi4jrc",
+                "8": "https://streamhub.to/52wy1kmwfx8l"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "968",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Head%20Of%20Joaquin%20Murrieta%20Season%201.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Head%20Of%20Joaquin%20Murrieta%20Season%201.jpg",
+            "movieName": "The Head Of Joaquin Murrieta Season 1",
+            "htmlFile": "https://www.18968",
+            "directOne": "Action,Western",
+            "directSecond": "BQ8_PjFrJ4A",
+            "imbd": "8.2",
+            "rating": "Hindi+English+Spanish",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Head Of Joaquin Murrieta",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/KeklvG61qaUgJB/The_Head_Of_Joaqu%C3%ADn_Murrieta_S01E01_18968_1.mkv.mp4",
+                "2": "https://streamtape.to/v/3OKAKBjYoWSdPBo/The_Head_Of_Joaqu%C3%ADn_Murrieta_S01E02_18968_2.mkv.mp4",
+                "3": "https://streamtape.to/v/yGdlWOgrvdh1V1v/The_Head_Of_Joaqu%C3%ADn_Murrieta_S01E03_18968_3.mkv.mp4",
+                "4": "https://streamtape.to/v/jalVwLKzJ2uzXMG/The_Head_Of_Joaqu%C3%ADn_Murrieta_S01E04_18968_4.mkv.mp4",
+                "5": "https://streamtape.to/v/gvvPXDGr9zhq7DR/The_Head_Of_Joaqu%C3%ADn_Murrieta_S01E05_18968_5.mkv.mp4",
+                "6": "https://streamtape.to/v/BzZV164boOuy1Ap/The_Head_Of_Joaqu%C3%ADn_Murrieta_S01E06_18968_6.mkv.mp4",
+                "7": "https://streamtape.to/v/Ogm1preyOPt6ox/The_Head_Of_Joaqu%C3%ADn_Murrieta_S01E07_18968_7.mkv.mp4",
+                "8": "https://streamtape.to/v/2obprpZDAytZdvj/The_Head_Of_Joaqu%C3%ADn_Murrieta_S01E08_18968_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/763yo8z4y4yn",
+                "2": "https://streamhub.to/ut161hq61x1m",
+                "3": "https://streamhub.to/e5b3dwm4npdo",
+                "4": "https://streamhub.to/apy5jbu72nh8",
+                "5": "https://streamhub.to/e2szcxsro84k",
+                "6": "https://streamhub.to/fnkxiwb5fr9b",
+                "7": "https://streamhub.to/yh4fdq0g0g2t",
+                "8": "https://streamhub.to/730fu4gqdr5s"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "967",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Carnival%20Row%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Carnival%20Row%20Season%202.jpg",
+            "movieName": "Carnival Row Season 2",
+            "htmlFile": "https://www.18967",
+            "directOne": "Crime,Drama",
+            "directSecond": "P4LepVMlIZI",
+            "imbd": "8.2",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Carnival Row",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/2oOgj1JAxosZdyV/Carnival_Row_S02E01_18967_1.mkv.mp4",
+                "2": "https://streamtape.to/v/My9ZpVA88gHm4L4/Carnival_Row_S02E02_18967_2.mkv.mp4",
+                "3": "https://streamtape.to/v/VPrv2g4PGAtKWKB/Carnival_Row_S02E03_18967_3.mkv.mp4",
+                "4": "https://streamtape.to/v/klyLwwMVgviOqMr/Carnival_Row_S02E04_18967_4.mkv.mp4",
+                "5": "https://streamtape.to/v/GXjVZ6JO21C1bWk/Carnival_Row_%282023%29_S02_Ep05_18967_5.mkv.mp4",
+                "6": "https://streamtape.to/v/m9d3Bbq490CbwgK/Carnival_Row_%282023%29_S02_Ep06_18967_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/xa69ug6jpyp2",
+                "2": "https://streamhub.to/vyfr2broh0sx",
+                "3": "https://streamhub.to/bx4vo5od99s4",
+                "4": "https://streamhub.to/x2gncgpo8e0y",
+                "5": "https://streamhub.to/eqd38ikmybo0",
+                "6": "https://streamhub.to/86bnbogv29bs"
             },
             "episodeServer3": {},
             "episodeServer4": {}
@@ -34546,6 +34764,43 @@
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/x621drxbdtvh"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "917",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Last%20of%20Us%20Season%201.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Last%20of%20Us%20Season%201.jpg",
+            "movieName": "The Last of Us Season 1",
+            "htmlFile": "https://www.18917",
+            "directOne": "Action,Adventure",
+            "directSecond": "uLtkt8BonwM",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Last of Us",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/dpWBg73pb2ikJ24/The_Last_of_Us_%282023%29_S01E01_18917_1.mkv.mp4",
+                "2": "https://streamtape.to/v/DX9Kxa1RD1hkXdj/The_Last_of_Us_S01E02_18917_2.mkv.mp4",
+                "3": "https://streamtape.to/v/Xw0oDRGDygiDQpG/The_Last_Of_Us_S01E03_18917_3.mkv.mp4",
+                "4": "https://streamtape.to/v/oMOwkpKVbgHbe4/The_Last_of_Us_S01E04_18917_4.mkv.mp4",
+                "5": "https://streamtape.to/v/AkAM6QgpZ3CXPAb/The_Last_of_Us_S01E05_18917_5.mkv.mp4",
+                "6": "https://streamtape.to/v/YZDZWZkDGlivPyj/The_Last_of_Us_S01E06_18917_6.mkv.mp4",
+                "7": "https://streamtape.to/v/Le66Zg2kzJHRl8M/The_Last_of_Us_S01E07_18917_7.mkv.mp4",
+                "8":"https://streamtape.to/v/Q1gPAXwY1eC0mvk/The_Last_of_Us_S01E08_18917_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/q468ugwhclp8",
+                "2": "https://streamhub.to/qiypf4yftjw9",
+                "3": "https://streamhub.to/rcpzohlvo2eq",
+                "4": "https://streamhub.to/yntkdppm69nz",
+                "5": "https://streamhub.to/1zxjr5xebmnq",
+                "6": "https://streamhub.to/ngkx5obv6emb",
+                "7": "https://streamhub.to/97q0bw0yy1k8",
+                "8":"https://streamhub.to/lv6agyd2d95g"
             },
             "episodeServer3": {},
             "episodeServer4": {}
@@ -34587,6 +34842,31 @@
                 "8": "https://streamhub.to/hnir05di1e0o",
                 "9": "https://streamhub.to/1dq6gdt47r60",
                 "10": "https://streamhub.to/5nj6i8jr1kgo"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "958",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Mandalorian%20Season%203.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Mandalorian%20Season%203.jpeg",
+            "movieName": "The Mandalorian Season 3",
+            "htmlFile": "https://www.18958",
+            "directOne": "Action,Fantasy",
+            "directSecond": "uMCfX62dhS0",
+            "imbd": "8.2",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Mandalorian",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/bvWjz9Yak0tP1z1/The_Mandalorian_S03E01_18958_1.mkv.mp4",
+                "2":"https://streamtape.to/v/zMwlQZY0OWTGPb/The_Mandalorian_S03E02_18958_2.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/l4k14d5crurr",
+                "2":"https://streamhub.to/fa2ndmta9u4f"
             },
             "episodeServer3": {},
             "episodeServer4": {}
