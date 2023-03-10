@@ -34676,6 +34676,43 @@
             "episodeServer4": {}
         },
         {
+            "id": "969",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Red%20Rose%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Red%20Rose%20Season%201.jpg",
+            "movieName": "Red Rose Season 1",
+            "htmlFile": "https://www.18969",
+            "directOne": "Horror,Thriller",
+            "directSecond": "lSPiL8J-QlM",
+            "imbd": "8.2",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Red Rose",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/8wDxrXJDlkSoabx/Red_Rose_S01E01_18969_1.mkv.mp4",
+                "2": "https://streamtape.to/v/l2MpjXkBOxU7xj4/Red_Rose_S01E02_18969_2.mkv.mp4",
+                "3": "https://streamtape.to/v/mOVJD37ovlhGOX/Red_Rose_S01E03_18969_3.mkv.mp4",
+                "4": "https://streamtape.to/v/koZD73bdX4IOwR6/Red_Rose_S01E04_18969_4.mkv.mp4",
+                "5": "https://streamtape.to/v/Jy7Rb7WG0KcjXLj/Red_Rose_S01E05_18969_5.mkv.mp4",
+                "6": "https://streamtape.to/v/eAMzkay9jOTYzwg/Red_Rose_S01E06_18969_6.mkv.mp4",
+                "7": "https://streamtape.to/v/OX6aRe9g32h9XX/Red_Rose_S01E07_18969_7.mkv.mp4",
+                "8": "https://streamtape.to/v/81v1ygvbGzSoKxG/Red_Rose_S01E08_18969_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/b1gxtnp14ltj",
+                "2": "https://streamhub.to/0cnhoxeabym0",
+                "3": "https://streamhub.to/iclg6cfdiqz8",
+                "4": "https://streamhub.to/p0g0b0zoahu9",
+                "5": "https://streamhub.to/47eou6ozjimn",
+                "6": "https://streamhub.to/cyxrdgpalxcc",
+                "7": "https://streamhub.to/p0yq3mbv4gfs",
+                "8": "https://streamhub.to/i8utu3p5ryh0"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
             "id": "968",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Head%20Of%20Joaquin%20Murrieta%20Season%201.webp",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Head%20Of%20Joaquin%20Murrieta%20Season%201.jpg",
@@ -34806,6 +34843,133 @@
             "episodeServer4": {}
         },
         {
+            "id": "971",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Indubala%20Bhaater%20Hotel%20Season%201.png",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Indubala%20Bhaater%20Hotel%20Season%201.jpg",
+            "movieName": "Indubala Bhaater Hotel Season 1",
+            "htmlFile": "https://www.18971",
+            "directOne": "Drama",
+            "directSecond": "BdraqyFgUOI",
+            "imbd": "8.2",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Indubala Bhaater Hotel",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/Moe1zppBBQFmOJq/Indubala_Bhaater_Hotel_%282023%29_S01_Complete_18971_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/y413b59pgcpx"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "972",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Anger%20Tales%20Season%201.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Anger%20Tales%20Season%201.jpg",
+            "movieName": "Anger Tales Season 1",
+            "htmlFile": "https://www.18972",
+            "directOne": "Drama",
+            "directSecond": "ZXJFEuKqCE8",
+            "imbd": "8.2",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Anger Tales",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/O2zLGWPRZjSZ8eq/Anger_Tales_%282023%29_Season_1_18972_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/gd3dfwrd8yog"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "973",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Bad%20Trip%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Bad%20Trip%20Season%201.jpg",
+            "movieName": "Bad Trip Season 1",
+            "htmlFile": "https://www.18973",
+            "directOne": "Drama",
+            "directSecond": "r2wdq5I1W6I",
+            "imbd": "8.2",
+            "rating": "Hindi+Telugu",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Bad Trip",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/qOlvA144MATzbab/Bad_Trip_%282023%29_S01E01T08_18973_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/gpa62c45skzr"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "974",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Happy%20Family%20Conditions%20Apply%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Happy%20Family%20Conditions%20Apply%20Season%201.jpg",
+            "movieName": "Happy Family Conditions Apply Season 1",
+            "htmlFile": "https://www.18974",
+            "directOne": "Comedy,Drama",
+            "directSecond": "9dD4e5yaA3M",
+            "imbd": "8.2",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Happy Family Conditions Apply",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/K0BWVKkLD7H0Zdl/Happy_Family_Conditions_Apply_S01E01_18974_1.mkv.mp4",
+                "2": "https://streamtape.to/v/XBGloG4BB0sD4rw/Happy_Family_Conditions_Apply_S01E02_18974_2.mkv.mp4",
+                "3": "https://streamtape.to/v/2Kmo6lem77hZL6Q/Happy_Family_Conditions_Apply_S01E03_18974_3.mkv.mp4",
+                "4": "https://streamtape.to/v/wZzr2Jrb6jcJ8Jd/Happy_Family_Conditions_Apply_S01E04_18974_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/2yiq7ks4m780",
+                "2": "https://streamhub.to/8dy6qwa32t5w",
+                "3": "https://streamhub.to/lmfhznpwdpai",
+                "4": "https://streamhub.to/r0ajs1vpahiu"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "970",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Star%20Trek%20Picard%20Season%203.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Star%20Trek%20Picard%20Season%203.jpg",
+            "movieName": "Star Trek Picard Season 3",
+            "htmlFile": "https://www.18970",
+            "directOne": "Action,Adventure",
+            "directSecond": "KMyQkazS1hA",
+            "imbd": "8.2",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Star Trek Picard",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/W63V1GDolLSRzO/Star_Trek_Picard_S03_E01_18970_1.mkv.mp4",
+                "2": "https://streamtape.to/v/4RqowGX4adSKaw4/Star_Trek_Picard_S03E02_18970_2.mkv.mp4",
+                "3": "https://streamtape.to/v/KLj4KVp7DvI092r/star_trek_picard_s03e03_18970_3.mkv.mp4",
+                "4": "https://streamtape.to/v/d72aDjBLwgCk61O/Star_Trek_Picard_S03E04_18970_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/yy8gi94cctx2",
+                "2": "https://streamhub.to/12i7ljrju6y6",
+                "3": "https://streamhub.to/011ex64ziaif",
+                "4": "https://streamhub.to/6ryv7vra3sgk"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
             "id": "960",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Taj%20-%20Divided%20by%20Blood%20Season%201.webp",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Taj%20-%20Divided%20by%20Blood%20Season%201.jpg",
@@ -34867,6 +35031,47 @@
             "EpisodeHub": {
                 "1": "https://streamhub.to/l4k14d5crurr",
                 "2":"https://streamhub.to/fa2ndmta9u4f"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "975",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Rana%20Naidu%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Rana%20Naidu%20Season%201.jpg",
+            "movieName": "Rana Naidu Season 1",
+            "htmlFile": "https://www.18975",
+            "directOne": "Action,Crime",
+            "directSecond": "wbEWbAKo29Q",
+            "imbd": "8.2",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Rana Naidu",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/mP7y7G9XPRHboV4/Rana_Naidu_S01E01_18975_1.mkv.mp4",
+                "2": "https://streamtape.to/v/xeO14JyvA0skYQd/Rana_Naidu_S01E02_18975_2.mkv.mp4",
+                "3": "https://streamtape.to/v/mDx4qOqw4dIbK0B/Rana_Naidu_S01E03_18975_3.mkv.mp4",
+                "4": "https://streamtape.to/v/elXpLdKWVaIYzyx/Rana_Naidu_S01E04_18975_4.mkv.mp4",
+                "5": "https://streamtape.to/v/DQMeQZK8xPikgyB/Rana_Naidu_S01E05_18975_5.mkv.mp4",
+                "6": "https://streamtape.to/v/wkZ6xr1w0riJbad/Rana_Naidu_S01E06_18975_6.mkv.mp4",
+                "7": "https://streamtape.to/v/p4jv1l7rPjcrePA/Rana_Naidu_S01E07_18975_7.mkv.mp4",
+                "8": "https://streamtape.to/v/ew3gmJAg06UYvje/Rana_Naidu_S01E08_18975_8.mkv.mp4",
+                "9": "https://streamtape.to/v/Gklw423QmLC13bQ/Rana_Naidu_S01E9_18975_9.mkv.mp4",
+                "10": "https://streamtape.to/v/ApdqvXVYDmTXLlV/Rana_Naidu_S01E10_18975_10.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/nk7phmnw8t5b",
+                "2": "https://streamhub.to/81809wv43x9l",
+                "3": "https://streamhub.to/q12s2h9xpua8",
+                "4": "https://streamhub.to/l8i2si0ggk3o",
+                "5": "https://streamhub.to/lif6dao4i2hz",
+                "6": "https://streamhub.to/w8obrk6urgki",
+                "7": "https://streamhub.to/be3k8i8wtdk3",
+                "8": "https://streamhub.to/twlvjmdk66ko",
+                "9": "https://streamhub.to/r6z75nl8oftf",
+                "10": "https://streamhub.to/qtce3cco7yrs"
             },
             "episodeServer3": {},
             "episodeServer4": {}
