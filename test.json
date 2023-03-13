@@ -1,5 +1,22 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "2815",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Laththi%20%282022%29.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Laththi%20%282022%29.jpg",
+            "movieName": "Laththi (2022)",
+            "htmlFile": "https://www.2815",
+            "directOne": "Hindi+Tamil",
+            "directSecond": "WiQWtEtD6_8",
+            "rating": "HD 720p",
+            "catergory": "Action,Drama",
+            "Industry": "South",
+            "hub": "https://streamhub.to/iso6om443q1h",
+            "tape": "https://streamtape.to/v/J0wGQAo2dgIjmRJ/Laththi_%282022%29_2815.mkv.mp4",
+            "server3": "FALSE",
+            "server4": "FALSE"
+        },
         {
             "id": "2593",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Middle%20Class%20Love%20%282022%29.jpg",
@@ -31,6 +48,38 @@
             "tape": "https://streamtape.to/v/JKBQWKjy0asjDY4/Vaathi_%282023%29_12946.mkv.mp4",
             "server3": "FALSE",
             "server4": "FALSE"
+        },
+        {
+            "id": "3010",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Scream%20VI%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Scream%20VI%20(2023).jpg",
+            "movieName": "Scream VI (2023)",
+            "htmlFile": "https://www.113010",
+            "directOne": "Hindi [HQ DUB]",
+            "directSecond": "1Ie2qmAOc6Q",
+            "rating": "HDCamRip-V3",
+            "catergory": "Horror,Mystery",
+            "Industry": "Hollywood",
+            "hub": "https://streamhub.to/f92xvddxc1zf",
+            "tape": "https://streamtape.to/v/aRdeK287RqTxkbw/Scream_VI_2023_113010.mkv.mp4",
+            "server3": "",
+            "server4": ""
+        },
+        {
+            "id": "3009",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Driver%20Jamuna%20(2022).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Driver%20Jamuna%20(2022).jpg",
+            "movieName": "Driver Jamuna (2022)",
+            "htmlFile": "https://www.13009",
+            "directOne": "Hindi [HQ DUB]",
+            "directSecond": "I68uLciEPC4",
+            "rating": "HD 720p",
+            "catergory": "Crime,Thriller",
+            "Industry": "South",
+            "hub": "https://streamhub.to/jyy6zehok16y",
+            "tape": "https://streamtape.to/v/xr7xP44relckewG/Driver_Jamuna_%282022%29_13009.mkv.mp4",
+            "server3": "",
+            "server4": ""
         },
         {
             "id": "2976",
@@ -3261,22 +3310,6 @@
             "Industry": "Bollywood",
             "hub": "https://streamhub.to/s3iwn4p6vdex",
             "tape": "https://streamtape.to/v/p7Ryk3jobKIxBO/Thai_Massage_2022_12698.mkv.mp4",
-            "server3": "FALSE",
-            "server4": "FALSE"
-        },
-        {
-            "id": "2815",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Laththi%20%282022%29.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Laththi%20%282022%29.jpg",
-            "movieName": "Laththi (2022)",
-            "htmlFile": "https://www.2815",
-            "directOne": "Hindi",
-            "directSecond": "WiQWtEtD6_8",
-            "rating": "HD 720p",
-            "catergory": "Action,Drama",
-            "Industry": "South",
-            "hub": "https://streamhub.to/zv1u9xn0dnpk",
-            "tape": "https://streamtape.to/v/eoWQxJG33QiYrRr/Laththi_2022_2815.mkv.mp4",
             "server3": "FALSE",
             "server4": "FALSE"
         },
