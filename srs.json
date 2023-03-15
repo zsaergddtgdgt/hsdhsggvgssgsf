@@ -34604,7 +34604,8 @@
                 "5": "https://streamtape.to/v/pjYAX2lpjBFryjQ/The_Last_of_Us_S01E05_18917_5.mkv.mp4",
                 "6": "https://streamtape.to/v/17yBaO7roYFe266/The_Last_of_Us_S01E06_18917_6.mkv.mp4",
                 "7": "https://streamtape.to/v/L2g3Axx4VqiR2pG/The_Last_of_Us_S01E07_18917_7.mkv.mp4",
-                "8": "https://streamtape.to/v/qr8BgWVbgPSzpa9/The_Last_of_Us_S01E08_18917_8.mkv.mp4"
+                "8": "https://streamtape.to/v/qr8BgWVbgPSzpa9/The_Last_of_Us_S01E08_18917_8.mkv.mp4",
+                "9":"https://streamtape.to/v/pLV2Kkvk0yTryyX/The_Last_of_Us_S01E09_18917_9.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/q468ugwhclp8",
@@ -34614,7 +34615,8 @@
                 "5": "https://streamhub.to/1zxjr5xebmnq",
                 "6": "https://streamhub.to/ngkx5obv6emb",
                 "7": "https://streamhub.to/97q0bw0yy1k8",
-                "8": "https://streamhub.to/lv6agyd2d95g"
+                "8": "https://streamhub.to/lv6agyd2d95g",
+                "9":"https://streamhub.to/mazwaqecfrrq"
             },
             "episodeServer3": {},
             "episodeServer4": {}
@@ -35062,11 +35064,13 @@
             "pathName": "S3",
             "EpisodeTape": {
                 "1": "https://streamtape.to/v/eGYPxvRo8xiYr0Z/The_Mandalorian_S03E01_18958_1.mkv.mp4",
-                "2": "https://streamtape.to/v/m3aw3z1OVRFbmwQ/The_Mandalorian_S03E02_18958_2.mkv.mp4"
+                "2": "https://streamtape.to/v/m3aw3z1OVRFbmwQ/The_Mandalorian_S03E02_18958_2.mkv.mp4",
+                "3":"https://streamtape.to/v/6bkoKlzaGLH93z4/The_Mandalorian_S03E03_18958_3.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/l4k14d5crurr",
-                "2": "https://streamhub.to/fa2ndmta9u4f"
+                "2": "https://streamhub.to/fa2ndmta9u4f",
+                "3":"https://streamhub.to/olom7i9y6xwo"
             },
             "episodeServer3": {},
             "episodeServer4": {}
