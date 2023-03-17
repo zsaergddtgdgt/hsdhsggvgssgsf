@@ -34691,35 +34691,6 @@
             "episodeServer4": {}
         },
         {
-            "id": "974",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Happy%20Family%20Conditions%20Apply%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Happy%20Family%20Conditions%20Apply%20Season%201.jpg",
-            "movieName": "Happy Family Conditions Apply Season 1",
-            "htmlFile": "https://www.18974",
-            "directOne": "Comedy,Drama",
-            "directSecond": "9dD4e5yaA3M",
-            "imbd": "8.2",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Happy Family Conditions Apply",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/1LDvdQvDWWseA9k/Happy_Family_Conditions_Apply_S01E01_18974_1.mkv.mp4",
-                "2": "https://streamtape.to/v/qrjL3Q0JomuzPLW/Happy_Family_Conditions_Apply_S01E02_18974_2.mkv.mp4",
-                "3": "https://streamtape.to/v/VOP46jlAmpfKmW7/Happy_Family_Conditions_Apply_S01E03_18974_3.mkv.mp4",
-                "4": "https://streamtape.to/v/lO17xGZ6Qjh7gB0/Happy_Family_Conditions_Apply_S01E04_18974_4.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/2yiq7ks4m780",
-                "2": "https://streamhub.to/8dy6qwa32t5w",
-                "3": "https://streamhub.to/lmfhznpwdpai",
-                "4": "https://streamhub.to/r0ajs1vpahiu"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {}
-        },
-        {
             "id": "904",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Shark%20Tank%20India%20Season%202.webp",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Shark%20Tank%20India%20Season%202.jpg",
@@ -35076,6 +35047,39 @@
             "episodeServer4": {}
         },
         {
+            "id": "974",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Happy%20Family%20Conditions%20Apply%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Happy%20Family%20Conditions%20Apply%20Season%201.jpg",
+            "movieName": "Happy Family Conditions Apply Season 1",
+            "htmlFile": "https://www.18974",
+            "directOne": "Comedy,Drama",
+            "directSecond": "9dD4e5yaA3M",
+            "imbd": "8.2",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Happy Family Conditions Apply",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/1LDvdQvDWWseA9k/Happy_Family_Conditions_Apply_S01E01_18974_1.mkv.mp4",
+                "2": "https://streamtape.to/v/qrjL3Q0JomuzPLW/Happy_Family_Conditions_Apply_S01E02_18974_2.mkv.mp4",
+                "3": "https://streamtape.to/v/VOP46jlAmpfKmW7/Happy_Family_Conditions_Apply_S01E03_18974_3.mkv.mp4",
+                "4": "https://streamtape.to/v/lO17xGZ6Qjh7gB0/Happy_Family_Conditions_Apply_S01E04_18974_4.mkv.mp4",
+                "5":"https://streamtape.to/v/W1Kk7qQG1YUb6AD/Happy_Family_Conditions_Apply_S01E05_18974_5.mkv.mp4",
+                "6":"https://streamtape.to/v/KP71q18mMZhAXY/Happy_Family_Conditions_Apply_S01E06_18974_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/2yiq7ks4m780",
+                "2": "https://streamhub.to/8dy6qwa32t5w",
+                "3": "https://streamhub.to/lmfhznpwdpai",
+                "4": "https://streamhub.to/r0ajs1vpahiu",
+                "5":"https://streamhub.to/sttwj2dts6h0",
+                "6":"https://streamhub.to/kd53idhx2sir"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
             "id": "975",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Rana%20Naidu%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Rana%20Naidu%20Season%201.jpg",
@@ -35149,6 +35153,149 @@
                 "6": "https://streamhub.to/tkkinyrnpvmj",
                 "7": "https://streamhub.to/7qad83xncajc",
                 "8": "https://streamhub.to/gpmkqpgs2jyu"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "980",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Shadow%20and%20Bone%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Shadow%20and%20Bone%20Season%202.jpg",
+            "movieName": "Shadow and Bone Season 2",
+            "htmlFile": "https://www.18980",
+            "directOne": "Action,Adventure",
+            "directSecond": "kLtKS2Ge0uI",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Shadow and Bone",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/8OmB799jkwSo9q7/Shadow_and_Bone_S02E01_18980_1.mkv.mp4",
+                "2": "https://streamtape.to/v/lGPLWbQ7lvFaem/Shadow_and_Bone_S02E02_18980_2.mkv.mp4",
+                "3": "https://streamtape.to/v/dLv2mZ6pAqSkLv6/Shadow_and_Bone_S02E03_18980_3.mkv.mp4",
+                "4": "https://streamtape.to/v/GAGoKB1lwpC1brA/Shadow_and_Bone_S02E04_18980_4.mkv.mp4",
+                "5": "https://streamtape.to/v/zX96WqqVWyUeeR/Shadow_And_Bone_S02E05_18980_5.mkv.mp4",
+                "6": "https://streamtape.to/v/6KZOqkGpgqt99Qm/Shadow_And_Bone_S02E06_18980_6.mkv.mp4",
+                "7": "https://streamtape.to/v/Pv2Y3PKQVYHxW7/Shadow_And_Bone_S02E07_18980_7.mkv.mp4",
+                "8": "https://streamtape.to/v/WG6XrZ76DAfMgd/Shadow_And_Bone_S02E08_18980_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/jg4myif4knbj",
+                "2": "https://streamhub.to/wsyj6aiivaby",
+                "3": "https://streamhub.to/wfl2pnpevxze",
+                "4": "https://streamhub.to/d7c8z4w6cqfc",
+                "5": "https://streamhub.to/7htcs8lsybxg",
+                "6": "https://streamhub.to/crjwkmtsz81o",
+                "7": "https://streamhub.to/m4tw8d9qyuj7",
+                "8": "https://streamhub.to/7og3dyivhvi2"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "981",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Overtrump%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Overtrump%20Season%201.jpg",
+            "movieName": "Overtrump Season 1",
+            "htmlFile": "https://www.18981",
+            "directOne": "Drama",
+            "directSecond": "_Kw5muE1WR4",
+            "imbd": "8.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Overtrump",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/k0L7M4166DHy03/Overtrump_%282023%29_S01_Complete_18981_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/lhwsqk1dq199"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "982",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Class%20of%2007%20Season%201.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Class%20of%2007%20Season%201.jpg",
+            "movieName": "Class of 07 Season 1",
+            "htmlFile": "https://www.18982",
+            "directOne": "Comedy",
+            "directSecond": "L5hbAt-7jd0",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Class of 07",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/A6Dy6qOGg9fBm2/Class_of_07_%282023%29_S01_Complete_18982_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/g1jonvwomg9e"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "983",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Dom%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Dom%20Season%202.jpg",
+            "movieName": "Dom Season 2",
+            "htmlFile": "https://www.18983",
+            "directOne": "Crime,Drama",
+            "directSecond": "WXi7Awgnqwg",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Dom",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/qW2O8gRageIRmg/DOM_S02E01_18983_1.mkv.mp4",
+                "2":"https://streamtape.to/v/qOAZY1wg1Gcwq7/DOM_S02E02_18983_2.mkv.mp4",
+                "3":"https://streamtape.to/v/mYxj3el89vub89O/DOM_S02E03_18983_3.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/pvv8p2jae3fh",
+                "2":"https://streamhub.to/0wpe1fkiswwf",
+                "3":"https://streamhub.to/72z2isdaa0hl"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "984",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Pop%20Kaun%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Pop%20Kaun%20Season%201.jpg",
+            "movieName": "Pop Kaun? Season 1",
+            "htmlFile": "https://www.18984",
+            "directOne": "Comedy,Drama",
+            "directSecond": "hIXyT2WuTCs",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Pop Kaun? ",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/y0bdXmDM6ec1VgL/Pop_Kaun_S01E01_18984_1.mkv.mp4",
+                "2": "https://streamtape.to/v/W3LejaxyyltbP12/Pop_Kaun_S01E02_18984_2.mkv.mp4",
+                "3": "https://streamtape.to/v/03GPKO9P6YTbP4b/Pop_Kaun_S01E03_18984_3.mkv.mp4",
+                "4": "https://streamtape.to/v/LYJBQlZ1mkfZze/Pop_Kaun_S01E04_18984_4.mkv.mp4",
+                "5": "https://streamtape.to/v/XbgYmywyL7fD8q4/Pop_Kaun_S01E05_18984_5.mkv.mp4",
+                "6": "https://streamtape.to/v/VyKpylPWJbsKRez/Pop_Kaun_S01E06_18984_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/8so37x0pbuaw",
+                "2": "https://streamhub.to/1c78k6w8kz81",
+                "3": "https://streamhub.to/o0nel1sik0hp",
+                "4": "https://streamhub.to/va738qegywca",
+                "5": "https://streamhub.to/fsr66zn6iatw",
+                "6": "https://streamhub.to/4yi7jds97zsd"
             },
             "episodeServer3": {},
             "episodeServer4": {}
