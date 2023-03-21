@@ -35270,6 +35270,29 @@
             "episodeServer4": {}
         },
         {
+            "id": "987",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Varanasi%20Junction%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Varanasi%20Junction%20Season%201.jpg",
+            "movieName": "Varanasi Junction Season 1",
+            "htmlFile": "https://www.18987",
+            "directOne": "Crime,Thriller",
+            "directSecond": "vYQPbflWeFc",
+            "imbd": "8.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Varanasi Junction",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/OJKb79Kd1MUZb9K/Varanasi_Junction_%282023%29_S01_Complete_18987_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/ix06x85gbe9c"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
             "id": "986",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/No%20Traces%20%E2%80%93%20Sin%20Huellas%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/No%20Traces%20%E2%80%93%20Sin%20Huellas%20Season%201.jpg",
