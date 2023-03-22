@@ -35400,6 +35400,43 @@
             },
             "episodeServer3": {},
             "episodeServer4": {}
+        },
+        {
+            "id": "988",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/V1/Hunter%20%E2%80%93%20Tootega%20Nahi,%20Todega%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Hunter%20%E2%80%93%20Tootega%20Nahi,%20Todega%20Season%201.jpg",
+            "movieName": "Hunter – Tootega Nahi, Todega Season 1",
+            "htmlFile": "https://www.18988",
+            "directOne": "Action,Crime,Thriller",
+            "directSecond": "kWzkJn84Mbo",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Hunter – Tootega Nahi, Todega",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/jP1m3DoQmpFzWmz/Hunter_S01E01_18988_1.mkv.mp4",
+                "2": "https://streamtape.to/v/VBDDKlyZk7u9AG/Hunter_S01E02_18988_2.mkv.mp4",
+                "3": "https://streamtape.to/v/rgxevAeaWvugyP/Hunter_S01E03_18988_3.mkv.mp4",
+                "4": "https://streamtape.to/v/yjkZDqbrxWTdo6/Hunter_S01E04_18988_4.mkv.mp4",
+                "5": "https://streamtape.to/v/g9QVv3AB4xCqjx6/Hunter_S01E05_18988_5.mkv.mp4",
+                "6": "https://streamtape.to/v/Dka9OMpL0Rsk2MP/Hunter_S01E06_18988_6.mkv.mp4",
+                "7": "https://streamtape.to/v/kzPo18XzO7ueWa/Hunter_S01E07_18988_7.mkv.mp4",
+                "8": "https://streamtape.to/v/P64BY9Jex7IB1b/Hunter_S01E08_18988_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/cnc5xzwmtyp1",
+                "2": "https://streamhub.to/ck0vysssa7aw",
+                "3": "https://streamhub.to/ihgwyre5n3jv",
+                "4": "https://streamhub.to/ilp1knhfs84z",
+                "5": "https://streamhub.to/dvsf6n8vvqzd",
+                "6": "https://streamhub.to/jiducur5puvr",
+                "7": "https://streamhub.to/w3jlydwtlw3o",
+                "8": "https://streamhub.to/kqq2nw4pdr06"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
         }
     ]
 }
