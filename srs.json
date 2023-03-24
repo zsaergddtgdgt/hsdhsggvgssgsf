@@ -35443,6 +35443,71 @@
             },
             "episodeServer3": [],
             "episodeServer4": []
+        },
+        {
+            "id": "989",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Tu%20Zakhm%20Hai%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Tu%20Zakhm%20Hai%20Season%202.jpg",
+            "movieName": "Tu Zakhm Hai Season 2",
+            "htmlFile": "https://www.18989",
+            "directOne": "Romance",
+            "directSecond": "vwMww_d-4P0",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Tu Zakhm Hai",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/RyyvYvWjrMuxJk/Tu_Zakhm_Hai_2023_S02_Complete_18989_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/fy4mtla7je7w"
+            },
+            "episodeServer3": [],
+            "episodeServer4": []
+        },
+        {
+            "id": "990",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Night%20Agent%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Night%20Agent%20Season%201.jpg",
+            "movieName": "The Night Agent Season 1",
+            "htmlFile": "https://www.18990",
+            "directOne": "Action,Thriller",
+            "directSecond": "a_dFzrWx8A4",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Night Agent",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/vLOaRQ3vjyU46oz/The_Night_Agent_S01E01_18990_1.mkv.mp4",
+                "2": "https://streamtape.to/v/XJJdVM2087tD9V1/The_Night_Agent_S01E02_18990_2.mkv.mp4",
+                "3": "https://streamtape.to/v/wY7MdGqJ7ZSeOl/The_Night_Agent_S01E03_18990_3.mkv.mp4",
+                "4": "https://streamtape.to/v/K7mqg9bVKPs09Yp/The_Night_Agent_S01E04_18990_4.mkv.mp4",
+                "5": "https://streamtape.to/v/JWdqgKbmzGSjK8x/The_Night_Agent_S01E05_18990_5.mkv.mp4",
+                "6": "https://streamtape.to/v/vkAMg836W8U4Z62/The_Night_Agent_S01E06_18990_6.mkv.mp4",
+                "7": "https://streamtape.to/v/gg9KmRvOXYS3zw/The_Night_Agent_S01E07_18990_7.mkv.mp4",
+                "8": "https://streamtape.to/v/m6YwAGB1ersb3vz/The_Night_Agent_S01E08_18990_8.mkv.mp4",
+                "9": "https://streamtape.to/v/PJbQW4Q7yKc0JvM/The_Night_Agent_S01E09_18990_9.mkv.mp4",
+                "10": "https://streamtape.to/v/1a1pyDgqzDi68B/The_Night_Agent_S01E010_18990_10.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/7w7s77wowo6y",
+                "2": "https://streamhub.to/mkojrm4ihk7c",
+                "3": "https://streamhub.to/26ahmjfk5m4d",
+                "4": "https://streamhub.to/ejba8murhjgz",
+                "5": "https://streamhub.to/7cr5fi6ysnbd",
+                "6": "https://streamhub.to/ds6pa4f5wfym",
+                "7": "https://streamhub.to/3aslrrnuvo9y",
+                "8": "https://streamhub.to/ldeb3lvbfibp",
+                "9": "https://streamhub.to/cqowmkmatvi1",
+                "10": "https://streamhub.to/75p0peit95aw"
+            },
+            "episodeServer3": [],
+            "episodeServer4": []
         }
+        
     ]
 }
