@@ -1,5 +1,22 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "3041",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/V1/Bheed%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Bheed%20(2023).jpg",
+            "movieName": "Bheed (2023)",
+            "htmlFile": "https://www.13041",
+            "directOne": "Hindi",
+            "directSecond": "lGAKZ6L9IVo",
+            "rating": "HDCamRip",
+            "catergory": "Drama",
+            "Industry": "Bollywood",
+            "hub": "https://streamhub.to/hhbtxu8xpjkz",
+            "tape": "https://streamtape.to/v/xZBKj9mJ0pskYXe/Bheed_%282023%29_13041.mkv.mp4",
+            "server3": "",
+            "server4": ""
+        },
     {
             "id": "3039",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Chor%20Nikal%20Ke%20Bhaga%20(2023).jpg",
@@ -29,6 +46,38 @@
             "Industry": "Bollywood",
             "hub": "https://streamhub.to/tvmrmcewpuyi",
             "tape": "https://streamtape.to/v/39qKJ6KKYGtd7bX/Kanjoos_Makhichoos_2023_3038.mkv.mp4",
+            "server3": "",
+            "server4": ""
+        },
+        {
+            "id": "3037",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/V1/John%20Wick%20-%20Chapter%204%20(2023).webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/John%20Wick%20-%20Chapter%204%20(2023).jpg",
+            "movieName": "John Wick - Chapter 4 (2023)",
+            "htmlFile": "https://www.113037",
+            "directOne": "Hindi+English",
+            "directSecond": "by7wD4jlkwA",
+            "rating": "HDCamRip V2",
+            "catergory": "Action,Crime",
+            "Industry": "Hollywood",
+            "hub": "https://streamhub.to/i6ro7z58q9ag",
+            "tape": "https://streamtape.to/v/K98QzmbRQ0S0Gam/John_Wick-Chapter_4_2023_113037.mkv.mp4",
+            "server3": "",
+            "server4": ""
+        }, 
+        {
+            "id": "3040",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Das%20Ka%20Dhamki%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Das%20Ka%20Dhamki%20(2023).jpg",
+            "movieName": "Das Ka Dhamki (2023)",
+            "htmlFile": "https://www.3040",
+            "directOne": "Hindi[HQ DUB]+Telugu",
+            "directSecond": "SQkTBzKU99w",
+            "rating": "HDCamRip",
+            "catergory": "Action,Comedy",
+            "Industry": "South",
+            "hub": "https://streamhub.to/6gy9619d6www",
+            "tape": "https://streamtape.to/v/mgV3XjaZXyibreo/Das_Ka_Dhamki_%282023%29_3040.mkv.mp4",
             "server3": "",
             "server4": ""
         },
@@ -63,22 +112,6 @@
             "tape": "https://streamtape.to/v/zlMlmKOGevIod7/Avatar_-_The_Way_of_Water_%282022%29_%282022%29_2773.mkv.mp4",
             "server3": "FALSE",
             "server4": "FALSE"
-        },
-        {
-            "id": "3037",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/V1/John%20Wick%20-%20Chapter%204%20(2023).webp",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/John%20Wick%20-%20Chapter%204%20(2023).jpg",
-            "movieName": "John Wick - Chapter 4 (2023)",
-            "htmlFile": "https://www.113037",
-            "directOne": "Hindi+English",
-            "directSecond": "by7wD4jlkwA",
-            "rating": "HDCamRip",
-            "catergory": "Action,Crime",
-            "Industry": "Hollywood",
-            "hub": "https://streamhub.to/utlit8e72ihe",
-            "tape": "https://streamtape.to/v/jOB6pRm3YztzeYA/John_Wick-Chapter_4_2023_113037.mkv.mp4",
-            "server3": "",
-            "server4": ""
         },
         {
             "id": "3021",
