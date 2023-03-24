@@ -1,6 +1,21 @@
 {
     "AllMovieDataList": [
-    
+    {
+            "id": "3039",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Chor%20Nikal%20Ke%20Bhaga%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Chor%20Nikal%20Ke%20Bhaga%20(2023).jpg",
+            "movieName": "Chor Nikal Ke Bhaga (2023)",
+            "htmlFile": "https://www.3039",
+            "directOne": "Hindi",
+            "directSecond": "0B4fbzWGub4",
+            "rating": "HD 720p",
+            "catergory": "Crime,Thriller",
+            "Industry": "Bollywood",
+            "hub": "https://streamhub.to/vkcu00i216i3",
+            "tape": "https://streamtape.to/v/9lBGj3ValGH9R1/Chor_Nikal_Ke_Bhaga_2023_3039.mkv.mp4",
+            "server3": "",
+            "server4": ""
+        },
         {
             "id": "3038",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Kanjoos%20Makhichoos%20(2023).jpg",
