@@ -35476,6 +35476,29 @@
             "episodeServer4": []
         },
         {
+            "id": "991",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Seven%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Seven%20Season%201.jpg",
+            "movieName": "Seven Season 1",
+            "htmlFile": "https://www.18991",
+            "directOne": "Thriller,Drama",
+            "directSecond": "R3tZmnbZtuQ",
+            "imbd": "8.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Seven",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/vLOaRQ3vjyU46oz/The_Night_Agent_S01E01_18990_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://v808.streamhub.to/sc6tutuxx4ytnuzvovhs52bkx4q3pvk6oyoisjsb6hwhaanw6biwwqf4np2a/v.mp4"
+            },
+            "episodeServer3": [],
+            "episodeServer4": []
+        },
+        {
             "id": "990",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Night%20Agent%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Night%20Agent%20Season%201.jpg",
@@ -35512,6 +35535,33 @@
                 "8": "https://streamhub.to/ldeb3lvbfibp",
                 "9": "https://streamhub.to/cqowmkmatvi1",
                 "10": "https://streamhub.to/75p0peit95aw"
+            },
+            "episodeServer3": [],
+            "episodeServer4": []
+        },
+        {
+            "id": "992",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Crimes%20Aaj%20Kal%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Crimes%20Aaj%20Kal%20Season%201.jpg",
+            "movieName": "Crimes Aaj Kal Season 1",
+            "htmlFile": "https://www.18992",
+            "directOne": "Crime,Drama",
+            "directSecond": "R3tZmnbZtuQ",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Crimes Aaj Kal",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/lOPX9qYGMDF7GjR/Crimes_Aaj_Kal_S01E01_18992_1.mkv.mp4",
+                "2": "https://streamtape.to/v/Gj340LkXz2so0D/Crimes_Aaj_Kal_S01E02_18992_2.mkv.mp4",
+                "3": "https://streamtape.to/v/x902L0qzRyskbKX/Crimes_Aaj_Kal_S01E03_18992_3.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://v802.streamhub.to/sc6t6suxx4ytnuzvovhs55rwvpz2xzrzq6zsnuqe4w4fdxg23b4gnicuonoa/v.mp4",
+                "2": "https://v802.streamhub.to/sc6t6smxx4ytnuzvovhs54l572ddjmikkhyx4eplbaxeyhcr76tanzwirn5a/v.mp4",
+                "3": "https://v802.streamhub.to/sc6t6sexx4ytnuzvovhs52baxhz26aygogjpwjw2sb3pmzqsk3gvg746k2wa/v.mp4"
             },
             "episodeServer3": [],
             "episodeServer4": []
