@@ -35536,6 +35536,29 @@
             "episodeServer4": {}
         },
         {
+            "id": "994",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Virodh%20Season%201.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Virodh%20Season%201.jpg",
+            "movieName": "Virodh Season 1",
+            "htmlFile": "https://www.18994",
+            "directOne": "Crime,Thriller",
+            "directSecond": "UQadIps4_wY",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Virodh",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/R90b1Mlj2XFd4o9/Virodh_%282023%29_18994_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/m50ncesqlhbl"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
             "id": "970",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Star%20Trek%20Picard%20Season%203.webp",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Star%20Trek%20Picard%20Season%203.jpg",
