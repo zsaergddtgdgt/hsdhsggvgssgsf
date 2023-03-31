@@ -35348,72 +35348,6 @@
             "episodeServer4": {}
         },
         {
-            "id": "983",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Dom%20Season%202.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Dom%20Season%202.jpg",
-            "movieName": "Dom Season 2",
-            "htmlFile": "https://www.18983",
-            "directOne": "Crime,Drama",
-            "directSecond": "WXi7Awgnqwg",
-            "imbd": "8.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Dom",
-            "pathName": "S2",
-            "EpisodeTape": {
-                "1": "https://streamtape.com/v/DABrJkljWvTD4d/DOM_S02E01_18983_1.mkv.mp4",
-                "2": "https://streamtape.com/v/4domVvprQzcKMrw/DOM_S02E02_18983_2.mkv.mp4",
-                "3": "https://streamtape.com/v/gLX4wMlDq3fq60Y/DOM_S02E03_18983_3.mkv.mp4",
-                "4": "https://streamtape.com/v/lazXWaW2PRfoJk/DOM_S02E04_18983_4.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/pvv8p2jae3fh",
-                "2": "https://streamhub.to/0wpe1fkiswwf",
-                "3": "https://streamhub.to/72z2isdaa0hl",
-                "4": "https://streamhub.to/37mmkej4xp30"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {}
-        },
-        {
-            "id": "974",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Happy%20Family%20Conditions%20Apply%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Happy%20Family%20Conditions%20Apply%20Season%201.jpg",
-            "movieName": "Happy Family Conditions Apply Season 1",
-            "htmlFile": "https://www.18974",
-            "directOne": "Comedy,Drama",
-            "directSecond": "9dD4e5yaA3M",
-            "imbd": "8.2",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Happy Family Conditions Apply",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.com/v/kzVMlajZYbsP6z/Happy_Family_Conditions_Apply_S01E01_18974_1.mkv.mp4",
-                "2": "https://streamtape.com/v/6oz7Xg7RrDie1a/Happy_Family_Conditions_Apply_S01E02_18974_2.mkv.mp4",
-                "3": "https://streamtape.com/v/lGD1Rll2R2iZok/Happy_Family_Conditions_Apply_S01E03_18974_3.mkv.mp4",
-                "4": "https://streamtape.com/v/b7kYobx9ypUPjLQ/Happy_Family_Conditions_Apply_S01E04_18974_4.mkv.mp4",
-                "5": "https://streamtape.com/v/r4wqWoQRjdIbmbr/Happy_Family_Conditions_Apply_S01E05_18974_5.mkv.mp4",
-                "6": "https://streamtape.com/v/KkRj8Qo0BOh01eW/Happy_Family_Conditions_Apply_S01E06_18974_6.mkv.mp4",
-                "7": "https://streamtape.com/v/b3JXyjxROmTPXKd/Happy_Family_Conditions_Apply_S01E07_18974_7.mkv.mp4",
-                "8": "https://streamtape.com/v/7PLk89Y8qpfAA7G/Happy_Family_Conditions_Apply_S01E08_18974_8.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/2yiq7ks4m780",
-                "2": "https://streamhub.to/8dy6qwa32t5w",
-                "3": "https://streamhub.to/lmfhznpwdpai",
-                "4": "https://streamhub.to/r0ajs1vpahiu",
-                "5": "https://streamhub.to/sttwj2dts6h0",
-                "6": "https://streamhub.to/kd53idhx2sir",
-                "7": "https://streamhub.to/lrkqna7dnnxw",
-                "8": "https://streamhub.to/amrixnci45kl"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {}
-        },
-        {
             "id": "991",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Seven%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Seven%20Season%201.jpg",
@@ -35505,6 +35439,78 @@
             "episodeServer4": {}
         },
         {
+            "id": "983",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Dom%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Dom%20Season%202.jpg",
+            "movieName": "Dom Season 2",
+            "htmlFile": "https://www.18983",
+            "directOne": "Crime,Drama",
+            "directSecond": "WXi7Awgnqwg",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Dom",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.com/v/DABrJkljWvTD4d/DOM_S02E01_18983_1.mkv.mp4",
+                "2": "https://streamtape.com/v/4domVvprQzcKMrw/DOM_S02E02_18983_2.mkv.mp4",
+                "3": "https://streamtape.com/v/gLX4wMlDq3fq60Y/DOM_S02E03_18983_3.mkv.mp4",
+                "4": "https://streamtape.com/v/lazXWaW2PRfoJk/DOM_S02E04_18983_4.mkv.mp4",
+                "5":"https://streamtape.to/v/q3wxW7GKbqTz2Aw/Dom_S02E05_18983_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/pvv8p2jae3fh",
+                "2": "https://streamhub.to/0wpe1fkiswwf",
+                "3": "https://streamhub.to/72z2isdaa0hl",
+                "4": "https://streamhub.to/37mmkej4xp30",
+                "5":"https://streamhub.to/16hl9y3cb94n"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "974",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Happy%20Family%20Conditions%20Apply%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Happy%20Family%20Conditions%20Apply%20Season%201.jpg",
+            "movieName": "Happy Family Conditions Apply Season 1",
+            "htmlFile": "https://www.18974",
+            "directOne": "Comedy,Drama",
+            "directSecond": "9dD4e5yaA3M",
+            "imbd": "8.2",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Happy Family Conditions Apply",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.com/v/kzVMlajZYbsP6z/Happy_Family_Conditions_Apply_S01E01_18974_1.mkv.mp4",
+                "2": "https://streamtape.com/v/6oz7Xg7RrDie1a/Happy_Family_Conditions_Apply_S01E02_18974_2.mkv.mp4",
+                "3": "https://streamtape.com/v/lGD1Rll2R2iZok/Happy_Family_Conditions_Apply_S01E03_18974_3.mkv.mp4",
+                "4": "https://streamtape.com/v/b7kYobx9ypUPjLQ/Happy_Family_Conditions_Apply_S01E04_18974_4.mkv.mp4",
+                "5": "https://streamtape.com/v/r4wqWoQRjdIbmbr/Happy_Family_Conditions_Apply_S01E05_18974_5.mkv.mp4",
+                "6": "https://streamtape.com/v/KkRj8Qo0BOh01eW/Happy_Family_Conditions_Apply_S01E06_18974_6.mkv.mp4",
+                "7": "https://streamtape.com/v/b3JXyjxROmTPXKd/Happy_Family_Conditions_Apply_S01E07_18974_7.mkv.mp4",
+                "8": "https://streamtape.com/v/7PLk89Y8qpfAA7G/Happy_Family_Conditions_Apply_S01E08_18974_8.mkv.mp4",
+                "9":"https://streamtape.to/v/ay8YL2dKyVIxrk0/Happy_Family_Conditions_Apply_S01E09_18974_9.mkv.mp4",
+                "10":"https://streamtape.to/v/DPx0OeVkpBcdG0/Happy_Family_Conditions_Apply_S01E10_18974_10.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/2yiq7ks4m780",
+                "2": "https://streamhub.to/8dy6qwa32t5w",
+                "3": "https://streamhub.to/lmfhznpwdpai",
+                "4": "https://streamhub.to/r0ajs1vpahiu",
+                "5": "https://streamhub.to/sttwj2dts6h0",
+                "6": "https://streamhub.to/kd53idhx2sir",
+                "7": "https://streamhub.to/lrkqna7dnnxw",
+                "8": "https://streamhub.to/amrixnci45kl",
+                "9":"https://streamhub.to/j9hirxg5kciy",
+                "10":"https://streamhub.to/0wtpubv67ptr"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
             "id": "958",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Mandalorian%20Season%203.webp",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Mandalorian%20Season%203.jpeg",
@@ -35589,6 +35595,74 @@
                 "5": "https://streamhub.to/v8i0snz3eotq",
                 "6": "https://streamhub.to/431qayvfbdwv",
                 "7":"https://streamhub.to/el6tbyqrjn64"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "995",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Power%20Season%201.png",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Power%20Season%201.jpg",
+            "movieName": "The Power Season 1",
+            "htmlFile": "https://www.18995",
+            "directOne": "Drama,Fantasy",
+            "directSecond": "rjcgp-FxMxk",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Power",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/v2x0xkM74BC4VGQ/The_Power_S01E01_18995_1.mkv.mp4",
+                "2": "https://streamtape.to/v/88oRQpgA9Atodbz/The_Power_S01E02_18995_2.mkv.mp4",
+                "3": "https://streamtape.to/v/qMXVa3vVkbUaYV/The_Power_S01E03_18995_3.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/qu116bfqflba",
+                "2": "https://streamhub.to/sfr9fp42s720",
+                "3": "https://streamhub.to/x1ezbv7jhmkc"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "996",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Victor%20Lessard%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Victor%20Lessard%20Season%201.jpg",
+            "movieName": "Victor Lessard Season 1",
+            "htmlFile": "https://www.18996",
+            "directOne": "Crime",
+            "directSecond": "n1n4OsEM3B8",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Victor Lessard",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/2bMOw1ZGgOixPo/Victor_Lessard_S01E01_18996_1.mkv.mp4",
+                "2": "https://streamtape.to/v/ZbaD464G3Lhq14J/Victor_Lessard_S01E02_18996_2.mkv.mp4",
+                "3": "https://streamtape.to/v/lG9rQQZ4P2h7PDj/Victor_Lessard_S01E03_18996_3.mkv.mp4",
+                "4": "https://streamtape.to/v/jjMmwvBDQzuz977/Victor_Lessard_S01E04_18996_4.mkv.mp4",
+                "5": "https://streamtape.to/v/1z96MD6e6ltevoj/Victor_Lessard_S01E05_18996_5.mkv.mp4",
+                "6": "https://streamtape.to/v/0zrPoQwxQlumzg/Victor_Lessard_S01E06_18996_6.mkv.mp4",
+                "7": "https://streamtape.to/v/Bb07MymYQafyAgM/Victor_Lessard_S01E07_18996_7.mkv.mp4",
+                "8": "https://streamtape.to/v/xmgJMvJjymikBmX/Victor_Lessard_S01E08_18996_8.mkv.mp4",
+                "9": "https://streamtape.to/v/XqbXlm771xhDedZ/Victor_Lessard_S01E09_18996_9.mkv.mp4",
+                "10": "https://streamtape.to/v/j6ykwOjOq7iLpx/Victor_Lessard_S01E010_18996_10.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/cs0p22n71te3",
+                "2": "https://streamhub.to/1dxoq1jusnco",
+                "3": "https://streamhub.to/9hiqasno02gx",
+                "4": "https://streamhub.to/r5pqfj9c5hj4",
+                "5": "https://streamhub.to/wfmv2dily20y",
+                "6": "https://streamhub.to/g27qbbrk0s63",
+                "7": "https://streamhub.to/ubv7rubw8okw",
+                "8": "https://streamhub.to/emm5fbohpe65",
+                "9": "https://streamhub.to/ukkwo8tjtjp9",
+                "10": "https://streamhub.to/8n8qw3dvry5w"
             },
             "episodeServer3": {},
             "episodeServer4": {}
