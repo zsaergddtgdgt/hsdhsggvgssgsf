@@ -35288,35 +35288,6 @@
             "episodeServer4": {}
         },
         {
-            "id": "958",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Mandalorian%20Season%203.webp",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Mandalorian%20Season%203.jpeg",
-            "movieName": "The Mandalorian Season 3",
-            "htmlFile": "https://www.18958",
-            "directOne": "Action,Fantasy",
-            "directSecond": "uMCfX62dhS0",
-            "imbd": "8.2",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "The Mandalorian",
-            "pathName": "S3",
-            "EpisodeTape": {
-                "1": "https://streamtape.com/v/Zak9AZQJg9IqpXy/The_Mandalorian_S03E01_18958_1.mkv.mp4",
-                "2": "https://streamtape.com/v/Z2JWqLM9q9uy8R/The_Mandalorian_S03E02_18958_2.mkv.mp4",
-                "3": "https://streamtape.com/v/4Gyzxg0O9WcJMY/The_Mandalorian_S03E03_18958_3.mkv.mp4",
-                "4": "https://streamtape.com/v/RBwR42J2Z2Cdzop/The_Mandalorian_S03E04_18958_4.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/l4k14d5crurr",
-                "2": "https://streamhub.to/fa2ndmta9u4f",
-                "3": "https://streamhub.to/olom7i9y6xwo",
-                "4": "https://streamhub.to/yfan9renl4lh"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {}
-        },
-        {
             "id": "988",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Hunter%20%E2%80%93%20Tootega%20Nahi,%20Todega%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Hunter%20%E2%80%93%20Tootega%20Nahi,%20Todega%20Season%201.jpg",
@@ -35443,39 +35414,6 @@
             "episodeServer4": {}
         },
         {
-            "id": "970",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Star%20Trek%20Picard%20Season%203.webp",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Star%20Trek%20Picard%20Season%203.jpg",
-            "movieName": "Star Trek Picard Season 3",
-            "htmlFile": "https://www.18970",
-            "directOne": "Action,Adventure",
-            "directSecond": "KMyQkazS1hA",
-            "imbd": "8.2",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Star Trek Picard",
-            "pathName": "S3",
-            "EpisodeTape": {
-                "1": "https://streamtape.com/v/JA7bDBleaRSggR/Star_Trek_Picard_S03_E01_18970_1.mkv.mp4",
-                "2": "https://streamtape.com/v/MaQgWjAvdOSDrK/Star_Trek_Picard_S03E02_18970_2.mkv.mp4",
-                "3": "https://streamtape.com/v/o9Q8aQYKbZfJXko/star_trek_picard_s03e03_18970_3.mkv.mp4",
-                "4": "https://streamtape.com/v/wlYm26yqzMCJdd0/Star_Trek_Picard_S03E04_18970_4.mkv.mp4",
-                "5": "https://streamtape.com/v/yM9a2Ll4z2h1rmg/Star_Trek_Picard_S03E05_18970_5.mkv.mp4",
-                "6": "https://streamtape.com/v/A1KrRAzzrLTXOQM/Star_Trek_Picard_S03E06_18970_6.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/yy8gi94cctx2",
-                "2": "https://streamhub.to/12i7ljrju6y6",
-                "3": "https://streamhub.to/011ex64ziaif",
-                "4": "https://streamhub.to/6ryv7vra3sgk",
-                "5": "https://streamhub.to/v8i0snz3eotq",
-                "6": "https://streamhub.to/431qayvfbdwv"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {}
-        },
-        {
             "id": "991",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Seven%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Seven%20Season%201.jpg",
@@ -35567,6 +35505,72 @@
             "episodeServer4": {}
         },
         {
+            "id": "958",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Mandalorian%20Season%203.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Mandalorian%20Season%203.jpeg",
+            "movieName": "The Mandalorian Season 3",
+            "htmlFile": "https://www.18958",
+            "directOne": "Action,Fantasy",
+            "directSecond": "uMCfX62dhS0",
+            "imbd": "8.2",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Mandalorian",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.com/v/Zak9AZQJg9IqpXy/The_Mandalorian_S03E01_18958_1.mkv.mp4",
+                "2": "https://streamtape.com/v/Z2JWqLM9q9uy8R/The_Mandalorian_S03E02_18958_2.mkv.mp4",
+                "3": "https://streamtape.com/v/4Gyzxg0O9WcJMY/The_Mandalorian_S03E03_18958_3.mkv.mp4",
+                "4": "https://streamtape.com/v/RBwR42J2Z2Cdzop/The_Mandalorian_S03E04_18958_4.mkv.mp4",
+                "5":"https://streamtape.to/v/17x0VMjGRwCe3eV/The_Mandalorian_S03E05_18958_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/l4k14d5crurr",
+                "2": "https://streamhub.to/fa2ndmta9u4f",
+                "3": "https://streamhub.to/olom7i9y6xwo",
+                "4": "https://streamhub.to/yfan9renl4lh",
+                "5":"https://streamhub.to/x3bi51sl3p5i"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "970",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Star%20Trek%20Picard%20Season%203.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Star%20Trek%20Picard%20Season%203.jpg",
+            "movieName": "Star Trek Picard Season 3",
+            "htmlFile": "https://www.18970",
+            "directOne": "Action,Adventure",
+            "directSecond": "KMyQkazS1hA",
+            "imbd": "8.2",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Star Trek Picard",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.com/v/JA7bDBleaRSggR/Star_Trek_Picard_S03_E01_18970_1.mkv.mp4",
+                "2": "https://streamtape.com/v/MaQgWjAvdOSDrK/Star_Trek_Picard_S03E02_18970_2.mkv.mp4",
+                "3": "https://streamtape.com/v/o9Q8aQYKbZfJXko/star_trek_picard_s03e03_18970_3.mkv.mp4",
+                "4": "https://streamtape.com/v/wlYm26yqzMCJdd0/Star_Trek_Picard_S03E04_18970_4.mkv.mp4",
+                "5": "https://streamtape.com/v/yM9a2Ll4z2h1rmg/Star_Trek_Picard_S03E05_18970_5.mkv.mp4",
+                "6": "https://streamtape.com/v/A1KrRAzzrLTXOQM/Star_Trek_Picard_S03E06_18970_6.mkv.mp4",
+                "7":"https://streamtape.to/v/jVoYoBjmYDUzZpj/Star_Trek_Picard_S03E07_18970_7.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/yy8gi94cctx2",
+                "2": "https://streamhub.to/12i7ljrju6y6",
+                "3": "https://streamhub.to/011ex64ziaif",
+                "4": "https://streamhub.to/6ryv7vra3sgk",
+                "5": "https://streamhub.to/v8i0snz3eotq",
+                "6": "https://streamhub.to/431qayvfbdwv",
+                "7":"https://streamhub.to/el6tbyqrjn64"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
             "id": "993",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/United%20Kacche%20Season%201.webp",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/United%20Kacche%20Season%201.jpg",
@@ -35591,14 +35595,14 @@
                 "8": "https://streamtape.to/v/j7jmwyzdj4uLBW/United_Kacche_S01E08_18993_8.mkv.mp4"
             },
             "EpisodeHub": {
-                "1": "https://sto001noview.sh-content.com/v/01/00304/injcab4t0o1w_n/United.Kacche.S01E01-London.Aaye.480p.ZEE5.WEB-DL.AAC.2.0.H.264-Vegamovies.to.mkv_n.mp4?t=k2056O-Gx6yef5O6wKDHKYDmtmZIBoZ1dEyHerhivwI&s=1680249169&e=129600&f=1524792&sp=300&i=0.0&.mkv",
-                "2": "https://sto002noview.sh-content.com/v/01/00304/l9egh02pm87e_n/United.Kacche.S01E02-Jet.Lag.480p.ZEE5.WEB-DL.AAC.2.0.H.264-Vegamovies.to.mkv_n.mp4?t=F03aVUTRF3DfLzeTkC6LcRowQHmwBFlM3u0dg7XVgjI&s=1680249200&e=129600&f=1524798&sp=300&i=0.0&.mkv",
-                "3": "https://sto005.sh-content.com/v/01/00304/7hx8ufewv8bs_n/United.Kacche.S01E03-Pehli.Job.Dusra.Pyaar.480p.ZEE5.WEB-DL.AAC.2.0.H.264-Vegamovies.to.mkv_n.mp4?t=Z4iVx5IfoZ27jRPNfwX1FI0KDEkH-o6dOICFlfrofHw&s=1680249244&e=129600&f=1524813&sp=300&i=0.0&.mkv",
-                "4": "https://sto011.sh-content.com/v/01/00304/1r63yr5qfihg_n/United.Kacche.S01E04-Bus-king.480p.ZEE5.WEB-DL.AAC.2.0.H.264-Vegamovies.to.mkv_n.mp4?t=bOxc4SEI_phBtoWDCetYE_xOOiQW3Y-0aLk-FWhk3ec&s=1680249257&e=129600&f=1524827&sp=300&i=0.0&.mkv",
-                "5": "https://kpzygmcdgqeg.sh-content.com/v/01/00304/qq254q6hlmjq_n/United.Kacche.S01E05-Halloween.Mubarak.480p.ZEE5.WEB-DL.AAC.2.0.H.264-Vegamovies.to.mkv_n.mp4?t=lsIqBB5GgVmkAlM6MQoF6jmOksvkBK6V635ubXOm8-o&s=1680249302&e=129600&f=1524838&sp=300&i=0.0&.mkv",
-                "6": "https://encoder079.sh-content.com/v/01/00304/xxnp0ezb9pw0_o/United.Kacche.S01E06-Shaadi.at.the.Strip.480p.ZEE5.WEB-DL.AAC.2.0.H.264-Vegamovies.to.mkv_o.mp4?t=4tSoJDxmPq-Kz8luGq674LFKf-4jMxnzTRe458Gm3cQ&s=1680249324&e=129600&f=1524852&sp=600&i=0.0&.mkv",
-                "7": "https://encoder028.sh-content.com/v/01/00304/0anls3iitobv_o/United.Kacche.S01E07-Love.Bite.480p.ZEE5.WEB-DL.AAC.2.0.H.264-Vegamovies.to.mkv_o.mp4?t=bxznuX6tDVSwoK58twlJazMhoK8E_UeUxFEI9NBY4EM&s=1680249341&e=129600&f=1524870&sp=600&i=0.0&.mkv",
-                "8": "https://sto011noview.sh-content.com/v/01/00304/v7mb2ya2dg6q_n/United.Kacche.S01E08-The.Kaccha.Heist.480p.ZEE5.WEB-DL.AAC.2.0.H.264-Vegamovies.to.mkv_n.mp4?t=RxD2Mqi_b1w1SZS3hTFy44ex7xf4AYWb4l8eGqiiVxc&s=1680249358&e=129600&f=1524882&sp=300&i=0.0&.mkv"
+                "1": "https://streamhub.to/zynu17zfh8uk",
+                "2": "https://streamhub.to/ylkde2m1v9pf",
+                "3": "https://streamhub.to/1ruajasjagr0",
+                "4": "https://streamhub.to/8sx9pssu6jhp",
+                "5": "https://streamhub.to/k1spt2iwoi86",
+                "6": "https://streamhub.to/ogi6rarpks6u",
+                "7": "https://streamhub.to/z0cp9bdfknll",
+                "8": "https://streamhub.to/sh4igiqw30q9"
             },
             "episodeServer3": {},
             "episodeServer4": {}
