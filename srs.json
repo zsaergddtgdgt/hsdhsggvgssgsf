@@ -35431,9 +35431,9 @@
                 "3": "https://streamtape.xyz/v/x902L0qzRyskbKX/Crimes_Aaj_Kal_S01E03_18992_3.mkv.mp4"
             },
             "EpisodeHub": {
-                "1": "https://v802.streamhub.to/sc6t6suxx4ytnuzvovhs55rwvpz2xzrzq6zsnuqe4w4fdxg23b4gnicuonoa/v.mp4",
-                "2": "https://v802.streamhub.to/sc6t6smxx4ytnuzvovhs54l572ddjmikkhyx4eplbaxeyhcr76tanzwirn5a/v.mp4",
-                "3": "https://v802.streamhub.to/sc6t6sexx4ytnuzvovhs52baxhz26aygogjpwjw2sb3pmzqsk3gvg746k2wa/v.mp4"
+                "1": "https://v802.streamhub.to/sc6t6suxx4ytnuzvovhs55rwvpz2xzrzq6zsnuqe4w4fdxg23d4mc2swywpa/v.mp4",
+                "2": "https://v802.streamhub.to/sc6t6smxx4ytnuzvovhs54l572ddjmikkhyx4eplbaxeyhcr74tlafwlwjmq/v.mp4",
+                "3": "https://v802.streamhub.to/sc6t6sexx4ytnuzvovhs52baxhz26aygogjpwjw2sb3pmzqskzg3ewpnkqoa/v.mp4"
             },
             "episodeServer3": [],
             "episodeServer4": []
@@ -35789,6 +35789,35 @@
                 "4": "https://streamhub.to/dr0gtedbq03d",
                 "5": "https://streamhub.to/qvrx60s0q8n4",
                 "6": "https://streamhub.to/srd15pevuxcx"
+            },
+            "episodeServer3": [],
+            "episodeServer4": []
+        },
+        {
+            "id": "999",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Jubilee%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Jubilee%20Season%201.jpg",
+            "movieName": "Jubilee Season 1",
+            "htmlFile": "https://www.18999",
+            "directOne": "Drama",
+            "directSecond": "7-m9A6tC7A0",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Jubilee",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/g3X4pj3GgkUYWj/Jubilee_S01E01_18999_1.mkv.mp4",
+                "2": "https://streamtape.to/v/6WpzMzQZ9yu9zJW/Jubilee_S01E02_18999_2.mkv.mp4",
+                "3": "https://streamtape.to/v/WeGpjojr3QubBlG/Jubilee_S01E03_18999_3.mkv.mp4",
+                "4": "https://streamtape.to/v/x1KzqRgL04FkRxQ/Jubilee_S01E04_18999_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/mvnaa040mss3",
+                "2": "https://streamhub.to/4aldszo6xvjr",
+                "3": "https://streamhub.to/9m1m72psxdfp",
+                "4": "https://streamhub.to/0s8h7d1boyop"
             },
             "episodeServer3": [],
             "episodeServer4": []
