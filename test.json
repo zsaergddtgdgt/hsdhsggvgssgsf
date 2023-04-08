@@ -2,6 +2,22 @@
     "AllMovieDataList": [
     
         {
+            "id": "3083",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Pushpa%202%20-%20The%20Rule%20%7BWhere%20is%20Pushpa%7D%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Pushpa%202%20-%20The%20Rule%20%7BWhere%20is%20Pushpa%7D%20(2023).jpg",
+            "movieName": "Pushpa 2 - The Rule {Where is Pushpa} (2023)",
+            "htmlFile": "https://www.13083",
+            "directOne": "Hindi",
+            "directSecond": "FALSE",
+            "rating": "HD 720p",
+            "catergory": "Action,Crime",
+            "Industry": "Hollywood",
+            "hub": "https://streamhub.to/b2zscac0ox22",
+            "tape": "https://streamtape.to/v/1jpL6koAXRteqoM/Where_is_Pushpa_%28Pushpa_2_The_Rule%29_2023_13083.mkv.mp4",
+            "server3": "",
+            "server4": ""
+        },
+        {
             "id": "3080",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Gumraah%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Gumraah%20(2023).jpg",
@@ -32,6 +48,22 @@
             "tape": "https://streamtape.to/v/8RazWg7WGxIM6m/Acharya_%282023%29_17260.mkv.mp4",
             "server3": "FALSE",
             "server4": "FALSE"
+        },
+        {
+            "id": "3082",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/The%20Super%20Mario%20Bros.%20Movie%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/The%20Super%20Mario%20Bros.%20Movie%20(2023).jpg",
+            "movieName": "The Super Mario Bros. Movie (2023)",
+            "htmlFile": "https://www.13082",
+            "directOne": "Hindi+English",
+            "directSecond": "Dn49oSwyUiw",
+            "rating": "HD 720p",
+            "catergory": "Animation,Adventure",
+            "Industry": "Hollywood",
+            "hub": "https://streamhub.to/7jpk9cb8u7ni",
+            "tape": "https://streamtape.to/v/BkQlAV4Dg1SykOv/The_Super_Mario_Bros._Movie_%282023%29_13082.mkv.mp4",
+            "server3": "",
+            "server4": ""
         },
         {
             "id": "3024",
@@ -94,6 +126,22 @@
             "Industry": "Hollywood",
             "hub": "https://streamhub.to/o2nw8an00y14",
             "tape": "https://streamtape.to/v/Xjemjb0RYvhAXl/Shazam%21_Fury_of_the_Gods_%282023%29_13021.mkv.mp4",
+            "server3": "",
+            "server4": ""
+        },
+        {
+            "id": "3081",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Chupa%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Chupa%20(2023).jpg",
+            "movieName": "Chupa (2023)",
+            "htmlFile": "https://www.13081",
+            "directOne": "Hindi+English",
+            "directSecond": "aaYXG3yl0us",
+            "rating": "HD 720p",
+            "catergory": "Action,Adventure",
+            "Industry": "Hollywood",
+            "hub": "https://streamhub.to/kjt8994o5byg",
+            "tape": "https://streamtape.to/v/kLVRk1VvKbSP31/Chupa_%282023%29_13081.mkv.mp4",
             "server3": "",
             "server4": ""
         },

@@ -35565,68 +35565,6 @@
             "episodeServer4": []
         },
         {
-            "id": "970",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Star%20Trek%20Picard%20Season%203.webp",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Star%20Trek%20Picard%20Season%203.jpg",
-            "movieName": "Star Trek Picard Season 3",
-            "htmlFile": "https://www.18970",
-            "directOne": "Action,Adventure",
-            "directSecond": "KMyQkazS1hA",
-            "imbd": "8.2",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Star Trek Picard",
-            "pathName": "S3",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/AAqjdB72aVtXRve/Star_Trek_Picard_S03_E01_18970_1.mkv.mp4",
-                "2": "https://streamtape.to/v/BAQkmavM42tyx7Y/Star_Trek_Picard_S03E02_18970_2.mkv.mp4",
-                "3": "https://streamtape.to/v/wG8mpewpAGclOz/star_trek_picard_s03e03_18970_3.mkv.mp4",
-                "4": "https://streamtape.to/v/X22l7rLXVrtD6D1/Star_Trek_Picard_S03E04_18970_4.mkv.mp4",
-                "5": "https://streamtape.to/v/BkRbay9wBGHQK0/Star_Trek_Picard_S03E05_18970_5.mkv.mp4",
-                "6": "https://streamtape.to/v/aPVPBpV6e3Ixv0R/Star_Trek_Picard_S03E06_18970_6.mkv.mp4",
-                "7": "https://streamtape.to/v/K9MJXzggZKs0MGY/Star_Trek_Picard_S03E07_18970_7.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/yy8gi94cctx2",
-                "2": "https://streamhub.to/12i7ljrju6y6",
-                "3": "https://streamhub.to/011ex64ziaif",
-                "4": "https://streamhub.to/6ryv7vra3sgk",
-                "5": "https://streamhub.to/v8i0snz3eotq",
-                "6": "https://streamhub.to/431qayvfbdwv",
-                "7": "https://streamhub.to/el6tbyqrjn64"
-            },
-            "episodeServer3": [],
-            "episodeServer4": []
-        },
-        {
-            "id": "995",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Power%20Season%201.png",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Power%20Season%201.jpg",
-            "movieName": "The Power Season 1",
-            "htmlFile": "https://www.18995",
-            "directOne": "Drama,Fantasy",
-            "directSecond": "rjcgp-FxMxk",
-            "imbd": "8.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "The Power",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/6XlgjqWAm2S93dl/The_Power_S01E01_18995_1.mkv.mp4",
-                "2": "https://streamtape.to/v/qW1yLJPX18czVaj/The_Power_S01E02_18995_2.mkv.mp4",
-                "3": "https://streamtape.to/v/7GxL3Az683fAlqg/The_Power_S01E03_18995_3.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/qu116bfqflba",
-                "2": "https://streamhub.to/sfr9fp42s720",
-                "3": "https://streamhub.to/x1ezbv7jhmkc"
-            },
-            "episodeServer3": [],
-            "episodeServer4": []
-        },
-        {
             "id": "997",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Arshi%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Arshi%20Season%201.jpg",
@@ -35794,6 +35732,72 @@
             "episodeServer4": []
         },
         {
+            "id": "995",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Power%20Season%201.png",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Power%20Season%201.jpg",
+            "movieName": "The Power Season 1",
+            "htmlFile": "https://www.18995",
+            "directOne": "Drama,Fantasy",
+            "directSecond": "rjcgp-FxMxk",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Power",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/6XlgjqWAm2S93dl/The_Power_S01E01_18995_1.mkv.mp4",
+                "2": "https://streamtape.to/v/qW1yLJPX18czVaj/The_Power_S01E02_18995_2.mkv.mp4",
+                "3": "https://streamtape.to/v/7GxL3Az683fAlqg/The_Power_S01E03_18995_3.mkv.mp4",
+                "4":"https://streamtape.to/v/Lva0AWRVpjfR1a1/The_Power_S01E04_18995_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/qu116bfqflba",
+                "2": "https://streamhub.to/sfr9fp42s720",
+                "3": "https://streamhub.to/x1ezbv7jhmkc",
+                "4":"https://streamhub.to/xcfxzmt5umid"
+            },
+            "episodeServer3": [],
+            "episodeServer4": []
+        },
+        {
+            "id": "970",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Star%20Trek%20Picard%20Season%203.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Star%20Trek%20Picard%20Season%203.jpg",
+            "movieName": "Star Trek Picard Season 3",
+            "htmlFile": "https://www.18970",
+            "directOne": "Action,Adventure",
+            "directSecond": "KMyQkazS1hA",
+            "imbd": "8.2",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Star Trek Picard",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/AAqjdB72aVtXRve/Star_Trek_Picard_S03_E01_18970_1.mkv.mp4",
+                "2": "https://streamtape.to/v/BAQkmavM42tyx7Y/Star_Trek_Picard_S03E02_18970_2.mkv.mp4",
+                "3": "https://streamtape.to/v/wG8mpewpAGclOz/star_trek_picard_s03e03_18970_3.mkv.mp4",
+                "4": "https://streamtape.to/v/X22l7rLXVrtD6D1/Star_Trek_Picard_S03E04_18970_4.mkv.mp4",
+                "5": "https://streamtape.to/v/BkRbay9wBGHQK0/Star_Trek_Picard_S03E05_18970_5.mkv.mp4",
+                "6": "https://streamtape.to/v/aPVPBpV6e3Ixv0R/Star_Trek_Picard_S03E06_18970_6.mkv.mp4",
+                "7": "https://streamtape.to/v/K9MJXzggZKs0MGY/Star_Trek_Picard_S03E07_18970_7.mkv.mp4",
+                "8":"https://streamtape.to/v/3WmMG1VMG3uXWk/Star_Trek_Picard_S03E08_18970_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/yy8gi94cctx2",
+                "2": "https://streamhub.to/12i7ljrju6y6",
+                "3": "https://streamhub.to/011ex64ziaif",
+                "4": "https://streamhub.to/6ryv7vra3sgk",
+                "5": "https://streamhub.to/v8i0snz3eotq",
+                "6": "https://streamhub.to/431qayvfbdwv",
+                "7": "https://streamhub.to/el6tbyqrjn64",
+                "8":"https://streamhub.to/4f1jlpkjl7bz"
+            },
+            "episodeServer3": [],
+            "episodeServer4": []
+        },
+        {
             "id": "999",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Jubilee%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Jubilee%20Season%201.jpg",
@@ -35818,6 +35822,29 @@
                 "2": "https://streamhub.to/4aldszo6xvjr",
                 "3": "https://streamhub.to/9m1m72psxdfp",
                 "4": "https://streamhub.to/0s8h7d1boyop"
+            },
+            "episodeServer3": [],
+            "episodeServer4": []
+        },
+        {
+            "id": "1000",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Ayali%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Ayali%20Season%201.jpg",
+            "movieName": "Ayali Season 1",
+            "htmlFile": "https://www.19000",
+            "directOne": "Drama",
+            "directSecond": "AAkRhwucjVQ",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Ayali",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/wDj3Pdj91kCJJMb/Ayali_2023_S01_19000_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/l8vvvanpl31p"
             },
             "episodeServer3": [],
             "episodeServer4": []
