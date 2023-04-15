@@ -35214,6 +35214,43 @@
             "episodeServer4": []
         },
         {
+            "id": "1003",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Carnival%20Row%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Carnival%20Row%20Season%201.jpg",
+            "movieName": "Carnival Row Season 1",
+            "htmlFile": "https://www.19003",
+            "directOne": "Crime,Drama",
+            "directSecond": "369LHB9N-Ro",
+            "imbd": "8.1",
+            "rating": "English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Carnival Row",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/jpb9l1gROwizOQQ/Carnival_Row_S01E01_19003_1.mkv.mp4",
+                "2": "https://streamtape.to/v/dAyAr2KbjxHkqeo/Carnival_Row_S01E02_19003_2.mkv.mp4",
+                "3": "https://streamtape.to/v/xm2ReOLR6DuQqJ/Carnival_Row_S01E03_19003_3.mkv.mp4",
+                "4": "https://streamtape.to/v/G3gl0GBVRKH1zw9/Carnival_Row_S01E04_19003_4.mkv.mp4",
+                "5": "https://streamtape.to/v/zrMRWlvbWmuYzLQ/Carnival_Row_S01E05_19003_5.mkv.mp4",
+                "6": "https://streamtape.to/v/Me72Og9odafm27Z/Carnival_Row_S01E06_19003_6.mkv.mp4",
+                "7": "https://streamtape.to/v/qJJ230gO68SwW9/Carnival_Row_S01E07_19003_7.mkv.mp4",
+                "8": "https://streamtape.to/v/bGavOve0zltPzY3/Carnival_Row_S01E08_19003_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/ifc0aptuad1y",
+                "2": "https://streamhub.to/92k8nzqbcyo4",
+                "3": "https://streamhub.to/9q69a9ynvmxw",
+                "4": "https://streamhub.to/wn1j2euxml67",
+                "5": "https://streamhub.to/4v6vsu5jtzss",
+                "6": "https://streamhub.to/a50aa2z3y45a",
+                "7": "https://streamhub.to/6o58tha0kbxp",
+                "8": "https://streamhub.to/50m4l88wtorx"
+            },
+            "episodeServer3": [],
+            "episodeServer4": []
+        },
+        {
             "id": "967",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Carnival%20Row%20Season%202.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Carnival%20Row%20Season%202.jpg",
@@ -35434,37 +35471,6 @@
                 "1": "https://v802.streamhub.to/sc6t6suxx4ytnuzvovhs55rwvpz2xzrzq6zsnuqe4w4fdxg23d4mc2swywpa/v.mp4",
                 "2": "https://v802.streamhub.to/sc6t6smxx4ytnuzvovhs54l572ddjmikkhyx4eplbaxeyhcr74tlafwlwjmq/v.mp4",
                 "3": "https://v802.streamhub.to/sc6t6sexx4ytnuzvovhs52baxhz26aygogjpwjw2sb3pmzqskzg3ewpnkqoa/v.mp4"
-            },
-            "episodeServer3": [],
-            "episodeServer4": []
-        },
-        {
-            "id": "983",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Dom%20Season%202.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Dom%20Season%202.jpg",
-            "movieName": "Dom Season 2",
-            "htmlFile": "https://www.18983",
-            "directOne": "Crime,Drama",
-            "directSecond": "WXi7Awgnqwg",
-            "imbd": "8.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Dom",
-            "pathName": "S2",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/0Zlqzq1pPzubJL7/DOM_S02E01_18983_1.mkv.mp4",
-                "2": "https://streamtape.to/v/79aawx870KuA00p/DOM_S02E02_18983_2.mkv.mp4",
-                "3": "https://streamtape.to/v/8vdDdmXvAdfomQk/DOM_S02E03_18983_3.mkv.mp4",
-                "4": "https://streamtape.to/v/0LbekyMLXDHbGvV/DOM_S02E04_18983_4.mkv.mp4",
-                "5": "https://streamtape.to/v/OWkRrRrLVRTZl2W/Dom_S02E05_18983_5.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/pvv8p2jae3fh",
-                "2": "https://streamhub.to/0wpe1fkiswwf",
-                "3": "https://streamhub.to/72z2isdaa0hl",
-                "4": "https://streamhub.to/37mmkej4xp30",
-                "5": "https://streamhub.to/16hl9y3cb94n"
             },
             "episodeServer3": [],
             "episodeServer4": []
@@ -35697,43 +35703,6 @@
             "episodeServer4": []
         },
         {
-            "id": "970",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Star%20Trek%20Picard%20Season%203.webp",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Star%20Trek%20Picard%20Season%203.jpg",
-            "movieName": "Star Trek Picard Season 3",
-            "htmlFile": "https://www.18970",
-            "directOne": "Action,Adventure",
-            "directSecond": "KMyQkazS1hA",
-            "imbd": "8.2",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Star Trek Picard",
-            "pathName": "S3",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/PbdqawJ7JjCGl6/Star_Trek_Picard_S03_E01_18970_1.mkv.mp4",
-                "2": "https://streamtape.to/v/bzr412v0ZGuPAvq/Star_Trek_Picard_S03E02_18970_2.mkv.mp4",
-                "3": "https://streamtape.to/v/zLweP2YoMWh4ok/star_trek_picard_s03e03_18970_3.mkv.mp4",
-                "4": "https://streamtape.to/v/AQPa0pM2GxiXXW6/Star_Trek_Picard_S03E04_18970_4.mkv.mp4",
-                "5": "https://streamtape.to/v/7X9YwlMVBKtAOpM/Star_Trek_Picard_S03E05_18970_5.mkv.mp4",
-                "6": "https://streamtape.to/v/mlaDVYedaYhbr0m/Star_Trek_Picard_S03E06_18970_6.mkv.mp4",
-                "7": "https://streamtape.to/v/1OxgLQbR80irJD/Star_Trek_Picard_S03E07_18970_7.mkv.mp4",
-                "8": "https://streamtape.to/v/Oqq8m9OByLCZdB8/Star_Trek_Picard_S03E08_18970_8.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/yy8gi94cctx2",
-                "2": "https://streamhub.to/12i7ljrju6y6",
-                "3": "https://streamhub.to/011ex64ziaif",
-                "4": "https://streamhub.to/6ryv7vra3sgk",
-                "5": "https://streamhub.to/v8i0snz3eotq",
-                "6": "https://streamhub.to/431qayvfbdwv",
-                "7": "https://streamhub.to/el6tbyqrjn64",
-                "8": "https://streamhub.to/4f1jlpkjl7bz"
-            },
-            "episodeServer3": [],
-            "episodeServer4": []
-        },
-        {
             "id": "958",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Mandalorian%20Season%203.webp",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Mandalorian%20Season%203.jpeg",
@@ -35827,6 +35796,82 @@
             "episodeServer4": []
         },
         {
+            "id": "970",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Star%20Trek%20Picard%20Season%203.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Star%20Trek%20Picard%20Season%203.jpg",
+            "movieName": "Star Trek Picard Season 3",
+            "htmlFile": "https://www.18970",
+            "directOne": "Action,Adventure",
+            "directSecond": "KMyQkazS1hA",
+            "imbd": "8.2",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Star Trek Picard",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/PbdqawJ7JjCGl6/Star_Trek_Picard_S03_E01_18970_1.mkv.mp4",
+                "2": "https://streamtape.to/v/bzr412v0ZGuPAvq/Star_Trek_Picard_S03E02_18970_2.mkv.mp4",
+                "3": "https://streamtape.to/v/zLweP2YoMWh4ok/star_trek_picard_s03e03_18970_3.mkv.mp4",
+                "4": "https://streamtape.to/v/AQPa0pM2GxiXXW6/Star_Trek_Picard_S03E04_18970_4.mkv.mp4",
+                "5": "https://streamtape.to/v/7X9YwlMVBKtAOpM/Star_Trek_Picard_S03E05_18970_5.mkv.mp4",
+                "6": "https://streamtape.to/v/mlaDVYedaYhbr0m/Star_Trek_Picard_S03E06_18970_6.mkv.mp4",
+                "7": "https://streamtape.to/v/1OxgLQbR80irJD/Star_Trek_Picard_S03E07_18970_7.mkv.mp4",
+                "8": "https://streamtape.to/v/Oqq8m9OByLCZdB8/Star_Trek_Picard_S03E08_18970_8.mkv.mp4",
+                "9":"https://streamtape.to/v/JJwqA0g7rkSVMv/Star_Trek_Picard_S03E09_18970_9.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/yy8gi94cctx2",
+                "2": "https://streamhub.to/12i7ljrju6y6",
+                "3": "https://streamhub.to/011ex64ziaif",
+                "4": "https://streamhub.to/6ryv7vra3sgk",
+                "5": "https://streamhub.to/v8i0snz3eotq",
+                "6": "https://streamhub.to/431qayvfbdwv",
+                "7": "https://streamhub.to/el6tbyqrjn64",
+                "8": "https://streamhub.to/4f1jlpkjl7bz",
+                "9":"https://streamhub.to/drfum7hyihgr"
+            },
+            "episodeServer3": [],
+            "episodeServer4": []
+        },
+        {
+            "id": "983",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Dom%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Dom%20Season%202.jpg",
+            "movieName": "Dom Season 2",
+            "htmlFile": "https://www.18983",
+            "directOne": "Crime,Drama",
+            "directSecond": "WXi7Awgnqwg",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Dom",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/0Zlqzq1pPzubJL7/DOM_S02E01_18983_1.mkv.mp4",
+                "2": "https://streamtape.to/v/79aawx870KuA00p/DOM_S02E02_18983_2.mkv.mp4",
+                "3": "https://streamtape.to/v/8vdDdmXvAdfomQk/DOM_S02E03_18983_3.mkv.mp4",
+                "4": "https://streamtape.to/v/0LbekyMLXDHbGvV/DOM_S02E04_18983_4.mkv.mp4",
+                "5": "https://streamtape.to/v/OWkRrRrLVRTZl2W/Dom_S02E05_18983_5.mkv.mp4",
+                "6": "https://streamtape.to/v/Pv6px1x6WLTG82/DOM_S02E06_18983_6.mkv.mp4",
+                "7": "https://streamtape.to/v/7Ra8B9XYxyUAXRa/Dom_S02E07_18983_7.mkv.mp4",
+                "8": "https://streamtape.to/v/D0dkbG8297Ukz9L/Dom_S02E08_18983_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/pvv8p2jae3fh",
+                "2": "https://streamhub.to/0wpe1fkiswwf",
+                "3": "https://streamhub.to/72z2isdaa0hl",
+                "4": "https://streamhub.to/37mmkej4xp30",
+                "5": "https://streamhub.to/16hl9y3cb94n",
+                "6": "https://streamhub.to/gckmrk4k6hxi",
+                "7": "https://streamhub.to/tkfeu47k6q8f",
+                "8": "https://streamhub.to/gp07lmgrwvci"
+            },
+            "episodeServer3": [],
+            "episodeServer4": []
+        },
+        {
             "id": "1002",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Obsession%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Obsession%20Season%201.jpg",
@@ -35851,6 +35896,49 @@
                 "2": "https://streamhub.to/ky9ff8n1qqnx",
                 "3": "https://streamhub.to/xhmivb9hve9x",
                 "4": "https://streamhub.to/411spe1hhcg8"
+            },
+            "episodeServer3": [],
+            "episodeServer4": []
+        },
+        {
+            "id": "1004",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Queenmaker%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Queenmaker%20Season%201.jpg",
+            "movieName": "Queenmaker Season 1",
+            "htmlFile": "https://www.19004",
+            "directOne": "Drama",
+            "directSecond": "aH0HTT12bPY",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Queenmaker",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/17mdw390oJC1ez/Queenmaker_S01E01_19004_1.mkv.mp4",
+                "2": "https://streamtape.to/v/vkVaykoqLBcaDy/Queenmaker_S01E02_19004_2.mkv.mp4",
+                "3": "https://streamtape.to/v/9lzzQLGZzYsDPO/Queenmaker_S01E03_19004_3.mkv.mp4",
+                "4": "https://streamtape.to/v/a04qpPLlgdfxXkA/Queenmaker_S01E04_19004_4.mkv.mp4",
+                "5": "https://streamtape.to/v/g2yJjogrmQUGyq/Queenmaker_S01E05_19004_5.mkv.mp4",
+                "6": "https://streamtape.to/v/0dGqaLQ6v7hbbX2/Queenmaker_S01E06_19004_6.mkv.mp4",
+                "7": "https://streamtape.to/v/dq848v34MbfgRj/Queenmaker_S01E07_19004_7.mkv.mp4",
+                "8": "https://streamtape.to/v/MPa1M80B9lTmXkK/Queenmaker_S01E08_19004_8.mkv.mp4",
+                "9": "https://streamtape.to/v/A02QO7RDR8FXX7W/Queenmaker_S01E09_19004_9.mkv.mp4",
+                "10": "https://streamtape.to/v/17GKprz2VrUeYL0/Queenmaker_S01E10_19004_10.mkv.mp4",
+                "11":"https://streamtape.to/v/mwVaKMLMZDtbg3G/Queenmaker_S01E11_19004_11.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/nwuw0q9pmn0g",
+                "2": "https://streamhub.to/ib060besu6n9",
+                "3": "https://streamhub.to/4vs98b43odcl",
+                "4": "https://streamhub.to/qnpbt9r05lnt",
+                "5": "https://streamhub.to/22fbduqpqhkm",
+                "6": "https://streamhub.to/jhr2gy8l97aw",
+                "7": "https://streamhub.to/t5qqfi3y2gq8",
+                "8": "https://streamhub.to/gpts5b72qchx",
+                "9": "https://streamhub.to/2oqxn1wr4sip",
+                "10":"https://streamhub.to/k4f2k2x17of9",
+                "11":"https://streamhub.to/zf57n7tsfl36"
             },
             "episodeServer3": [],
             "episodeServer4": []
@@ -35886,12 +35974,12 @@
                 "2": "https://streamhub.to/4aldszo6xvjr",
                 "3": "https://streamhub.to/9m1m72psxdfp",
                 "4": "https://streamhub.to/0s8h7d1boyop",
-                "5": "https://streamhub.to/99swn73cut9v",
-                "6": "https://streamhub.to/zi9wzvsna0z7",
-                "7": "https://streamhub.to/7zclm8hha1sf",
-                "8": "https://streamhub.to/op8s7dr5cgm8",
-                "9": "https://streamhub.to/7ih9ybhnlitw",
-                "10": "https://streamhub.to/egwlq1lwg9ar"
+                "5": "https://streamhub.to/yip83rontlie",
+                "6": "https://streamhub.to/pa811ovdxx7q",
+                "7": "https://streamhub.to/kyoc3secmr7j",
+                "8": "https://streamhub.to/yt9vdrjt21eh",
+                "9": "https://streamhub.to/suu0zf77xadf",
+                "10": "https://streamhub.to/7o1l9198cbnb"
             },
             "episodeServer3": [],
             "episodeServer4": []
