@@ -1,5 +1,38 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "3102",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Kisi%20Ka%20Bhai%20Kisi%20Ki%20Jaan%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Kisi%20Ka%20Bhai%20Kisi%20Ki%20Jaan%20(2023).jpg",
+            "movieName": "Kisi Ka Bhai Kisi Ki Jaan (2023)",
+            "htmlFile": "https://www.13102",
+            "directOne": "Hindi",
+            "directSecond": "bsi8_9EoYyg",
+            "rating": "HDCamRip",
+            "catergory": "Action,Comedy",
+            "Industry": "Bollywood",
+            "hub": "https://v900.streamhub.to/sc6t2sggxaytnuzvovac52zb6sz4a2xbmwag4vwdtx43fmiahvg6hypyd2jq/v.mp4",
+            "tape": "https://streamtape.to/v/0LPxLLpD4kfblR4/Kisi_Ka_Bhai_Kisi_Ki_Jaan_2023_13102.mkv.mp4",
+            "server3": "",
+            "server4": ""
+        },
+        {
+            "id": "2957",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Selfiee%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Selfiee%20(2023).jpg",
+            "movieName": "Selfiee (2023)",
+            "htmlFile": "https://www.2957",
+            "directOne": "Hindi",
+            "directSecond": "fFlhfuO2D28",
+            "rating": "HD 720p",
+            "catergory": "Action,Comedy",
+            "Industry": "Bollywood",
+            "hub": "https://streamhub.to/nukq7ny71rqp",
+            "tape": "https://streamtape.to/v/4xvWAvXyYQtyGD/Selfiee_2023_2957.mkv.mp4",
+            "server3": "FALSE",
+            "server4": "FALSE"
+        },
         {
             "id": "3095",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Mrs%20Undercover%20(2023).jpg",
@@ -15,6 +48,54 @@
             "tape": "https://streamtape.to/v/Q04zAggPXYuRzL/Mrs_Undercover_2023_13095.mkv.mp4",
             "server3": "https://desiupload.co/n420zd91x01b",
             "server4": "https://uptomega.me/mw2dbb5yzg1u"
+        },
+        {
+            "id": "3101",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Holy%20Cow%20(2022).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Holy%20Cow%20(2022).jpg",
+            "movieName": "Holy Cow (2022)",
+            "htmlFile": "https://www.13101",
+            "directOne": "Hindi",
+            "directSecond": "i83oqi85qiI",
+            "rating": "HD 720p",
+            "catergory": "Comedy",
+            "Industry": "Bollywood",
+            "hub": "https://streamhub.to/l4peb6bsqkc1",
+            "tape": "https://streamtape.to/v/xq00YypdlqskO8q/Holy_Cow_%282022%29_13101.mkv.mp4",
+            "server3": "",
+            "server4": ""
+        },
+        {
+            "id": "3100",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Black%20War%20-%20Mission%20Exteme%202%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Black%20War%20-%20Mission%20Exteme%202%20(2023).jpg",
+            "movieName": "Black War - Mission Exteme 2 (2023)",
+            "htmlFile": "https://www.3100",
+            "directOne": "Bengali",
+            "directSecond": "SvEPq8qK-7E",
+            "rating": "HD 720p",
+            "catergory": "Action",
+            "Industry": "Bengali",
+            "hub": "https://streamhub.to/nacouy9b8bsp",
+            "tape": "https://streamtape.to/v/ad6BBQK84kUx3p2/Black_War_-_Mission_Exteme_2_%282023%29_3100.mkv.mp4",
+            "server3": "",
+            "server4": ""
+        },
+        {
+            "id": "3099",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Mighty%20Morphin%20Power%20Rangers%20-%20Once%20&%20Always%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Mighty%20Morphin%20Power%20Rangers%20-%20Once%20&%20Always%20(2023).jpg",
+            "movieName": "Mighty Morphin Power Rangers - Once & Always (2023)",
+            "htmlFile": "https://www.13099",
+            "directOne": "Hindi+English",
+            "directSecond": "ZKE2DC7Xzog",
+            "rating": "HD 720p",
+            "catergory": "Action,Adventure",
+            "Industry": "Hollywood",
+            "hub": "https://streamhub.to/xjoiiy9r8dwh",
+            "tape": "https://streamtape.to/v/8w600lBYbRhoaYp/Mighty_Morphin_Power_Rangers_-_Once_%26_Always_2023_13099.mkv.mp4",
+            "server3": "",
+            "server4": ""
         },
         {
             "id": "3040",
@@ -2047,22 +2128,6 @@
             "tape": "https://streamtape.to/v/QW87QMglwWs03rj/Waltair_Veerayya_%282023%29_12842.mkv.mp4",
             "server3": "FALSE",
             "server4": "FALSE"
-        },
-        {
-            "id": "2957",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Selfiee%20(2023).jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Selfiee%20(2023).jpg",
-            "movieName": "Selfiee (2023)",
-            "htmlFile": "https://www.2957",
-            "directOne": "Hindi",
-            "directSecond": "fFlhfuO2D28",
-            "rating": "HDCamRip-V2",
-            "catergory": "Action,Comedy",
-            "Industry": "Bollywood",
-            "hub": "https://streamhub.to/b4ozh3407dim",
-            "tape": "https://streamtape.to/v/XzYwkzPqajIDDVZ/Selfiee_%282023%29_2957.mkv.mp4",
-            "server3": "https://desiupload.co/mzoz0elq3mxy",
-            "server4": "https://uptomega.me/a099vwekdfl0"
         },
         {
             "id": "2971",
