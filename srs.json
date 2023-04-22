@@ -36192,6 +36192,43 @@
             },
             "episodeServer3": {},
             "episodeServer4": {}
+        },
+        {
+            "id": "1012",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Diplomat%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Diplomat%20Season%201.jpg",
+            "movieName": "The Diplomat Season 1",
+            "htmlFile": "https://www.19012",
+            "directOne": "Drama,Thriller",
+            "directSecond": "nkAUPBBb5EA",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Diplomat",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/gv1lALo0WeSY3q/The_Diplomat_S01E01_19012_1.mkv.mp4",
+                "2": "https://streamtape.to/v/DWgVB4B78GFkpok/The_Diplomat_S01E02_19012_2.mkv.mp4",
+                "3": "https://streamtape.to/v/8zZjg6kZgMSoz1w/The_Diplomat_S01E03_19012_3.mkv.mp4",
+                "4": "https://streamtape.to/v/DkOvpp7kK6UBMD/The_Diplomat_S01E04_19012_4.mkv.mp4",
+                "5": "https://streamtape.to/v/mgAAo7k6wDSbZgQ/The_Diplomat_S01E05_19012_5.mkv.mp4",
+                "6": "https://streamtape.to/v/YWWDWBMOKjT30Y/The_Diplomat_S01E06_19012_6.mkv.mp4",
+                "7": "https://streamtape.to/v/0LKml06dqviZVV/The_Diplomat_S01E07_19012_7.mkv.mp4",
+                "8": "https://streamtape.to/v/j77J44J092szB49/The_Diplomat_S01E08_19012_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/7qe9yb5pvzsr",
+                "2": "https://streamhub.to/cz9p2ouayidq",
+                "3": "https://streamhub.to/im6znqwh4nqd",
+                "4": "https://streamhub.to/0hpwjfbm0m50",
+                "5": "https://streamhub.to/77wj0ouv5ysx",
+                "6": "https://streamhub.to/55q8cpzu7xuu",
+                "7": "https://streamhub.to/n8shdrxz0qr3",
+                "8": "https://streamhub.to/yao4llbdj3qd"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
         }
     ]
 }
