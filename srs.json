@@ -36229,6 +36229,130 @@
             },
             "episodeServer3": {},
             "episodeServer4": {}
+        },
+        {
+            "id": "1013",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Puraani%20Havveli%20Ka%20Rahasya%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Puraani%20Havveli%20Ka%20Rahasya%20Season%201.jpg",
+            "movieName": "Puraani Havveli Ka Rahasya Season 1",
+            "htmlFile": "https://www.19013",
+            "directOne": "Mystery,Thriller",
+            "directSecond": "FALSE",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Puraani Havveli Ka Rahasya",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/agbYXe2dDztWA7/Puraani_Havveli_Ka_Rahasya_%282023%29_19013_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/4ti7q2omx6yv"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "1014",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Dead%20Ringers%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Dead%20Ringers%20Season%201.jpg",
+            "movieName": "Dead Ringers Season 1",
+            "htmlFile": "https://www.19014",
+            "directOne": "Horror,Thriller",
+            "directSecond": "mqMWdRoVu4A",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Dead Ringers",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/8P8jd7mXLOUodz7/Dead_Ringers_2023_S01E01_19014_1.mkv.mp4",
+                "2": "https://streamtape.to/v/bpWzxRoyGdtJoV/Dead_Ringers_2023_S01E02_19014_2.mkv.mp4",
+                "3": "https://streamtape.to/v/Pk9KbDXqPghAry/Dead_Ringers_2023_S01E03_19014_3.mkv.mp4",
+                "4": "https://streamtape.to/v/jpxakwwv2RHQ9w/Dead_Ringers_2023_S01E04_19014_4.mkv.mp4",
+                "5": "https://streamtape.to/v/b1JOLJ1wQKtPPRx/Dead_Ringers_2023_S01E05_19014_5.mkv.mp4",
+                "6": "https://streamtape.to/v/V6DpLY871qUkAb/Dead_Ringers_2023_S01E06_19014_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/v2qklzieu8wh",
+                "2": "https://streamhub.to/ojlenrzgsrne",
+                "3": "https://streamhub.to/q7i8x0jl4oq9",
+                "4": "https://streamhub.to/2tfmq0q7tf1n",
+                "5": "https://streamhub.to/dyb3cvcp8lml",
+                "6": "https://streamhub.to/ctg1u08csmt7"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "1015",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Dancing%20on%20the%20Grave%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Dancing%20on%20the%20Grave%20Season%201.jpg",
+            "movieName": "Dancing on the Grave Season 1",
+            "htmlFile": "https://www.19015",
+            "directOne": "Documentary,Crime",
+            "directSecond": "LeDZTRlJadA",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Dancing on the Grave",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/e08qzxqbpWFYgYj/Dancing_on_the_Grave_S01E01_19015_1.mkv.mp4",
+                "2": "https://streamtape.to/v/bReJMJz9z9fPz1O/Dancing_on_the_Grave_S01E02_19015_2.mkv.mp4",
+                "3": "https://streamtape.to/v/mwXmgw2eYOhbK49/Dancing_on_the_Grave_S01E03_19015_3.mkv.mp4",
+                "4": "https://streamtape.to/v/RmxaVXyy0ktdMlx/Dancing_on_the_Grave_S01E04_19015_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/oqave2tha0hx",
+                "2": "https://streamhub.to/hsmqa2irnam2",
+                "3": "https://streamhub.to/yroyadjy2g9l",
+                "4": "https://streamhub.to/en0khtt04mco"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "1016",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Garmi%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Garmi%20Season%201.jpg",
+            "movieName": "Garmi Season 1",
+            "htmlFile": "https://www.19016",
+            "directOne": "Drama",
+            "directSecond": "PIjpx2a5WFg",
+            "imbd": "8.1",
+            "rating": "Hindi+Multi Audio",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Garmi",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/4mOqeP1zercKm3y/Garmi_%28Hindi%29_S01E01_19016_1.mkv.mp4",
+                "2": "https://streamtape.to/v/8Wj6BMVGwzcljB/Garmi_%28Hindi%29_S01E02_19016_2.mkv.mp4",
+                "3": "https://streamtape.to/v/z32WbkglxRSGzr/Garmi_%28Hindi%29_S01E03_19016_3.mkv.mp4",
+                "4": "https://streamtape.to/v/8PDkAemPeZioK8r/Garmi_%28Hindi%29_S01E04_19016_4.mkv.mp4",
+                "5": "https://streamtape.to/v/2kmV6mrWbrcZDX2/Garmi_%28Hindi%29_S01E05_19016_5.mkv.mp4",
+                "6": "https://streamtape.to/v/014zaaPRzATbdP7/Garmi_%28Hindi%29_S01E06_19016_6.mkv.mp4",
+                "7": "https://streamtape.to/v/d3YbOl8VpDSkRb1/Garmi_%28Hindi%29_S01E07_19016_7.mkv.mp4",
+                "8": "https://streamtape.to/v/VB6zGvWoLVsKR0Y/Garmi_%28Hindi%29_S01E08_19016_8.mkv.mp4",
+                "9": "https://streamtape.to/v/7ovx0xbd8LiADPk/Garmi_%28Hindi%29_S01E09_19016_9.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/9ozgc25fliq2",
+                "2": "https://streamhub.to/w81966dghup5",
+                "3": "https://streamhub.to/eray4891xd2o",
+                "4": "https://streamhub.to/okt97tofk0su",
+                "5": "https://streamhub.to/iybpgqdj48mq",
+                "6": "https://streamhub.to/xarl59ky3gwd",
+                "7": "https://streamhub.to/9torljlyswz6",
+                "8": "https://streamhub.to/lnt8qweapwom",
+                "9": "https://streamhub.to/h4spcrb0zce6"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
         }
     ]
 }
