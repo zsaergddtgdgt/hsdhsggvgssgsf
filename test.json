@@ -15,9 +15,9 @@
             "tape": "https://streamtape.to/v/GvgBV7YR7vT1zM2/Kisi_Ka_Bhai_Kisi_Ki_Jaan_2023_13102.mkv.mp4",
             "server3": "FALSE",
             "server4": "FALSE",
-            "480p": "FALSE",
-            "480pS1": "FALSE",
-            "480pS2": "FALSE",
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.to/gm8vwjwsvbfe",
+            "480pS2": "https://streamtape.to/v/GvgBV7YR7vT1zM2/Kisi_Ka_Bhai_Kisi_Ki_Jaan_2023_13102.mkv.mp4",
             "480pS3": "FALSE",
             "480pS4": "FALSE"
         },
@@ -36,11 +36,11 @@
             "tape": "https://streamtape.to/v/6m8lAAL7vwF9jMQ/SVI_%282023%29_www.HDKing.Info_720p_HEVC_Hindi_Dual_Audio_HDRip.mkv.mp4",
             "server3": "FALSE",
             "server4": "FALSE",
-            "480p": "FALSE",
+            "480p": "TRUE",
             "480pS1": "FALSE",
             "480pS2": "FALSE",
-            "480pS3": "FALSE",
-            "480pS4": "FALSE"
+            "480pS3": "https://desiupload.co/n420zd91x01b",
+            "480pS4": "https://uptomega.me/2yhoycuknqma"
         },
         {
             "id": "269",
@@ -57,11 +57,11 @@
             "tape": "https://streamtape.to/v/dkxBgdpYvrFkwjL/RSM_%282021%29_www.HDKing.Info_Hindi_Dual_Audio_UNCUT_HDRip_AAC_x264_720p_HEVC.mkv.mp4",
             "server3": "FALSE",
             "server4": "FALSE",
-            "480p": "FALSE",
-            "480pS1": "FALSE",
-            "480pS2": "FALSE",
-            "480pS3": "FALSE",
-            "480pS4": "FALSE"
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.to/kzxncle719x8",
+            "480pS2": "https://streamtape.to/v/dkxBgdpYvrFkwjL",
+            "480pS3": "https://desiupload.co/n420zd91x01b",
+            "480pS4": "https://uptomega.me/2yhoycuknqma"
         },
         {
             "id": "2957",
@@ -79,10 +79,10 @@
             "server3": "FALSE",
             "server4": "FALSE",
             "480p": "FALSE",
-            "480pS1": "FALSE",
-            "480pS2": "FALSE",
-            "480pS3": "FALSE",
-            "480pS4": "FALSE"
+            "480pS1": "https://streamhub.to/kzxncle719x8",
+            "480pS2": "https://streamtape.to/v/dkxBgdpYvrFkwjL",
+            "480pS3": "https://desiupload.co/n420zd91x01b",
+            "480pS4": "https://uptomega.me/2yhoycuknqma"
         },
         {
             "id": "3108",
