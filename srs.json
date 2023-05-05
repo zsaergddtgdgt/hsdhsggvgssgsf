@@ -36500,6 +36500,75 @@
             "episodeServer4": {}
         },
         {
+            "id": "1023",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Chetna%20(Bodh)%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Chetna%20(Bodh)%20Season%201.jpg",
+            "movieName": "Chetna (Bodh) Season 1",
+            "htmlFile": "https://www.19023",
+            "directOne": "Mystery",
+            "directSecond": "bOPFs0xcR5w",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Chetna (Bodh)",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/mlVw99KvvZhbW08/Chetna_%282023%29_S01_Complete_19023_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/34af5sc7icou"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "1024",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Shabash%20Feluda%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Shabash%20Feluda%20Season%201.jpg",
+            "movieName": "Shabash Feluda Season 1",
+            "htmlFile": "https://www.19024",
+            "directOne": "Mystery,Thriller",
+            "directSecond": "i-ZOT48VvhQ",
+            "imbd": "8.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Shabash Feluda",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/VayYwmgqXrfKmLv/Shabash_Feluda_2023_S01_Complete_19024_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/hu8zghgfwkvm"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "1025",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/A%20B%20LL.B%20Iski%20To%20Degree%20He%20Ulti%20Hai%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/A%20B%20LL.B%20Iski%20To%20Degree%20He%20Ulti%20Hai%20Season%201.png",
+            "movieName": "A B LL.B Iski To Degree He Ulti Hai Season 1",
+            "htmlFile": "https://www.19025",
+            "directOne": "Drama",
+            "directSecond": "FALSE",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "A B LL.B Iski To Degree He Ulti Hai",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/VGm1bAo3pPtK2J6/A_B_LL_B_Iski_To_Degree_He_Ulti_Hai_2023_S01_Complete_19025_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/ncfbnbzx0qv4"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
             "id": "1022",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Citadel%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Citadel%20Season%201.jpg",
@@ -36515,11 +36584,50 @@
             "pathName": "S1",
             "EpisodeTape": {
                 "1": "https://streamtape.xyz/v/zrQRrYpmzVUY3m2/Citadel_S01E01_19022_1.mkv.mp4",
-                "2": "https://streamtape.xyz/v/jggzkZGboPfD2p/Citadel_S01E02_19022_2.mkv.mp4"
+                "2": "https://streamtape.xyz/v/jggzkZGboPfD2p/Citadel_S01E02_19022_2.mkv.mp4",
+                "3":"https://streamtape.to/v/VGWqz78vX3FKwKZ/Citadel_S01E03_19022_3.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/dm7r1lg1une2",
-                "2": "https://streamhub.to/krquvzl4ygcv"
+                "2": "https://streamhub.to/krquvzl4ygcv",
+                "3":"https://streamhub.to/pkheh6f4v4zz"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "1026",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Saas%20Bahu%20Aur%20Flamingo%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Saas%20Bahu%20Aur%20Flamingo%20Season%201.webp",
+            "movieName": "Saas Bahu Aur Flamingo Season 1",
+            "htmlFile": "https://www.19026",
+            "directOne": "Action,Drama",
+            "directSecond": "Tt0z8QzfiKg",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Saas Bahu Aur Flamingo",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/4DYgKO2gYMtKQZJ/Saas_Bahu_Aur_Flamingo_S01E01_19026_1.mkv.mp4",
+                "2": "https://streamtape.to/v/KgwjDWxoZjSjZ2/Saas_Bahu_Aur_Flamingo_S01E02_19026_2.mkv.mp4",
+                "3": "https://streamtape.to/v/8qbAKpaM0Gt2mq/Saas_Bahu_Aur_Flamingo_S01E03_19026_3.mkv.mp4",
+                "4": "https://streamtape.to/v/LqaJY9WowlURQx6/Saas_Bahu_Aur_Flamingo_S01E04_19026_4.mkv.mp4",
+                "5": "https://streamtape.to/v/YBRoyWqvm8tpgM/Saas_Bahu_Aur_Flamingo_S01E05_19026_5.mkv.mp4",
+                "6": "https://streamtape.to/v/jlrLyz7kyBtzyo8/Saas_Bahu_Aur_Flamingo_S01E06_19026_6.mkv.mp4",
+                "7": "https://streamtape.to/v/4mYygw94oKfKD4j/Saas_Bahu_Aur_Flamingo_S01E07_19026_7.mkv.mp4",
+                "8": "https://streamtape.to/v/g0KeVLArmmuGRX/Saas_Bahu_Aur_Flamingo_S01E08_19026_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/yvt75u8vqtre",
+                "2": "https://streamhub.to/3qoi9k4hfv7g",
+                "3": "https://streamhub.to/92ehbtucuwdo",
+                "4": "https://streamhub.to/ldtx2d4389c4",
+                "5": "https://streamhub.to/1oifzk6wp6dj",
+                "6": "https://streamhub.to/677w0bm4el4s",
+                "7": "https://streamhub.to/7tg6xwp58q4u",
+                "8": "https://streamhub.to/8rhyuvu05aux"
             },
             "episodeServer3": {},
             "episodeServer4": {}
