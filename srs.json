@@ -36631,6 +36631,31 @@
             },
             "episodeServer3": {},
             "episodeServer4": {}
+        },
+        {
+            "id": "1027",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Fireflies%20%E2%80%93%20Parth%20aur%20Jugnu%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Fireflies%20%E2%80%93%20Parth%20aur%20Jugnu%20Season%201.jpg",
+            "movieName": "Fireflies – Parth aur Jugnu Season 1",
+            "htmlFile": "https://www.19027",
+            "directOne": "Fantasy,Drama",
+            "directSecond": "1MbGjbyYqrI",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Fireflies – Parth aur Jugnu",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/yA6Ybv3YwWHdDP/Fireflies_%E2%80%93_Parth_aur_Jugnu_%282023%29_S01_E01to5_19027_1.mkv.mp4",
+                "2": "https://streamtape.to/v/ePvjdxozKDuYRzQ/Fireflies_%E2%80%93_Parth_aur_Jugnu_%282023%29_S01_E06to10_19027_2.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/8igvx3hlyoxd",
+                "2": "https://streamhub.to/s68blhe7dcfr"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
         }
     ]
 }
