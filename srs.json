@@ -36569,33 +36569,6 @@
             "episodeServer4": {}
         },
         {
-            "id": "1022",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Citadel%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Citadel%20Season%201.jpg",
-            "movieName": "Citadel Season 1",
-            "htmlFile": "https://www.19022",
-            "directOne": "Action,Drama",
-            "directSecond": "W8_lC_CXBo4",
-            "imbd": "8.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Citadel",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.cc/v/1L30mzaq83cezYd/Citadel_S01E01_19022_1.mkv.mp4",
-                "2": "https://streamtape.cc/v/GM7kB1ogKDC1LP6/Citadel_S01E02_19022_2.mkv.mp4",
-                "3": "https://streamtape.cc/v/PjGdQrV2d3u0dVm/Citadel_S01E03_19022_3.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/dm7r1lg1une2",
-                "2": "https://streamhub.to/krquvzl4ygcv",
-                "3": "https://streamhub.to/pkheh6f4v4zz"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {}
-        },
-        {
             "id": "1026",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Saas%20Bahu%20Aur%20Flamingo%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Saas%20Bahu%20Aur%20Flamingo%20Season%201.webp",
@@ -36653,6 +36626,35 @@
             "EpisodeHub": {
                 "1": "https://streamhub.to/8igvx3hlyoxd",
                 "2": "https://streamhub.to/s68blhe7dcfr"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "1022",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Citadel%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Citadel%20Season%201.jpg",
+            "movieName": "Citadel Season 1",
+            "htmlFile": "https://www.19022",
+            "directOne": "Action,Drama",
+            "directSecond": "W8_lC_CXBo4",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Citadel",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.cc/v/1L30mzaq83cezYd/Citadel_S01E01_19022_1.mkv.mp4",
+                "2": "https://streamtape.cc/v/GM7kB1ogKDC1LP6/Citadel_S01E02_19022_2.mkv.mp4",
+                "3": "https://streamtape.cc/v/PjGdQrV2d3u0dVm/Citadel_S01E03_19022_3.mkv.mp4",
+                "4":"https://streamtape.to/v/la9kGB6XjxsZPm/Citadel_S01E04_19022_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/dm7r1lg1une2",
+                "2": "https://streamhub.to/krquvzl4ygcv",
+                "3": "https://streamhub.to/pkheh6f4v4zz",
+                "4":"https://streamhub.to/vaub7zjd3g0b"
             },
             "episodeServer3": {},
             "episodeServer4": {}
