@@ -36695,6 +36695,62 @@
             },
             "episodeServer3": {},
             "episodeServer4": {}
+        },
+        {
+            "id": "1029",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Black%20Knight%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Black%20Knight%20Season%201.jpg",
+            "movieName": "Black Knight Season 1",
+            "htmlFile": "https://www.19029",
+            "directOne": "Action,Adventure",
+            "directSecond": "o6Q3YpPVqZc",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Black Knight",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/a74WL48Y44CJ3v/Black_Knight_S01E01_19029_1.mkv.mp4",
+                "2": "https://streamtape.to/v/zrjLgP1YXZCYmrA/Black_Knight_S01E02_19029_2.mkv.mp4",
+                "3": "https://streamtape.to/v/rKOpBeK8b7TbwqQ/Black_Knight_S01E03_19029_3.mkv.mp4",
+                "4": "https://streamtape.to/v/34ZPP0akWKtdVQB/Black_Knight_S01E04_19029_4.mkv.mp4",
+                "5": "https://streamtape.to/v/OVmBagVV2bTZbmG/Black_Knight_S01E05_19029_5.mkv.mp4",
+                "6": "https://streamtape.to/v/Qe6RqlpqOpH06bj/Black_Knight_S01E06_19029_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/qpnm26yx1e3p",
+                "2": "https://streamhub.to/6e2bveqtdl5k",
+                "3": "https://streamhub.to/f075hhz06k21",
+                "4": "https://streamhub.to/ubgxp4gbik9v",
+                "5": "https://streamhub.to/thk21bmy8s39",
+                "6": "https://streamhub.to/oemootlscvhh"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "1030",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Taj%20-%20Divided%20by%20Blood%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Taj%20-%20Divided%20by%20Blood%20Season%202.jpg",
+            "movieName": "Taj - Divided by Blood Season 2",
+            "htmlFile": "https://www.19030",
+            "directOne": "Drama,History",
+            "directSecond": "NjDo9sz2ZTs",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Taj - Divided by Blood",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/ajrx4KroaxsORD/Taj_Divided_by_Blood_%282023%29_S02E01T04_19030_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/j10vnqbjpalg"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
         }
     ]
 }
