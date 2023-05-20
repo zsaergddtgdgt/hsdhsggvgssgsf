@@ -34275,12 +34275,8 @@
                 "4": "https://streamhub.to/lc7f2ztihfxv"
             },
             "episodeServer3": {
-                "1": "https://desiupload.co/mzoz0elq3mxy",
-                "2": "https://desiupload.co/el0oydmrjsr8"
             },
             "episodeServer4": {
-                "1": "https://uptomega.me/a099vwekdfl0",
-                "2": "https://uptomega.me/ithrtzx2m2eo"
             }
         },
         {
@@ -35907,14 +35903,8 @@
                 "9": "https://streamhub.to/suu0zf77xadf",
                 "10": "https://streamhub.to/7o1l9198cbnb"
             },
-            "episodeServer3": {
-                "1": "https://desiupload.co/n420zd91x01b",
-                "2": "https://desiupload.co/buxmgcqogbie"
-            },
-            "episodeServer4": {
-                "1": "https://uptomega.me/2yhoycuknqma",
-                "2": "https://uptomega.me/mw2dbb5yzg1u"
-            }
+            "episodeServer3": {},
+            "episodeServer4": {}
         },
         {
             "id": "1005",
