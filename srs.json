@@ -36753,6 +36753,66 @@
             },
             "episodeServer3": {},
             "episodeServer4": {}
+        },
+        {
+            "id": "1031",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Inspector%20Avinash%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Inspector%20Avinash%20Season%201.jpg",
+            "movieName": "Inspector Avinash Season 1",
+            "htmlFile": "https://www.19031",
+            "directOne": "Action,Thriller",
+            "directSecond": "JGjW5cMpZdo",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Inspector Avinash",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/wxgykDZJlvTJROe/Inspector_Avinash_S01E01_19031_1.mkv.mp4",
+                "2": "https://streamtape.to/v/2OB4wADMw2CZ0b9/Inspector_Avinash_S01E02_19031_2.mkv.mp4",
+                "3": "https://streamtape.to/v/m1XrM4Jywgu6X1/Inspector_Avinash_2023_S1E3_19031_3.mkv.mp4",
+                "4": "https://streamtape.to/v/vxJ8VLzL6PuPL1/Inspector_Avinash_S01E04_19031_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/li6bw1xku2ii",
+                "2": "https://streamhub.to/95rs6biwjkmz",
+                "3": "https://streamhub.to/veq0uc1rr1hx",
+                "4": "FALSE"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "1032",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Yeh%20Meri%20Family%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Yeh%20Meri%20Family%20Season%202.jpg",
+            "movieName": "Yeh Meri Family Season 2",
+            "htmlFile": "https://www.19032",
+            "directOne": "Comedy,Drama",
+            "directSecond": "JGjW5cMpZdo",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Yeh Meri Family",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/bryYpxkPgxhDxe/Yeh_meri_family_%282023%29_S02_E01_19032_1.mkv.mp4",
+                "2": "https://streamtape.to/v/YyOQJvaxeytdLq/Yeh_meri_family_%282023%29_S02_E02_19032_2.mkv.mp4",
+                "3": "https://streamtape.to/v/L1Lmokz9qvfRByx/Yeh_meri_family_%282023%29_S02_E03_19032_3.mkv.mp4",
+                "4": "https://streamtape.to/v/KgmORkom93C0Qj9/Yeh_meri_family_%282023%29_S02_E04_19032_4.mkv.mp4",
+                "5": "https://streamtape.to/v/p16AzdyxrLCxvW/Yeh_meri_family_%282023%29_S02_E05_19032_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/blr841yio2bw",
+                "2": "https://streamhub.to/nuo2ng6cwxk5",
+                "3": "https://streamhub.to/xsjgaycizyog",
+                "4": "https://streamhub.to/04eme1xaotdp",
+                "5": "https://streamhub.to/bee4l56fs2ul"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
         }
     ]
 }
