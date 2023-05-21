@@ -36822,8 +36822,12 @@
             "EpisodeHub": {
                 "1": "https://streamhub.to/zn2uc61sf3ip"
             },
-            "episodeServer3": {},
-            "episodeServer4": {}
+            "episodeServer3": {
+            "1":"https://uploadraja.com/xleh4vzypx0s"
+            },
+            "episodeServer4": {
+         "1":"https://uptomega.net/jv8o71pslt7b"   
+            }
         }
     ]
 }
