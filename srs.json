@@ -36743,35 +36743,6 @@
             "episodeServer4": {}
         },
         {
-            "id": "1031",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Inspector%20Avinash%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Inspector%20Avinash%20Season%201.jpg",
-            "movieName": "Inspector Avinash Season 1",
-            "htmlFile": "https://www.19031",
-            "directOne": "Action,Thriller",
-            "directSecond": "JGjW5cMpZdo",
-            "imbd": "8.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Inspector Avinash",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/Qa1qgaOGDLI04yQ/Inspector_Avinash_S01E01_19031_1.mkv.mp4",
-                "2": "https://streamtape.to/v/g1dx0MBA7aiqqVL/Inspector_Avinash_S01E02_19031_2.mkv.mp4",
-                "3": "https://streamtape.to/v/oWOv88ZG13s3wK/Inspector_Avinash_2023_S1E3_19031_3.mkv.mp4",
-                "4": "https://streamtape.to/v/rrpxpg0x3wiMRj/Inspector_Avinash_S01E04_19031_4.mkv"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/li6bw1xku2ii",
-                "2": "https://streamhub.to/95rs6biwjkmz",
-                "3": "https://streamhub.to/veq0uc1rr1hx",
-                "4": "FALSE"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {}
-        },
-        {
             "id": "1032",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Yeh%20Meri%20Family%20Season%202.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Yeh%20Meri%20Family%20Season%202.jpg",
@@ -36828,6 +36799,41 @@
             "episodeServer4": {
                      "1":"https://uptomega.net/jv8o71pslt7b"   
             }
+        },
+        {
+            "id": "1031",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Inspector%20Avinash%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Inspector%20Avinash%20Season%201.jpg",
+            "movieName": "Inspector Avinash Season 1",
+            "htmlFile": "https://www.19031",
+            "directOne": "Action,Thriller",
+            "directSecond": "JGjW5cMpZdo",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Inspector Avinash",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/Qa1qgaOGDLI04yQ/Inspector_Avinash_S01E01_19031_1.mkv.mp4",
+                "2": "https://streamtape.to/v/g1dx0MBA7aiqqVL/Inspector_Avinash_S01E02_19031_2.mkv.mp4",
+                "3": "https://streamtape.to/v/oWOv88ZG13s3wK/Inspector_Avinash_2023_S1E3_19031_3.mkv.mp4",
+                "4": "https://streamtape.to/v/rrpxpg0x3wiMRj/Inspector_Avinash_S01E04_19031_4.mkv",
+                "5":"https://streamtape.to/v/yj8G0raVaLT1l9Y/Inspector_Avinash_S01E05_19031_5.mkv.mp4",
+                "6":"https://streamtape.to/v/AkWBk3Z8RDIDrM/Inspector_Avinash_S01E06_19031_6.mkv.mp4",
+                "7":"https://streamtape.to/v/xoG9KO1wv2fkkGq/Inspector_Avinash_S01E07_19031_7.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/li6bw1xku2ii",
+                "2": "https://streamhub.to/95rs6biwjkmz",
+                "3": "https://streamhub.to/veq0uc1rr1hx",
+                "4": "https://streamhub.to/a7rizw4vfjc7",
+                "5":"https://streamhub.to/vcupah1eb39o",
+                "6":"https://streamhub.to/7sqsqz3ou7ud",
+                "7":"https://streamhub.to/htz8j7qniiki"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
         }
     ]
 }
