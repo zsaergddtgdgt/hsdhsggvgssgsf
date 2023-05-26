@@ -36712,37 +36712,6 @@
             "episodeServer4": {}
         },
         {
-            "id": "1022",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Citadel%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Citadel%20Season%201.jpg",
-            "movieName": "Citadel Season 1",
-            "htmlFile": "https://www.19022",
-            "directOne": "Action,Drama",
-            "directSecond": "W8_lC_CXBo4",
-            "imbd": "8.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Citadel",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/erRO8qqld3cYG0e/Citadel_S01E01_19022_1.mkv.mp4",
-                "2": "https://streamtape.to/v/RDaRyAv9JDTd8wp/Citadel_S01E02_19022_2.mkv.mp4",
-                "3": "https://streamtape.to/v/LXAAYdgDwQhRzdY/Citadel_S01E03_19022_3.mkv.mp4",
-                "4": "https://streamtape.to/v/1J7AOK39G3Ie2lm/Citadel_S01E04_19022_4.mkv.mp4",
-                "5": "https://streamtape.to/v/zrjwqbYKQBFgkG/Citadel_S01E05_19022_5.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/dm7r1lg1une2",
-                "2": "https://streamhub.to/krquvzl4ygcv",
-                "3": "https://streamhub.to/pkheh6f4v4zz",
-                "4": "https://streamhub.to/vaub7zjd3g0b",
-                "5": "https://streamhub.to/fqfbkys6nsao"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {}
-        },
-        {
             "id": "1032",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Yeh%20Meri%20Family%20Season%202.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Yeh%20Meri%20Family%20Season%202.jpg",
@@ -36801,6 +36770,43 @@
             }
         },
         {
+            "id": "1034",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Tulsa%20King%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Tulsa%20King%20Season%201.jpg",
+            "movieName": "Tulsa King Season 1",
+            "htmlFile": "https://www.19034",
+            "directOne": "Crime,Drama",
+            "directSecond": "aaQSScwZPbA",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Tulsa King",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/q3m49vzqb9Hzv7D/Tulsa_King_S01E01_19034_1.mkv.mp4",
+                "2": "https://streamtape.to/v/oxr1vozyLdIJqQR/Tulsa_King_S01E02_19034_2.mkv.mp4",
+                "3": "https://streamtape.to/v/7q3Ww3R2g0i8k9/Tulsa_King_S01E03_19034_3.mkv.mp4",
+                "4": "https://streamtape.to/v/vBP63o07RQU4kW4/Tulsa_King_S01E04_19034_4.mkv.mp4",
+                "5": "https://streamtape.to/v/kvzxKMjQvjH8Dd/Tulsa_King_S01E05_19034_5.mkv.mp4",
+                "6": "https://streamtape.to/v/wl6JoBQVy0fjZo/Tulsa_King_S01E06_19034_6.mkv.mp4",
+                "7": "https://streamtape.to/v/ek4X7yL94osYM2D/Tulsa_King_S01E07_19034_7.mkv.mp4",
+                "8":"https://streamtape.to/v/a2vPjPa41KIxq18/Tulsa_King_S01E08_19034_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/at4e34d98dxm",
+                "2": "https://streamhub.to/jmh39pssahsr",
+                "3": "https://streamhub.to/2nhuvd5mm3au",
+                "4": "https://streamhub.to/tukfi8rfe3yz",
+                "5": "https://streamhub.to/y7s23wm6gt08",
+                "6": "https://streamhub.to/rjxjrg14xkal",
+                "7": "https://streamhub.to/ufqcq5wumkdj",
+                "8":"https://streamhub.to/xgchr3pyyeku"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
             "id": "1031",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Inspector%20Avinash%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Inspector%20Avinash%20Season%201.jpg",
@@ -36821,7 +36827,8 @@
                 "4": "https://streamtape.to/v/rrpxpg0x3wiMRj/Inspector_Avinash_S01E04_19031_4.mkv",
                 "5":"https://streamtape.to/v/yj8G0raVaLT1l9Y/Inspector_Avinash_S01E05_19031_5.mkv.mp4",
                 "6":"https://streamtape.to/v/AkWBk3Z8RDIDrM/Inspector_Avinash_S01E06_19031_6.mkv.mp4",
-                "7":"https://streamtape.to/v/xoG9KO1wv2fkkGq/Inspector_Avinash_S01E07_19031_7.mkv.mp4"
+                "7":"https://streamtape.to/v/xoG9KO1wv2fkkGq/Inspector_Avinash_S01E07_19031_7.mkv.mp4",
+                "8":"https://streamtape.to/v/ZbvXDOgJmRTyQ8/Inspector_Avinash_S1E8_%282023%29_19031_8.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.to/li6bw1xku2ii",
@@ -36830,7 +36837,66 @@
                 "4": "https://streamhub.to/a7rizw4vfjc7",
                 "5":"https://streamhub.to/vcupah1eb39o",
                 "6":"https://streamhub.to/7sqsqz3ou7ud",
-                "7":"https://streamhub.to/htz8j7qniiki"
+                "7":"https://streamhub.to/htz8j7qniiki",
+                "8":"https://streamhub.to/figud2clfnwz"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "1035",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Crackdown%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Crackdown%20Season%202.jpg",
+            "movieName": "Crackdown Season 2",
+            "htmlFile": "https://www.19035",
+            "directOne": "Action,Crime",
+            "directSecond": "hkbh8VwkECQ",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Crackdown",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/grpV8xo0d1tqlD3/Crackdown_2023_S2E1_19035_1.mkv.mp4",
+                "2": "https://streamtape.to/v/8XLYQqyKkMToR27/Crackdown_2023_S2E2_19035_2.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/ngzqtkzk2eoh",
+                "2": "https://streamhub.to/w2gl865iikpu"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {}
+        },
+        {
+            "id": "1022",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Citadel%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Citadel%20Season%201.jpg",
+            "movieName": "Citadel Season 1",
+            "htmlFile": "https://www.19022",
+            "directOne": "Action,Drama",
+            "directSecond": "W8_lC_CXBo4",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Citadel",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/erRO8qqld3cYG0e/Citadel_S01E01_19022_1.mkv.mp4",
+                "2": "https://streamtape.to/v/RDaRyAv9JDTd8wp/Citadel_S01E02_19022_2.mkv.mp4",
+                "3": "https://streamtape.to/v/LXAAYdgDwQhRzdY/Citadel_S01E03_19022_3.mkv.mp4",
+                "4": "https://streamtape.to/v/1J7AOK39G3Ie2lm/Citadel_S01E04_19022_4.mkv.mp4",
+                "5": "https://streamtape.to/v/zrjwqbYKQBFgkG/Citadel_S01E05_19022_5.mkv.mp4",
+                "6":"https://streamtape.to/v/ZrqbXry1y6Cqq99/Citadel_S01E06_19022_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/dm7r1lg1une2",
+                "2": "https://streamhub.to/krquvzl4ygcv",
+                "3": "https://streamhub.to/pkheh6f4v4zz",
+                "4": "https://streamhub.to/vaub7zjd3g0b",
+                "5": "https://streamhub.to/fqfbkys6nsao",
+                "6":"https://streamhub.to/5gskex5jzu5w"
             },
             "episodeServer3": {},
             "episodeServer4": {}
