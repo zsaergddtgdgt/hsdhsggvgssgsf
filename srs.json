@@ -36844,31 +36844,6 @@
             "episodeServer4": {}
         },
         {
-            "id": "1035",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Crackdown%20Season%202.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Crackdown%20Season%202.jpg",
-            "movieName": "Crackdown Season 2",
-            "htmlFile": "https://www.19035",
-            "directOne": "Action,Crime",
-            "directSecond": "hkbh8VwkECQ",
-            "imbd": "8.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Crackdown",
-            "pathName": "S2",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/3BbZyyLX8wudBm6/Crackdown_2023_S2E1_19035_1.mkv.mp4",
-                "2": "https://streamtape.to/v/zrB4RXPmLdcYm68/Crackdown_2023_S2E2_19035_2.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.to/ngzqtkzk2eoh",
-                "2": "https://streamhub.to/w2gl865iikpu"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {}
-        },
-        {
             "id": "1022",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Citadel%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Citadel%20Season%201.jpg",
@@ -36900,6 +36875,61 @@
             },
             "episodeServer3": {},
             "episodeServer4": {}
+        },
+        {
+            "id": "1035",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Crackdown%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Crackdown%20Season%202.jpg",
+            "movieName": "Crackdown Season 2",
+            "htmlFile": "https://www.19035",
+            "directOne": "Action,Crime",
+            "directSecond": "hkbh8VwkECQ",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Crackdown",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/3BbZyyLX8wudBm6/Crackdown_2023_S2E1_19035_1.mkv.mp4",
+                "2": "https://streamtape.to/v/zrB4RXPmLdcYm68/Crackdown_2023_S2E2_19035_2.mkv.mp4",
+                "3": "https://streamtape.to/v/kp1VqlrywmuO4Bq/Crackdown_S02_E03_19035_3.mkv.mp4",
+                "4": "https://streamtape.to/v/z6dAlw0blqTYm6O/Crackdown_S02_E04_19035_4.mkv.mp4",
+                "5": "https://streamtape.to/v/zrzPJmxALPCyML/Crackdown_S02_E05_19035_5.mkv.mp4",
+                "6": "https://streamtape.to/v/0Ap63lzX4Gubj48/Crackdown_S02_E06_19035_6.mkv.mp4",
+                "7": "https://streamtape.to/v/DqvqeYlZjwFk2Dk/Crackdown_S02_E07_19035_7.mkv.mp4",
+                "8": "https://streamtape.to/v/mkJAKZxzgzIBza/Crackdown_S02_E08_19035_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.to/ngzqtkzk2eoh",
+                "2": "https://streamhub.to/w2gl865iikpu",
+                "3": "https://streamhub.to/oxakl2cp4hk4",
+                "4": "https://streamhub.to/ywdvcblckyyd",
+                "5": "https://streamhub.to/dlacp6243jqg",
+                "6": "https://streamhub.to/dye6dmnzvwka",
+                "7": "https://streamhub.to/ywc231baukzk",
+                "8": "https://streamhub.to/k58h5snfm0d2"
+            },
+            "episodeServer3": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "https://uploadraja.com/26vu7ojqdaov",
+                "4": "https://uploadraja.com/9ulauc74b4sg",
+                "5": "https://uploadraja.com/lb52y0pkwndy",
+                "6": "https://uploadraja.com/lozkeslvajhb",
+                "7": "https://uploadraja.com/dzdwzu2nwc7c",
+                "8": "https://uploadraja.com/hiowsz8yolr7"
+                },
+            "episodeServer4": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "https://uptomega.net/vpdn1dksr6oh",
+                "4": "https://uptomega.net/pj8k6tiwnapi",
+                "5": "https://uptomega.net/tbuysdedsqum",
+                "6": "https://uptomega.net/rllcjokmc4y0",
+                "7": "https://uptomega.net/w19hjpy6xfba",
+                "8": "https://uptomega.net/emrdjat6w99e"
+                }
         }
     ]
 }
