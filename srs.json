@@ -36932,6 +36932,46 @@
             }
         },
         {
+            "id": "1038",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Gryphon%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Gryphon%20Season%201.jpg",
+            "movieName": "The Gryphon Season 1",
+            "htmlFile": "https://www.19038",
+            "directOne": "Fantasy,Adventure",
+            "directSecond": "MQR3GGQWtrA",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Gryphon",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/3PjAyQVyp1hAG3/The_Gryphon_S01E01_19038_1.mkv.mp4",
+                "2": "https://streamtape.to/v/KWgjeM81oXU06Pd/The_Gryphon_S01E02_19038_2.mkv.mp4",
+                "3": "https://streamtape.to/v/g1Qz7klvooiq7Br/The_Gryphon_S01E03_19038_3.mkv.mp4",
+                "4": "https://streamtape.to/v/qZy3lZvWpYFAOV/The_Gryphon_S01E04_19038_4.mkv.mp4",
+                "5": "https://streamtape.to/v/LkZpPxqQ94UamJ/The_Gryphon_S01E05_19038_5.mkv.mp4",
+                "6": "https://streamtape.to/v/9PLB76AVLBS63G/The_Gryphon_S01E06_19038_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/1mv89bbqb72g",
+                "2": "https://streamhub.gg/sf8pr1vsc4wx",
+                "3": "https://streamhub.gg/a5itpa8fj5as",
+                "4": "https://streamhub.gg/7ltw66f1dmpq",
+                "5": "https://streamhub.gg/3viid6vs1iv4",
+                "6": "https://streamhub.gg/gii94pfhyhme"
+            },
+            "episodeServer3": {
+                "1": "http://uploadraja.com/23rs0flm00ar",
+                "2": "http://uploadraja.com/3dt531tf1atq",
+                "3": "http://uploadraja.com/coobbwmo3uee",
+                "4": "http://uploadraja.com/e2y5co6o6vh7",
+                "5": "http://uploadraja.com/wnutwbsxukhg",
+                "6": "http://uploadraja.com/j8k0uoly8z88"
+            },
+            "episodeServer4": {}
+        },
+        {
             "id": "1037",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/FUBAR%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/FUBAR%20Season%201.jpg",
@@ -37024,6 +37064,45 @@
             "episodeServer4": {
                 "1": "https://uptomega.net/3dqpi8c1dt3q",
                 "2": "https://uptomega.net/tnvioejxsgjp"
+            }
+        },
+        {
+            "id": "1039",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/UP65%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/UP65%20Season%201.jpg",
+            "movieName": "UP65 Season 1",
+            "htmlFile": "https://www.19039",
+            "directOne": "Comedy,Drama",
+            "directSecond": "IyUylU0dDXI",
+            "imbd": "8.1",
+            "rating": "Hind",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "UP65",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/4w2XJPx4k2h2Op/UP65_S01E01_19039_1.mkv.mp4",
+                "2": "https://streamtape.to/v/bzbGKja4k3TP8Ad/UP65_S01E02_19039_2.mkv.mp4",
+                "3": "https://streamtape.to/v/jWORqa4pGxczpKx/UP65_S01E03_19039_3.mkv.mp4",
+                "4": "https://streamtape.to/v/JoKdaxLoPYhJgo/UP65_S01E04_19039_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/6iltl71boma1",
+                "2": "https://streamhub.gg/p73yyhcdmhlc",
+                "3": "https://streamhub.gg/2wjuas1nf264",
+                "4": "https://streamhub.gg/iswuzi0fjhd1"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/kl7drdr0lxsc",
+                "2": "https://uploadraja.com/8qeox04mvp4j",
+                "3": "https://uploadraja.com/w5jt3ioec7af",
+                "4": "https://uploadraja.com/yqk3202n255x"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/UP65%20S01E01%2019039%201.mkv",
+                "2": "https://srs.aapkipooja.com/UP65%20S01E02%2019039%202.mkv",
+                "3": "https://srs.aapkipooja.com/UP65%20S01E03%2019039%203.mkv",
+                "4": "https://srs.aapkipooja.com/UP65%20S01E04%2019039%204.mkv"
             }
         }
     ]
