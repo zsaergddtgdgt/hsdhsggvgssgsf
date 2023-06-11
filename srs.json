@@ -37170,6 +37170,53 @@
                 "3": "https://srs.aapkipooja.com/Taj%20S02E03%2019041%203.mkv",
                 "4": "https://srs.aapkipooja.com/Taj%20S02E04%2019041%204.mkv"
                 }
+        },
+        {
+            "id": "1042",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Scoop%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Scoop%20Season%201.jpg",
+            "movieName": "Scoop Season 1",
+            "htmlFile": "https://www.19042",
+            "directOne": "Biography,Crime",
+            "directSecond": "mmnQzRP-NZ4",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Scoop",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/p7o2DGqwKzIrkBa/Scoop_S01E01_19042_1.mkv.mp4",
+                "2": "https://streamtape.to/v/RAqW6oGyRZhdQ9p/Scoop_S01E02_19042_2.mkv.mp4",
+                "3": "https://streamtape.to/v/M03VG7j7dJcmPVd/Scoop_S01E03_19042_3.mkv.mp4",
+                "4": "https://streamtape.to/v/Rq69gVmOddIdO20/Scoop_S01E04_19042_4.mkv.mp4",
+                "5": "https://streamtape.to/v/4R9XRYVeY8HO4d/Scoop_S01E05_19042_5.mkv.mp4",
+                "6": "https://streamtape.to/v/gLzQ3GMobACqKAl/Scoop_S01E06_19042_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/9zhe38h16t4d",
+                "2": "https://streamhub.gg/vrdq6gxn1g4h",
+                "3": "https://streamhub.gg/s4wgzdqbxffd",
+                "4": "https://streamhub.gg/mummtdbgw8i8",
+                "5": "https://streamhub.gg/4svjshbvh268",
+                "6": "https://streamhub.gg/4p6f3jxavt0g"
+            },
+            "episodeServer3": {
+                "1": "http://uploadraja.com/p3jtippns44v",
+                "2": "https://uploadraja.com/hrknlgu1qjxs",
+                "3": "http://uploadraja.com/p3jtippns44v",
+                "4": "http://uploadraja.com/97xuko1b9vc5",
+                "5": "http://uploadraja.com/ytpzzglzl2bp",
+                "6": "http://uploadraja.com/6xdc97r9qoew"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Scoop%20S01E01%2019042%201.mkv",
+                "2": "https://srs.aapkipooja.com/Scoop%20S01E02%2019042%202.mkv",
+                "3": "https://srs.aapkipooja.com/Scoop%20S01E03%2019042%203.mkv",
+                "4": "https://srs.aapkipooja.com/Scoop%20S01E04%2019042%204.mkv",
+                "5": "https://srs.aapkipooja.com/Scoop%20S01E05%2019042%205.mkv",
+                "6": "https://srs.aapkipooja.com/Scoop%20S01E06%2019042%206.mkv"
+                }
         }
     ]
 }
