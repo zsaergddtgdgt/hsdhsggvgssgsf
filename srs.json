@@ -37133,6 +37133,45 @@
             }
         },
         {
+            "id": "1042",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Deadloch%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Deadloch%20Season%201.jpg",
+            "movieName": "Deadloch Season 1",
+            "htmlFile": "https://www.19042",
+            "directOne": "Comedy,Drama",
+            "directSecond": "PRYlkqIK_4A",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Deadloch",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/Q31LAwXD2VuJp6/Deadloch_S01E01_19042_1.mkv.mp4",
+                "2": "https://streamtape.to/v/qjzwWZArKeUzxam/Deadloch_S01E02_19042_2.mkv.mp4",
+                "3": "https://streamtape.to/v/3oMxrZw837F6V4/Deadloch_S01E03_19042_3.mkv.mp4",
+                "4": "https://streamtape.to/v/dqwdqgrZG8TkX4w/Deadloch_S01E04_19042_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/m0awvj26zfqo",
+                "2": "https://streamhub.gg/r33hn785iza8",
+                "3": "https://streamhub.gg/258v7xsbpeus",
+                "4": "https://streamhub.gg/kydiydea9dj2"
+            },
+            "episodeServer3": {
+                "1": "http://uploadraja.com/e0gdh91f1nvg",
+                "2": "http://uploadraja.com/hofd6kh75k1z",
+                "3": "http://uploadraja.com/sp230chinj4y",
+                "4": "http://uploadraja.com/z75gun3n1uzj"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Deadloch%20S01E01%2019042%201.mkv",
+                "2": "https://srs.aapkipooja.com/Deadloch%20S01E02%2019042%202.mkv",
+                "3": "https://srs.aapkipooja.com/Deadloch%20S01E03%2019042%203.mkv",
+                "4": "https://srs.aapkipooja.com/Deadloch%20S01E04%2019042%204.mkv"
+                }
+        },
+        {
             "id": "1041",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Taj%20-%20Divided%20by%20Blood%20Season%202.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Taj%20-%20Divided%20by%20Blood%20Season%202.jpg",
