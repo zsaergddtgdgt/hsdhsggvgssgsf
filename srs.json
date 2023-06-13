@@ -37067,45 +37067,6 @@
             }
         },
         {
-            "id": "1039",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/UP65%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/UP65%20Season%201.jpg",
-            "movieName": "UP65 Season 1",
-            "htmlFile": "https://www.19039",
-            "directOne": "Comedy,Drama",
-            "directSecond": "IyUylU0dDXI",
-            "imbd": "8.1",
-            "rating": "Hind",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "UP65",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.to/v/4w2XJPx4k2h2Op/UP65_S01E01_19039_1.mkv.mp4",
-                "2": "https://streamtape.to/v/bzbGKja4k3TP8Ad/UP65_S01E02_19039_2.mkv.mp4",
-                "3": "https://streamtape.to/v/jWORqa4pGxczpKx/UP65_S01E03_19039_3.mkv.mp4",
-                "4": "https://streamtape.to/v/JoKdaxLoPYhJgo/UP65_S01E04_19039_4.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.gg/6iltl71boma1",
-                "2": "https://streamhub.gg/p73yyhcdmhlc",
-                "3": "https://streamhub.gg/2wjuas1nf264",
-                "4": "https://streamhub.gg/iswuzi0fjhd1"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/kl7drdr0lxsc",
-                "2": "https://uploadraja.com/8qeox04mvp4j",
-                "3": "https://uploadraja.com/w5jt3ioec7af",
-                "4": "https://uploadraja.com/yqk3202n255x"
-            },
-            "episodeServer4": {
-                "1": "https://srs.aapkipooja.com/UP65%20S01E01%2019039%201.mkv",
-                "2": "https://srs.aapkipooja.com/UP65%20S01E02%2019039%202.mkv",
-                "3": "https://srs.aapkipooja.com/UP65%20S01E03%2019039%203.mkv",
-                "4": "https://srs.aapkipooja.com/UP65%20S01E04%2019039%204.mkv"
-            }
-        },
-        {
             "id": "1040",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Badtameez%20Dil%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Badtameez%20Dil%20Season%201.jpg",
@@ -37310,6 +37271,198 @@
                 "6": "https://srs.aapkipooja.com/School%20of%20Lies%20S01E06%2019043%206.mkv",
                 "7": "https://srs.aapkipooja.com/School%20of%20Lies%20S01E07%2019043%207.mkv",
                 "8": "https://srs.aapkipooja.com/School%20of%20Lies%20S01E08%2019043%208.mkv"
+                }
+        },
+        {
+            "id": "1044",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Modern%20Love%20Chennai%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Modern%20Love%20Chennai%20Season%201.jpg",
+            "movieName": "Modern Love Chennai Season 1",
+            "htmlFile": "https://www.19044",
+            "directOne": "Comedy,Drama",
+            "directSecond": "LMkXdF-uVvI",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Modern Love Chennai",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/dpQ83J0ObeskW41/Modern_Love_Chennai_2023_S01_Complete_19044_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/eq7hoedofqg5"
+            },
+            "episodeServer3": {
+                "1": "http://uploadraja.com/2flklxs3dnmx"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Modern%20Love%20Chennai%202023%20S01%20Complete%2019044%201.mkv"
+                }
+        },
+        {
+            "id": "1039",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/UP65%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/UP65%20Season%201.jpg",
+            "movieName": "UP65 Season 1",
+            "htmlFile": "https://www.19039",
+            "directOne": "Comedy,Drama",
+            "directSecond": "IyUylU0dDXI",
+            "imbd": "8.1",
+            "rating": "Hind",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "UP65",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/4w2XJPx4k2h2Op/UP65_S01E01_19039_1.mkv.mp4",
+                "2": "https://streamtape.to/v/bzbGKja4k3TP8Ad/UP65_S01E02_19039_2.mkv.mp4",
+                "3": "https://streamtape.to/v/jWORqa4pGxczpKx/UP65_S01E03_19039_3.mkv.mp4",
+                "4": "https://streamtape.to/v/JoKdaxLoPYhJgo/UP65_S01E04_19039_4.mkv.mp4",
+                "5":"https://streamtape.to/v/rJGQ6ppJKDFbWrl/UP65_S01E05_19039_5.mkv.mp4",
+                "6":"https://streamtape.to/v/o1lZmKZg4RuWDr/UP65_S01E06_19039_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/6iltl71boma1",
+                "2": "https://streamhub.gg/p73yyhcdmhlc",
+                "3": "https://streamhub.gg/2wjuas1nf264",
+                "4": "https://streamhub.gg/iswuzi0fjhd1",
+                "5":"https://streamhub.gg/ahs1ppvl3x3v",
+                "6":"https://streamhub.gg/3vtpp1q0y61e"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/kl7drdr0lxsc",
+                "2": "https://uploadraja.com/8qeox04mvp4j",
+                "3": "https://uploadraja.com/w5jt3ioec7af",
+                "4": "https://uploadraja.com/yqk3202n255x",
+                "5":"http://uploadraja.com/7arwvoj2io6h",
+                "6":"http://uploadraja.com/acihcc9d8rlg"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/UP65%20S01E01%2019039%201.mkv",
+                "2": "https://srs.aapkipooja.com/UP65%20S01E02%2019039%202.mkv",
+                "3": "https://srs.aapkipooja.com/UP65%20S01E03%2019039%203.mkv",
+                "4": "https://srs.aapkipooja.com/UP65%20S01E04%2019039%204.mkv",
+                "5":"https://srs.aapkipooja.com/UP65%20S01E05%2019039%205.mkv",
+                "6":"https://srs.aapkipooja.com/UP65%20S01E06%2019039%206.mkv"
+            }
+        },
+        {
+            "id": "1045",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Never%20Have%20I%20Ever%20Season%204.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Never%20Have%20I%20Ever%20Season%204.jpg",
+            "movieName": "Never Have I Ever Season 4",
+            "htmlFile": "https://www.19045",
+            "directOne": "Comedy,Drama",
+            "directSecond": "4W64dyWJlp4",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Never Have I Ever",
+            "pathName": "S4",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/VY3kD3MQp6hKddZ/Never_Have_I_Ever_S04E01_19045_1.mkv.mp4",
+                "2": "https://streamtape.to/v/zbGmVJoLgZuYMO2/Never_Have_I_Ever_S04E02_19045_2.mkv.mp4",
+                "3": "https://streamtape.to/v/0dg33JdVWGHbyv6/Never_Have_I_Ever_S04E03_19045_3.mkv.mp4",
+                "4": "https://streamtape.to/v/m1ZybwKL36FbK4d/Never_Have_I_Ever_S04E04_19045_4.mkv.mp4",
+                "5": "https://streamtape.to/v/QyOOQ8lVdPf04r1/Never_Have_I_Ever_S04E05_19045_5.mkv.mp4",
+                "6": "https://streamtape.to/v/K9g3vDz96Au0XY8/Never_Have_I_Ever_S04E06_19045_6.mkv.mp4",
+                "7": "https://streamtape.to/v/kbBGlxlyb8f6K2/Never_Have_I_Ever_S04E07_19045_7.mkv.mp4",
+                "8": "https://streamtape.to/v/DlwX1VVVLoTkp8Q/Never_Have_I_Ever_S04E08_19045_8.mkv.mp4",
+                "9": "https://streamtape.to/v/eoRQ0xqkvbTZbg/Never_Have_I_Ever_S04E09_19045_9.mkv.mp4",
+                "10": "https://streamtape.to/v/XPWQ4LRO8YUBXV/Never_Have_I_Ever_S04E10_19045_10.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/dx68vfkeolfm",
+                "2": "https://streamhub.gg/copbrqw3y1ig",
+                "3": "https://streamhub.gg/4zkqnbv4t9b7",
+                "4": "https://streamhub.gg/zizb1vr1fuws",
+                "5": "https://streamhub.gg/ujxipsw89o55",
+                "6": "https://streamhub.gg/f53aopqln1gh",
+                "7": "https://streamhub.gg/nlzkr1h0fqip",
+                "8": "https://streamhub.gg/ikuzmwyfcpku",
+                "9": "https://streamhub.gg/gk52ytz10q06",
+                "10": "https://streamhub.gg/3vq4p63bew1q"
+            },
+            "episodeServer3": {
+                "1": "http://uploadraja.com/xylheb1rgwwu",
+                "2": "http://uploadraja.com/mu0l40in9bx1",
+                "3": "http://uploadraja.com/yclzix2bryxc",
+                "4": "http://uploadraja.com/vlrc9ymt4rac",
+                "5": "http://uploadraja.com/hb0qoe1ombog",
+                "6": "http://uploadraja.com/q17xz22iivii",
+                "7": "http://uploadraja.com/56lclto9f6wh",
+                "8": "http://uploadraja.com/sy6qq73oihhd",
+                "9": "http://uploadraja.com/4bwqu5oj88l9",
+                "10": "http://uploadraja.com/n0r89d0j73hx"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Never%20Have%20I%20Ever%20S04E01%2019045%201.mkv",
+                "2": "https://srs.aapkipooja.com/Never%20Have%20I%20Ever%20S04E02%2019045%202.mkv",
+                "3": "https://srs.aapkipooja.com/Never%20Have%20I%20Ever%20S04E03%2019045%203.mkv",
+                "4": "https://srs.aapkipooja.com/Never%20Have%20I%20Ever%20S04E04%2019045%204.mkv",
+                "5": "https://srs.aapkipooja.com/Never%20Have%20I%20Ever%20S04E05%2019045%205.mkv",
+                "6": "https://srs.aapkipooja.com/Never%20Have%20I%20Ever%20S04E06%2019045%206.mkv",
+                "7": "https://srs.aapkipooja.com/Never%20Have%20I%20Ever%20S04E07%2019045%207.mkv",
+                "8": "https://srs.aapkipooja.com/Never%20Have%20I%20Ever%20S04E08%2019045%208.mkv",
+                "9": "https://srs.aapkipooja.com/Never%20Have%20I%20Ever%20S04E09%2019045%209.mkv",
+                "10": "https://srs.aapkipooja.com/Never%20Have%20I%20Ever%20S04E10%2019045%210.mkv"
+                }
+        },
+        {
+            "id": "1046",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Bloodhounds%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Bloodhounds%20Season%201.jpg",
+            "movieName": "Bloodhounds Season 1",
+            "htmlFile": "https://www.19046",
+            "directOne": "Action,Crime",
+            "directSecond": "2NU9Pqx_eDo",
+            "imbd": "8.1",
+            "rating": "Hindi+Eng+Korean",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Bloodhounds",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/Zy990YdYyKSqzpx/Bloodhounds_S01E01_19046_1.mkv.mp4",
+                "2": "https://streamtape.to/v/6mW4rkB811S9kMb/Bloodhounds_S01E02_19046_2.mkv.mp4",
+                "3": "https://streamtape.to/v/m3M9LaK8GRfbYQO/Bloodhounds_S01E03_19046_3.mkv.mp4",
+                "4": "https://streamtape.to/v/1a0ovOqg0OTeqpB/Bloodhounds_S01E04_19046_4.mkv.mp4",
+                "5": "https://streamtape.to/v/Wy8Db2YQD1Ub7Qb/Bloodhounds_S01E05_19046_5.mkv.mp4",
+                "6": "https://streamtape.to/v/17YjlryGdmFeK8Q/Bloodhounds_S01E06_19046_6.mkv.mp4",
+                "7": "https://streamtape.to/v/Kwg21QdWwgU0xrV/Bloodhounds_S01E07_19046_7.mkv.mp4",
+                "8": "https://streamtape.to/v/a26ayDgezvIdwg/Bloodhounds_S01E08_19046_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/r72dsd84zu2p",
+                "2": "https://streamhub.gg/tjjpol9qmwq5",
+                "3": "https://streamhub.gg/qlf3pdl5fsy2",
+                "4": "https://streamhub.gg/54ojj64fuk9x",
+                "5": "https://streamhub.gg/numd6p8149gp",
+                "6": "https://streamhub.gg/vgkkxztn8dwu",
+                "7": "https://streamhub.gg/opgzc7kpo29t",
+                "8": "https://streamhub.gg/5seycxxk97ag"
+            },
+            "episodeServer3": {
+                "1": "http://uploadraja.com/fdp43ufvspl0",
+                "2": "http://uploadraja.com/8vhb7udygrve",
+                "3": "http://uploadraja.com/wfeww8620fzi",
+                "4": "http://uploadraja.com/afgk4lmw5140",
+                "5": "http://uploadraja.com/8ta83lpqtopo",
+                "6": "http://uploadraja.com/3syf7w8tahft",
+                "7": "http://uploadraja.com/l9p3zvi77h2b",
+                "8": "https://uploadraja.com/pjqc4fw3abbx"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Bloodhounds%20S01E01%2019046%201.mkv",
+                "2": "https://srs.aapkipooja.com/Bloodhounds%20S01E02%2019046%202.mkv",
+                "3": "https://srs.aapkipooja.com/Bloodhounds%20S01E03%2019046%203.mkv",
+                "4": "https://srs.aapkipooja.com/Bloodhounds%20S01E04%2019046%204.mkv",
+                "5": "https://srs.aapkipooja.com/Bloodhounds%20S01E05%2019046%205.mkv",
+                "6": "https://srs.aapkipooja.com/Bloodhounds%20S01E06%2019046%206.mkv",
+                "7": "https://srs.aapkipooja.com/Bloodhounds%20S01E07%2019046%207.mkv",
+                "8": "https://srs.aapkipooja.com/Bloodhounds%20S01E08%2019046%208.mkv"
                 }
         }
     ]
