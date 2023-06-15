@@ -37561,6 +37561,65 @@
                 "1": "https://srs.aapkipooja.com/Rafuchakkar%20S01E01%2019049%201.mkv",
                 "2": "https://srs.aapkipooja.com/Rafuchakkar%20S01E02%2019049%202.mkv"
                 }
+        },
+        {
+            "id": "1050",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Shaitan%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Shaitan%20Season%201.jpg",
+            "movieName": "Shaitan Season 1",
+            "htmlFile": "https://www.19050",
+            "directOne": "Action,Crime",
+            "directSecond": "BSjNWO21tng",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Shaitan",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/mDbJ7PeX6YTXwa/Shaitan_S01E01_19050_1.mkv.mp4",
+                "2": "https://streamtape.to/v/DQ3r6dzyeLikoML/Shaitan_S01E02_19050_2.mkv.mp4",
+                "3": "https://streamtape.to/v/7mOKk8R74ehAzqD/Shaitan_S01E03_19050_3.mkv.mp4",
+                "4": "https://streamtape.to/v/YDxJ1LLq9btvYAo/Shaitan_S01E04_19050_4.mkv.mp4",
+                "5": "https://streamtape.to/v/3x6QY9pKLOUdVew/Shaitan_S01E05_19050_5.mkv.mp4",
+                "6": "https://streamtape.to/v/LVxmlqKk6BT4kQ/Shaitan_S01E06_19050_6.mkv.mp4",
+                "7": "https://streamtape.to/v/GP4wVGJrWAt13p3/Shaitan_S01E07_19050_7.mkv.mp4",
+                "8": "https://streamtape.to/v/AQbKaO1MbOcXVmw/Shaitan_S01E08_19050_8.mkv.mp4",
+                "9": "https://streamtape.to/v/RqgMgdx0wwFdAar/Shaitan_S01E09_19050_9.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/fgsoidh1ag4p",
+                "2": "https://streamhub.gg/hqr6ktikn8pd",
+                "3": "https://streamhub.gg/renkxxjsuhqp",
+                "4": "https://streamhub.gg/jwu3i71ms6lj",
+                "5": "https://streamhub.gg/ra98zu37a9di",
+                "6": "https://streamhub.gg/f3to5wbct2tc",
+                "7": "https://streamhub.gg/xpb73p2a8k07",
+                "8": "https://streamhub.gg/wm3zlqkosrlm",
+                "9": "https://streamhub.gg/9bvp2t481793"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/18kzv68a7lwj",
+                "2": "https://uploadraja.com/2bj6d3kh2ynj",
+                "3": "https://uploadraja.com/9knpd55szwzq",
+                "4": "https://uploadraja.com/bkbn41dri8vz",
+                "5": "https://uploadraja.com/7abqi0u8crvn",
+                "6": "https://uploadraja.com/656ijqcqpfuo",
+                "7": "https://uploadraja.com/vj3dyxyfxete",
+                "8": "https://uploadraja.com/mw5rz37h8ytx",
+                "9": "https://uploadraja.com/g6bp497rdzao"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Shaitan%20S01E01%2019050%201.mkv",
+                "2": "https://srs.aapkipooja.com/Shaitan%20S01E02%2019050%202.mkv",
+                "3": "https://srs.aapkipooja.com/Shaitan%20S01E03%2019050%203.mkv",
+                "4": "https://srs.aapkipooja.com/Shaitan%20S01E04%2019050%204.mkv",
+                "5": "https://srs.aapkipooja.com/Shaitan%20S01E05%2019050%205.mkv",
+                "6": "https://srs.aapkipooja.com/Shaitan%20S01E06%2019050%206.mkv",
+                "7": "https://srs.aapkipooja.com/Shaitan%20S01E07%2019050%207.mkv",
+                "8": "https://srs.aapkipooja.com/Shaitan%20S01E08%2019050%208.mkv",
+                "9": "https://srs.aapkipooja.com/Shaitan%20S01E09%2019050%209.mkv"
+                }
         }
     ]
 }
