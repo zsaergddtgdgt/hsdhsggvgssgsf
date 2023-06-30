@@ -37668,49 +37668,6 @@
             }
         },
         {
-            "id": "1053",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/UP65%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/UP65%20Season%201.jpg",
-            "movieName": "UP65 Season 2",
-            "htmlFile": "https://www.19053",
-            "directOne": "Comedy,Drama",
-            "directSecond": "IyUylU0dDXI",
-            "imbd": "8.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "UP65",
-            "pathName": "S2",
-            "EpisodeTape": {
-                "1": "https://streamtape.xyz/v/a0KxPRGpLjuMx3/UP65_S02E01_19053_1.mkv.mp4",
-                "2": "https://streamtape.to/v/7G8PRDeY7viAevl/UP65_S02E02_19053_2.mkv.mp4",
-                "3": "https://streamtape.to/v/kPwDy9pD4YHOOBr/UP65_S02E03_19053_3.mkv.mp4",
-                "4": "https://streamtape.to/v/dOQO82vYBatkwpb/UP65_S02E04_19053_4.mkv.mp4",
-                "5": "https://streamtape.to/v/x2zvYZXmKPt0OV/UP65_S02E05_19053_5.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.gg/gppy1bscqml9",
-                "2": "https://streamhub.gg/onlapn1ign14",
-                "3": "https://streamhub.gg/rfzxejlm88vb",
-                "4": "https://streamhub.gg/s049vyp8of8s",
-                "5": "https://streamhub.gg/3wqrs3msmyvg"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/gvafyiooc0vg",
-                "2": "https://uploadraja.com/2gqit9zzj1y2",
-                "3": "https://uploadraja.com/92kgqrn61qn4",
-                "4": "https://uploadraja.com/72dscqnc3p6p",
-                "5": "https://uploadraja.com/s9kk3l7qrkz0"
-            },
-            "episodeServer4": {
-                "1": "https://srs.aapkipooja.com/UP65%20S02E01%2019053%201.mkv",
-                "2": "https://srs.aapkipooja.com/UP65%20S02E02%2019053%202.mkv",
-                "3": "https://srs.aapkipooja.com/UP65%20S02E03%2019053%203.mkv",
-                "4": "https://srs.aapkipooja.com/UP65%20S02E04%2019053%204.mkv",
-                "5": "https://srs.aapkipooja.com/UP65%20S02E05%2019053%205.mkv"
-            }
-        },
-        {
             "id": "1049",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Rafuchakkar%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Rafuchakkar%20Season%201.jpg",
@@ -37891,6 +37848,65 @@
             }
         },
         {
+            "id": "1053",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/UP65%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/UP65%20Season%201.jpg",
+            "movieName": "UP65 Season 2",
+            "htmlFile": "https://www.19053",
+            "directOne": "Comedy,Drama",
+            "directSecond": "IyUylU0dDXI",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "UP65",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/a0KxPRGpLjuMx3/UP65_S02E01_19053_1.mkv.mp4",
+                "2": "https://streamtape.to/v/7G8PRDeY7viAevl/UP65_S02E02_19053_2.mkv.mp4",
+                "3": "https://streamtape.to/v/kPwDy9pD4YHOOBr/UP65_S02E03_19053_3.mkv.mp4",
+                "4": "https://streamtape.to/v/dOQO82vYBatkwpb/UP65_S02E04_19053_4.mkv.mp4",
+                "5": "https://streamtape.to/v/x2zvYZXmKPt0OV/UP65_S02E05_19053_5.mkv.mp4",
+                "6": "https://streamtape.to/v/2zZW6077jziZDYo/UP65_S02E06_19053_6.mkv.mp4",
+                "7": "https://streamtape.to/v/z1PyMYe110TYMpo/UP65_S02E07_19053_7.mkv.mp4",
+                "8": "https://streamtape.to/v/lkWQzAOrwxfd76/UP65_S02E08_19053_8.mkv.mp4",
+                "9": "https://streamtape.to/v/Zr0OemVXeXsqeMe/UP65_S02E09_19053_9.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/gppy1bscqml9",
+                "2": "https://streamhub.gg/onlapn1ign14",
+                "3": "https://streamhub.gg/rfzxejlm88vb",
+                "4": "https://streamhub.gg/s049vyp8of8s",
+                "5": "https://streamhub.gg/3wqrs3msmyvg",
+                "6": "https://streamhub.gg/y90ldr8bvezr",
+                "7": "https://streamhub.gg/wert61t4hzl4",
+                "8": "https://streamhub.gg/x144j24qqumm",
+                "9": "https://streamhub.gg/sw2ne37zwnct"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/gvafyiooc0vg",
+                "2": "https://uploadraja.com/2gqit9zzj1y2",
+                "3": "https://uploadraja.com/92kgqrn61qn4",
+                "4": "https://uploadraja.com/72dscqnc3p6p",
+                "5": "https://uploadraja.com/s9kk3l7qrkz0",
+                "6": "https://uploadraja.com/14vfuhrx6aho",
+                "7": "https://uploadraja.com/xb79q9wnypep",
+                "8": "https://uploadraja.com/z8wj5eo3izof",
+                "9": "https://uploadraja.com/2fdta3c3se84"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/UP65%20S02E01%2019053%201.mkv",
+                "2": "https://srs.aapkipooja.com/UP65%20S02E02%2019053%202.mkv",
+                "3": "https://srs.aapkipooja.com/UP65%20S02E03%2019053%203.mkv",
+                "4": "https://srs.aapkipooja.com/UP65%20S02E04%2019053%204.mkv",
+                "5": "https://srs.aapkipooja.com/UP65%20S02E05%2019053%205.mkv",
+                "6": "https://srs.aapkipooja.com/UP65%20S02E06%2019053%206.mkv",
+                "7": "https://srs.aapkipooja.com/UP65%20S02E07%2019053%207.mkv",
+                "8": "https://srs.aapkipooja.com/UP65%20S02E08%2019053%208.mkv",
+                "9": "https://srs.aapkipooja.com/UP65%20S02E09%2019053%209.mkv"
+            }
+        },
+        {
             "id": "1054",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Secret%20Invasion%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Secret%20Invasion%20Season%201.jpg",
@@ -37919,6 +37935,77 @@
             "episodeServer4": {
                 "1": "https://srs.aapkipooja.com/Secret%20Invasion%20S01E01%2019054%201.mkv",
                 "2": "https://srs.aapkipooja.com/Secret%20Invasion%20S01E02%2019054%202.mkv"
+            }
+        },
+        {
+            "id": "1058",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Titans%20Season%204.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Titans%20Season%204.jpg",
+            "movieName": "Titans Season 4",
+            "htmlFile": "https://www.19058",
+            "directOne": "Action,Adventure",
+            "directSecond": "9RZxRvbqwog",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Titans",
+            "pathName": "S4",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/pggWlB6JWjcrO4q/Titans_S04E01_19058_1.mkv.mp4",
+                "2": "https://streamtape.to/v/k0j2R31gpLF8Dv/Titans_S04E02_19058_2.mkv.mp4",
+                "3": "https://streamtape.to/v/Y7XZDBkAd1h3e1/Titans_S04E03_19058_3.mkv.mp4",
+                "4": "https://streamtape.to/v/A2wvkQeqWesXPga/Titans_S04E04_19058_4.mkv.mp4",
+                "5": "https://streamtape.to/v/ok0Q47xbDxUJrjd/Titans_S04E05_19058_5.mkv.mp4",
+                "6": "https://streamtape.to/v/qOdKMja7weszmka/Titans_S04E06_19058_6.mkv.mp4",
+                "7": "https://streamtape.to/v/GG9zQMyo70U1jWo/Titans_S04E07_19058_7.mkv.mp4",
+                "8": "https://streamtape.to/v/34eqM3dmeVCd1wa/Titans_S04E08_19058_8.mkv.mp4",
+                "9": "https://streamtape.to/v/yormG9D3V9h1LkM/Titans_S04E09_19058_9.mkv.mp4",
+                "10": "https://streamtape.to/v/vPY9lmywKKC4Oq8/Titans_S04E10_19058_10.mkv.mp4",
+                "11": "https://streamtape.to/v/WgRkA4GqbBCbP3x/Titans_S04E11_19058_11.mkv.mp4",
+                "12": "https://streamtape.to/v/lAXe88l1YdC7eg7/Titans_S04E12_19058_12.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/hope6njur3k7",
+                "2": "https://streamhub.gg/98oouuvspu5f",
+                "3": "https://streamhub.gg/i6heumbpl7o1",
+                "4": "https://streamhub.gg/b2hzhvo5avqb",
+                "5": "https://streamhub.gg/pvy3bm1qfbdb",
+                "6": "https://streamhub.gg/w7phdgp360js",
+                "7": "https://streamhub.gg/4g6o9ul8a5dx",
+                "8": "https://streamhub.gg/2ld6vasucnol",
+                "9": "https://streamhub.gg/pvsik6d075hu",
+                "10": "https://streamhub.gg/wwgew4zx0ijk",
+                "11": "https://streamhub.gg/snttaf4qh5qe",
+                "12": "https://streamhub.gg/y3jb2m58x2x3"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/h9f6gc8jxay5",
+                "2": "https://uploadraja.com/b4b2wuph9h3b",
+                "3": "https://uploadraja.com/6xlyqqgpw931",
+                "4": "https://uploadraja.com/j7ev44l6crpu",
+                "5": "https://uploadraja.com/fz0oqlbltpc7",
+                "6": "https://uploadraja.com/ovu9sf0egpbi",
+                "7": "https://uploadraja.com/i72vs6w92vqy",
+                "8": "https://uploadraja.com/jo9gn9m82176",
+                "9": "https://uploadraja.com/54jn0dyktm5e",
+                "10": "https://uploadraja.com/hzyizdvwnpv1",
+                "11": "https://uploadraja.com/pius6wr0n5ea",
+                "12": "https://uploadraja.com/c65qq4fqdmzi"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Titans%20S04E01%2019058%201.mkv",
+                "2": "https://srs.aapkipooja.com/Titans%20S04E02%2019058%202.mkv",
+                "3": "https://srs.aapkipooja.com/Titans%20S04E03%2019058%203.mkv",
+                "4": "https://srs.aapkipooja.com/Titans%20S04E04%2019058%204.mkv",
+                "5": "https://srs.aapkipooja.com/Titans%20S04E05%2019058%205.mkv",
+                "6": "https://srs.aapkipooja.com/Titans%20S04E06%2019058%206.mkv",
+                "7": "https://srs.aapkipooja.com/Titans%20S04E07%2019058%207.mkv",
+                "8": "https://srs.aapkipooja.com/Titans%20S04E08%2019058%208.mkv",
+                "9": "https://srs.aapkipooja.com/Titans%20S04E09%2019058%209.mkv",
+                "10": "https://srs.aapkipooja.com/Titans%20S04E10%2019058%2010.mkv",
+                "11": "https://srs.aapkipooja.com/Titans%20S04E11%2019058%2011.mkv",
+                "12": "https://srs.aapkipooja.com/Titans%20S04E12%2019058%2012.mkv"
             }
         },
         {
