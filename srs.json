@@ -38058,6 +38058,33 @@
                 "6": "https://srs.aapkipooja.com/The%20Night%20Manager%20S01E06%2018945%206.mkv",
                 "7": "https://srs.aapkipooja.com/The%20Night%20Manager%20S01E07%2018945%207.mkv"
                 }
+        },
+        {
+            "id": "1062",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Charlie%20Chopra%20Season%201.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Charlie%20Chopra%20Season%201.jpg",
+            "movieName": "Charlie Chopra Season 1",
+            "htmlFile": "https://www.19062",
+            "directOne": "Mystery,Thriller",
+            "directSecond": "FALSE",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Charlie Chopra",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/XjB94oZaxdUDV8l/Charlie_Chopra_S01E01_19062_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/ix3ut6666qdr"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/nuro7660n345"
+                },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Charlie%20Chopra%20S01E01%2019062%201.mkv"
+                }
         }
     ]
 }
