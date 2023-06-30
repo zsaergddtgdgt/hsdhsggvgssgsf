@@ -34026,35 +34026,6 @@
             "episodeServer4": {}
         },
         {
-            "id": "945",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Night%20Manager%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Night%20Manager%20Season%201.jpg",
-            "movieName": "The Night Manager Season 1",
-            "htmlFile": "https://www.18945",
-            "directOne": "Crime",
-            "directSecond": "6QJQysiUxKc",
-            "imbd": "8.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "The Night Manager",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.xyz/v/D0zZWZykz8ckPL4/The_Night_Manager_S01E01_18945_1.mkv.mp4",
-                "2": "https://streamtape.xyz/v/Zwm3L8Vlxauqxqz/The_Night_Manager_S01E02_18945_2.mkv.mp4",
-                "3": "https://streamtape.xyz/v/LadgoRkOOgi6Am/The_Night_Manager_S01E03_18945_3.mkv.mp4",
-                "4": "https://streamtape.xyz/v/6aKamPBGlPs9w1d/The_Night_Manager_S01E04_18945_4.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.gg/ex5aflei4zcm",
-                "2": "https://streamhub.gg/5syt3rm8lhx8",
-                "3": "https://streamhub.gg/wnp46xla23uq",
-                "4": "https://streamhub.gg/fnl6ka5gpjoh"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {}
-        },
-        {
             "id": "949",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Potluck%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Potluck%20Season%201.jpg",
@@ -37949,6 +37920,57 @@
                 "1": "https://srs.aapkipooja.com/Secret%20Invasion%20S01E01%2019054%201.mkv",
                 "2": "https://srs.aapkipooja.com/Secret%20Invasion%20S01E02%2019054%202.mkv"
             }
+        },
+        {
+            "id": "945",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Night%20Manager%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Night%20Manager%20Season%201.jpg",
+            "movieName": "The Night Manager Season 1",
+            "htmlFile": "https://www.18945",
+            "directOne": "Crime",
+            "directSecond": "6QJQysiUxKc",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Night Manager",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/D0zZWZykz8ckPL4/The_Night_Manager_S01E01_18945_1.mkv.mp4",
+                "2": "https://streamtape.xyz/v/Zwm3L8Vlxauqxqz/The_Night_Manager_S01E02_18945_2.mkv.mp4",
+                "3": "https://streamtape.xyz/v/LadgoRkOOgi6Am/The_Night_Manager_S01E03_18945_3.mkv.mp4",
+                "4": "https://streamtape.xyz/v/6aKamPBGlPs9w1d/The_Night_Manager_S01E04_18945_4.mkv.mp4",
+                "5": "https://streamtape.to/v/bZV7KO28pefPV17/The_Night_Manager_S01E05_18945_5.mkv.mp4",
+                "6": "https://streamtape.to/v/wGygywpbmxTJqjB/The_Night_Manager_S01E06_18945_6.mkv.mp4",
+                "7": "https://streamtape.to/v/KWlrqR8qWPC0yvJ/The_Night_Manager_S01E07_18945_7.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/ex5aflei4zcm",
+                "2": "https://streamhub.gg/5syt3rm8lhx8",
+                "3": "https://streamhub.gg/wnp46xla23uq",
+                "4": "https://streamhub.gg/fnl6ka5gpjoh",
+                "5": "https://streamhub.gg/1v9c4got58ey",
+                "6": "https://streamhub.gg/45j8o3agn77f",
+                "7": "https://streamhub.gg/f1uiic9bc7f9"
+            },
+            "episodeServer3": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE",
+                "4": "FALSE",
+                "5": "https://uploadraja.com/glfwkn8fazkt",
+                "6": "https://uploadraja.com/3i3w000rxp9u",
+                "7": "https://uploadraja.com/6t8alm7w1q3p"
+                },
+            "episodeServer4": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE",
+                "4": "FALSE",
+                "5": "https://srs.aapkipooja.com/The%20Night%20Manager%20S01E05%2018945%205.mkv",
+                "6": "https://srs.aapkipooja.com/The%20Night%20Manager%20S01E06%2018945%206.mkv",
+                "7": "https://srs.aapkipooja.com/The%20Night%20Manager%20S01E07%2018945%207.mkv"
+                }
         }
     ]
 }
