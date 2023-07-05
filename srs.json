@@ -38029,6 +38029,103 @@
                 }
         },
         {
+            "id": "1059",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Mercules%20Season%201.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Mercules%20Season%201.png",
+            "movieName": "Mercules Season 1",
+            "htmlFile": "https://www.19059",
+            "directOne": "Drama",
+            "directSecond": "OC_OKOY7ksc",
+            "imbd": "8.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Mercules",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/LVjRlagqlxSRXPg/Mercules_S01_Complete_19059_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/qfi3tzlzx52r"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/uw0gjqsg3i3p"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Mercules%20S01%20Complete%2019059%201.mkv"
+            }
+        },
+        {
+            "id": "1060",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Mission%20Huntdown%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Mission%20Huntdown%20Season%201.jpg",
+            "movieName": "Mission Huntdown Season 1",
+            "htmlFile": "https://www.19060",
+            "directOne": "Thriller",
+            "directSecond": "NbA-T5z3rpA",
+            "imbd": "8.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Mission Huntdown",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/dVX7Ayv72WuQb1/Mission_Huntdown_S01_Complete_19060_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/rkel5w42l3x3"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/wb31e72fg5av"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Mission%20Huntdown%20S01%20Complete%2019060%201.mkv"
+            }
+        },
+        {
+            "id": "1061",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Idol%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Idol%20Season%201.jpg",
+            "movieName": "The Idol Season 1",
+            "htmlFile": "https://www.19061",
+            "directOne": "Adult,Drama",
+            "directSecond": "ljUXeP-5yV0",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Idol",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/qvODbwz303hzlXM/The_Idol_S01E01_19061_1.mkv.mp4",
+                "2": "https://streamtape.to/v/eKLeX2XxxJuYdQk/The_Idol_S01E02_19061_2.mkv.mp4",
+                "3": "https://streamtape.to/v/6bqlKKkYaQt93pw/The_Idol_S01E03_19061_3.mkv.mp4",
+                "4": "https://streamtape.to/v/9BzJ68ad6rsyDV/The_Idol_S01E04_19061_4.mkv.mp4",
+                "5": "https://streamtape.to/v/Or63pDZ2kqfZyj6/The_Idol_S01E05_19061_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/jgzt2l37hpdo",
+                "2": "https://streamhub.gg/6rtk3ggrdbio",
+                "3": "https://streamhub.gg/74pfl7u3ioh9",
+                "4": "https://streamhub.gg/1149kzscnl6z",
+                "5": "https://streamhub.gg/7co7opkeaouq"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/5mmvda39io6w",
+                "2": "https://uploadraja.com/csypxxri6jrg",
+                "3": "https://uploadraja.com/58sjr81vzl8d",
+                "4": "https://uploadraja.com/1sbuhl144p8t",
+                "5": "https://uploadraja.com/b7p0vk4tt9ia"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/The%20Idol%20S01E01%2019061%201.mkv",
+                "2": "https://srs.aapkipooja.com/The%20Idol%20S01E02%2019061%202.mkv",
+                "3": "https://srs.aapkipooja.com/The%20Idol%20S01E03%2019061%203.mkv",
+                "4": "https://srs.aapkipooja.com/The%20Idol%20S01E04%2019061%204.mkv",
+                "5": "https://srs.aapkipooja.com/The%20Idol%20S01E05%2019061%205.mkv"
+            }
+        },
+        {
             "id": "1062",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Charlie%20Chopra%20Season%201.webp",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Charlie%20Chopra%20Season%201.jpg",
