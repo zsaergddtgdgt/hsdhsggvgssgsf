@@ -1,6 +1,28 @@
 {
     "AllMovieDataList": [
     
+        {
+            "id": "3149",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/IB%2071%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/IB%2071%20(2023).jpg",
+            "movieName": "IB 71 (2023)",
+            "htmlFile": "https://www.13149",
+            "directOne": "Hindi",
+            "directSecond": "-V9tu8rqWIg",
+            "rating": "HD",
+            "catergory": "Action,Thriller",
+            "Industry": "Bollywood",
+            "hub": "https://mvs.aapkipooja.com/720p/IB%2071%20(2023)%2013149.mkv",
+            "tape": "https://streamtape.to/v/Awa4r20GZDuXqVa/IB_71_%282023%29_13149.mkv.mp4",
+            "server3": "https://mvs.aapkipooja.com/720p/IB%2071%20(2023)%2013149.mkv",
+            "server4": "https://uploadraja.com/djoec4qs2ljc",
+            "480p": "TRUE",
+            "480pS1": "https://mvs.aapkipooja.com/480p/IB%2071%20(2023)%2013149.mkv",
+            "480pS2": "FALSE",
+            "480pS3": "https://mvs.aapkipooja.com/480p/IB%2071%20(2023)%2013149.mkv",
+            "480pS4": "https://uploadraja.com/7lu86pbrzd0g"
+        },
+    
     {
             "id": "3236",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Satyaprem%20Ki%20Katha%20(2023).jpg",
@@ -2156,27 +2178,6 @@
             "Industry": "South",
             "hub": "https://streamhub.gg/tuovdab3kdva",
             "tape": "https://streamtape.xyz/v/78J4b9xl4quAaeb/Ravanasura_2023_13090.mkv.mp4",
-            "server3": "FALSE",
-            "server4": "FALSE",
-            "480p": "FALSE",
-            "480pS1": "FALSE",
-            "480pS2": "FALSE",
-            "480pS3": "FALSE",
-            "480pS4": "FALSE"
-        },
-        {
-            "id": "3149",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/IB%2071%20(2023).jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/IB%2071%20(2023).jpg",
-            "movieName": "IB 71 (2023)",
-            "htmlFile": "https://www.13149",
-            "directOne": "Hindi",
-            "directSecond": "-V9tu8rqWIg",
-            "rating": "HDCamRip-V2",
-            "catergory": "Action,Thriller",
-            "Industry": "Bollywood",
-            "hub": "https://streamhub.gg/by7zkubtowbs",
-            "tape": "https://streamtape.xyz/v/OkwJ23yzAGFZ8GP/IB_71_%282023%29_13149.mkv.mp4",
             "server3": "FALSE",
             "server4": "FALSE",
             "480p": "FALSE",

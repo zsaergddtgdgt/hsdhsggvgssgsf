@@ -38204,6 +38204,33 @@
             }
         },
         {
+            "id": "1065",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Celebrity%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Celebrity%20Season%201.jpg",
+            "movieName": "Celebrity Season 1",
+            "htmlFile": "https://www.19065",
+            "directOne": "Mystery,Thriller",
+            "directSecond": "mFTRwdrtRyE",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Celebrity",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.to/v/w6blW7GZYdCora/Celebrity_S01_Complete_19065_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/e7fjf8wgd21i"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/vn9ocobwblve"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Celebrity%20%20S01%20Complete%2019065%201.mkv"
+            }
+        },
+        {
             "id": "1054",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Secret%20Invasion%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Secret%20Invasion%20Season%201.jpg",
