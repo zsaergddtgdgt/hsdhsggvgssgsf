@@ -38110,57 +38110,6 @@
                 }
         },
         {
-            "id": "1042",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Deadloch%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Deadloch%20Season%201.jpg",
-            "movieName": "Deadloch Season 1",
-            "htmlFile": "https://www.19042",
-            "directOne": "Comedy,Drama",
-            "directSecond": "PRYlkqIK_4A",
-            "imbd": "8.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Deadloch",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.xyz/v/Y8p0Pw6Qbpsv40R/Deadloch_S01E01_19042_1.mkv.mp4",
-                "2": "https://streamtape.xyz/v/4R7dJg2mkbiKDVj/Deadloch_S01E02_19042_2.mkv.mp4",
-                "3": "https://streamtape.xyz/v/jZqgbWkyLltzwbM/Deadloch_S01E03_19042_3.mkv.mp4",
-                "4": "https://streamtape.xyz/v/GKOmBYBK8jh1J2r/Deadloch_S01E04_19042_4.mkv.mp4",
-                "5": "https://streamtape.xyz/v/xoY2kjG1jeuk2Jd/Deadloch_S01E05_19042_5.mkv.mp4",
-                "6": "https://streamtape.xyz/v/A2j9GKeZXoFXpjk/Deadloch_S01E06_19042_6.mkv.mp4",
-                "7": "https://streamtape.xyz/v/4v7xOVDvomIKMJD/Deadloch_S01E07_19042_7.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.gg/m0awvj26zfqo",
-                "2": "https://streamhub.gg/r33hn785iza8",
-                "3": "https://streamhub.gg/258v7xsbpeus",
-                "4": "https://streamhub.gg/kydiydea9dj2",
-                "5": "https://streamhub.gg/6qr8hpytm2su",
-                "6": "https://streamhub.gg/k6hxzvuxslir",
-                "7": "https://streamhub.gg/zdpo5pu919dn"
-            },
-            "episodeServer3": {
-                "1": "http://uploadraja.com/e0gdh91f1nvg",
-                "2": "http://uploadraja.com/hofd6kh75k1z",
-                "3": "http://uploadraja.com/sp230chinj4y",
-                "4": "http://uploadraja.com/z75gun3n1uzj",
-                "5": "https://uploadraja.com/2hfpkwckdfzd",
-                "6": "https://uploadraja.com/t6qn8sbmvumo",
-                "7": "https://uploadraja.com/a9rio95wjggu"
-            },
-            "episodeServer4": {
-                "1": "https://srs.aapkipooja.com/Deadloch%20S01E01%2019042%201.mkv",
-                "2": "https://srs.aapkipooja.com/Deadloch%20S01E02%2019042%202.mkv",
-                "3": "https://srs.aapkipooja.com/Deadloch%20S01E03%2019042%203.mkv",
-                "4": "https://srs.aapkipooja.com/Deadloch%20S01E04%2019042%204.mkv",
-                "5": "https://srs.aapkipooja.com/Deadloch%20S01E05%2019042%205.mkv",
-                "6": "https://srs.aapkipooja.com/Deadloch%20S01E06%2019042%206.mkv",
-                "7": "https://srs.aapkipooja.com/Deadloch%20S01E07%2019042%207.mkv"
-            }
-        },
-        {
             "id": "1064",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Witcher%20Season%203.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Witcher%20Season%203.jpg",
@@ -38228,41 +38177,6 @@
             },
             "episodeServer4": {
                 "1": "https://srs.aapkipooja.com/Celebrity%20%20S01%20Complete%2019065%201.mkv"
-            }
-        },
-        {
-            "id": "1054",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Secret%20Invasion%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Secret%20Invasion%20Season%201.jpg",
-            "movieName": "Secret Invasion Season 1",
-            "htmlFile": "https://www.19054",
-            "directOne": "Action,Adventure",
-            "directSecond": "QsmgZYdZcIE",
-            "imbd": "8.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Secret Invasion",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.xyz/v/884pX60eX9H24k/Secret_Invasion_S01E01_19053_1.mkv.mp4",
-                "2": "https://streamtape.xyz/v/Je27kWgzg2FjDGM/Secret_Invasion_S01E02_19054_2.mkv.mp4",
-                "3": "https://streamtape.xyz/v/7jpV0xbrL0h4wm/Secret_Invasion_S01E03_19054_3.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.gg/cllydcq4eejn",
-                "2": "https://streamhub.gg/zb4frzg6kwkn",
-                "3": "https://streamhub.gg/uwwllj7ehbq5"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/2s22jzygu8pg",
-                "2": "FALSE",
-                "3": "https://uploadraja.com/ukr414cfit2d"
-            },
-            "episodeServer4": {
-                "1": "https://srs.aapkipooja.com/Secret%20Invasion%20S01E01%2019054%201.mkv",
-                "2": "https://srs.aapkipooja.com/Secret%20Invasion%20S01E02%2019054%202.mkv",
-                "3": "https://srs.aapkipooja.com/Secret%20Invasion%20S01E03%2019054%203.mkv"
             }
         },
         {
@@ -38383,6 +38297,92 @@
                 }
         },
         {
+            "id": "1070",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Invincible%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Invincible%20Season%201.jpg",
+            "movieName": "Invincible Season 1",
+            "htmlFile": "https://www.19070",
+            "directOne": "Action,Animation",
+            "directSecond": "Wobg_knHpsk",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Invincible",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/gq3dGMV9LPcqed6/Invincible_S01E01_19070_1.mkv.mp4",
+                "2": "https://streamtape.xyz/v/vLR28Q0rZrFawZ/Invincible_S01E02_19070_2.mkv.mp4",
+                "3": "https://streamtape.xyz/v/vPJOqYMxaOC4vg6/Invincible_S01E03_19070_3.mkv.mp4",
+                "4": "https://streamtape.xyz/v/2rzrre96RwUZM6y/Invincible_S01E04_19070_4.mkv.mp4",
+                "5": "https://streamtape.xyz/v/6RqG7B2QPau97Vl/Invincible_S01E05_19070_5.mkv.mp4",
+                "6": "https://streamtape.xyz/v/mrxdgg2JZZhbZLd/Invincible_S01E06_19070_6.mkv.mp4",
+                "7": "https://streamtape.xyz/v/ZoklDBGdojhqGjq/Invincible_S01E07_19070_7.mkv.mp4",
+                "8": "https://streamtape.xyz/v/JvzrVX6OKbFjKeq/Invincible_S01E08_19070_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/645a593k93fy",
+                "2": "https://streamhub.gg/0w2ghbhro2qa",
+                "3": "https://streamhub.gg/im26clbr4kz6",
+                "4": "https://streamhub.gg/nft7co7hwlk4",
+                "5": "https://streamhub.gg/inw5u0af07gi",
+                "6": "https://streamhub.gg/wkl5nlqkxegp",
+                "7": "https://streamhub.gg/t0ae15kmcg54",
+                "8": "https://streamhub.gg/fue17mo21anz"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/pswgenyqo148",
+                "2": "https://uploadraja.com/bmvthri33v24",
+                "3": "https://uploadraja.com/bh0edo4nnj44",
+                "4": "https://uploadraja.com/7mlbqzz1jygu",
+                "5": "https://uploadraja.com/xhar1m5d6yzc",
+                "6": "https://uploadraja.com/764pbek7uw37",
+                "7": "https://uploadraja.com/tx8pgxl1xug4",
+                "8": "https://uploadraja.com/q3l2hzcsw90j"
+                },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Invincible%20S01E01%2019070%201.mkv",
+                "2": "https://srs.aapkipooja.com/Invincible%20S01E02%2019070%202.mkv",
+                "3": "https://srs.aapkipooja.com/Invincible%20S01E03%2019070%203.mkv",
+                "4": "https://srs.aapkipooja.com/Invincible%20S01E04%2019070%204.mkv",
+                "5": "https://srs.aapkipooja.com/Invincible%20S01E05%2019070%205.mkv",
+                "6": "https://srs.aapkipooja.com/Invincible%20S01E06%2019070%206.mkv",
+                "7": "https://srs.aapkipooja.com/Invincible%20S01E07%2019070%207.mkv",
+                "8": "https://srs.aapkipooja.com/Invincible%20S01E08%2019070%208.mkv"
+                }
+        },
+        {
+            "id": "1071",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/King%20The%20Land%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/King%20The%20Land%20Season%201.jpg",
+            "movieName": "King The Land Season 1",
+            "htmlFile": "https://www.19071",
+            "directOne": "Romance,Comedy",
+            "directSecond": "9D_1kMFyk9c",
+            "imbd": "8.1",
+            "rating": "Hindi+Korean",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "King The Land",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/8WA8Yv897OtogxK/King_The_Land_S01E01_19071_1.mkv.mp4",
+                "2": "https://streamtape.xyz/v/7qDrrb1R1dsA7X4/King_The_Land_S01E02_19071_2.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/5h78fvjisl4i",
+                "2": "https://streamhub.gg/z26702li8log"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/ebi890tmv64d",
+                "2": "https://uploadraja.com/gye13lcytklt"
+                },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/King%20The%20Land%20S01E01%2019071%201.mkv",
+                "2": "https://srs.aapkipooja.com/King%20The%20Land%20S01E02%2019071%202.mkv"
+                }
+        },
+        {
             "id": "1069",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Horror%20Of%20Dolores%20Roach%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Horror%20Of%20Dolores%20Roach%20Season%201.jpg",
@@ -38438,6 +38438,61 @@
                 }
         },
         {
+            "id": "1042",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Deadloch%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Deadloch%20Season%201.jpg",
+            "movieName": "Deadloch Season 1",
+            "htmlFile": "https://www.19042",
+            "directOne": "Comedy,Drama",
+            "directSecond": "PRYlkqIK_4A",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Deadloch",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/Y8p0Pw6Qbpsv40R/Deadloch_S01E01_19042_1.mkv.mp4",
+                "2": "https://streamtape.xyz/v/4R7dJg2mkbiKDVj/Deadloch_S01E02_19042_2.mkv.mp4",
+                "3": "https://streamtape.xyz/v/jZqgbWkyLltzwbM/Deadloch_S01E03_19042_3.mkv.mp4",
+                "4": "https://streamtape.xyz/v/GKOmBYBK8jh1J2r/Deadloch_S01E04_19042_4.mkv.mp4",
+                "5": "https://streamtape.xyz/v/xoY2kjG1jeuk2Jd/Deadloch_S01E05_19042_5.mkv.mp4",
+                "6": "https://streamtape.xyz/v/A2j9GKeZXoFXpjk/Deadloch_S01E06_19042_6.mkv.mp4",
+                "7": "https://streamtape.xyz/v/4v7xOVDvomIKMJD/Deadloch_S01E07_19042_7.mkv.mp4",
+                "8": "https://streamtape.xyz/v/l0qwKJp36js7pkD/Deadloch_S01E08_19042_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/m0awvj26zfqo",
+                "2": "https://streamhub.gg/r33hn785iza8",
+                "3": "https://streamhub.gg/258v7xsbpeus",
+                "4": "https://streamhub.gg/kydiydea9dj2",
+                "5": "https://streamhub.gg/6qr8hpytm2su",
+                "6": "https://streamhub.gg/k6hxzvuxslir",
+                "7": "https://streamhub.gg/zdpo5pu919dn",
+                "8": "https://streamhub.gg/047bzx3bzcp9"
+            },
+            "episodeServer3": {
+                "1": "http://uploadraja.com/e0gdh91f1nvg",
+                "2": "http://uploadraja.com/hofd6kh75k1z",
+                "3": "http://uploadraja.com/sp230chinj4y",
+                "4": "http://uploadraja.com/z75gun3n1uzj",
+                "5": "https://uploadraja.com/2hfpkwckdfzd",
+                "6": "https://uploadraja.com/t6qn8sbmvumo",
+                "7": "https://uploadraja.com/a9rio95wjggu",
+                "8": "https://uploadraja.com/qyayrvovxr1w"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Deadloch%20S01E01%2019042%201.mkv",
+                "2": "https://srs.aapkipooja.com/Deadloch%20S01E02%2019042%202.mkv",
+                "3": "https://srs.aapkipooja.com/Deadloch%20S01E03%2019042%203.mkv",
+                "4": "https://srs.aapkipooja.com/Deadloch%20S01E04%2019042%204.mkv",
+                "5": "https://srs.aapkipooja.com/Deadloch%20S01E05%2019042%205.mkv",
+                "6": "https://srs.aapkipooja.com/Deadloch%20S01E06%2019042%206.mkv",
+                "7": "https://srs.aapkipooja.com/Deadloch%20S01E07%2019042%207.mkv",
+                "8": "https://srs.aapkipooja.com/Deadloch%20S01E08%2019042%208.mkv"
+            }
+        },
+        {
             "id": "1068",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Jack%20Ryan%20Season%204.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Jack%20Ryan%20Season%204.jpg",
@@ -38475,6 +38530,45 @@
                 "3": "https://srs.aapkipooja.com/Jack%20Ryan%20S04E03%2019068%203.mkv",
                 "4": "https://srs.aapkipooja.com/Jack%20Ryan%20S04E04%2019068%204.mkv"
                 }
+        },
+        {
+            "id": "1054",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Secret%20Invasion%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Secret%20Invasion%20Season%201.jpg",
+            "movieName": "Secret Invasion Season 1",
+            "htmlFile": "https://www.19054",
+            "directOne": "Action,Adventure",
+            "directSecond": "QsmgZYdZcIE",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Secret Invasion",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/884pX60eX9H24k/Secret_Invasion_S01E01_19053_1.mkv.mp4",
+                "2": "https://streamtape.xyz/v/Je27kWgzg2FjDGM/Secret_Invasion_S01E02_19054_2.mkv.mp4",
+                "3": "https://streamtape.xyz/v/7jpV0xbrL0h4wm/Secret_Invasion_S01E03_19054_3.mkv.mp4",
+                "4": "https://streamtape.xyz/v/DQ0zy8YlV1cDdQ/Secret_Invasion_S01E04_19054_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/cllydcq4eejn",
+                "2": "https://streamhub.gg/zb4frzg6kwkn",
+                "3": "https://streamhub.gg/uwwllj7ehbq5",
+                "4": "https://streamhub.gg/3c1jz5pruytk"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/2s22jzygu8pg",
+                "2": "FALSE",
+                "3": "https://uploadraja.com/ukr414cfit2d",
+                "4": "https://uploadraja.com/i0kn0zyeo1nw"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Secret%20Invasion%20S01E01%2019054%201.mkv",
+                "2": "https://srs.aapkipooja.com/Secret%20Invasion%20S01E02%2019054%202.mkv",
+                "3": "https://srs.aapkipooja.com/Secret%20Invasion%20S01E03%2019054%203.mkv",
+                "4": "https://srs.aapkipooja.com/Secret%20Invasion%20S01E04%2019054%204.mkv"
+            }
         }
     ]
 }
