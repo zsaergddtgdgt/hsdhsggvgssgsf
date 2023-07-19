@@ -46976,6 +46976,33 @@
                 "4": "https://srs.aapkipooja.com/Secret%20Invasion%20S01E04%2019054%204.mkv",
                 "5": "https://srs.aapkipooja.com/Secret%20Invasion%20S01E05%2019054%205.mkv"
             }
+        },
+        {
+            "id": "1088",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Sandeep%20Bhaiya%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Sandeep%20Bhaiya%20Season%201.jpg",
+            "movieName": "Sandeep Bhaiya Season 1",
+            "htmlFile": "https://www.19088",
+            "directOne": "Drama,Motivation",
+            "directSecond": "_dsSzmFy8gA",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Sandeep Bhaiya",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/4vQlAQgmjdTdZz/Sandeep_Bhaiya_S01_Complete_19088_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/i05jw6i0wur2"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/o3j27m0qdfdd"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Sandeep%20Bhaiya%20S01%20Complete%2019088%201.mkv"
+            }
         }
     ]
 }
