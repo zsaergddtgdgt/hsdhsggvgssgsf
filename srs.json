@@ -47050,16 +47050,20 @@
             "keyName": "Honey Trap Squad",
             "pathName": "S1",
             "EpisodeTape": {
-                "1": "https://streamtape.xyz/v/9PG2YaDqbOf6V6/Honey_Trap_Squad_S01E01_19090_1.mkv.mp4"
+                "1": "https://streamtape.xyz/v/9PG2YaDqbOf6V6/Honey_Trap_Squad_S01E01_19090_1.mkv.mp4",
+                "2": "https://streamtape.xyz/v/vWdpRD0DoKT4GOl/Honey_Trap_Squad_S01E02_19090_2.mkv.mp4"
             },
             "EpisodeHub": {
-                "1": "https://streamhub.gg/wpt5g2yeodwv"
+                "1": "https://streamhub.gg/wpt5g2yeodwv",
+                "2": "https://streamhub.gg/2cfupzgm6bh1"
             },
             "episodeServer3": {
-                "1": "https://uploadraja.com/oxcgsna2aeva"
+                "1": "https://uploadraja.com/oxcgsna2aeva",
+                "2": "https://uploadraja.com/uzikv2mowdus"
             },
             "episodeServer4": {
-                "1": "https://srs.aapkipooja.com/Honey%20Trap%20Squad%20S01E01%2019090%201.mkv"
+                "1": "https://srs.aapkipooja.com/Honey%20Trap%20Squad%20S01E01%2019090%201.mkv",
+                "2": "https://srs.aapkipooja.com/Honey%20Trap%20Squad%20S01E02%2019090%202.mkv"
             }
         }
     ]
