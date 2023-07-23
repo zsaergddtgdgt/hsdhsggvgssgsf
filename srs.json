@@ -46993,19 +46993,27 @@
             "pathName": "S1",
             "EpisodeTape": {
                 "1": "https://streamtape.xyz/v/przLQO6XkRirazV/Do_Gubbare_S01E01_19089_1.mkv.mp4",
-                "2": "https://streamtape.xyz/v/rDQrDg6YXwHa9X/Do_Gubbare_S01E02_19089_2.mkv.mp4"
+                "2": "https://streamtape.xyz/v/rDQrDg6YXwHa9X/Do_Gubbare_S01E02_19089_2.mkv.mp4",
+                "3": "https://streamtape.xyz/v/09MLJzgdxviblg9/Do_Gubbare_S01E03_19089_3.mkv.mp4",
+                "4": "https://streamtape.xyz/v/xvjGMo2przHQqw/Do_Gubbare_S01E04_19089_4.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.gg/5m0l3qzbw8cv",
-                "2": "https://streamhub.gg/8czkqlsukxjp"
+                "2": "https://streamhub.gg/8czkqlsukxjp",
+                "3": "https://streamhub.gg/csdktop46oet",
+                "4": "https://streamhub.gg/zd9d94tuievv"
             },
             "episodeServer3": {
                 "1": "https://uploadraja.com/yi9wcbp4520e",
-                "2": "https://uploadraja.com/rbwn2wtoxh4k"
+                "2": "https://uploadraja.com/rbwn2wtoxh4k",
+                "3": "https://uploadraja.com/6zboz4gck2q2",
+                "4": "https://uploadraja.com/oqmbkxiufqyq"
             },
             "episodeServer4": {
                 "1": "https://srs.aapkipooja.com/Do%20Gubbare%20S01E01%2019089%201.mkv",
-                "2": "https://srs.aapkipooja.com/Do%20Gubbare%20S01E02%2019089%202.mkv"
+                "2": "https://srs.aapkipooja.com/Do%20Gubbare%20S01E02%2019089%202.mkv",
+                "3": "https://srs.aapkipooja.com/Do%20Gubbare%20S01E03%2019089%203.mkv",
+                "4": "https://srs.aapkipooja.com/Do%20Gubbare%20S01E04%2019089%204.mkv"
             }
         },
         {
@@ -47051,19 +47059,27 @@
             "pathName": "S1",
             "EpisodeTape": {
                 "1": "https://streamtape.xyz/v/9PG2YaDqbOf6V6/Honey_Trap_Squad_S01E01_19090_1.mkv.mp4",
-                "2": "https://streamtape.xyz/v/vWdpRD0DoKT4GOl/Honey_Trap_Squad_S01E02_19090_2.mkv.mp4"
+                "2": "https://streamtape.xyz/v/vWdpRD0DoKT4GOl/Honey_Trap_Squad_S01E02_19090_2.mkv.mp4",
+                "3": "https://streamtape.xyz/v/3J2GXMxJyMIARP/Honey_Trap_Squad_S01E03_19090_3.mkv.mp4",
+                "4": "https://streamtape.xyz/v/0WllJ9yldBibqoK/Honey_Trap_Squad_S01E04_19090_4.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.gg/wpt5g2yeodwv",
-                "2": "https://streamhub.gg/2cfupzgm6bh1"
+                "2": "https://streamhub.gg/2cfupzgm6bh1",
+                "3": "https://streamhub.gg/1woxvrhyqpl8",
+                "4": "https://streamhub.gg/24ya89eroxt7"
             },
             "episodeServer3": {
                 "1": "https://uploadraja.com/oxcgsna2aeva",
-                "2": "https://uploadraja.com/uzikv2mowdus"
+                "2": "https://uploadraja.com/uzikv2mowdus",
+                "3": "https://uploadraja.com/6znclxzep79x",
+                "4": "https://uploadraja.com/cv943pm0yvb4"
             },
             "episodeServer4": {
                 "1": "https://srs.aapkipooja.com/Honey%20Trap%20Squad%20S01E01%2019090%201.mkv",
-                "2": "https://srs.aapkipooja.com/Honey%20Trap%20Squad%20S01E02%2019090%202.mkv"
+                "2": "https://srs.aapkipooja.com/Honey%20Trap%20Squad%20S01E02%2019090%202.mkv",
+                "3": "https://srs.aapkipooja.com/Honey%20Trap%20Squad%20S01E03%2019090%203.mkv",
+                "4": "https://srs.aapkipooja.com/Honey%20Trap%20Squad%20S01E04%2019090%204.mkv"
             }
         }
     ]
