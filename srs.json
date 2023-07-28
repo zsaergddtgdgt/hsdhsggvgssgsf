@@ -46195,49 +46195,6 @@
             }
         },
         {
-            "id": "1064",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Witcher%20Season%203.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Witcher%20Season%203.jpg",
-            "movieName": "The Witcher Season 3",
-            "htmlFile": "https://www.19064",
-            "directOne": "Action,Adventure",
-            "directSecond": "22I7mcoyovM",
-            "imbd": "8.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "The Witcher",
-            "pathName": "S3",
-            "EpisodeTape": {
-                "1": "https://streamtape.xyz/v/Z3jrLe2OO4T78Z/The_Witcher_S03E01_19064_1.mkv.mp4",
-                "2": "https://streamtape.xyz/v/0V68RRRY0vUeW1/The_Witcher_S03E02_19064_2.mkv.mp4",
-                "3": "https://streamtape.xyz/v/9PP9aeJPb2uaJ91/The_Witcher_S03E03_19064_3.mkv.mp4",
-                "4": "https://streamtape.xyz/v/0W99z3Jl1MCbxLk/The_Witcher_S03E04_19064_4.mkv.mp4",
-                "5": "https://streamtape.xyz/v/abDX9dyR49tJ1X/The_Witcher_S03E05_19064_5.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.gg/y11vggkgee9t",
-                "2": "https://streamhub.gg/vjzv6akgvk6h",
-                "3": "https://streamhub.gg/56eskfcdhr57",
-                "4": "https://streamhub.gg/endfiarc7i2u",
-                "5": "https://streamhub.gg/u58cj9xgki0s"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/xlxxx11mr134",
-                "2": "https://uploadraja.com/bzvhsptczor9",
-                "3": "https://uploadraja.com/enmubw725htp",
-                "4": "https://uploadraja.com/5vqfotqi1pf8",
-                "5": "https://uploadraja.com/ul9i3mwkhc8b"
-            },
-            "episodeServer4": {
-                "1": "https://srs.aapkipooja.com/The%20Witcher%20S03E01%2019064%201.mkv",
-                "2": "https://srs.aapkipooja.com/The%20Witcher%20S03E02%2019064%202.mkv",
-                "3": "https://srs.aapkipooja.com/The%20Witcher%20S03E03%2019064%203.mkv",
-                "4": "https://srs.aapkipooja.com/The%20Witcher%20S03E04%2019064%204.mkv",
-                "5": "https://srs.aapkipooja.com/The%20Witcher%20S03E05%2019064%205.mkv"
-            }
-        },
-        {
             "id": "1065",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Celebrity%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Celebrity%20Season%201.jpg",
@@ -47092,6 +47049,146 @@
                 "4": "https://srs.aapkipooja.com/Secret%20Invasion%20S01E04%2019054%204.mkv",
                 "5": "https://srs.aapkipooja.com/Secret%20Invasion%20S01E05%2019054%205.mkv",
                 "6": "https://srs.aapkipooja.com/Secret%20Invasion%20S01E06%2019054%206.mkv"
+            }
+        },
+        {
+            "id": "1091",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Amriter%20Sandhane%20-%20The%20Banaras%20Chapter%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Amriter%20Sandhane%20-%20The%20Banaras%20Chapter%20Season%201.jpg",
+            "movieName": "Amriter Sandhane - The Banaras Chapter Season 1",
+            "htmlFile": "https://www.19091",
+            "directOne": "Thriller",
+            "directSecond": "7dHrGsdhsKg",
+            "imbd": "8.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Amriter Sandhane - The Banaras Chapter",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/GADomPv4pkS1ebM/Amriter_Sandhane_-_The_Banaras_Chapter_S01_Complete_19091_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/brwyedk53gxx"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/ogvxqtoeu2ty"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Amriter%20Sandhane%20-%20The%20Banaras%20Chapter%20S01%20Complete%2019091%201.mkv"
+            }
+        },
+        {
+            "id": "1092",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Half%20CA%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Half%20CA%20Season%201.jpg",
+            "movieName": "Half CA Season 1",
+            "htmlFile": "https://www.19092",
+            "directOne": "Drama",
+            "directSecond": "QGFMMGMakAM",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Half CA",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/2qMxyMdRMGhZXQx/Half_CA_S01_Complete_19092_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/75yms6r7f813"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/bgphq8jssmyg"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Half%20CA%20S01%20Complete%2019092%201.mkv"
+            }
+        },
+        {
+            "id": "1064",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Witcher%20Season%203.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Witcher%20Season%203.jpg",
+            "movieName": "The Witcher Season 3",
+            "htmlFile": "https://www.19064",
+            "directOne": "Action,Adventure",
+            "directSecond": "22I7mcoyovM",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Witcher",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/Z3jrLe2OO4T78Z/The_Witcher_S03E01_19064_1.mkv.mp4",
+                "2": "https://streamtape.xyz/v/0V68RRRY0vUeW1/The_Witcher_S03E02_19064_2.mkv.mp4",
+                "3": "https://streamtape.xyz/v/9PP9aeJPb2uaJ91/The_Witcher_S03E03_19064_3.mkv.mp4",
+                "4": "https://streamtape.xyz/v/0W99z3Jl1MCbxLk/The_Witcher_S03E04_19064_4.mkv.mp4",
+                "5": "https://streamtape.xyz/v/abDX9dyR49tJ1X/The_Witcher_S03E05_19064_5.mkv.mp4",
+                "6": "https://streamtape.xyz/v/JvjVam9Q97HjwAd/The_Witcher_S03E06_19064_6.mkv.mp4",
+                "7": "https://streamtape.xyz/v/QavB3p32dPsAJk/The_Witcher_S03E07_19064_7.mkv.mp4",
+                "8": "https://streamtape.xyz/v/bkerD1G7KeSPAqG/The_Witcher_S03E08_19064_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/y11vggkgee9t",
+                "2": "https://streamhub.gg/vjzv6akgvk6h",
+                "3": "https://streamhub.gg/56eskfcdhr57",
+                "4": "https://streamhub.gg/endfiarc7i2u",
+                "5": "https://streamhub.gg/u58cj9xgki0s",
+                "6": "https://streamhub.gg/cuj9m08u4kjl",
+                "7": "https://streamhub.gg/w1gwhh5k5ycs",
+                "8": "https://streamhub.gg/6h6z52b3i9l6"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/xlxxx11mr134",
+                "2": "https://uploadraja.com/bzvhsptczor9",
+                "3": "https://uploadraja.com/enmubw725htp",
+                "4": "https://uploadraja.com/5vqfotqi1pf8",
+                "5": "https://uploadraja.com/ul9i3mwkhc8b",
+                "6": "https://uploadraja.com/5i3y2fm5njhz",
+                "7": "https://uploadraja.com/s4x8yqjjrdgj",
+                "8": "https://uploadraja.com/zyeysv1dkxvh"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/The%20Witcher%20S03E01%2019064%201.mkv",
+                "2": "https://srs.aapkipooja.com/The%20Witcher%20S03E02%2019064%202.mkv",
+                "3": "https://srs.aapkipooja.com/The%20Witcher%20S03E03%2019064%203.mkv",
+                "4": "https://srs.aapkipooja.com/The%20Witcher%20S03E04%2019064%204.mkv",
+                "5": "https://srs.aapkipooja.com/The%20Witcher%20S03E05%2019064%205.mkv",
+                "6": "https://srs.aapkipooja.com/The%20Witcher%20S03E06%2019064%206.mkv",
+                "7": "https://srs.aapkipooja.com/The%20Witcher%20S03E07%2019064%207.mkv",
+                "8": "https://srs.aapkipooja.com/The%20Witcher%20S03E08%2019064%208.mkv"
+            }
+        },
+        {
+            "id": "1093",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Kaalkoot%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Kaalkoot%20Season%201.jpg",
+            "movieName": "Kaalkoot Season 1",
+            "htmlFile": "https://www.19093",
+            "directOne": "Drama",
+            "directSecond": "xyGNai2fFg8",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Kaalkoot",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/d80M8V6Mz6IkWdj/Kaalkoot_S01E01_19093_1.mkv.mp4",
+                "2": "https://streamtape.xyz/v/DezDbwBdpXtklO8/Kaalkoot_S01E02_19093_2.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/t7dxpx8q4ban",
+                "2": "https://streamhub.gg/h20hvtjls0a9"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/ybh3cc54fp0h",
+                "2": "https://uploadraja.com/8ndrmnkeujqj"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Kaalkoot%20S01E01%2019093%201.mkv",
+                "2": "https://srs.aapkipooja.com/Kaalkoot%20S01E02%2019093%202.mkv"
             }
         }
     ]
