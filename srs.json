@@ -47125,8 +47125,8 @@
                 "3": "https://streamtape.xyz/v/9PP9aeJPb2uaJ91/The_Witcher_S03E03_19064_3.mkv.mp4",
                 "4": "https://streamtape.xyz/v/0W99z3Jl1MCbxLk/The_Witcher_S03E04_19064_4.mkv.mp4",
                 "5": "https://streamtape.xyz/v/abDX9dyR49tJ1X/The_Witcher_S03E05_19064_5.mkv.mp4",
-                "6": "https://streamtape.xyz/v/JvjVam9Q97HjwAd/The_Witcher_S03E06_19064_6.mkv.mp4",
-                "7": "https://streamtape.xyz/v/QavB3p32dPsAJk/The_Witcher_S03E07_19064_7.mkv.mp4",
+                "6": "https://streamtape.xyz/v/mPALALrmojUbapL/The_Witcher_S03E06_19064_6.mkv.mp4",
+                "7": "https://streamtape.xyz/v/mP0Wo4zP4oIB1k/The_Witcher_S03E07_19064_7.mkv.mp4",
                 "8": "https://streamtape.xyz/v/bkerD1G7KeSPAqG/The_Witcher_S03E08_19064_8.mkv.mp4"
             },
             "EpisodeHub": {
@@ -47176,19 +47176,54 @@
             "pathName": "S1",
             "EpisodeTape": {
                 "1": "https://streamtape.xyz/v/d80M8V6Mz6IkWdj/Kaalkoot_S01E01_19093_1.mkv.mp4",
-                "2": "https://streamtape.xyz/v/DezDbwBdpXtklO8/Kaalkoot_S01E02_19093_2.mkv.mp4"
+                "2": "https://streamtape.xyz/v/DezDbwBdpXtklO8/Kaalkoot_S01E02_19093_2.mkv.mp4",
+                "3": "https://streamtape.xyz/v/vrY1jlb8q3I49dx/Kaalkoot_S01E03_19093_3.mkv.mp4",
+                "4": "https://streamtape.xyz/v/9y3lbVLrbwiaMgV/Kaalkoot_S01E04_19093_4.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.gg/t7dxpx8q4ban",
-                "2": "https://streamhub.gg/h20hvtjls0a9"
+                "2": "https://streamhub.gg/h20hvtjls0a9",
+                "3": "https://streamhub.gg/o4sk0b6pf23u",
+                "4": "https://streamhub.gg/y94oj7g3yfy2"
             },
             "episodeServer3": {
                 "1": "https://uploadraja.com/ybh3cc54fp0h",
-                "2": "https://uploadraja.com/8ndrmnkeujqj"
+                "2": "https://uploadraja.com/8ndrmnkeujqj",
+                "3": "https://uploadraja.com/4ecwd3pf807u",
+                "4": "https://uploadraja.com/7qhktwx8np9z"
             },
             "episodeServer4": {
                 "1": "https://srs.aapkipooja.com/Kaalkoot%20S01E01%2019093%201.mkv",
-                "2": "https://srs.aapkipooja.com/Kaalkoot%20S01E02%2019093%202.mkv"
+                "2": "https://srs.aapkipooja.com/Kaalkoot%20S01E02%2019093%202.mkv",
+                "3": "https://srs.aapkipooja.com/Kaalkoot%20S01E03%2019093%203.mkv",
+                "4": "https://srs.aapkipooja.com/Kaalkoot%20S01E04%2019093%204.mkv"
+            }
+        },
+        {
+            "id": "1094",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Outlaw%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Outlaw%20Season%201.jpg",
+            "movieName": "Outlaw Season 1",
+            "htmlFile": "https://www.19094",
+            "directOne": "Action,Drama",
+            "directSecond": "LgVUD-k3Alo",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Outlaw",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/92g2OWV7ejSa3pV/Outlaw_S01_Complete_19094_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/we5kqullh77c"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/l15f9mmt53q8"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Outlaw%20S01%20Complete%2019094%201.mkv"
             }
         }
     ]
