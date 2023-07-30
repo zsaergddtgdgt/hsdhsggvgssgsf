@@ -47200,6 +47200,49 @@
             }
         },
         {
+            "id": "1096",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Paurashpur%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Paurashpur%20Season%202.jpg",
+            "movieName": "Paurashpur Season 2",
+            "htmlFile": "https://www.19096",
+            "directOne": "Adult,Drama",
+            "directSecond": "XQL_2ifqERs",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Paurashpur",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/8KKAQZz867IoVgW/Paurashpur_S02E01_19096_1.mkv.mp4",
+                "2": "https://streamtape.xyz/v/DGQbQVPveqtkZ7M/Paurashpur_S02E02_19096_2.mkv.mp4",
+                "3": "https://streamtape.xyz/v/L167ykvq03u6J0/Paurashpur_S02E03_19096_3.mkv.mp4",
+                "4": "https://streamtape.xyz/v/OrOrdAwgGmTZMPM/Paurashpur_S02E04_19096_4.mkv.mp4",
+                "5": "https://streamtape.xyz/v/6xDGeKoYX6s9Gq7/Paurashpur_S02E05_19096_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/f6wd28ve77nw",
+                "2": "https://streamhub.gg/nf33ypitsdbm",
+                "3": "https://streamhub.gg/qitbghzbkfh2",
+                "4": "https://streamhub.gg/tyv9dkewv4ig",
+                "5": "https://streamhub.gg/t2fsalkae79a"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/tzg5yz0fscbv",
+                "2": "https://uploadraja.com/0a4bpto20fyf",
+                "3": "https://uploadraja.com/q4ex5rtywu06",
+                "4": "https://uploadraja.com/zsvem1zvzsqr",
+                "5": "https://uploadraja.com/ptjf8niing4p"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Paurashpur%20S02E01%2019096%201.mkv",
+                "2": "https://srs.aapkipooja.com/Paurashpur%20S02E02%2019096%202.mkv",
+                "3": "https://srs.aapkipooja.com/Paurashpur%20S02E03%2019096%203.mkv",
+                "4": "https://srs.aapkipooja.com/Paurashpur%20S02E04%2019096%204.mkv",
+                "5": "https://srs.aapkipooja.com/Paurashpur%20S02E05%2019096%205.mkv"
+            }
+        },
+        {
             "id": "1094",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Outlaw%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Outlaw%20Season%201.jpg",
@@ -47224,6 +47267,53 @@
             },
             "episodeServer4": {
                 "1": "https://srs.aapkipooja.com/Outlaw%20S01%20Complete%2019094%201.mkv"
+            }
+        },
+        {
+            "id": "1095",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/D.P.%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/D.P.%20Season%202.jpg",
+            "movieName": "D.P. Season 2",
+            "htmlFile": "https://www.19095",
+            "directOne": "Action,Drama",
+            "directSecond": "Mc1QaY6_M94",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "D.P.",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/XJBW1KldgAiDeyG/D.P._S02E01_19095_1.mkv.mp4",
+                "2": "https://streamtape.xyz/v/ja0gXr9kkmHzlrQ/D.P._S02E02_19095_2.mkv.mp4",
+                "3": "https://streamtape.xyz/v/AAAz0oaO3WcBvg/D.P._S02E03_19095_3.mkv.mp4",
+                "4": "https://streamtape.xyz/v/34Va00263DSdPpZ/D.P._S02E04_19095_4.mkv.mp4",
+                "5": "https://streamtape.xyz/v/xge0exYZYVS0Q6/D.P._S02E05_19095_5.mkv.mp4",
+                "6": "https://streamtape.xyz/v/QyPmzvyG4xh0XX1/D.P._S02E06_19095_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/aun7hsl09q30",
+                "2": "https://streamhub.gg/ijefku3pjcu6",
+                "3": "https://streamhub.gg/tioo4j255x4t",
+                "4": "https://streamhub.gg/8nwlk6o8xxhq",
+                "5": "https://streamhub.gg/sffjchpopf6l",
+                "6": "https://streamhub.gg/0xzv7nr9rtfu"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/h1hspeaa8yy8",
+                "2": "https://uploadraja.com/3fnbi75cl4c8",
+                "3": "https://uploadraja.com/13szicrq78zz",
+                "4": "https://uploadraja.com/ajwedak8480v",
+                "5": "https://uploadraja.com/08bqcbrvmekg",
+                "6": "https://uploadraja.com/ob5irpkzvqz8"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/D.P.%20S02E01%2019095%201.mkv",
+                "2": "https://srs.aapkipooja.com/D.P.%20S02E02%2019095%202.mkv",
+                "3": "https://srs.aapkipooja.com/D.P.%20S02E03%2019095%203.mkv",
+                "4": "https://srs.aapkipooja.com/D.P.%20S02E04%2019095%204.mkv",
+                "5": "https://srs.aapkipooja.com/D.P.%20S02E05%2019095%205.mkv",
+                "6": "https://srs.aapkipooja.com/D.P.%20S02E06%2019095%206.mkv"
             }
         }
     ]
