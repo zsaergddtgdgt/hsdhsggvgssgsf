@@ -47161,45 +47161,6 @@
             }
         },
         {
-            "id": "1093",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Kaalkoot%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Kaalkoot%20Season%201.jpg",
-            "movieName": "Kaalkoot Season 1",
-            "htmlFile": "https://www.19093",
-            "directOne": "Drama",
-            "directSecond": "xyGNai2fFg8",
-            "imbd": "9.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Kaalkoot",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.xyz/v/d80M8V6Mz6IkWdj/Kaalkoot_S01E01_19093_1.mkv.mp4",
-                "2": "https://streamtape.xyz/v/DezDbwBdpXtklO8/Kaalkoot_S01E02_19093_2.mkv.mp4",
-                "3": "https://streamtape.xyz/v/vrY1jlb8q3I49dx/Kaalkoot_S01E03_19093_3.mkv.mp4",
-                "4": "https://streamtape.xyz/v/9y3lbVLrbwiaMgV/Kaalkoot_S01E04_19093_4.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.gg/t7dxpx8q4ban",
-                "2": "https://streamhub.gg/h20hvtjls0a9",
-                "3": "https://streamhub.gg/o4sk0b6pf23u",
-                "4": "https://streamhub.gg/y94oj7g3yfy2"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/ybh3cc54fp0h",
-                "2": "https://uploadraja.com/8ndrmnkeujqj",
-                "3": "https://uploadraja.com/4ecwd3pf807u",
-                "4": "https://uploadraja.com/7qhktwx8np9z"
-            },
-            "episodeServer4": {
-                "1": "https://srs.aapkipooja.com/Kaalkoot%20S01E01%2019093%201.mkv",
-                "2": "https://srs.aapkipooja.com/Kaalkoot%20S01E02%2019093%202.mkv",
-                "3": "https://srs.aapkipooja.com/Kaalkoot%20S01E03%2019093%203.mkv",
-                "4": "https://srs.aapkipooja.com/Kaalkoot%20S01E04%2019093%204.mkv"
-            }
-        },
-        {
             "id": "1096",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Paurashpur%20Season%202.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Paurashpur%20Season%202.jpg",
@@ -47314,6 +47275,57 @@
                 "4": "https://srs.aapkipooja.com/D.P.%20S02E04%2019095%204.mkv",
                 "5": "https://srs.aapkipooja.com/D.P.%20S02E05%2019095%205.mkv",
                 "6": "https://srs.aapkipooja.com/D.P.%20S02E06%2019095%206.mkv"
+            }
+        },
+        {
+            "id": "1093",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Kaalkoot%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Kaalkoot%20Season%201.jpg",
+            "movieName": "Kaalkoot Season 1",
+            "htmlFile": "https://www.19093",
+            "directOne": "Drama",
+            "directSecond": "xyGNai2fFg8",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Kaalkoot",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/d80M8V6Mz6IkWdj/Kaalkoot_S01E01_19093_1.mkv.mp4",
+                "2": "https://streamtape.xyz/v/DezDbwBdpXtklO8/Kaalkoot_S01E02_19093_2.mkv.mp4",
+                "3": "https://streamtape.xyz/v/vrY1jlb8q3I49dx/Kaalkoot_S01E03_19093_3.mkv.mp4",
+                "4": "https://streamtape.xyz/v/9y3lbVLrbwiaMgV/Kaalkoot_S01E04_19093_4.mkv.mp4",
+                "5": "https://streamtape.xyz/v/BQrdAlPzRrtyk6d/Kaalkoot_S01E05_19093_5.mkv.mp4",
+                "6": "https://streamtape.xyz/v/vrzxvWw3m6fY7W/Kaalkoot_S01E06_19093_6.mkv.mp4",
+                "7": "https://streamtape.xyz/v/dvbMmO6XlOUkmO8/Kaalkoot_S01E07_19093_7.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/t7dxpx8q4ban",
+                "2": "https://streamhub.gg/h20hvtjls0a9",
+                "3": "https://streamhub.gg/o4sk0b6pf23u",
+                "4": "https://streamhub.gg/y94oj7g3yfy2",
+                "5": "https://streamhub.gg/k8mezts0a3xk",
+                "6": "https://streamhub.gg/zma5iykbdg3d",
+                "7": "https://streamhub.gg/gp1rnzonm2pd"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/ybh3cc54fp0h",
+                "2": "https://uploadraja.com/8ndrmnkeujqj",
+                "3": "https://uploadraja.com/4ecwd3pf807u",
+                "4": "https://uploadraja.com/7qhktwx8np9z",
+                "5": "https://uploadraja.com/6eovyknryuid",
+                "6": "https://uploadraja.com/8wkx0y6ozfr5",
+                "7": "https://uploadraja.com/89wfjr9p1236"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Kaalkoot%20S01E01%2019093%201.mkv",
+                "2": "https://srs.aapkipooja.com/Kaalkoot%20S01E02%2019093%202.mkv",
+                "3": "https://srs.aapkipooja.com/Kaalkoot%20S01E03%2019093%203.mkv",
+                "4": "https://srs.aapkipooja.com/Kaalkoot%20S01E04%2019093%204.mkv",
+                "5": "https://srs.aapkipooja.com/Kaalkoot%20S01E05%2019093%205.mkv",
+                "6": "https://srs.aapkipooja.com/Kaalkoot%20S01E06%2019093%206.mkv",
+                "7": "https://srs.aapkipooja.com/Kaalkoot%20S01E07%2019093%207.mkv"
             }
         }
     ]
