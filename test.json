@@ -1,6 +1,47 @@
 {
     "AllMovieDataList": [
-    
+    {
+            "id": "3329",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Bro%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Bro%20(2023).jpg",
+            "movieName": "Bro (2023)",
+            "htmlFile": "https://www.13329",
+            "directOne": "Hindi[HQ]+Tamil",
+            "directSecond": "ArOm-GWR6Zk",
+            "rating": "HDCamRip",
+            "catergory": "Action,Drama",
+            "Industry": "South",
+            "hub": "https://streamhub.gg/9nh7lag9lhml",
+            "tape": "https://streamtape.cc/v/dp6qKRR4meTkaWQ/Bro_%282023%29_13329.mkv.mp4",
+            "server3": "https://mvs.aapkipooja.com/720p/Bro%20(2023)%2013329.mkv",
+            "server4": "https://uploadraja.com/0k1reyozvcd0",
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.gg/4xfjs10f7i7c",
+            "480pS2": "FALSE",
+            "480pS3": "https://mvs.aapkipooja.com/480p/Bro%20(2023)%2013329.mkv",
+            "480pS4": "https://uploadraja.com/gc7v1ineumfx"
+        },
+    {
+            "id": "3328",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Teenage%20Mutant%20Ninja%20Turtles%20Mutant%20Mayhem%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Teenage%20Mutant%20Ninja%20Turtles%20Mutant%20Mayhem%20(2023).jpg",
+            "movieName": "Teenage Mutant Ninja Turtles Mutant Mayhem (2023)",
+            "htmlFile": "https://www.13328",
+            "directOne": "English",
+            "directSecond": "JhXRNRmuYcc",
+            "rating": "HDCamRip",
+            "catergory": "Action,Adventure",
+            "Industry": "HollywoodEnglish",
+            "hub": "https://streamhub.gg/y7d4m98ir1qr",
+            "tape": "https://streamtape.cc/v/mvAjjZqy8xiQLG/Teenage_Mutant_Ninja_Turtles_Mutant_Mayhem_%282023%29_13328.mkv.mp4",
+            "server3": "https://mvs.aapkipooja.com/720p/Teenage%20Mutant%20Ninja%20Turtles%20Mutant%20Mayhem%20(2023)%2013328.mkv",
+            "server4": "https://uploadraja.com/np2e6c1gsteo",
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.gg/dzunqpbai7zb",
+            "480pS2": "FALSE",
+            "480pS3": "https://mvs.aapkipooja.com/480p/Teenage%20Mutant%20Ninja%20Turtles%20Mutant%20Mayhem%20(2023)%2013328.mkv",
+            "480pS4": "https://uploadraja.com/yx7i2nnko14y"
+        },
         {
             "id": "3142",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Guardians%20of%20the%20Galaxy%20Vol.%203%20(2023).jpg",
