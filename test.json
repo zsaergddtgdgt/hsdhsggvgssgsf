@@ -1,5 +1,27 @@
 {
     "AllMovieDataList": [
+     
+        {
+            "id": "3337",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Meg%202%20-%20The%20Trench%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/Meg%202%20-%20The%20Trench%20(2023).jpg",
+            "movieName": "Meg 2 - The Trench (2023)",
+            "htmlFile": "https://www.13337",
+            "directOne": "Hindi+English",
+            "directSecond": "ie2esV88brk",
+            "rating": "HDCamRip",
+            "catergory": "Action,Adventure",
+            "Industry": "Hollywood",
+            "hub": "https://streamhub.gg/81bwn36gypub",
+            "tape": "https://streamtape.xyz/v/KQMJWpamblfjv1/Meg_2_-_The_Trench_%282023%29_13337.mkv.mp4",
+            "server3": "https://mvs.aapkipooja.com/720p/Meg%202%20-%20The%20Trench%20(2023)%2013337.mkv",
+            "server4": "https://uploadraja.com/t3k6qrjikcqf",
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.gg/lctgbu6s48je",
+            "480pS2": "FALSE",
+            "480pS3": "https://mvs.aapkipooja.com/480p/Meg%202%20-%20The%20Trench%20(2023)%2013337.mkv",
+            "480pS4": "https://uploadraja.com/rox71f9un87z"
+        },
         {
             "id": "3329",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/Bro%20(2023).jpg",
@@ -83,6 +105,27 @@
             "480pS2": "FALSE",
             "480pS3": "https://mvs.aapkipooja.com/480p/Insidious%20-%20The%20Red%20Door%20(2023)%2013262.mkv",
             "480pS4": "https://uploadraja.com/jctxb6mn3fgs"
+        }, 
+        {
+            "id": "3330",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H1/22%20Chamkila%20Forever%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V1/22%20Chamkila%20Forever%20(2023).jpg",
+            "movieName": "22 Chamkila Forever (2023)",
+            "htmlFile": "https://www.13330",
+            "directOne": "Punjabi",
+            "directSecond": "ie2esV88brk",
+            "rating": "HD",
+            "catergory": "Biography,Drama",
+            "Industry": "Punjabi",
+            "hub": "https://streamhub.gg/6z9013q6gs99",
+            "tape": "https://streamtape.xyz/v/01BAlykQwYIb73Q/22_Chamkila_Forever_%282023%29_13330.mkv.mp4",
+            "server3": "https://mvs.aapkipooja.com/720p/22%20Chamkila%20Forever%20(2023)%2013330.mkv",
+            "server4": "https://uploadraja.com/day7jnto01tu",
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.gg/yq9y0muh0wbv",
+            "480pS2": "FALSE",
+            "480pS3": "https://mvs.aapkipooja.com/480p/22%20Chamkila%20Forever%20(2023)%2013330.mkv",
+            "480pS4": "https://uploadraja.com/e8xfnboucpiy"
         },
         {
             "id": "3327",
