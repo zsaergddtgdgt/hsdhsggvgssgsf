@@ -46685,45 +46685,6 @@
             }
         },
         {
-            "id": "1076",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Summer%20I%20Turned%20Pretty%20Season%202.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Summer%20I%20Turned%20Pretty%20Season%202.jpg",
-            "movieName": "The Summer I Turned Pretty Season 2",
-            "htmlFile": "https://www.19076",
-            "directOne": "Romance,Drama",
-            "directSecond": "ldJEDorsMEU",
-            "imbd": "8.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "The Summer I Turned Pretty",
-            "pathName": "S2",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/9yzRQkD1AVuaWpX/The_Summer_I_Turned_Pretty_S02E01_19076_1.mkv.mp4",
-                "2": "https://streamtape.site/v/gweRDGPP2puqDv8/The_Summer_I_Turned_Pretty_S02E02_19076_2.mkv.mp4",
-                "3": "https://streamtape.site/v/drpWZRXRaqhkoqy/The_Summer_I_Turned_Pretty_S02E03_19076_3.mkv.mp4",
-                "4": "https://streamtape.site/v/pagZp4MbO0fr8A3/The_Summer_I_Turned_Pretty_S02E04_19076_4.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.gg/yodxd4k8bppt",
-                "2": "https://streamhub.gg/j0vjac4xbph2",
-                "3": "https://streamhub.gg/4lovj7rj3pj1",
-                "4": "https://streamhub.gg/n7yud9vbu4ny"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/e2ugk0xmoqb6",
-                "2": "https://uploadraja.com/kf0lcyturhzs",
-                "3": "https://uploadraja.com/lkwug5ljc3ut",
-                "4": "https://uploadraja.com/ygv7kq7oh8yd"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/The%20Summer%20I%20Turned%20Pretty%20S02E01%2019076%201.mkv",
-                "2": "http://srs.aapkipooja.com/The%20Summer%20I%20Turned%20Pretty%20S02E02%2019076%202.mkv",
-                "3": "http://srs.aapkipooja.com/The%20Summer%20I%20Turned%20Pretty%20S02E03%2019076%203.mkv",
-                "4": "http://srs.aapkipooja.com/The%20Summer%20I%20Turned%20Pretty%20S02E04%2019076%204.mkv"
-            }
-        },
-        {
             "id": "1068",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Jack%20Ryan%20Season%204.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Jack%20Ryan%20Season%204.jpg",
@@ -47498,6 +47459,57 @@
                 "5": "http://srs.aapkipooja.com/The%20Jengaburu%20Curse%20S01E05%2019100%205.mkv",
                 "6": "http://srs.aapkipooja.com/The%20Jengaburu%20Curse%20S01E06%2019100%206.mkv",
                 "7": "http://srs.aapkipooja.com/The%20Jengaburu%20Curse%20S01E07%2019100%207.mkv"
+            }
+        },
+        {
+            "id": "1076",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Summer%20I%20Turned%20Pretty%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Summer%20I%20Turned%20Pretty%20Season%202.jpg",
+            "movieName": "The Summer I Turned Pretty Season 2",
+            "htmlFile": "https://www.19076",
+            "directOne": "Romance,Drama",
+            "directSecond": "ldJEDorsMEU",
+            "imbd": "8.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Summer I Turned Pretty",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/9yzRQkD1AVuaWpX/The_Summer_I_Turned_Pretty_S02E01_19076_1.mkv.mp4",
+                "2": "https://streamtape.site/v/gweRDGPP2puqDv8/The_Summer_I_Turned_Pretty_S02E02_19076_2.mkv.mp4",
+                "3": "https://streamtape.site/v/drpWZRXRaqhkoqy/The_Summer_I_Turned_Pretty_S02E03_19076_3.mkv.mp4",
+                "4": "https://streamtape.site/v/pagZp4MbO0fr8A3/The_Summer_I_Turned_Pretty_S02E04_19076_4.mkv.mp4",
+                "5": "https://streamtape.site/v/JD8mbr0916fjkDy/The_Summer_I_Turned_Pretty_S02E05_19076_5.mkv.mp4",
+                "6": "https://streamtape.site/v/1PpV3X4VdVtev7x/The_Summer_I_Turned_Pretty_S02E06_19076_6.mkv.mp4",
+                "7": "https://streamtape.site/v/7P88XA2g1lIMDp/The_Summer_I_Turned_Pretty_S02E07_19076_7.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.gg/yodxd4k8bppt",
+                "2": "https://streamhub.gg/j0vjac4xbph2",
+                "3": "https://streamhub.gg/4lovj7rj3pj1",
+                "4": "https://streamhub.gg/n7yud9vbu4ny",
+                "5": "https://streamhub.gg/9dlkompcgeji",
+                "6": "https://streamhub.gg/dunletv8j87l",
+                "7": "https://streamhub.gg/uissmmatijkh"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/e2ugk0xmoqb6",
+                "2": "https://uploadraja.com/kf0lcyturhzs",
+                "3": "https://uploadraja.com/lkwug5ljc3ut",
+                "4": "https://uploadraja.com/ygv7kq7oh8yd",
+                "5": "https://uploadraja.com/tlnojqtbs21e",
+                "6": "https://uploadraja.com/upeatf095o57",
+                "7": "https://uploadraja.com/g3gqfip1tb80"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/The%20Summer%20I%20Turned%20Pretty%20S02E01%2019076%201.mkv",
+                "2": "http://srs.aapkipooja.com/The%20Summer%20I%20Turned%20Pretty%20S02E02%2019076%202.mkv",
+                "3": "http://srs.aapkipooja.com/The%20Summer%20I%20Turned%20Pretty%20S02E03%2019076%203.mkv",
+                "4": "http://srs.aapkipooja.com/The%20Summer%20I%20Turned%20Pretty%20S02E04%2019076%204.mkv",
+                "5": "http://srs.aapkipooja.com/The%20Summer%20I%20Turned%20Pretty%20S02E05%2019076%205.mkv",
+                "6": "http://srs.aapkipooja.com/The%20Summer%20I%20Turned%20Pretty%20S02E06%2019076%206.mkv",
+                "7": "http://srs.aapkipooja.com/The%20Summer%20I%20Turned%20Pretty%20S02E07%2019076%207.mkv"
             }
         },
         {
