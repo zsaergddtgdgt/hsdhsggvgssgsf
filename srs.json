@@ -46571,6 +46571,33 @@
             }
         },
         {
+            "id": "1113",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/V1/Fuh%20se%20Fantasy%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Fuh%20se%20Fantasy%20Season%201.jpg",
+            "movieName": "Fuh se Fantasy Season 1",
+            "htmlFile": "https://www.19113",
+            "directOne": "Adult,Romance",
+            "directSecond": "EFUsjxRvTcs",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Fuh se Fantasy",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/yAvBw3L3Xpf1ZZL/Fuh_se_Fantasy_S01_Complete_19113_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/v9iqnbaq2eh4"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/h3kbrbx6ypo7"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S01%20Complete%2019113%201.mkv"
+            }
+        },
+        {
             "id": "1063",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Ishq%20Next%20Door%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Ishq%20Next%20Door%20Season%201.jpg",
@@ -47863,6 +47890,60 @@
                 "4": "https://srs.aapkipooja.com/Taali%20S01E04%2019111%204.mkv",
                 "5": "https://srs.aapkipooja.com/Taali%20S01E05%2019111%205.mkv",
                 "6": "https://srs.aapkipooja.com/Taali%20S01E06%2019111%206.mkv"
+            }
+        },
+        {
+            "id": "1112",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Man%20vs.%20Wild%20with%20Sunny%20Leone%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Man%20vs.%20Wild%20with%20Sunny%20Leone%20Season%201.jpg",
+            "movieName": "Man vs. Wild with Sunny Leone Season 1",
+            "htmlFile": "https://www.19112",
+            "directOne": "Reality,TvShow",
+            "directSecond": "6VhYKFCJ4m0",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Man vs. Wild with Sunny Leone",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/3q7lvrBWzeC3Aj/Man_vs._Wild_with_Sunny_Leone_S01_Complete_19112_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/u5xwdhiv2c37"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/aiwnmbpqsoub"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Man%20vs.%20Wild%20with%20Sunny%20Leone%20S01%20Complete%2019112%201.mkv"
+            }
+        },
+        {
+            "id": "1114",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Fuh%20se%20Fantasy%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Fuh%20se%20Fantasy%20Season%202.jpg",
+            "movieName": "Fuh se Fantasy Season 2",
+            "htmlFile": "https://www.19114",
+            "directOne": "Adult,Romance",
+            "directSecond": "b1Ukfb5MOOw",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Fuh se Fantasy",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/lgGpMzxxeQi7Mwv/Fuh_se_Fantasy_S02E01_19114_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/ipkjwyzsll2e"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/doa0orfac1bz"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E01%2019114%201.mkv"
             }
         }
     ]
