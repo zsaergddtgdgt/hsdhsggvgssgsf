@@ -48252,8 +48252,8 @@
             "keyName": "Lakhan Leela Bhargava",
             "pathName": "S1",
             "EpisodeTape": {
-                "1": "https://streamtape.cc/v/Q0eAdAxaJKu0LWZ/Lakhan_Leela_Bhargava_S01E01_19120_1.mkv.mp4",
-                "2": "https://streamtape.cc/v/bkbyP8aa8bCP1Aj/Lakhan_Leela_Bhargava_S01E02_19120_2.mkv.mp4"
+                "1": "https://streamtape.site/v/J0wgpMJe22fjkkk/Lakhan_Leela_Bhargava_S01E01_19120_1.mkv.mp4",
+                "2": "https://streamtape.site/v/R4plLwKWZ2UdGRZ/Lakhan_Leela_Bhargava_S01E02_19120_2.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.ink/5lmikg5ktfi4",
@@ -48266,6 +48266,76 @@
             "episodeServer4": {
                 "1": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E01%2019120%201.mkv",
                 "2": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E02%2019120%202.mkv"
+            }
+        },
+        {
+            "id": "1122",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/AP%20Dhillon%20-%20First%20of%20a%20Kind%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/AP%20Dhillon%20-%20First%20of%20a%20Kind%20Season%201.jpg",
+            "movieName": "AP Dhillon - First of a Kind Season 1",
+            "htmlFile": "https://www.19122",
+            "directOne": "Documentary",
+            "directSecond": "IB_6RNuSrHE",
+            "imbd": "9.1",
+            "rating": "English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "AP Dhillon - First of a Kind",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/WQz71jarAGFqXa/AP_Dhillon_-_First_of_a_Kind_S01E01_19122_1.mkv.mp4",
+                "2": "https://streamtape.site/v/y72zYzWqA0t1M9j/AP_Dhillon_-_First_of_a_Kind_S01E02_19122_2.mkv.mp4",
+                "3": "https://streamtape.site/v/ek2aqvzPV4tYVY8/AP_Dhillon_-_First_of_a_Kind_S01E03_19122_3.mkv.mp4",
+                "4": "https://streamtape.site/v/qZ9AxWeergFzeRy/AP_Dhillon_-_First_of_a_Kind_S01E04_19122_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/keswsca1cgw6",
+                "2": "https://streamhub.ink/624qhii9r9bs",
+                "3": "https://streamhub.ink/jax53tz3ityn",
+                "4": "https://streamhub.ink/7bcqccww7xzv"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/il2clpfq0iz1",
+                "2": "https://uploadraja.com/lrl7t2vgrrzp",
+                "3": "https://uploadraja.com/4mryuwpghpg2",
+                "4": "https://uploadraja.com/4zohu6fke7yj"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/AP%20Dhillon%20-%20First%20of%20a%20Kind%20S01E01%2019122%201.mkv",
+                "2": "https://srs.aapkipooja.com/AP%20Dhillon%20-%20First%20of%20a%20Kind%20S01E02%2019122%202.mkv",
+                "3": "https://srs.aapkipooja.com/AP%20Dhillon%20-%20First%20of%20a%20Kind%20S01E03%2019122%203.mkv",
+                "4": "https://srs.aapkipooja.com/AP%20Dhillon%20-%20First%20of%20a%20Kind%20S01E04%2019122%204.mkv"
+            }
+        },
+        {
+            "id": "1121",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Ahsoka%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Ahsoka%20Season%201.jpg",
+            "movieName": "Ahsoka Season 1",
+            "htmlFile": "https://www.19122",
+            "directOne": "Action,Adventure",
+            "directSecond": "qkv_yfnuqks",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Ahsoka",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/wlkRqjYG9WtJ0OZ/Ahsoka_S01E01_19121_1.mkv.mp4",
+                "2": "https://streamtape.site/v/y7Woxq8a4mh1DBp/Ahsoka_S01E02_19121_2.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/5e1tdp9r8czs",
+                "2": "https://streamhub.ink/49hr2fxap4zr"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/nv7mg8ydm0wr",
+                "2": "https://uploadraja.com/9geh59w0x3wl"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Ahsoka%20S01E01%2019121%201.mkv",
+                "2": "https://srs.aapkipooja.com/Ahsoka%20S01E02%2019121%202.mkv"
             }
         }
     ]
