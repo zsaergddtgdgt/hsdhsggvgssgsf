@@ -48552,28 +48552,59 @@
                 "2": "https://streamtape.site/v/ZoKzmpZaV2SqQzK/Bajao_S01E02_19128_2.mkv.mp4",
                 "3": "https://streamtape.site/v/gwjxQ0bQ3Xsq2LK/Bajao_S01E03_19128_3.mkv.mp4",
                 "4": "https://streamtape.site/v/gV2dr8jYO1uq6yl/Bajao_S01E04_19128_4.mkv.mp4",
-                "5": "https://streamtape.site/v/ogjvyKWKARUJqwr/Bajao_S01E05_19128_5.mkv.mp4"
+                "5": "https://streamtape.site/v/ogjvyKWKARUJqwr/Bajao_S01E05_19128_5.mkv.mp4",
+                "6": "https://streamtape.site/v/XkM0DoBBe6uBM1/Bajao_S01E06_19128_6.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.ink/frkbgjo79gsg",
                 "2": "https://streamhub.ink/2t2fysj3mjym",
                 "3": "https://streamhub.ink/fg85gq14opjv",
                 "4": "https://streamhub.ink/13jefdomrgk5",
-                "5": "https://streamhub.ink/5m2a5auwz7vb"
+                "5": "https://streamhub.ink/5m2a5auwz7vb",
+                "6": "https://streamhub.ink/len3wbpz7duv"
             },
             "episodeServer3": {
                 "1": "https://uploadraja.com/5tj6nsfkf2d3",
                 "2": "https://uploadraja.com/vxne2m7h7bg9",
                 "3": "https://uploadraja.com/cyi3fhlaxyqn",
                 "4": "https://uploadraja.com/5r66ydso0ji8",
-                "5": "https://uploadraja.com/lb6jnhjfuer0"
+                "5": "https://uploadraja.com/lb6jnhjfuer0",
+                "6": "https://uploadraja.com/8z26zu7d74jz"
             },
             "episodeServer4": {
                 "1": "https://srs.aapkipooja.com/Bajao%20S01E01%2019128%201.mkv",
                 "2": "https://srs.aapkipooja.com/Bajao%20S01E02%2019128%202.mkv",
                 "3": "https://srs.aapkipooja.com/Bajao%20S01E03%2019128%203.mkv",
                 "4": "https://srs.aapkipooja.com/Bajao%20S01E04%2019128%204.mkv",
-                "5": "https://srs.aapkipooja.com/Bajao%20S01E05%2019128%205.mkv"
+                "5": "https://srs.aapkipooja.com/Bajao%20S01E05%2019128%205.mkv",
+                "6": "https://srs.aapkipooja.com/Bajao%20S01E06%2019128%206.mkv"
+            }
+        },
+        {
+            "id": "1129",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Breaking%20Bad%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Breaking%20Bad%20Season%201.jpg",
+            "movieName": "Breaking Bad Season 1",
+            "htmlFile": "https://www.19129",
+            "directOne": "Crime,Thriller",
+            "directSecond": "UollwXVP5U8",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Breaking Bad",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/GK491owZ2VcARB/Breaking_Bad_S01E01_19129_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/x0dknkyqrvwj"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/xxslgaoim8gy"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Breaking%20Bad%20S01E01%2019129%201.mkv"
             }
         }
     ]
