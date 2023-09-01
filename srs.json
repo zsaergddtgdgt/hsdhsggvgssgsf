@@ -48332,37 +48332,6 @@
             }
         },
         {
-            "id": "1126",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Aakhri%20Sach%20Season%201.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Aakhri%20Sach%20Season%201.jpg",
-            "movieName": "Aakhri Sach Season 1",
-            "htmlFile": "https://www.19126",
-            "directOne": "Thriller",
-            "directSecond": "JRlT6tPAZSI",
-            "imbd": "9.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Aakhri Sach",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/yVLglJQ2ZRC1ZRB/Aakhri_Sach_S01E01_19126_1.mkv.mp4",
-                "2": "https://streamtape.site/v/0zMMy9PZoDUL3P/Aakhri_Sach_S01E02_19126_2.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/bbrgwwvr08cs",
-                "2": "https://streamhub.ink/rlfdlzlp9x26"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/h9wzr1jt5tcg",
-                "2": "https://uploadraja.com/ac4p19y7uo6y"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Aakhri%20Sach%20S01E01%2019126%201.mkv",
-                "2": "http://srs.aapkipooja.com/Aakhri%20Sach%20S01E02%2019126%202.mkv"
-            }
-        },
-        {
             "id": "1127",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Kumudini%20Bhavan%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Kumudini%20Bhavan%20Season%201.jpg",
@@ -48511,57 +48480,6 @@
             }
         },
         {
-            "id": "1128",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Bajao%20Season%201.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Bajao%20Season%201.jpg",
-            "movieName": "Bajao Season 1",
-            "htmlFile": "https://www.19128",
-            "directOne": "Comedy,Drama",
-            "directSecond": "jnzN3-BHo8U",
-            "imbd": "9.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Bajao",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/2L1WW4vobRUZrqx/Bajao_S01E01_19128_1.mkv.mp4",
-                "2": "https://streamtape.site/v/ZoKzmpZaV2SqQzK/Bajao_S01E02_19128_2.mkv.mp4",
-                "3": "https://streamtape.site/v/gwjxQ0bQ3Xsq2LK/Bajao_S01E03_19128_3.mkv.mp4",
-                "4": "https://streamtape.site/v/gV2dr8jYO1uq6yl/Bajao_S01E04_19128_4.mkv.mp4",
-                "5": "https://streamtape.site/v/ogjvyKWKARUJqwr/Bajao_S01E05_19128_5.mkv.mp4",
-                "6": "https://streamtape.site/v/XkM0DoBBe6uBM1/Bajao_S01E06_19128_6.mkv.mp4",
-                "7": "https://streamtape.site/v/jg1RQW128YSzj70/Bajao_S01E07_19128_7.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/frkbgjo79gsg",
-                "2": "https://streamhub.ink/2t2fysj3mjym",
-                "3": "https://streamhub.ink/fg85gq14opjv",
-                "4": "https://streamhub.ink/13jefdomrgk5",
-                "5": "https://streamhub.ink/5m2a5auwz7vb",
-                "6": "https://streamhub.ink/len3wbpz7duv",
-                "7": "https://streamhub.ink/xc45fp1x2ztu"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/5tj6nsfkf2d3",
-                "2": "https://uploadraja.com/vxne2m7h7bg9",
-                "3": "https://uploadraja.com/cyi3fhlaxyqn",
-                "4": "https://uploadraja.com/5r66ydso0ji8",
-                "5": "https://uploadraja.com/lb6jnhjfuer0",
-                "6": "https://uploadraja.com/8z26zu7d74jz",
-                "7": "https://uploadraja.com/unucafyrm0il"
-            },
-            "episodeServer4": {
-                "1": "https://srs.aapkipooja.com/Bajao%20S01E01%2019128%201.mkv",
-                "2": "https://srs.aapkipooja.com/Bajao%20S01E02%2019128%202.mkv",
-                "3": "https://srs.aapkipooja.com/Bajao%20S01E03%2019128%203.mkv",
-                "4": "https://srs.aapkipooja.com/Bajao%20S01E04%2019128%204.mkv",
-                "5": "https://srs.aapkipooja.com/Bajao%20S01E05%2019128%205.mkv",
-                "6": "https://srs.aapkipooja.com/Bajao%20S01E06%2019128%206.mkv",
-                "7": "https://srs.aapkipooja.com/Bajao%20S01E07%2019128%207.mkv"
-            }
-        },
-        {
             "id": "1120",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Lakhan%20Leela%20Bhargava%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Lakhan%20Leela%20Bhargava%20Season%201.jpg",
@@ -48644,6 +48562,61 @@
             }
         },
         {
+            "id": "1128",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Bajao%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Bajao%20Season%201.jpg",
+            "movieName": "Bajao Season 1",
+            "htmlFile": "https://www.19128",
+            "directOne": "Comedy,Drama",
+            "directSecond": "jnzN3-BHo8U",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Bajao",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/2L1WW4vobRUZrqx/Bajao_S01E01_19128_1.mkv.mp4",
+                "2": "https://streamtape.site/v/ZoKzmpZaV2SqQzK/Bajao_S01E02_19128_2.mkv.mp4",
+                "3": "https://streamtape.site/v/gwjxQ0bQ3Xsq2LK/Bajao_S01E03_19128_3.mkv.mp4",
+                "4": "https://streamtape.site/v/gV2dr8jYO1uq6yl/Bajao_S01E04_19128_4.mkv.mp4",
+                "5": "https://streamtape.site/v/ogjvyKWKARUJqwr/Bajao_S01E05_19128_5.mkv.mp4",
+                "6": "https://streamtape.site/v/XkM0DoBBe6uBM1/Bajao_S01E06_19128_6.mkv.mp4",
+                "7": "https://streamtape.site/v/jg1RQW128YSzj70/Bajao_S01E07_19128_7.mkv.mp4",
+                "8": "https://streamtape.site/v/eYxY93bzvKhk9v/Bajao_S01E08_19128_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/frkbgjo79gsg",
+                "2": "https://streamhub.ink/2t2fysj3mjym",
+                "3": "https://streamhub.ink/fg85gq14opjv",
+                "4": "https://streamhub.ink/13jefdomrgk5",
+                "5": "https://streamhub.ink/5m2a5auwz7vb",
+                "6": "https://streamhub.ink/len3wbpz7duv",
+                "7": "https://streamhub.ink/xc45fp1x2ztu",
+                "8": "https://streamhub.ink/yz6qczws5w8x"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/5tj6nsfkf2d3",
+                "2": "https://uploadraja.com/vxne2m7h7bg9",
+                "3": "https://uploadraja.com/cyi3fhlaxyqn",
+                "4": "https://uploadraja.com/5r66ydso0ji8",
+                "5": "https://uploadraja.com/lb6jnhjfuer0",
+                "6": "https://uploadraja.com/8z26zu7d74jz",
+                "7": "https://uploadraja.com/unucafyrm0il",
+                "8": "https://uploadraja.com/qp80vqx9lgr6"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Bajao%20S01E01%2019128%201.mkv",
+                "2": "https://srs.aapkipooja.com/Bajao%20S01E02%2019128%202.mkv",
+                "3": "https://srs.aapkipooja.com/Bajao%20S01E03%2019128%203.mkv",
+                "4": "https://srs.aapkipooja.com/Bajao%20S01E04%2019128%204.mkv",
+                "5": "https://srs.aapkipooja.com/Bajao%20S01E05%2019128%205.mkv",
+                "6": "https://srs.aapkipooja.com/Bajao%20S01E06%2019128%206.mkv",
+                "7": "https://srs.aapkipooja.com/Bajao%20S01E07%2019128%207.mkv",
+                "8": "https://srs.aapkipooja.com/Bajao%20S01E08%2019128%208.mkv"
+            }
+        },
+        {
             "id": "1129",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Breaking%20Bad%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Breaking%20Bad%20Season%201.jpg",
@@ -48659,19 +48632,23 @@
             "pathName": "S1",
             "EpisodeTape": {
                 "1": "https://streamtape.site/v/GK491owZ2VcARB/Breaking_Bad_S01E01_19129_1.mkv.mp4",
-                "2": "https://streamtape.site/v/mrQ1z9YZmbSbwrK/Breaking_Bad_S01E02_19129_2.mkv.mp4"
+                "2": "https://streamtape.site/v/mrQ1z9YZmbSbwrK/Breaking_Bad_S01E02_19129_2.mkv.mp4",
+                "3": "https://streamtape.site/v/YGeG1aA3PQCv7yB/Breaking_Bad_S01E03_19129_3.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.ink/x0dknkyqrvwj",
-                "2": "https://streamhub.ink/3doxljcm5fdw"
+                "2": "https://streamhub.ink/3doxljcm5fdw",
+                "3": "https://streamhub.ink/zsr6eqb85kao"
             },
             "episodeServer3": {
                 "1": "https://uploadraja.com/xxslgaoim8gy",
-                "2": "https://uploadraja.com/bqqor7rs8mmh"
+                "2": "https://uploadraja.com/bqqor7rs8mmh",
+                "3": "https://uploadraja.com/xkvbgewpnpaj"
             },
             "episodeServer4": {
                 "1": "https://srs.aapkipooja.com/Breaking%20Bad%20S01E01%2019129%201.mkv",
-                "2": "https://srs.aapkipooja.com/Breaking%20Bad%20S01E02%2019129%202.mkv"
+                "2": "https://srs.aapkipooja.com/Breaking%20Bad%20S01E02%2019129%202.mkv",
+                "3": "https://srs.aapkipooja.com/Breaking%20Bad%20S01E03%2019129%203.mkv"
             }
         },
         {
@@ -48730,6 +48707,41 @@
             }
         },
         {
+            "id": "1126",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Aakhri%20Sach%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Aakhri%20Sach%20Season%201.jpg",
+            "movieName": "Aakhri Sach Season 1",
+            "htmlFile": "https://www.19126",
+            "directOne": "Thriller",
+            "directSecond": "JRlT6tPAZSI",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Aakhri Sach",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/yVLglJQ2ZRC1ZRB/Aakhri_Sach_S01E01_19126_1.mkv.mp4",
+                "2": "https://streamtape.site/v/0zMMy9PZoDUL3P/Aakhri_Sach_S01E02_19126_2.mkv.mp4",
+                "3": "https://streamtape.site/v/z3pZmQoX9xTYjbD/Aakhri_Sach_S01E03_19126_3.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/bbrgwwvr08cs",
+                "2": "https://streamhub.ink/rlfdlzlp9x26",
+                "3": "https://streamhub.ink/6a6sng4jahks"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/h9wzr1jt5tcg",
+                "2": "https://uploadraja.com/ac4p19y7uo6y",
+                "3": "https://uploadraja.com/7xel3w4l91vr"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Aakhri%20Sach%20S01E01%2019126%201.mkv",
+                "2": "http://srs.aapkipooja.com/Aakhri%20Sach%20S01E02%2019126%202.mkv",
+                "3": "http://srs.aapkipooja.com/Aakhri%20Sach%20S01E03%2019126%203.mkv"
+            }
+        },
+        {
             "id": "1132",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Scam%202003%20-%20The%20Telgi%20Story%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Scam%202003%20-%20The%20Telgi%20Story%20Season%201.jpg",
@@ -48770,6 +48782,45 @@
                 "3": "https://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E03%2019132%203.mkv",
                 "4": "https://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E04%2019132%204.mkv",
                 "5": "https://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E05%2019132%205.mkv"
+            }
+        },
+        {
+            "id": "1133",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/The%20Freelancer%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/The%20Freelancer%20Season%201.jpg",
+            "movieName": "The Freelancer Season 1",
+            "htmlFile": "https://www.19133",
+            "directOne": "Thriller,Drama",
+            "directSecond": "KvorFo2pivI",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Freelancer",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/P904kwwyeqUD7X/The_Freelancer_S01E01_19133_1.mkv.mp4",
+                "2": "https://streamtape.site/v/ZXqP3Q7AV8IqAVA/The_Freelancer_S01E02_19133_2.mkv.mp4",
+                "3": "https://streamtape.site/v/DakMoQ1G8AukM29/The_Freelancer_S01E03_19133_3.mkv.mp4",
+                "4": "https://streamtape.site/v/DQGJ0dwwMqUBx3/The_Freelancer_S01E04_19133_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/ayroturvlhk4",
+                "2": "https://streamhub.ink/qmbkugopp451",
+                "3": "https://streamhub.ink/r04091lm1viu",
+                "4": "https://streamhub.ink/6k3mdkcjfyrj"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/13xvlqvb7w1l",
+                "2": "https://uploadraja.com/dj494emmrvxj",
+                "3": "https://uploadraja.com/boc4zy10xc5c",
+                "4": "https://uploadraja.com/e2wtnx6mto8y"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/The%20Freelancer%20S01E01%2019133%201.mkv",
+                "2": "https://srs.aapkipooja.com/The%20Freelancer%20S01E02%2019133%202.mkv",
+                "3": "https://srs.aapkipooja.com/The%20Freelancer%20S01E03%2019133%203.mkv",
+                "4": "https://srs.aapkipooja.com/The%20Freelancer%20S01E04%2019133%204.mkv"
             }
         }
     ]
