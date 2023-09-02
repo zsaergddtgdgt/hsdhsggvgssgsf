@@ -1,6 +1,47 @@
 {
     "AllMovieDataList": [
-    
+    {
+            "id": "3426",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Kushi%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Kushi%20(2023).jpg",
+            "movieName": "Kushi (2023)",
+            "htmlFile": "https://www.13426",
+            "directOne": "Hindi+Telugu",
+            "directSecond": "giRSsdSJCf8",
+            "rating": "HDCamRip",
+            "catergory": "Romance,Drama",
+            "Industry": "South",
+            "hub": "https://streamhub.ink/k5vkpzjb452a",
+            "tape": "https://streamtape.site/v/egZQOGdBDKUj0j/Kushi_%282023%29_13426.mkv.mp4",
+            "server3": "http://mvs.aapkipooja.com/720p/Kushi%20(2023)%2013426.mkv",
+            "server4": "https://uploadraja.com/1exremawfoga",
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.ink/6hsvk1tv1azf",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.aapkipooja.com/480p/Kushi%20(2023)%2013426.mkv",
+            "480pS4": "https://uploadraja.com/c0cg1phid1jb"
+        },
+    {
+            "id": "3425",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Love-All%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Love-All%20(2023).jpg",
+            "movieName": "Love-All (2023)",
+            "htmlFile": "https://www.13425",
+            "directOne": "Hindi",
+            "directSecond": "IleX8QX5Uyw",
+            "rating": "HDCamRip",
+            "catergory": "Sports,Drama",
+            "Industry": "Bollywood",
+            "hub": "https://streamhub.ink/l7hrps26lyib",
+            "tape": "https://streamtape.site/v/jOPMd21r0pS2ol/Love-All_%282023%29_13425.mkv.mp4",
+            "server3": "http://mvs.aapkipooja.com/720p/Love-All%20(2023)%2013425.mkv",
+            "server4": "https://uploadraja.com/4g7s4yk8ji04",
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.ink/44mb7o07w1pt",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.aapkipooja.com/480p/Love-All%20(2023)%2013425.mkv",
+            "480pS4": "https://uploadraja.com/4d2ma8rg5xpv"
+        },
         {
             "id": "3421",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/The%20Equalizer%203%20(2023).jpg",
