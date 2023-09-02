@@ -48617,49 +48617,6 @@
             }
         },
         {
-            "id": "1114",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Fuh%20se%20Fantasy%20Season%202.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Fuh%20se%20Fantasy%20Season%202.jpg",
-            "movieName": "Fuh se Fantasy Season 2",
-            "htmlFile": "https://www.19114",
-            "directOne": "Adult,Romance",
-            "directSecond": "b1Ukfb5MOOw",
-            "imbd": "9.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Fuh se Fantasy",
-            "pathName": "S2",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/mYXbQerj3jHbKor/Fuh_se_Fantasy_S02E01_19114_1.mkv.mp4",
-                "2": "https://streamtape.site/v/4GLmgvjDXYFKAdv/Fuh_se_Fantasy_S02E02_19114_2.mkv.mp4",
-                "3": "https://streamtape.site/v/eVmedXolK4TYq9y/Fuh_se_Fantasy_S02E03_19114_3.mkv.mp4",
-                "4": "https://streamtape.site/v/7bW2qvBqQQHVRe/Fuh_se_Fantasy_S02E04_19114_4.mkv.mp4",
-                "5": "https://streamtape.site/v/ZDBMk4JXqrCyWy/Fuh_se_Fantasy_S02E05_19114_5.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/ipkjwyzsll2e",
-                "2": "https://streamhub.ink/kuoysnurkg8m",
-                "3": "https://streamhub.ink/s73voy79vw8z",
-                "4": "https://streamhub.ink/eak6wafkzlhj",
-                "5": "https://streamhub.ink/jf1gfcalwyhp"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/doa0orfac1bz",
-                "2": "https://uploadraja.com/nslrb7cyl0mg",
-                "3": "https://uploadraja.com/u4btccrcei9m",
-                "4": "https://uploadraja.com/mczm3aqvuwaz",
-                "5": "https://uploadraja.com/qm5ls98zeehe"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E01%2019114%201.mkv",
-                "2": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E02%2019114%202.mkv",
-                "3": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E03%2019114%203.mkv",
-                "4": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E04%2019114%204.mkv",
-                "5": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E05%2019114%205.mkv"
-            }
-        },
-        {
             "id": "1131",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/One%20Piece%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/One%20Piece%20Season%201.jpg",
@@ -48747,6 +48704,53 @@
                 "1": "http://srs.aapkipooja.com/Aakhri%20Sach%20S01E01%2019126%201.mkv",
                 "2": "http://srs.aapkipooja.com/Aakhri%20Sach%20S01E02%2019126%202.mkv",
                 "3": "http://srs.aapkipooja.com/Aakhri%20Sach%20S01E03%2019126%203.mkv"
+            }
+        },
+        {
+            "id": "1114",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Fuh%20se%20Fantasy%20Season%202.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Fuh%20se%20Fantasy%20Season%202.jpg",
+            "movieName": "Fuh se Fantasy Season 2",
+            "htmlFile": "https://www.19114",
+            "directOne": "Adult,Romance",
+            "directSecond": "b1Ukfb5MOOw",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Fuh se Fantasy",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/mYXbQerj3jHbKor/Fuh_se_Fantasy_S02E01_19114_1.mkv.mp4",
+                "2": "https://streamtape.site/v/4GLmgvjDXYFKAdv/Fuh_se_Fantasy_S02E02_19114_2.mkv.mp4",
+                "3": "https://streamtape.site/v/eVmedXolK4TYq9y/Fuh_se_Fantasy_S02E03_19114_3.mkv.mp4",
+                "4": "https://streamtape.site/v/7bW2qvBqQQHVRe/Fuh_se_Fantasy_S02E04_19114_4.mkv.mp4",
+                "5": "https://streamtape.site/v/ZDBMk4JXqrCyWy/Fuh_se_Fantasy_S02E05_19114_5.mkv.mp4",
+                "6": "https://streamtape.site/v/y2RGeJjMovF1Pjo/Fuh_se_Fantasy_S02E06_19114_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/ipkjwyzsll2e",
+                "2": "https://streamhub.ink/kuoysnurkg8m",
+                "3": "https://streamhub.ink/s73voy79vw8z",
+                "4": "https://streamhub.ink/eak6wafkzlhj",
+                "5": "https://streamhub.ink/jf1gfcalwyhp",
+                "6": "https://streamhub.ink/4ettp8fp2pgl"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/doa0orfac1bz",
+                "2": "https://uploadraja.com/nslrb7cyl0mg",
+                "3": "https://uploadraja.com/u4btccrcei9m",
+                "4": "https://uploadraja.com/mczm3aqvuwaz",
+                "5": "https://uploadraja.com/qm5ls98zeehe",
+                "6": "https://uploadraja.com/dunbiy34sa3h"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E01%2019114%201.mkv",
+                "2": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E02%2019114%202.mkv",
+                "3": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E03%2019114%203.mkv",
+                "4": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E04%2019114%204.mkv",
+                "5": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E05%2019114%205.mkv",
+                "6": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E06%2019114%206.mkv"
             }
         },
         {
@@ -48864,6 +48868,61 @@
                 "1": "https://srs.aapkipooja.com/The%20Wheel%20of%20Time%20S02E01%2019134%201.mkv",
                 "2": "https://srs.aapkipooja.com/The%20Wheel%20of%20Time%20S02E02%2019134%202.mkv",
                 "3": "https://srs.aapkipooja.com/The%20Wheel%20of%20Time%20S02E03%2019134%203.mkv"
+            }
+        },
+        {
+            "id": "1135",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Leaked%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Leaked%20Season%201.jpg",
+            "movieName": "Leaked Season 1",
+            "htmlFile": "https://www.19135",
+            "directOne": "Thriller",
+            "directSecond": "FALSE",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Leaked",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/2Pw8bY3bB7CZrJe/Leaked_S01E01_19135_1.mkv.mp4",
+                "2": "https://streamtape.site/v/Gv7yJVoL0wc1M2P/Leaked_S01E02_19135_2.mkv.mp4",
+                "3": "https://streamtape.site/v/92zBa0AqRQIa3v4/Leaked_S01E03_19135_3.mkv.mp4",
+                "4": "https://streamtape.site/v/lwXjeJQZPqFB3R/Leaked_S01E04_19135_4.mkv.mp4",
+                "5": "https://streamtape.site/v/D9YXgaArvaikyOV/Leaked_S01E05_19135_5.mkv.mp4",
+                "6": "https://streamtape.site/v/gYvWX0XaL7UY8k/Leaked_S01E06_19135_6.mkv.mp4",
+                "7": "https://streamtape.site/v/jkG64G0l8wFzKeZ/Leaked_S01E07_19135_7.mkv.mp4",
+                "8": "https://streamtape.site/v/7kVx3x4v14IAla1/Leaked_S01E08_19135_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/hhak1rnq03vg",
+                "2": "https://streamhub.ink/u1cig9g3vc0y",
+                "3": "https://streamhub.ink/vq59ag7hznf6",
+                "4": "https://streamhub.ink/ohde1d0mgv10",
+                "5": "https://streamhub.ink/yymmlddgi610",
+                "6": "https://streamhub.ink/zgx2w1u792dg",
+                "7": "https://streamhub.ink/vx8rwtnqq9l4",
+                "8": "https://streamhub.ink/q9vlhvm406bl"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/4wp0n314x090",
+                "2": "https://uploadraja.com/t1ibt817yg1p",
+                "3": "https://uploadraja.com/91wz2v1405dq",
+                "4": "https://uploadraja.com/zl3v57r1bkq3",
+                "5": "https://uploadraja.com/o41qdafomo2q",
+                "6": "https://uploadraja.com/5bp9typcv8wl",
+                "7": "https://uploadraja.com/na5pwdtk7t1v",
+                "8": "https://uploadraja.com/ac1fodyvwby0"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Leaked%20S01E01%2019135%201.mkv",
+                "2": "https://srs.aapkipooja.com/Leaked%20S01E02%2019135%202.mkv",
+                "3": "https://srs.aapkipooja.com/Leaked%20S01E03%2019135%203.mkv",
+                "4": "https://srs.aapkipooja.com/Leaked%20S01E04%2019135%204.mkv",
+                "5": "https://srs.aapkipooja.com/Leaked%20S01E05%2019135%205.mkv",
+                "6": "https://srs.aapkipooja.com/Leaked%20S01E06%2019135%206.mkv",
+                "7": "https://srs.aapkipooja.com/Leaked%20S01E07%2019135%207.mkv",
+                "8": "https://srs.aapkipooja.com/Leaked%20S01E08%2019135%208.mkv"
             }
         }
     ]
