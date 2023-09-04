@@ -30,6 +30,18 @@
         "genre": "Bengali"
     },
     {
+        "id": "8",
+        "name": "Gujarati",
+        "image": "https://ereviewwala.com/Poster/Category/nw/GR.png",
+        "genre": "Gujarati"
+    },
+    {
+        "id": "9",
+        "name": "Marathi",
+        "image": "https://ereviewwala.com/Poster/Category/nw/MR.png",
+        "genre": "Marathi"
+    },
+    {
         "id": "5",
         "name": "Adult",
         "image": "https://ereviewwala.com/Poster/Category/nw/AD.png",
