@@ -1,5 +1,27 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "3308",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Barbie%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Barbie%20(2023).jpg",
+            "movieName": "Barbie (2023)",
+            "htmlFile": "https://www.3308",
+            "directOne": "Hindi[HQ DUB]+English",
+            "directSecond": "pBk4NYhWNMM",
+            "rating": "HD",
+            "catergory": "Adventure,Comedy",
+            "Industry": "Hollywood",
+            "hub": "https://streamhub.ink/c1pzm7aw8ctx",
+            "tape": "https://streamtape.site/v/oMYmkqVKqGUbVR/Barbie_%282023%29_3308.mkv.mp4",
+            "server3": "http://mvs.aapkipooja.com/720p/Barbie%20(2023)%203308.mkv",
+            "server4": "https://uploadraja.com/jbsx2bwvft8h",
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.ink/1rmxp3m446pj",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.aapkipooja.com/480p/Barbie%20(2023)%203308.mkv",
+            "480pS4": "https://uploadraja.com/abgal5a14p2x"
+        },
     {
             "id": "3426",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Kushi%20(2023).jpg",
@@ -125,6 +147,27 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.aapkipooja.com/480p/Jawan%20(2023)%2013418.mkv",
             "480pS4": "https://uploadraja.com/mp0jaag89dlm"
+        },
+        {
+            "id": "3429",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Yeh%20Shaadi%20Nahi%20Ho%20Sakti%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Yeh%20Shaadi%20Nahi%20Ho%20Sakti%20(2023).jpg",
+            "movieName": "Yeh Shaadi Nahi Ho Sakti (2023)",
+            "htmlFile": "https://www.3429",
+            "directOne": "Hindi",
+            "directSecond": "_0PRhXy__K0",
+            "rating": "HD",
+            "catergory": "Comedy,Drama",
+            "Industry": "Bollywood",
+            "hub": "https://streamhub.ink/h4vxn49dnh24",
+            "tape": "https://streamtape.site/v/16jVA803JbTeP27/Yeh_Shaadi_Nahi_Ho_Sakti_%282023%29_3429.mkv.mp4",
+            "server3": "http://mvs.aapkipooja.com/720p/Yeh%20Shaadi%20Nahi%20Ho%20Sakti%20(2023)%203429.mkv",
+            "server4": "https://uploadraja.com/sg3853yqfj0o",
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.ink/wpgfi72fpdhz",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.aapkipooja.com/480p/Yeh%20Shaadi%20Nahi%20Ho%20Sakti%20(2023)%203429.mkv",
+            "480pS4": "https://uploadraja.com/6d29zxm6bde5"
         },
         {
             "id": "3424",
@@ -2435,27 +2478,6 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.aapkipooja.com/480p/Rocky%20Aur%20Rani%20Kii%20Prem%20Kahaani%20(2023)%203324.mkv",
             "480pS4": "https://uploadraja.com/5hufocy0tata"
-        },
-        {
-            "id": "3308",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Barbie%20(2023).jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Barbie%20(2023).jpg",
-            "movieName": "Barbie (2023)",
-            "htmlFile": "https://www.3308",
-            "directOne": "Hindi[HQ DUB]+English",
-            "directSecond": "pBk4NYhWNMM",
-            "rating": "CamRip",
-            "catergory": "Adventure,Comedy",
-            "Industry": "Hollywood",
-            "hub": "https://streamhub.ink/pek24qhgw4j9",
-            "tape": "https://streamtape.site/v/4z976JKjopiKMV2/Barbie_%282023%29_3308.mkv.mp4",
-            "server3": "http://mvs.aapkipooja.com/720p/Barbie%20(2023)%203308.mkv",
-            "server4": "https://uploadraja.com/u2ekeg3x0d04",
-            "480p": "TRUE",
-            "480pS1": "https://streamhub.ink/9pjtc41eqjsl",
-            "480pS2": "FALSE",
-            "480pS3": "http://mvs.aapkipooja.com/480p/Barbie%20(2023)%203308.mkv",
-            "480pS4": "https://uploadraja.com/sndnrtvzdm5z"
         },
         {
             "id": "3185",
