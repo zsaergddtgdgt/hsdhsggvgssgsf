@@ -48441,49 +48441,6 @@
             }
         },
         {
-            "id": "1120",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Lakhan%20Leela%20Bhargava%20Season%201.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Lakhan%20Leela%20Bhargava%20Season%201.jpg",
-            "movieName": "Lakhan Leela Bhargava Season 1",
-            "htmlFile": "https://www.19120",
-            "directOne": "Drama",
-            "directSecond": "QWEqWr9YBok",
-            "imbd": "9.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Lakhan Leela Bhargava",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/J0wgpMJe22fjkkk/Lakhan_Leela_Bhargava_S01E01_19120_1.mkv.mp4",
-                "2": "https://streamtape.site/v/R4plLwKWZ2UdGRZ/Lakhan_Leela_Bhargava_S01E02_19120_2.mkv.mp4",
-                "3": "https://streamtape.site/v/3JVvgAVO19TdPqV/Lakhan_Leela_Bhargava_S01E03_19120_3.mkv.mp4",
-                "4": "https://streamtape.site/v/2DQbrAj0m3HZ4LR/Lakhan_Leela_Bhargava_S01E04_19120_4.mkv.mp4",
-                "5": "https://streamtape.site/v/gjmBQJp7y7CqpbG/Lakhan_Leela_Bhargava_S01E05_19120_5.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/5lmikg5ktfi4",
-                "2": "https://streamhub.ink/6ovl17bgp9ss",
-                "3": "https://streamhub.ink/vgi0yez449ay",
-                "4": "https://streamhub.ink/2oepu095ea4a",
-                "5": "https://streamhub.ink/fnbhahlkvp98"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/43axu6ap4fx2",
-                "2": "https://uploadraja.com/r36pwaajypna",
-                "3": "https://uploadraja.com/g2o415v9icqb",
-                "4": "https://uploadraja.com/xn00xaahx6z1",
-                "5": "https://uploadraja.com/f3ktvubqd4e4"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E01%2019120%201.mkv",
-                "2": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E02%2019120%202.mkv",
-                "3": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E03%2019120%203.mkv",
-                "4": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E04%2019120%204.mkv",
-                "5": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E05%2019120%205.mkv"
-            }
-        },
-        {
             "id": "1130",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Live%20to%20100%20-%20Secrets%20of%20the%20Blue%20Zones%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Live%20to%20100%20-%20Secrets%20of%20the%20Blue%20Zones%20Season%201.jpg",
@@ -48756,6 +48713,111 @@
                 "4": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E04%2019114%204.mkv",
                 "5": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E05%2019114%205.mkv",
                 "6": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E06%2019114%206.mkv"
+            }
+        },
+        {
+            "id": "1120",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Lakhan%20Leela%20Bhargava%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Lakhan%20Leela%20Bhargava%20Season%201.jpg",
+            "movieName": "Lakhan Leela Bhargava Season 1",
+            "htmlFile": "https://www.19120",
+            "directOne": "Drama",
+            "directSecond": "QWEqWr9YBok",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Lakhan Leela Bhargava",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/J0wgpMJe22fjkkk/Lakhan_Leela_Bhargava_S01E01_19120_1.mkv.mp4",
+                "2": "https://streamtape.site/v/R4plLwKWZ2UdGRZ/Lakhan_Leela_Bhargava_S01E02_19120_2.mkv.mp4",
+                "3": "https://streamtape.site/v/3JVvgAVO19TdPqV/Lakhan_Leela_Bhargava_S01E03_19120_3.mkv.mp4",
+                "4": "https://streamtape.site/v/2DQbrAj0m3HZ4LR/Lakhan_Leela_Bhargava_S01E04_19120_4.mkv.mp4",
+                "5": "https://streamtape.site/v/gjmBQJp7y7CqpbG/Lakhan_Leela_Bhargava_S01E05_19120_5.mkv.mp4",
+                "6": "https://streamtape.site/v/KZmlerQvzGf0QZ2/Lakhan_Leela_Bhargava_S01E06_19120_6.mkv.mp4",
+                "7": "https://streamtape.site/v/W6B2WQzYyLSb9zJ/Lakhan_Leela_Bhargava_S01E07_19120_7.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/5lmikg5ktfi4",
+                "2": "https://streamhub.ink/6ovl17bgp9ss",
+                "3": "https://streamhub.ink/vgi0yez449ay",
+                "4": "https://streamhub.ink/2oepu095ea4a",
+                "5": "https://streamhub.ink/fnbhahlkvp98",
+                "6": "https://streamhub.ink/bhbbrag6b2ic",
+                "7": "https://streamhub.ink/hrla9sd7tp0i"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/43axu6ap4fx2",
+                "2": "https://uploadraja.com/r36pwaajypna",
+                "3": "https://uploadraja.com/g2o415v9icqb",
+                "4": "https://uploadraja.com/xn00xaahx6z1",
+                "5": "https://uploadraja.com/f3ktvubqd4e4",
+                "6": "https://uploadraja.com/0lyeqct36ds2",
+                "7": "https://uploadraja.com/0mx9rxd5n90r"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E01%2019120%201.mkv",
+                "2": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E02%2019120%202.mkv",
+                "3": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E03%2019120%203.mkv",
+                "4": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E04%2019120%204.mkv",
+                "5": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E05%2019120%205.mkv",
+                "6": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E06%2019120%206.mkv",
+                "7": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E07%2019120%207.mkv"
+            }
+        },
+        {
+            "id": "1137",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Talaq%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Talaq%20Season%201.jpg",
+            "movieName": "Talaq Season 1",
+            "htmlFile": "https://www.19137",
+            "directOne": "Drama",
+            "directSecond": "z5kfJe8B9A8",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Talaq",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/q7v96Kr84Aiz8jz/Talaq_S01_Complete_19137_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/omvnj9hpd5zo"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/993ts7l2i39d"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Talaq%20S01%20Complete%2019137%201.mkv"
+            }
+        },
+        {
+            "id": "1136",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Pilkunj%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Pilkunj%20Season%201.jpg",
+            "movieName": "Pilkunj Season 1",
+            "htmlFile": "https://www.19136",
+            "directOne": "Crime,Thriller",
+            "directSecond": "DqicWadP_1M",
+            "imbd": "9.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Pilkunj",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/7jlyLkDB7DFoAW/Pilkunj_S01_Complete_19136_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/31862cqcsm4h"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/d1akwsgh5w5s"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Pilkunj%20S01%20Complete%2019136%201.mkv"
             }
         },
         {
