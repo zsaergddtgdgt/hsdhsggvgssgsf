@@ -1,6 +1,28 @@
 {
     "AllMovieDataList": [
     
+    {
+            "id": "3418",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Jawan%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Jawan%20(2023).jpg",
+            "movieName": "Jawan (2023)",
+            "htmlFile": "https://www.13418",
+            "directOne": "Hindi",
+            "directSecond": "COv52Qyctws",
+            "rating": "HDCamRip",
+            "catergory": "Action,Thriller",
+            "Industry": "Bollywood",
+            "hub": "https://streamhub.ink/cwnrjb3awuh5",
+            "tape": "https://streamtape.site/v/aqX41XPgB3Fx8x0/Jawan_%282023%29_13418.mkv.mp4",
+            "server3": "http://mvs.aapkipooja.com/720p/Jawan%20(2023)%2013418.mkv",
+            "server4": "https://uploadraja.com/omzq0x7mxr1p",
+            "480p": "FALSE",
+            "480pS1": "https://streamhub.ink/0vs03ysfu51f",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.aapkipooja.com/480p/Jawan%20(2023)%2013418.mkv",
+            "480pS4": "https://uploadraja.com/fq7d92vz2zax"
+        },
+    
         {
             "id": "3308",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Barbie%20(2023).jpg",
@@ -126,27 +148,6 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.aapkipooja.com/480p/Friday%20Night%20Plan%20(2023)%2013423.mkv",
             "480pS4": "https://uploadraja.com/82u8xektvyit"
-        },
-    {
-            "id": "3418",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Jawan%20(2023).jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Jawan%20(2023).jpg",
-            "movieName": "Trailer - Jawan (2023)",
-            "htmlFile": "https://www.13418",
-            "directOne": "Hindi",
-            "directSecond": "FALSE",
-            "rating": "HD",
-            "catergory": "Action,Thriller",
-            "Industry": "Bollywood",
-            "hub": "https://streamhub.ink/yrwssg16tboa",
-            "tape": "https://streamtape.site/v/oLboOAxKL3ixGy/Jawan_%282023%29_13418.mp4",
-            "server3": "https://mvs.aapkipooja.com/720p/Jawan%20(2023)%2013418.mp4",
-            "server4": "https://uploadraja.com/48vreahdchuq",
-            "480p": "FALSE",
-            "480pS1": "https://streamhub.ink/57x0py66hcf7",
-            "480pS2": "FALSE",
-            "480pS3": "http://mvs.aapkipooja.com/480p/Jawan%20(2023)%2013418.mkv",
-            "480pS4": "https://uploadraja.com/mp0jaag89dlm"
         },
         {
             "id": "3429",
