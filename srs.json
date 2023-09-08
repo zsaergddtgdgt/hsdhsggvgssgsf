@@ -48320,45 +48320,6 @@
             }
         },
         {
-            "id": "1118",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Harlan%20Coben%E2%80%99s%20Shelter%20Season%201.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Harlan%20Coben%E2%80%99s%20Shelter%20Season%201.jpg",
-            "movieName": "Harlan Coben’s Shelter Season 1",
-            "htmlFile": "https://www.19118",
-            "directOne": "Mystery,Crime",
-            "directSecond": "EHGWxugpNII",
-            "imbd": "9.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Harlan Coben’s Shelter",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.cc/v/QwKdraXd8LhkxA/Harlan_Coben%E2%80%99s_Shelter_S01E01_19118_1.mkv.mp4",
-                "2": "https://streamtape.cc/v/0d8p8jGp2wcbyzG/Harlan_Coben%E2%80%99s_Shelter_S01E02_19118_2.mkv.mp4",
-                "3": "https://streamtape.cc/v/rK4Z088YM0HGlO/Harlan_Coben%E2%80%99s_Shelter_S01E03_19118_3.mkv.mp4",
-                "4": "https://streamtape.site/v/ykRwjQVRaOh1106/Harlan_Coben%E2%80%99s_Shelter_S01E04_19118_4.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/5sdyghxgikk3",
-                "2": "https://streamhub.ink/adgo0obd1c0b",
-                "3": "https://streamhub.ink/tgnrvjte5die",
-                "4": "https://streamhub.ink/nbo9d8pf9x44"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/1h0meup81biq",
-                "2": "https://uploadraja.com/fecsutq493by",
-                "3": "https://uploadraja.com/yqp35ricxksr",
-                "4": "https://uploadraja.com/hm9ebiocbh85"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Harlan%20Coben%E2%80%99s%20Shelter%20S01E01%2019118%201.mkv",
-                "2": "http://srs.aapkipooja.com/Harlan%20Coben%E2%80%99s%20Shelter%20S01E02%2019118%202.mkv",
-                "3": "http://srs.aapkipooja.com/Harlan%20Coben%E2%80%99s%20Shelter%20S01E03%2019118%203.mkv",
-                "4": "http://srs.aapkipooja.com/Harlan%20Coben%E2%80%99s%20Shelter%20S01E04%2019118%204.mkv"
-            }
-        },
-        {
             "id": "1099",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/The%20Lost%20Flowers%20Of%20Alice%20Hart%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/The%20Lost%20Flowers%20Of%20Alice%20Hart%20Season%201.jpg",
@@ -48750,41 +48711,6 @@
             }
         },
         {
-            "id": "1134",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/The%20Wheel%20of%20Time%20Season%202.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/The%20Wheel%20of%20Time%20Season%202.jpg",
-            "movieName": "The Wheel of Time Season 2",
-            "htmlFile": "https://www.19134",
-            "directOne": "Action,Adventure",
-            "directSecond": "-VA4Vi6TYLg",
-            "imbd": "9.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "The Wheel of Time",
-            "pathName": "S2",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/D49lDx7jy1skkv2/The_Wheel_of_Time_S02E01_19134_1.mkv.mp4",
-                "2": "https://streamtape.site/v/wGkWVK0RM2CJ9wM/The_Wheel_of_Time_S02E02_19134_2.mkv.mp4",
-                "3": "https://streamtape.site/v/r2wdVRXO6eH8lD/The_Wheel_of_Time_S02E03_19134_3.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/33gnl75ax6t5",
-                "2": "https://streamhub.ink/leeymzojya38",
-                "3": "https://streamhub.ink/bevfvv7k2ymb"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/tz3ggh6dsf9a",
-                "2": "https://uploadraja.com/oirvbqygk687",
-                "3": "https://uploadraja.com/4cidzl02ywct"
-            },
-            "episodeServer4": {
-                "1": "https://srs.aapkipooja.com/The%20Wheel%20of%20Time%20S02E01%2019134%201.mkv",
-                "2": "https://srs.aapkipooja.com/The%20Wheel%20of%20Time%20S02E02%2019134%202.mkv",
-                "3": "https://srs.aapkipooja.com/The%20Wheel%20of%20Time%20S02E03%2019134%203.mkv"
-            }
-        },
-        {
             "id": "1129",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Breaking%20Bad%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Breaking%20Bad%20Season%201.jpg",
@@ -48891,6 +48817,53 @@
             }
         },
         {
+            "id": "1118",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Harlan%20Coben%E2%80%99s%20Shelter%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Harlan%20Coben%E2%80%99s%20Shelter%20Season%201.jpg",
+            "movieName": "Harlan Coben’s Shelter Season 1",
+            "htmlFile": "https://www.19118",
+            "directOne": "Mystery,Crime",
+            "directSecond": "EHGWxugpNII",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Harlan Coben’s Shelter",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.cc/v/QwKdraXd8LhkxA/Harlan_Coben%E2%80%99s_Shelter_S01E01_19118_1.mkv.mp4",
+                "2": "https://streamtape.cc/v/0d8p8jGp2wcbyzG/Harlan_Coben%E2%80%99s_Shelter_S01E02_19118_2.mkv.mp4",
+                "3": "https://streamtape.cc/v/rK4Z088YM0HGlO/Harlan_Coben%E2%80%99s_Shelter_S01E03_19118_3.mkv.mp4",
+                "4": "https://streamtape.site/v/ykRwjQVRaOh1106/Harlan_Coben%E2%80%99s_Shelter_S01E04_19118_4.mkv.mp4",
+                "5": "https://streamtape.site/v/DQQ1yvpRkaS628/Harlan_Coben%E2%80%99s_Shelter_S01E05_19118_5.mkv.mp4",
+                "6": "https://streamtape.site/v/vLgAZeg1ypcB9Y/Harlan_Coben%E2%80%99s_Shelter_S01E06_19118_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/5sdyghxgikk3",
+                "2": "https://streamhub.ink/adgo0obd1c0b",
+                "3": "https://streamhub.ink/tgnrvjte5die",
+                "4": "https://streamhub.ink/nbo9d8pf9x44",
+                "5": "https://streamhub.ink/e2c6jdqxg00i",
+                "6": "https://streamhub.ink/rmdazfyoxsmb"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/1h0meup81biq",
+                "2": "https://uploadraja.com/fecsutq493by",
+                "3": "https://uploadraja.com/yqp35ricxksr",
+                "4": "https://uploadraja.com/hm9ebiocbh85",
+                "5": "https://uploadraja.com/lpkeh265hsug",
+                "6": "https://uploadraja.com/95ofnna7dvzz"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Harlan%20Coben%E2%80%99s%20Shelter%20S01E01%2019118%201.mkv",
+                "2": "http://srs.aapkipooja.com/Harlan%20Coben%E2%80%99s%20Shelter%20S01E02%2019118%202.mkv",
+                "3": "http://srs.aapkipooja.com/Harlan%20Coben%E2%80%99s%20Shelter%20S01E03%2019118%203.mkv",
+                "4": "http://srs.aapkipooja.com/Harlan%20Coben%E2%80%99s%20Shelter%20S01E04%2019118%204.mkv",
+                "5": "http://srs.aapkipooja.com/Harlan%20Coben%E2%80%99s%20Shelter%20S01E05%2019118%205.mkv",
+                "6": "http://srs.aapkipooja.com/Harlan%20Coben%E2%80%99s%20Shelter%20S01E06%2019118%206.mkv"
+            }
+        },
+        {
             "id": "1114",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Fuh%20se%20Fantasy%20Season%202.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Fuh%20se%20Fantasy%20Season%202.jpg",
@@ -48985,33 +48958,6 @@
             }
         },
         {
-            "id": "1138",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Breaking%20Bad%20Season%202.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Breaking%20Bad%20Season%202.jpg",
-            "movieName": "Breaking Bad Season 2",
-            "htmlFile": "https://www.19138",
-            "directOne": "Crime,Thriller",
-            "directSecond": "I-8914DuyhY",
-            "imbd": "9.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Breaking Bad",
-            "pathName": "S2",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/zkr210L9XyiYzL3/Breaking_Bad_S02E01_19138_1.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/4vvfsb7jn81a"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/dvjmjmdr6iqj"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E01%2019138%201.mkv"
-            }
-        },
-        {
             "id": "1126",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Aakhri%20Sach%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Aakhri%20Sach%20Season%201.jpg",
@@ -49048,6 +48994,76 @@
                 "2": "http://srs.aapkipooja.com/Aakhri%20Sach%20S01E02%2019126%202.mkv",
                 "3": "http://srs.aapkipooja.com/Aakhri%20Sach%20S01E03%2019126%203.mkv",
                 "4": "http://srs.aapkipooja.com/Aakhri%20Sach%20S01E04%2019126%204.mkv"
+            }
+        },
+        {
+            "id": "1134",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/The%20Wheel%20of%20Time%20Season%202.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/The%20Wheel%20of%20Time%20Season%202.jpg",
+            "movieName": "The Wheel of Time Season 2",
+            "htmlFile": "https://www.19134",
+            "directOne": "Action,Adventure",
+            "directSecond": "-VA4Vi6TYLg",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Wheel of Time",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/D49lDx7jy1skkv2/The_Wheel_of_Time_S02E01_19134_1.mkv.mp4",
+                "2": "https://streamtape.site/v/wGkWVK0RM2CJ9wM/The_Wheel_of_Time_S02E02_19134_2.mkv.mp4",
+                "3": "https://streamtape.site/v/r2wdVRXO6eH8lD/The_Wheel_of_Time_S02E03_19134_3.mkv.mp4",
+                "4": "https://streamtape.site/v/7dWLaM7rMdUAL2A/The_Wheel_of_Time_S02E04_19134_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/33gnl75ax6t5",
+                "2": "https://streamhub.ink/leeymzojya38",
+                "3": "https://streamhub.ink/bevfvv7k2ymb",
+                "4": "https://streamhub.ink/qs3tki9vew3w"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/tz3ggh6dsf9a",
+                "2": "https://uploadraja.com/oirvbqygk687",
+                "3": "https://uploadraja.com/4cidzl02ywct",
+                "4": "https://uploadraja.com/a6dh346gcecn"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/The%20Wheel%20of%20Time%20S02E01%2019134%201.mkv",
+                "2": "http://srs.aapkipooja.com/The%20Wheel%20of%20Time%20S02E02%2019134%202.mkv",
+                "3": "http://srs.aapkipooja.com/The%20Wheel%20of%20Time%20S02E03%2019134%203.mkv",
+                "4": "http://srs.aapkipooja.com/The%20Wheel%20of%20Time%20S02E04%2019134%204.mkv"
+            }
+        },
+        {
+            "id": "1138",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Breaking%20Bad%20Season%202.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Breaking%20Bad%20Season%202.jpg",
+            "movieName": "Breaking Bad Season 2",
+            "htmlFile": "https://www.19138",
+            "directOne": "Crime,Thriller",
+            "directSecond": "I-8914DuyhY",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Breaking Bad",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/zkr210L9XyiYzL3/Breaking_Bad_S02E01_19138_1.mkv.mp4",
+                "2": "https://streamtape.site/v/6o3jxdMG6os9ymq/Breaking_Bad_S02E02_19138_2.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/4vvfsb7jn81a",
+                "2": "https://streamhub.ink/iar8mf7ylnsa"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/dvjmjmdr6iqj",
+                "2": "https://uploadraja.com/mgpo6nxvuhy7"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E01%2019138%201.mkv",
+                "2": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E02%2019138%202.mkv"
             }
         }
     ]
