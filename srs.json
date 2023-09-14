@@ -49785,6 +49785,61 @@
                 "9": "http://srs.aapkipooja.com/Bambai%20Meri%20Jaan%20S01E09%2019150%209.mkv",
                 "10": "http://srs.aapkipooja.com/Bambai%20Meri%20Jaan%20S01E10%2019150%2010.mkv"
             }
+        },
+        {
+            "id": "1152",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Kaala%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Kaala%20Season%201.jpg",
+            "movieName": "Kaala Season 1",
+            "htmlFile": "https://www.19152",
+            "directOne": "Crime,Thriller",
+            "directSecond": "j7kXbtmhxxc",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Kaala",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/7PMOjaGW9jfAz2M/Kaala_S01E01_19152_1.mkv.mp4",
+                "2": "https://streamtape.site/v/DoZj3k2RdVfk2eK/Kaala_S01E02_19152_2.mkv.mp4",
+                "3": "https://streamtape.site/v/Djelpr8BkdhVyx/Kaala_S01E03_19152_3.mkv.mp4",
+                "4": "https://streamtape.site/v/vxA8dKxM0jF4q1j/Kaala_S01E04_19152_4.mkv.mp4",
+                "5": "https://streamtape.site/v/ZJ48MVzXgvCKvv/Kaala_S01E05_19152_5.mkv.mp4",
+                "6": "https://streamtape.site/v/41dqA3VxZxUK4v3/Kaala_S01E06_19152_6.mkv.mp4",
+                "7": "https://streamtape.site/v/W3Ryb3eXpVub61g/Kaala_S01E07_19152_7.mkv.mp4",
+                "8": "https://streamtape.site/v/pV4ryg0W9Phrr2R/Kaala_S01E08_19152_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/pox54xf4xwmp",
+                "2": "https://streamhub.ink/6z5f3id1rrr6",
+                "3": "https://streamhub.ink/it9isazvj49f",
+                "4": "https://streamhub.ink/pavl13pb0nl0",
+                "5": "https://streamhub.ink/zqjbspx6tm4w",
+                "6": "https://streamhub.ink/onyup1fxcqrj",
+                "7": "https://streamhub.ink/j3bhjrp32gxu",
+                "8": "https://streamhub.ink/69ixdaj8w6ui"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/6ywms9kak6qa",
+                "2": "https://uploadraja.com/rglcw8u5s4rd",
+                "3": "https://uploadraja.com/zfdwp50kwp28",
+                "4": "https://uploadraja.com/qgdgxanma7l2",
+                "5": "https://uploadraja.com/39zepc41upk9",
+                "6": "https://uploadraja.com/qbd5dmubq514",
+                "7": "https://uploadraja.com/bt3vxi3sg85o",
+                "8": "https://uploadraja.com/0jftt9bnene9"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Kaala%20S01E01%2019152%201.mkv",
+                "2": "https://srs.aapkipooja.com/Kaala%20S01E02%2019152%202.mkv",
+                "3": "https://srs.aapkipooja.com/Kaala%20S01E03%2019152%203.mkv",
+                "4": "https://srs.aapkipooja.com/Kaala%20S01E04%2019152%204.mkv",
+                "5": "https://srs.aapkipooja.com/Kaala%20S01E05%2019152%205.mkv",
+                "6": "https://srs.aapkipooja.com/Kaala%20S01E06%2019152%206.mkv",
+                "7": "https://srs.aapkipooja.com/Kaala%20S01E07%2019152%207.mkv",
+                "8": "https://srs.aapkipooja.com/Kaala%20S01E08%2019152%208.mkv"
+            }
         }
     ]
 }
