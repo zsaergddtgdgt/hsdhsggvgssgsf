@@ -1,6 +1,27 @@
 {
     "AllMovieDataList": [
     
+       {
+            "id": "3385",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Bholaa%20Shankar%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Bholaa%20Shankar%20(2023).jpg",
+            "movieName": "Bholaa Shankar (2023)",
+            "htmlFile": "https://www.13385",
+            "directOne": "Hindi+Telugu",
+            "directSecond": "W2KHVb814p4",
+            "rating": "HD",
+            "catergory": "Action,Drama",
+            "Industry": "South",
+            "hub": "https://streamhub.ink/rv6w3q3kfamv",
+            "tape": "https://streamtape.site/v/AArMDM31bjuXoy9/Bholaa_Shankar_%282023%29_13385.mkv.mp4",
+            "server3": "http://mvs.aapkipooja.com/720p/Bholaa%20Shankar%20(2023)%2013385.mkv",
+            "server4": "https://uploadraja.com/ydjzjcdtm7ih",
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.ink/lmianmed1y3g",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.aapkipooja.com/480p/Bholaa%20Shankar%20(2023)%2013385.mkv",
+            "480pS4": "https://uploadraja.com/50u4sdqjvktb"
+        },
         {
             "id": "3143",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/RamaBanam%20(2023).jpg",
@@ -84,6 +105,27 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.aapkipooja.com/480p/Raaghu%20(2023)%2013443.mkv",
             "480pS4": "https://uploadraja.com/5lppcd06j27w"
+        },
+        {
+            "id": "3448",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Journey%20Of%20Love%2018%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Journey%20Of%20Love%2018%20(2023).jpg",
+            "movieName": "Journey Of Love 18 (2023)",
+            "htmlFile": "https://www.3448",
+            "directOne": "Hindi",
+            "directSecond": "L2NXbUIYY2M",
+            "rating": "HD",
+            "catergory": "Romance,Drama",
+            "Industry": "South",
+            "hub": "https://streamhub.ink/76o57eo055wj",
+            "tape": "https://streamtape.site/v/XPDQgRKxQJcD78Q/Journey_Of_Love_18_%282023%29_3448.mkv.mp4",
+            "server3": "http://mvs.aapkipooja.com/720p/Journey%20Of%20Love%2018%20(2023)%203448.mkv",
+            "server4": "https://uploadraja.com/apvga2xadxuy",
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.ink/e3pn8buttzjy",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.aapkipooja.com/480p/Journey%20Of%20Love%2018%20(2023)%203448.mkv",
+            "480pS4": "https://uploadraja.com/5zcmj9867164"
         },
         {
             "id": "3431",
@@ -1239,27 +1281,6 @@
             "480pS2": "FALSE",
             "480pS3": "https://mvs.aapkipooja.com/480p/Retribution%20(2023)%2013406.mkv",
             "480pS4": "https://uploadraja.com/ey0adm2vtqib"
-        },
-       {
-            "id": "3385",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Bholaa%20Shankar%20(2023).jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Bholaa%20Shankar%20(2023).jpg",
-            "movieName": "Bholaa Shankar (2023)",
-            "htmlFile": "https://www.13385",
-            "directOne": "Hindi HQ+Telugu",
-            "directSecond": "W2KHVb814p4",
-            "rating": "HDCamRip",
-            "catergory": "Action,Drama",
-            "Industry": "South",
-            "hub": "https://streamhub.ink/oo1r1q2ta2il",
-            "tape": "https://streamtape.site/v/eoMgOPjAxRsY1KG/Bholaa_Shankar_%282023%29_13385.mkv.mp4",
-            "server3": "http://mvs.aapkipooja.com/720p/Bholaa%20Shankar%20(2023)%2013385.mkv",
-            "server4": "https://uploadraja.com/8muy34ltkfhm",
-            "480p": "TRUE",
-            "480pS1": "https://streamhub.ink/htgmwdtn2fzq",
-            "480pS2": "FALSE",
-            "480pS3": "http://mvs.aapkipooja.com/480p/Bholaa%20Shankar%20(2023)%2013385.mkv",
-            "480pS4": "https://uploadraja.com/sqx3nvhwy3g4"
         },
         {
             "id": "3401",
