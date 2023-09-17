@@ -49327,65 +49327,6 @@
             }
         },
         {
-            "id": "1114",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Fuh%20se%20Fantasy%20Season%202.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Fuh%20se%20Fantasy%20Season%202.jpg",
-            "movieName": "Fuh se Fantasy Season 2",
-            "htmlFile": "https://www.19114",
-            "directOne": "Adult,Romance",
-            "directSecond": "b1Ukfb5MOOw",
-            "imbd": "9.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Fuh se Fantasy",
-            "pathName": "S2",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/mYXbQerj3jHbKor/Fuh_se_Fantasy_S02E01_19114_1.mkv.mp4",
-                "2": "https://streamtape.site/v/4GLmgvjDXYFKAdv/Fuh_se_Fantasy_S02E02_19114_2.mkv.mp4",
-                "3": "https://streamtape.site/v/eVmedXolK4TYq9y/Fuh_se_Fantasy_S02E03_19114_3.mkv.mp4",
-                "4": "https://streamtape.site/v/7bW2qvBqQQHVRe/Fuh_se_Fantasy_S02E04_19114_4.mkv.mp4",
-                "5": "https://streamtape.site/v/ZDBMk4JXqrCyWy/Fuh_se_Fantasy_S02E05_19114_5.mkv.mp4",
-                "6": "https://streamtape.site/v/y2RGeJjMovF1Pjo/Fuh_se_Fantasy_S02E06_19114_6.mkv.mp4",
-                "7": "https://streamtape.site/v/KeYxjllkekh0kPy/Fuh_se_Fantasy_S02E07_19114_7.mkv.mp4",
-                "8": "https://streamtape.site/v/XyO27RQaaRsDOgK/Fuh_se_Fantasy_S02E08_19114_8.mkv.mp4",
-                "9": "https://streamtape.site/v/XWd09xRX9wIDQJG/Fuh_se_Fantasy_S02E09_19114_9.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/ipkjwyzsll2e",
-                "2": "https://streamhub.ink/kuoysnurkg8m",
-                "3": "https://streamhub.ink/s73voy79vw8z",
-                "4": "https://streamhub.ink/eak6wafkzlhj",
-                "5": "https://streamhub.ink/jf1gfcalwyhp",
-                "6": "https://streamhub.ink/4ettp8fp2pgl",
-                "7": "https://streamhub.ink/iihjssjx2av8",
-                "8": "https://streamhub.ink/nodn2gkfezdo",
-                "9": "https://streamhub.ink/3t2cn74cxrm5"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/doa0orfac1bz",
-                "2": "https://uploadraja.com/nslrb7cyl0mg",
-                "3": "https://uploadraja.com/u4btccrcei9m",
-                "4": "https://uploadraja.com/mczm3aqvuwaz",
-                "5": "https://uploadraja.com/qm5ls98zeehe",
-                "6": "https://uploadraja.com/dunbiy34sa3h",
-                "7": "https://uploadraja.com/rhv7xbr5zqj7",
-                "8": "https://uploadraja.com/t70tw8phdte7",
-                "9": "https://uploadraja.com/q9gryqp95nrm"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E01%2019114%201.mkv",
-                "2": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E02%2019114%202.mkv",
-                "3": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E03%2019114%203.mkv",
-                "4": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E04%2019114%204.mkv",
-                "5": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E05%2019114%205.mkv",
-                "6": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E06%2019114%206.mkv",
-                "7": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E07%2019114%207.mkv",
-                "8": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E08%2019114%208.mkv",
-                "9": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E09%2019114%209.mkv"
-            }
-        },
-        {
             "id": "1121",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Ahsoka%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Ahsoka%20Season%201.jpg",
@@ -49545,57 +49486,6 @@
                 "4": "https://srs.aapkipooja.com/Thursday%E2%80%99s%20Widows%20S01E04%2019151%204.mkv",
                 "5": "https://srs.aapkipooja.com/Thursday%E2%80%99s%20Widows%20S01E05%2019151%205.mkv",
                 "6": "https://srs.aapkipooja.com/Thursday%E2%80%99s%20Widows%20S01E06%2019151%206.mkv"
-            }
-        },
-        {
-            "id": "1138",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Breaking%20Bad%20Season%202.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Breaking%20Bad%20Season%202.jpg",
-            "movieName": "Breaking Bad Season 2",
-            "htmlFile": "https://www.19138",
-            "directOne": "Crime,Thriller",
-            "directSecond": "I-8914DuyhY",
-            "imbd": "9.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Breaking Bad",
-            "pathName": "S2",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/zkr210L9XyiYzL3/Breaking_Bad_S02E01_19138_1.mkv.mp4",
-                "2": "https://streamtape.site/v/6o3jxdMG6os9ymq/Breaking_Bad_S02E02_19138_2.mkv.mp4",
-                "3": "https://streamtape.site/v/46QVqD82m7FKe3w/Breaking_Bad_S02E03_19138_3.mkv.mp4",
-                "4": "https://streamtape.site/v/9ljGRGrMrYsovj/Breaking_Bad_S02E04_19138_4.mkv.mp4",
-                "5": "https://streamtape.site/v/dRLLgzdmjQFgBa/Breaking_Bad_S02E05_19138_5.mkv.mp4",
-                "6": "https://streamtape.site/v/lA34bZ8Zj2C7PxY/Breaking_Bad_S02E06_19138_6.mkv.mp4",
-                "7": "https://streamtape.site/v/rlKpwpa0Rofb76p/Breaking_Bad_S02E07_19138_7.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/4vvfsb7jn81a",
-                "2": "https://streamhub.ink/iar8mf7ylnsa",
-                "3": "https://streamhub.ink/dxj3vz663cu6",
-                "4": "https://streamhub.ink/b2z9u8qygv9d",
-                "5": "https://streamhub.ink/lotq7jf6qmp6",
-                "6": "https://streamhub.ink/oadvl7cqiu7b",
-                "7": "https://streamhub.ink/cjnd026i86wl"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/dvjmjmdr6iqj",
-                "2": "https://uploadraja.com/mgpo6nxvuhy7",
-                "3": "https://uploadraja.com/6qbh3bss8fog",
-                "4": "https://uploadraja.com/7l7b1b6de5f6",
-                "5": "https://uploadraja.com/qfph23z1uvtb",
-                "6": "https://uploadraja.com/vry2mrsamd5z",
-                "7": "https://uploadraja.com/0o6f26ne36zk"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E01%2019138%201.mkv",
-                "2": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E02%2019138%202.mkv",
-                "3": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E03%2019138%203.mkv",
-                "4": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E04%2019138%204.mkv",
-                "5": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E05%2019138%205.mkv",
-                "6": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E06%2019138%206.mkv",
-                "7": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E07%2019138%207.mkv"
             }
         },
         {
@@ -49799,6 +49689,60 @@
             }
         },
         {
+            "id": "1155",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Lady%20Queen%20Gents%20Parlour%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Lady%20Queen%20Gents%20Parlour%20Season%201.jpg",
+            "movieName": "Lady Queen Gents Parlour Season 1",
+            "htmlFile": "https://www.19155",
+            "directOne": "Drama",
+            "directSecond": "TjjfN14PiGk",
+            "imbd": "9.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Lady Queen Gents Parlour",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/QKe7dBRDZoFJJM/Lady_Queen_Gents_Parlour_S01_Complete_19155_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/6bpfkm836cj2"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/rmfzp6mm4ul0"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Lady%20Queen%20Gents%20Parlour%20S01%20Complete%2019155%201.mkv"
+            }
+        },
+        {
+            "id": "1156",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/What%20The%20Fafda%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/What%20The%20Fafda%20Season%201.jpg",
+            "movieName": "What The Fafda Season 1",
+            "htmlFile": "https://www.19156",
+            "directOne": "Drama",
+            "directSecond": "OBgwfnz1Oug",
+            "imbd": "9.1",
+            "rating": "Gujarati",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "What The Fafda",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/lr4yDgxkobh71Je/What_The_Fafda_S01_Complete_19156_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/52o1gnztq9ml"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/dssqmrzv61yb"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/What%20The%20Fafda%20S01%20Complete%2019156%201.mkv"
+            }
+        },
+        {
             "id": "1154",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/MY3%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/MY3%20Season%201.jpg",
@@ -49870,6 +49814,124 @@
                 "4": "http://srs.aapkipooja.com/Wilderness%20S01E04%2019153%204.mkv",
                 "5": "http://srs.aapkipooja.com/Wilderness%20S01E05%2019153%205.mkv",
                 "6": "http://srs.aapkipooja.com/Wilderness%20S01E06%2019153%206.mkv"
+            }
+        },
+        {
+            "id": "1114",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Fuh%20se%20Fantasy%20Season%202.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Fuh%20se%20Fantasy%20Season%202.jpg",
+            "movieName": "Fuh se Fantasy Season 2",
+            "htmlFile": "https://www.19114",
+            "directOne": "Adult,Romance",
+            "directSecond": "b1Ukfb5MOOw",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Fuh se Fantasy",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/mYXbQerj3jHbKor/Fuh_se_Fantasy_S02E01_19114_1.mkv.mp4",
+                "2": "https://streamtape.site/v/4GLmgvjDXYFKAdv/Fuh_se_Fantasy_S02E02_19114_2.mkv.mp4",
+                "3": "https://streamtape.site/v/eVmedXolK4TYq9y/Fuh_se_Fantasy_S02E03_19114_3.mkv.mp4",
+                "4": "https://streamtape.site/v/7bW2qvBqQQHVRe/Fuh_se_Fantasy_S02E04_19114_4.mkv.mp4",
+                "5": "https://streamtape.site/v/ZDBMk4JXqrCyWy/Fuh_se_Fantasy_S02E05_19114_5.mkv.mp4",
+                "6": "https://streamtape.site/v/y2RGeJjMovF1Pjo/Fuh_se_Fantasy_S02E06_19114_6.mkv.mp4",
+                "7": "https://streamtape.site/v/KeYxjllkekh0kPy/Fuh_se_Fantasy_S02E07_19114_7.mkv.mp4",
+                "8": "https://streamtape.site/v/XyO27RQaaRsDOgK/Fuh_se_Fantasy_S02E08_19114_8.mkv.mp4",
+                "9": "https://streamtape.site/v/XWd09xRX9wIDQJG/Fuh_se_Fantasy_S02E09_19114_9.mkv.mp4",
+                "10": "https://streamtape.site/v/ad9LADgvK9u08r/Fuh_se_Fantasy_S02E10_19114_10.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/ipkjwyzsll2e",
+                "2": "https://streamhub.ink/kuoysnurkg8m",
+                "3": "https://streamhub.ink/s73voy79vw8z",
+                "4": "https://streamhub.ink/eak6wafkzlhj",
+                "5": "https://streamhub.ink/jf1gfcalwyhp",
+                "6": "https://streamhub.ink/4ettp8fp2pgl",
+                "7": "https://streamhub.ink/iihjssjx2av8",
+                "8": "https://streamhub.ink/nodn2gkfezdo",
+                "9": "https://streamhub.ink/3t2cn74cxrm5",
+                "10": "https://streamhub.ink/dowtxw957qxx"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/doa0orfac1bz",
+                "2": "https://uploadraja.com/nslrb7cyl0mg",
+                "3": "https://uploadraja.com/u4btccrcei9m",
+                "4": "https://uploadraja.com/mczm3aqvuwaz",
+                "5": "https://uploadraja.com/qm5ls98zeehe",
+                "6": "https://uploadraja.com/dunbiy34sa3h",
+                "7": "https://uploadraja.com/rhv7xbr5zqj7",
+                "8": "https://uploadraja.com/t70tw8phdte7",
+                "9": "https://uploadraja.com/q9gryqp95nrm",
+                "10": "https://uploadraja.com/q1dzc3gynt20"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E01%2019114%201.mkv",
+                "2": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E02%2019114%202.mkv",
+                "3": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E03%2019114%203.mkv",
+                "4": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E04%2019114%204.mkv",
+                "5": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E05%2019114%205.mkv",
+                "6": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E06%2019114%206.mkv",
+                "7": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E07%2019114%207.mkv",
+                "8": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E08%2019114%208.mkv",
+                "9": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E09%2019114%209.mkv",
+                "10": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E10%2019114%2010.mkv"
+            }
+        },
+        {
+            "id": "1138",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Breaking%20Bad%20Season%202.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Breaking%20Bad%20Season%202.jpg",
+            "movieName": "Breaking Bad Season 2",
+            "htmlFile": "https://www.19138",
+            "directOne": "Crime,Thriller",
+            "directSecond": "I-8914DuyhY",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Breaking Bad",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/zkr210L9XyiYzL3/Breaking_Bad_S02E01_19138_1.mkv.mp4",
+                "2": "https://streamtape.site/v/6o3jxdMG6os9ymq/Breaking_Bad_S02E02_19138_2.mkv.mp4",
+                "3": "https://streamtape.site/v/46QVqD82m7FKe3w/Breaking_Bad_S02E03_19138_3.mkv.mp4",
+                "4": "https://streamtape.site/v/9ljGRGrMrYsovj/Breaking_Bad_S02E04_19138_4.mkv.mp4",
+                "5": "https://streamtape.site/v/dRLLgzdmjQFgBa/Breaking_Bad_S02E05_19138_5.mkv.mp4",
+                "6": "https://streamtape.site/v/lA34bZ8Zj2C7PxY/Breaking_Bad_S02E06_19138_6.mkv.mp4",
+                "7": "https://streamtape.site/v/rlKpwpa0Rofb76p/Breaking_Bad_S02E07_19138_7.mkv.mp4",
+                "8": "https://streamtape.site/v/dO2JAaXdbXtkodm/Breaking_Bad_S02E08_19138_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/4vvfsb7jn81a",
+                "2": "https://streamhub.ink/iar8mf7ylnsa",
+                "3": "https://streamhub.ink/dxj3vz663cu6",
+                "4": "https://streamhub.ink/b2z9u8qygv9d",
+                "5": "https://streamhub.ink/lotq7jf6qmp6",
+                "6": "https://streamhub.ink/oadvl7cqiu7b",
+                "7": "https://streamhub.ink/cjnd026i86wl",
+                "8": "https://streamhub.ink/sxpyir8pu6rc"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/dvjmjmdr6iqj",
+                "2": "https://uploadraja.com/mgpo6nxvuhy7",
+                "3": "https://uploadraja.com/6qbh3bss8fog",
+                "4": "https://uploadraja.com/7l7b1b6de5f6",
+                "5": "https://uploadraja.com/qfph23z1uvtb",
+                "6": "https://uploadraja.com/vry2mrsamd5z",
+                "7": "https://uploadraja.com/0o6f26ne36zk",
+                "8": "https://uploadraja.com/1z301sdok3uy"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E01%2019138%201.mkv",
+                "2": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E02%2019138%202.mkv",
+                "3": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E03%2019138%203.mkv",
+                "4": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E04%2019138%204.mkv",
+                "5": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E05%2019138%205.mkv",
+                "6": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E06%2019138%206.mkv",
+                "7": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E07%2019138%207.mkv",
+                "8": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E08%2019138%208.mkv"
             }
         },
         {
