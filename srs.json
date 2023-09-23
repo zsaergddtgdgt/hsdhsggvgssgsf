@@ -50100,7 +50100,8 @@
                 "9": "https://streamtape.site/v/ygdVm3zox2H1pLq/Breaking_Bad_S02E09_19138_9.mkv.mp4",
                 "10": "https://streamtape.site/v/XxrPRW0Dv8ID6VM/Breaking_Bad_S02E10_19138_10.mkv.mp4",
                 "11": "https://streamtape.site/v/XzZO6dzpOmuDvL8/Breaking_Bad_S02E11_19138_11.mkv.mp4",
-                "12": "https://streamtape.site/v/MAaLaP842rcd6a/Breaking_Bad_S02E12_19138_12.mkv.mp4"
+                "12": "https://streamtape.site/v/MAaLaP842rcd6a/Breaking_Bad_S02E12_19138_12.mkv.mp4",
+                "13": "https://streamtape.site/v/XyzJ6zgV4RfDyMR/Breaking_Bad_S02E13_19138_13.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.ink/4vvfsb7jn81a",
@@ -50114,7 +50115,8 @@
                 "9": "https://streamhub.ink/bi46xp909f0i",
                 "10": "https://streamhub.ink/dbiwfx1ntu0q",
                 "11": "https://streamhub.ink/hrxbz0oo48sp",
-                "12": "https://streamhub.ink/ojexdld8la2f"
+                "12": "https://streamhub.ink/ojexdld8la2f",
+                "13": "https://streamhub.ink/hjq4d8wm3cx9"
             },
             "episodeServer3": {
                 "1": "https://uploadraja.com/dvjmjmdr6iqj",
@@ -50128,7 +50130,8 @@
                 "9": "https://uploadraja.com/i1yqzj2cgec0",
                 "10": "https://uploadraja.com/v8e8alt2ng4p",
                 "11": "https://uploadraja.com/fa6sprzvz7d5",
-                "12": "https://uploadraja.com/hhkkihwirq5v"
+                "12": "https://uploadraja.com/hhkkihwirq5v",
+                "13": "https://uploadraja.com/044tvuxw78xy"
             },
             "episodeServer4": {
                 "1": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E01%2019138%201.mkv",
@@ -50142,9 +50145,64 @@
                 "9": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E09%2019138%209.mkv",
                 "10": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E10%2019138%2010.mkv",
                 "11": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E11%2019138%2011.mkv",
-                "12": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E12%2019138%2012.mkv"
+                "12": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E12%2019138%2012.mkv",
+                "13": "http://srs.aapkipooja.com/Breaking%20Bad%20S02E13%2019138%2013.mkv"
             }
         }, 
+        {
+            "id": "1162",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Scam%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Scam%20Season%201.jpg",
+            "movieName": "Scam Season 1",
+            "htmlFile": "https://www.19162",
+            "directOne": "Action,Drama",
+            "directSecond": "fI_v9F-8b7Q",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Scam",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/KJrKKybMr3f08oQ/Scam_%282023%29_S01_Complete_19162_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/w5s9pxwjd0f2"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/rzmyzhoiuf50"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Scam%20(2023)%20S01%20Complete%2019162%201.mkv"
+            }
+        }, 
+        {
+            "id": "1163",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Builders%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Builders%20Season%201.jpg",
+            "movieName": "Builders Season 1",
+            "htmlFile": "https://www.19163",
+            "directOne": "Comedy,Drama",
+            "directSecond": "xFwA6v0g0BI",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Builders",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/1PQ9e6zPV2ibv6/Builders_%282023%29_S01_Complete_19163_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/j3bybufm6g2k"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/qys61uu4vuv6"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Builders%20(2023)%20S01%20Complete%2019163%201.mkv"
+            }
+        },
         {
             "id": "1134",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/The%20Wheel%20of%20Time%20Season%202.jpg",
@@ -50207,7 +50265,7 @@
             "keyName": "Song Of The Bandits",
             "pathName": "S1",
             "EpisodeTape": {
-                "1": "",
+                "1": "https://streamtape.site/v/okbVLqx6LlFJq3Y/Song_Of_The_Bandits_S01E01_19161_1.mkv.mp4",
                 "2": "https://streamtape.site/v/bky21YGmmdCP1Gg/Song_Of_The_Bandits_S01E02_19161_2.mkv.mp4",
                 "3": "https://streamtape.site/v/90ZylmAMYPha4e9/Song_Of_The_Bandits_S01E03_19161_3.mkv.mp4",
                 "4": "https://streamtape.site/v/wkZYxrLwx6iJkj7/Song_Of_The_Bandits_S01E04_19161_4.mkv.mp4",
@@ -50249,6 +50307,60 @@
                 "7": "http://srs.aapkipooja.com/Song%20Of%20The%20Bandits%20S01E07%2019161%207.mkv",
                 "8": "http://srs.aapkipooja.com/Song%20Of%20The%20Bandits%20S01E08%2019161%208.mkv",
                 "9": "http://srs.aapkipooja.com/Song%20Of%20The%20Bandits%20S01E09%2019161%209.mkv"
+            }
+        }, 
+        {
+            "id": "1164",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/The%20Continental%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/The%20Continental%20Season%201.webp",
+            "movieName": "The Continental Season 1",
+            "htmlFile": "https://www.19164",
+            "directOne": "Action,Crime",
+            "directSecond": "tsAWFLQHbn0",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Continental",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/6qrdvx2bqMc9yo0/The_Continental_S01E01_19164_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/gb10vyqwtbkq"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/g8iuxkv3dp3a"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/The%20Continental%20S01E01%2019164%201.mkv"
+            }
+        }, 
+        {
+            "id": "1165",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Bekaaboo%20Season%203.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Bekaaboo%20Season%203.jpg",
+            "movieName": "Bekaaboo Season 3",
+            "htmlFile": "https://www.19165",
+            "directOne": "Action,Crime",
+            "directSecond": "THliOWhDh5I",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Bekaaboo",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/PxOeOPxjYOu0m70/Bekaaboo_S03_Complete_19165_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/umbvler11rzb"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/gj5palwccy9f"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Bekaaboo%20S03%20Complete%2019165%201.mkv"
             }
         }
     ]
