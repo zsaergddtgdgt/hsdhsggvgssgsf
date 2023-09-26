@@ -50362,6 +50362,72 @@
             "episodeServer4": {
                 "1": "http://srs.aapkipooja.com/Bekaaboo%20S03%20Complete%2019165%201.mkv"
             }
+        }, 
+        {
+            "id": "1166",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Locust%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Locust%20Season%201.jpg",
+            "movieName": "Locust Season 1",
+            "htmlFile": "https://www.19166",
+            "directOne": "Adult,Crime",
+            "directSecond": "12rEVxa2CX0",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Locust",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/29OykRX48aFRQ3/Locust_S01E01_19166_1.mkv.mp4",
+                "2": "https://streamtape.site/v/RQ4WzMRBvMfdyoM/Locust_S01E02_19166_2.mkv.mp4",
+                "3": "https://streamtape.site/v/YKvq4wGbWOU3OR/Locust_S01E03_19166_3.mkv.mp4",
+                "4": "https://streamtape.site/v/okaYL7DKgPIJqGx/Locust_S01E04_19166_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/r1tjd9o8camy",
+                "2": "https://streamhub.ink/2vau0mjy39lq",
+                "3": "https://streamhub.ink/c5ggdyqm4its",
+                "4": "https://streamhub.ink/d8nbozw6r51o"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/gr6hnuqocixn",
+                "2": "https://uploadraja.com/miimo2pemlfr",
+                "3": "https://uploadraja.com/xm7aahncaqmy",
+                "4": "https://uploadraja.com/9gfaws91kmlr"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Locust%20S01E01%2019166%201.mkv",
+                "2": "http://srs.aapkipooja.com/Locust%20S01E02%2019166%202.mkv",
+                "3": "http://srs.aapkipooja.com/Locust%20S01E03%2019166%203.mkv",
+                "4": "http://srs.aapkipooja.com/Locust%20S01E04%2019166%204.mkv"
+            }
+        }, 
+        {
+            "id": "1167",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Breaking%20Bad%20Season%203.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Breaking%20Bad%20Season%203.jpg",
+            "movieName": "Breaking Bad Season 3",
+            "htmlFile": "https://www.19167",
+            "directOne": "Thriller,Crime",
+            "directSecond": "ZK2IQ3LbLYk",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Breaking Bad",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/dQ4xXdARB1h00g/Breaking_Bad_S03E01_19167_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/7082j9rtbqw2"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/2dx9f6ubo4cx"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E01%2019167%201.mkv"
+            }
         }
     ]
 }
