@@ -46168,33 +46168,6 @@
             }
         },
         {
-            "id": "1062",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Charlie%20Chopra%20Season%201.webp",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Charlie%20Chopra%20Season%201.jpg",
-            "movieName": "Charlie Chopra Season 1",
-            "htmlFile": "https://www.19062",
-            "directOne": "Mystery,Thriller",
-            "directSecond": "FALSE",
-            "imbd": "8.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Charlie Chopra",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/xyL6PA8Q6GtkPo7/Charlie_Chopra_S01E01_19062_1.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/ix3ut6666qdr"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/nuro7660n345"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Charlie%20Chopra%20S01E01%2019062%201.mkv"
-            }
-        },
-        {
             "id": "1065",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Celebrity%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Celebrity%20Season%201.jpg",
@@ -49592,85 +49565,6 @@
             }
         },
         {
-            "id": "1120",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Lakhan%20Leela%20Bhargava%20Season%201.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Lakhan%20Leela%20Bhargava%20Season%201.jpg",
-            "movieName": "Lakhan Leela Bhargava Season 1",
-            "htmlFile": "https://www.19120",
-            "directOne": "Drama",
-            "directSecond": "QWEqWr9YBok",
-            "imbd": "9.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Lakhan Leela Bhargava",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/J0wgpMJe22fjkkk/Lakhan_Leela_Bhargava_S01E01_19120_1.mkv.mp4",
-                "2": "https://streamtape.site/v/R4plLwKWZ2UdGRZ/Lakhan_Leela_Bhargava_S01E02_19120_2.mkv.mp4",
-                "3": "https://streamtape.site/v/3JVvgAVO19TdPqV/Lakhan_Leela_Bhargava_S01E03_19120_3.mkv.mp4",
-                "4": "https://streamtape.site/v/2DQbrAj0m3HZ4LR/Lakhan_Leela_Bhargava_S01E04_19120_4.mkv.mp4",
-                "5": "https://streamtape.site/v/gjmBQJp7y7CqpbG/Lakhan_Leela_Bhargava_S01E05_19120_5.mkv.mp4",
-                "6": "https://streamtape.site/v/KZmlerQvzGf0QZ2/Lakhan_Leela_Bhargava_S01E06_19120_6.mkv.mp4",
-                "7": "https://streamtape.site/v/W6B2WQzYyLSb9zJ/Lakhan_Leela_Bhargava_S01E07_19120_7.mkv.mp4",
-                "8": "https://streamtape.site/v/jbWe9L9vmdszZdB/Lakhan_Leela_Bhargava_S01E08_19120_8.mkv.mp4",
-                "9": "https://streamtape.site/v/Xgy66a23LqiD40p/Lakhan_Leela_Bhargava_S01E09_19120_9.mkv.mp4",
-                "10": "https://streamtape.site/v/DzOJbzvrXjhLp9/Lakhan_Leela_Bhargava_S01E10_19120_10.mkv.mp4",
-                "11": "https://streamtape.site/v/oL9WxQjz16cWDo/Lakhan_Leela_Bhargava_S01E11_19120_11.mkv.mp4",
-                "12": "https://streamtape.site/v/glw0VzxQaxFqqbY/Lakhan_Leela_Bhargava_S01E12_19120_12.mkv.mp4",
-                "13": "https://streamtape.site/v/Dz3VJDRo00cBvo/Lakhan_Leela_Bhargava_S01E13_19120_13.mkv.mp4",
-                "14": "https://streamtape.site/v/D4WM6Z6930skzbp/Lakhan_Leela_Bhargava_S01E14_19120_14.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/5lmikg5ktfi4",
-                "2": "https://streamhub.ink/6ovl17bgp9ss",
-                "3": "https://streamhub.ink/vgi0yez449ay",
-                "4": "https://streamhub.ink/2oepu095ea4a",
-                "5": "https://streamhub.ink/fnbhahlkvp98",
-                "6": "https://streamhub.ink/bhbbrag6b2ic",
-                "7": "https://streamhub.ink/hrla9sd7tp0i",
-                "8": "https://streamhub.ink/t3m56smeldp9",
-                "9": "https://streamhub.ink/mnrxxl7t0wr7",
-                "10": "https://streamhub.ink/st4ad3pimsed",
-                "11": "https://streamhub.ink/tdrttmwf3wmx",
-                "12": "https://streamhub.ink/kidjmg6exk42",
-                "13": "https://streamhub.ink/v92pz0yk83el",
-                "14": "https://streamhub.ink/baa2v7lz5c34"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/43axu6ap4fx2",
-                "2": "https://uploadraja.com/r36pwaajypna",
-                "3": "https://uploadraja.com/g2o415v9icqb",
-                "4": "https://uploadraja.com/xn00xaahx6z1",
-                "5": "https://uploadraja.com/f3ktvubqd4e4",
-                "6": "https://uploadraja.com/0lyeqct36ds2",
-                "7": "https://uploadraja.com/0mx9rxd5n90r",
-                "8": "https://uploadraja.com/4dpii5f9y4ml",
-                "9": "https://uploadraja.com/ioxo7mb6zzcr",
-                "10": "https://uploadraja.com/0zed8n31hwty",
-                "11": "https://uploadraja.com/knbg2v6uqewl",
-                "12": "https://uploadraja.com/lcbz4t6vfgn4",
-                "13": "https://uploadraja.com/2vibaf18t1bj",
-                "14": "https://uploadraja.com/21ku27sk5wqi"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E01%2019120%201.mkv",
-                "2": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E02%2019120%202.mkv",
-                "3": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E03%2019120%203.mkv",
-                "4": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E04%2019120%204.mkv",
-                "5": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E05%2019120%205.mkv",
-                "6": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E06%2019120%206.mkv",
-                "7": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E07%2019120%207.mkv",
-                "8": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E08%2019120%208.mkv",
-                "9": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E09%2019120%209.mkv",
-                "10": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E10%2019120%2010.mkv",
-                "11": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E11%2019120%2011.mkv",
-                "12": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E12%2019120%2012.mkv",
-                "13": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E13%2019120%2013.mkv",
-                "14": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E14%2019120%2014.mkv"
-            }
-        },
-        {
             "id": "1152",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Kaala%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Kaala%20Season%201.jpg",
@@ -49723,53 +49617,6 @@
                 "6": "https://srs.aapkipooja.com/Kaala%20S01E06%2019152%206.mkv",
                 "7": "https://srs.aapkipooja.com/Kaala%20S01E07%2019152%207.mkv",
                 "8": "https://srs.aapkipooja.com/Kaala%20S01E08%2019152%208.mkv"
-            }
-        },
-        {
-            "id": "1121",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Ahsoka%20Season%201.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Ahsoka%20Season%201.jpg",
-            "movieName": "Ahsoka Season 1",
-            "htmlFile": "https://www.19122",
-            "directOne": "Action,Adventure",
-            "directSecond": "qkv_yfnuqks",
-            "imbd": "9.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Ahsoka",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/wlkRqjYG9WtJ0OZ/Ahsoka_S01E01_19121_1.mkv.mp4",
-                "2": "https://streamtape.site/v/y7Woxq8a4mh1DBp/Ahsoka_S01E02_19121_2.mkv.mp4",
-                "3": "https://streamtape.site/v/AMx69b3x8ahBVm/Ahsoka_S01E03_19121_3.mkv.mp4",
-                "4": "https://streamtape.site/v/lW18yV3r6eH7MGg/Ahsoka_S01E04_19121_4.mkv.mp4",
-                "5": "https://streamtape.site/v/k23zjWDbxGiOvee/Ahsoka_S01E05_19121_5.mkv.mp4",
-                "6": "https://streamtape.site/v/bqpm81oOzphPZWw/Ahsoka_S01E06_19121_6.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/5e1tdp9r8czs",
-                "2": "https://streamhub.ink/49hr2fxap4zr",
-                "3": "https://streamhub.ink/40w06a8dd2hd",
-                "4": "https://streamhub.ink/snycw1dc455u",
-                "5": "https://streamhub.ink/dc7xk0grg7la",
-                "6": "https://streamhub.ink/15e7dr6r9yf8"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/nv7mg8ydm0wr",
-                "2": "https://uploadraja.com/9geh59w0x3wl",
-                "3": "https://uploadraja.com/6a5u5s7jao3z",
-                "4": "https://uploadraja.com/qzqai7w3exce",
-                "5": "https://uploadraja.com/n360lxm770oz",
-                "6": "https://uploadraja.com/6ioyf459tfto"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Ahsoka%20S01E01%2019121%201.mkv",
-                "2": "http://srs.aapkipooja.com/Ahsoka%20S01E02%2019121%202.mkv",
-                "3": "http://srs.aapkipooja.com/Ahsoka%20S01E03%2019121%203.mkv",
-                "4": "http://srs.aapkipooja.com/Ahsoka%20S01E04%2019121%204.mkv",
-                "5": "http://srs.aapkipooja.com/Ahsoka%20S01E05%2019121%205.mkv",
-                "6": "http://srs.aapkipooja.com/Ahsoka%20S01E06%2019121%206.mkv"
             }
         },
         {
@@ -50365,8 +50212,8 @@
         }, 
         {
             "id": "1166",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Locust%20Season%201.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Locust%20Season%201.jpg",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Locust%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Locust%20Season%201.jpg",
             "movieName": "Locust Season 1",
             "htmlFile": "https://www.19166",
             "directOne": "Adult,Crime",
@@ -50401,11 +50248,62 @@
                 "3": "http://srs.aapkipooja.com/Locust%20S01E03%2019166%203.mkv",
                 "4": "http://srs.aapkipooja.com/Locust%20S01E04%2019166%204.mkv"
             }
+        },
+        {
+            "id": "1121",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Ahsoka%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Ahsoka%20Season%201.jpg",
+            "movieName": "Ahsoka Season 1",
+            "htmlFile": "https://www.19122",
+            "directOne": "Action,Adventure",
+            "directSecond": "qkv_yfnuqks",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Ahsoka",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/wlkRqjYG9WtJ0OZ/Ahsoka_S01E01_19121_1.mkv.mp4",
+                "2": "https://streamtape.site/v/y7Woxq8a4mh1DBp/Ahsoka_S01E02_19121_2.mkv.mp4",
+                "3": "https://streamtape.site/v/AMx69b3x8ahBVm/Ahsoka_S01E03_19121_3.mkv.mp4",
+                "4": "https://streamtape.site/v/lW18yV3r6eH7MGg/Ahsoka_S01E04_19121_4.mkv.mp4",
+                "5": "https://streamtape.site/v/k23zjWDbxGiOvee/Ahsoka_S01E05_19121_5.mkv.mp4",
+                "6": "https://streamtape.site/v/bqpm81oOzphPZWw/Ahsoka_S01E06_19121_6.mkv.mp4",
+                "7": "https://streamtape.site/v/Lv1g24g474iRL78/Ahsoka_S01E07_19121_7.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/5e1tdp9r8czs",
+                "2": "https://streamhub.ink/49hr2fxap4zr",
+                "3": "https://streamhub.ink/40w06a8dd2hd",
+                "4": "https://streamhub.ink/snycw1dc455u",
+                "5": "https://streamhub.ink/dc7xk0grg7la",
+                "6": "https://streamhub.ink/15e7dr6r9yf8",
+                "7": "https://streamhub.ink/95ra4cduu73e"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/nv7mg8ydm0wr",
+                "2": "https://uploadraja.com/9geh59w0x3wl",
+                "3": "https://uploadraja.com/6a5u5s7jao3z",
+                "4": "https://uploadraja.com/qzqai7w3exce",
+                "5": "https://uploadraja.com/n360lxm770oz",
+                "6": "https://uploadraja.com/6ioyf459tfto",
+                "7": "https://uploadraja.com/alysmkhks464"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Ahsoka%20S01E01%2019121%201.mkv",
+                "2": "http://srs.aapkipooja.com/Ahsoka%20S01E02%2019121%202.mkv",
+                "3": "http://srs.aapkipooja.com/Ahsoka%20S01E03%2019121%203.mkv",
+                "4": "http://srs.aapkipooja.com/Ahsoka%20S01E04%2019121%204.mkv",
+                "5": "http://srs.aapkipooja.com/Ahsoka%20S01E05%2019121%205.mkv",
+                "6": "http://srs.aapkipooja.com/Ahsoka%20S01E06%2019121%206.mkv",
+                "7": "http://srs.aapkipooja.com/Ahsoka%20S01E07%2019121%207.mkv"
+            }
         }, 
         {
             "id": "1167",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Breaking%20Bad%20Season%203.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Breaking%20Bad%20Season%203.jpg",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Breaking%20Bad%20Season%203.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Breaking%20Bad%20Season%203.jpg",
             "movieName": "Breaking Bad Season 3",
             "htmlFile": "https://www.19167",
             "directOne": "Thriller,Crime",
@@ -50417,16 +50315,209 @@
             "keyName": "Breaking Bad",
             "pathName": "S3",
             "EpisodeTape": {
-                "1": "https://streamtape.site/v/dQ4xXdARB1h00g/Breaking_Bad_S03E01_19167_1.mkv.mp4"
+                "1": "https://streamtape.site/v/dQ4xXdARB1h00g/Breaking_Bad_S03E01_19167_1.mkv.mp4",
+                "2": "https://streamtape.site/v/8O0D3A6zXyToPP8/Breaking_Bad_S03E02_19167_2.mkv.mp4"
             },
             "EpisodeHub": {
-                "1": "https://streamhub.ink/7082j9rtbqw2"
+                "1": "https://streamhub.ink/7082j9rtbqw2",
+                "2": "https://streamhub.ink/iwnenq0gfe41"
             },
             "episodeServer3": {
-                "1": "https://uploadraja.com/2dx9f6ubo4cx"
+                "1": "https://uploadraja.com/2dx9f6ubo4cx",
+                "2": "https://uploadraja.com/3hldsjnhadc1"
             },
             "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E01%2019167%201.mkv"
+                "1": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E01%2019167%201.mkv",
+                "2": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E02%2019167%202.mkv"
+            }
+        },
+        {
+            "id": "1062",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Charlie%20Chopra%20Season%201.webp",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Charlie%20Chopra%20Season%201.jpg",
+            "movieName": "Charlie Chopra Season 1",
+            "htmlFile": "https://www.19062",
+            "directOne": "Mystery,Thriller",
+            "directSecond": "FALSE",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Charlie Chopra",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/xyL6PA8Q6GtkPo7/Charlie_Chopra_S01E01_19062_1.mkv.mp4",
+                "2": "https://streamtape.site/v/6BA3Z7Z79vS9AZQ/Charlie_Chopra_S01E02_19062_2.mkv.mp4",
+                "3": "https://streamtape.site/v/0VAk7gXp46hL6M/Charlie_Chopra_S01E03_19062_3.mkv.mp4",
+                "4": "https://streamtape.site/v/DkVqxZmpXbTkvZ3/Charlie_Chopra_S01E04_19062_4.mkv.mp4",
+                "5": "https://streamtape.site/v/op0KLppRevTJB0R/Charlie_Chopra_S01E05_19062_5.mkv.mp4",
+                "6": "https://streamtape.site/v/1Jk917oxQdIew3O/Charlie_Chopra_S01E06_19062_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/ix3ut6666qdr",
+                "2": "https://streamhub.ink/bilb6vqr7xrs",
+                "3": "https://streamhub.ink/5uz1wg4whcnm",
+                "4": "https://streamhub.ink/krynse27ee07",
+                "5": "https://streamhub.ink/ji02t5u21seu",
+                "6": "https://streamhub.ink/brxjr0jc7508"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/nuro7660n345",
+                "2": "https://uploadraja.com/5kfzy7krkmvb",
+                "3": "https://uploadraja.com/h6f7o1vwynlh",
+                "4": "https://uploadraja.com/1x7s3alaqjrm",
+                "5": "https://uploadraja.com/d9zhqrd9ftn5",
+                "6": "https://uploadraja.com/hjr9uua8nu81"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Charlie%20Chopra%20S01E01%2019062%201.mkv",
+                "2": "http://srs.aapkipooja.com/Charlie%20Chopra%20S01E02%2019062%202.mkv",
+                "3": "http://srs.aapkipooja.com/Charlie%20Chopra%20S01E03%2019062%203.mkv",
+                "4": "http://srs.aapkipooja.com/Charlie%20Chopra%20S01E04%2019062%204.mkv",
+                "5": "http://srs.aapkipooja.com/Charlie%20Chopra%20S01E05%2019062%205.mkv",
+                "6": "http://srs.aapkipooja.com/Charlie%20Chopra%20S01E06%2019062%206.mkv"
+            }
+        },
+        {
+            "id": "1120",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Lakhan%20Leela%20Bhargava%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Lakhan%20Leela%20Bhargava%20Season%201.jpg",
+            "movieName": "Lakhan Leela Bhargava Season 1",
+            "htmlFile": "https://www.19120",
+            "directOne": "Drama",
+            "directSecond": "QWEqWr9YBok",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Lakhan Leela Bhargava",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/J0wgpMJe22fjkkk/Lakhan_Leela_Bhargava_S01E01_19120_1.mkv.mp4",
+                "2": "https://streamtape.site/v/R4plLwKWZ2UdGRZ/Lakhan_Leela_Bhargava_S01E02_19120_2.mkv.mp4",
+                "3": "https://streamtape.site/v/3JVvgAVO19TdPqV/Lakhan_Leela_Bhargava_S01E03_19120_3.mkv.mp4",
+                "4": "https://streamtape.site/v/2DQbrAj0m3HZ4LR/Lakhan_Leela_Bhargava_S01E04_19120_4.mkv.mp4",
+                "5": "https://streamtape.site/v/gjmBQJp7y7CqpbG/Lakhan_Leela_Bhargava_S01E05_19120_5.mkv.mp4",
+                "6": "https://streamtape.site/v/KZmlerQvzGf0QZ2/Lakhan_Leela_Bhargava_S01E06_19120_6.mkv.mp4",
+                "7": "https://streamtape.site/v/W6B2WQzYyLSb9zJ/Lakhan_Leela_Bhargava_S01E07_19120_7.mkv.mp4",
+                "8": "https://streamtape.site/v/jbWe9L9vmdszZdB/Lakhan_Leela_Bhargava_S01E08_19120_8.mkv.mp4",
+                "9": "https://streamtape.site/v/Xgy66a23LqiD40p/Lakhan_Leela_Bhargava_S01E09_19120_9.mkv.mp4",
+                "10": "https://streamtape.site/v/DzOJbzvrXjhLp9/Lakhan_Leela_Bhargava_S01E10_19120_10.mkv.mp4",
+                "11": "https://streamtape.site/v/oL9WxQjz16cWDo/Lakhan_Leela_Bhargava_S01E11_19120_11.mkv.mp4",
+                "12": "https://streamtape.site/v/glw0VzxQaxFqqbY/Lakhan_Leela_Bhargava_S01E12_19120_12.mkv.mp4",
+                "13": "https://streamtape.site/v/Dz3VJDRo00cBvo/Lakhan_Leela_Bhargava_S01E13_19120_13.mkv.mp4",
+                "14": "https://streamtape.site/v/D4WM6Z6930skzbp/Lakhan_Leela_Bhargava_S01E14_19120_14.mkv.mp4",
+                "15": "https://streamtape.site/v/ZwDGYz7MMWiqXjL/Lakhan_Leela_Bhargava_S01E15_19120_15.mkv.mp4",
+                "16": "https://streamtape.site/v/9oxyVeA8b2saQ4w/Lakhan_Leela_Bhargava_S01E16_19120_16.mkv.mp4",
+                "17": "https://streamtape.site/v/3DkRY0gpkwCdgAg/Lakhan_Leela_Bhargava_S01E17_19120_17.mkv.mp4",
+                "18": "https://streamtape.site/v/XgyQyQgpeOsP4v/Lakhan_Leela_Bhargava_S01E18_19120_18.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/5lmikg5ktfi4",
+                "2": "https://streamhub.ink/6ovl17bgp9ss",
+                "3": "https://streamhub.ink/vgi0yez449ay",
+                "4": "https://streamhub.ink/2oepu095ea4a",
+                "5": "https://streamhub.ink/fnbhahlkvp98",
+                "6": "https://streamhub.ink/bhbbrag6b2ic",
+                "7": "https://streamhub.ink/hrla9sd7tp0i",
+                "8": "https://streamhub.ink/t3m56smeldp9",
+                "9": "https://streamhub.ink/mnrxxl7t0wr7",
+                "10": "https://streamhub.ink/st4ad3pimsed",
+                "11": "https://streamhub.ink/tdrttmwf3wmx",
+                "12": "https://streamhub.ink/kidjmg6exk42",
+                "13": "https://streamhub.ink/v92pz0yk83el",
+                "14": "https://streamhub.ink/baa2v7lz5c34",
+                "15": "https://streamhub.ink/z86b0et8nb71",
+                "16": "https://streamhub.ink/f2g7emedkz3r",
+                "17": "https://streamhub.ink/7vwuv9e1t3np",
+                "18": "https://streamhub.ink/wnd4yy5umfey"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/43axu6ap4fx2",
+                "2": "https://uploadraja.com/r36pwaajypna",
+                "3": "https://uploadraja.com/g2o415v9icqb",
+                "4": "https://uploadraja.com/xn00xaahx6z1",
+                "5": "https://uploadraja.com/f3ktvubqd4e4",
+                "6": "https://uploadraja.com/0lyeqct36ds2",
+                "7": "https://uploadraja.com/0mx9rxd5n90r",
+                "8": "https://uploadraja.com/4dpii5f9y4ml",
+                "9": "https://uploadraja.com/ioxo7mb6zzcr",
+                "10": "https://uploadraja.com/0zed8n31hwty",
+                "11": "https://uploadraja.com/knbg2v6uqewl",
+                "12": "https://uploadraja.com/lcbz4t6vfgn4",
+                "13": "https://uploadraja.com/2vibaf18t1bj",
+                "14": "https://uploadraja.com/21ku27sk5wqi",
+                "15": "https://uploadraja.com/vivtcgqti3qx",
+                "16": "https://uploadraja.com/26mxpot9nns9",
+                "17": "https://uploadraja.com/eifnj3h33it5",
+                "18": "https://uploadraja.com/s9n5bak494os"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E01%2019120%201.mkv",
+                "2": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E02%2019120%202.mkv",
+                "3": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E03%2019120%203.mkv",
+                "4": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E04%2019120%204.mkv",
+                "5": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E05%2019120%205.mkv",
+                "6": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E06%2019120%206.mkv",
+                "7": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E07%2019120%207.mkv",
+                "8": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E08%2019120%208.mkv",
+                "9": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E09%2019120%209.mkv",
+                "10": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E10%2019120%2010.mkv",
+                "11": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E11%2019120%2011.mkv",
+                "12": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E12%2019120%2012.mkv",
+                "13": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E13%2019120%2013.mkv",
+                "14": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E14%2019120%2014.mkv",
+                "15": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E15%2019120%2015.mkv",
+                "16": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E16%2019120%2016.mkv",
+                "17": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E17%2019120%2017.mkv",
+                "18": "http://srs.aapkipooja.com/Lakhan%20Leela%20Bhargava%20S01E18%2019120%2018.mkv"
+            }
+        },
+        {
+            "id": "1168",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Hostel%20Daze%20Season%204.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Hostel%20Daze%20Season%204.jpg",
+            "movieName": "Hostel Daze Season 4",
+            "htmlFile": "https://www.19168",
+            "directOne": "Comedy,Drama",
+            "directSecond": "shfmYdNja8M",
+            "imbd": "8.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Hostel Daze",
+            "pathName": "S4",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/3AqMQKYwo2uXYv/Hostel_Daze_S04E01_19168_1.mkv.mp4",
+                "2": "https://streamtape.site/v/goeeYZ6ZLAIqllX/Hostel_Daze_S04E02_19168_2.mkv.mp4",
+                "3": "https://streamtape.site/v/PDrmdvyyjzh0299/Hostel_Daze_S04E03_19168_3.mkv.mp4",
+                "4": "https://streamtape.site/v/gjl40KOZGvuq10g/Hostel_Daze_S04E04_19168_4.mkv.mp4",
+                "5": "https://streamtape.site/v/a7kZJPPZjVi29d/Hostel_Daze_S04E05_19168_5.mkv.mp4",
+                "6": "https://streamtape.site/v/GWVvGq63xeT1GR9/Hostel_Daze_S04E06_19168_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/whw1phgl666m",
+                "2": "https://streamhub.ink/02gm9ed6bved",
+                "3": "https://streamhub.ink/xkavgvp1uqpm",
+                "4": "https://streamhub.ink/xffkuauebzz8",
+                "5": "https://streamhub.ink/ohiuyc38hprs",
+                "6": "https://streamhub.ink/063dmfbjcx4m"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/szyrckvdmo6c",
+                "2": "https://uploadraja.com/pfyorfiyghdz",
+                "3": "https://uploadraja.com/9npkcelr2e0e",
+                "4": "https://uploadraja.com/by7ejkox8ksw",
+                "5": "https://uploadraja.com/9lqvb42dxsw2",
+                "6": "https://uploadraja.com/u16bgpshdg3v"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Hostel%20Daze%20S04E01%2019168%201.mkv",
+                "2": "http://srs.aapkipooja.com/Hostel%20Daze%20S04E02%2019168%202.mkv",
+                "3": "http://srs.aapkipooja.com/Hostel%20Daze%20S04E03%2019168%203.mkv",
+                "4": "http://srs.aapkipooja.com/Hostel%20Daze%20S04E04%2019168%204.mkv",
+                "5": "http://srs.aapkipooja.com/Hostel%20Daze%20S04E05%2019168%205.mkv",
+                "6": "http://srs.aapkipooja.com/Hostel%20Daze%20S04E06%2019168%206.mkv"
             }
         }
     ]
