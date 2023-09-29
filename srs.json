@@ -49829,7 +49829,8 @@
                 "9": "https://streamtape.site/v/XWd09xRX9wIDQJG/Fuh_se_Fantasy_S02E09_19114_9.mkv.mp4",
                 "10": "https://streamtape.site/v/ad9LADgvK9u08r/Fuh_se_Fantasy_S02E10_19114_10.mkv.mp4",
                 "11": "https://streamtape.site/v/DQMvdRp8lRCB7m/Fuh_se_Fantasy_S02E11_19114_11.mkv.mp4",
-                "12": "https://streamtape.site/v/lWaZMxg1qOT7Rb4/Fuh_se_Fantasy_S02E12_19114_12.mkv.mp4"
+                "12": "https://streamtape.site/v/lWaZMxg1qOT7Rb4/Fuh_se_Fantasy_S02E12_19114_12.mkv.mp4",
+                "13": "https://streamtape.site/v/gjQgrxGO9ZTqKzj/Fuh_se_Fantasy_S02E13_19114_13.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.ink/ipkjwyzsll2e",
@@ -49843,7 +49844,8 @@
                 "9": "https://streamhub.ink/3t2cn74cxrm5",
                 "10": "https://streamhub.ink/dowtxw957qxx",
                 "11": "https://streamhub.ink/a4o8rv0gf7ry",
-                "12": "https://streamhub.ink/pt6lrveme18f"
+                "12": "https://streamhub.ink/pt6lrveme18f",
+                "13": "https://streamhub.ink/gbqjizsldt6z"
             },
             "episodeServer3": {
                 "1": "https://uploadraja.com/doa0orfac1bz",
@@ -49857,7 +49859,8 @@
                 "9": "https://uploadraja.com/q9gryqp95nrm",
                 "10": "https://uploadraja.com/q1dzc3gynt20",
                 "11": "https://uploadraja.com/g834li82dh02",
-                "12": "https://uploadraja.com/wpjbjuskl5d7"
+                "12": "https://uploadraja.com/wpjbjuskl5d7",
+                "13": "https://uploadraja.com/km176rrvb2xx"
             },
             "episodeServer4": {
                 "1": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E01%2019114%201.mkv",
@@ -49871,7 +49874,8 @@
                 "9": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E09%2019114%209.mkv",
                 "10": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E10%2019114%2010.mkv",
                 "11": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E11%2019114%2011.mkv",
-                "12": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E12%2019114%2012.mkv"
+                "12": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E12%2019114%2012.mkv",
+                "13": "http://srs.aapkipooja.com/Fuh%20se%20Fantasy%20S02E13%2019114%2013.mkv"
             }
         },
         {
@@ -50299,37 +50303,6 @@
                 "6": "http://srs.aapkipooja.com/Ahsoka%20S01E06%2019121%206.mkv",
                 "7": "http://srs.aapkipooja.com/Ahsoka%20S01E07%2019121%207.mkv"
             }
-        }, 
-        {
-            "id": "1167",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Breaking%20Bad%20Season%203.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Breaking%20Bad%20Season%203.jpg",
-            "movieName": "Breaking Bad Season 3",
-            "htmlFile": "https://www.19167",
-            "directOne": "Thriller,Crime",
-            "directSecond": "ZK2IQ3LbLYk",
-            "imbd": "9.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Breaking Bad",
-            "pathName": "S3",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/dQ4xXdARB1h00g/Breaking_Bad_S03E01_19167_1.mkv.mp4",
-                "2": "https://streamtape.site/v/8O0D3A6zXyToPP8/Breaking_Bad_S03E02_19167_2.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/7082j9rtbqw2",
-                "2": "https://streamhub.ink/iwnenq0gfe41"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/2dx9f6ubo4cx",
-                "2": "https://uploadraja.com/3hldsjnhadc1"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E01%2019167%201.mkv",
-                "2": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E02%2019167%202.mkv"
-            }
         },
         {
             "id": "1062",
@@ -50518,6 +50491,190 @@
                 "4": "http://srs.aapkipooja.com/Hostel%20Daze%20S04E04%2019168%204.mkv",
                 "5": "http://srs.aapkipooja.com/Hostel%20Daze%20S04E05%2019168%205.mkv",
                 "6": "http://srs.aapkipooja.com/Hostel%20Daze%20S04E06%2019168%206.mkv"
+            }
+        }, 
+        {
+            "id": "1167",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Breaking%20Bad%20Season%203.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Breaking%20Bad%20Season%203.jpg",
+            "movieName": "Breaking Bad Season 3",
+            "htmlFile": "https://www.19167",
+            "directOne": "Thriller,Crime",
+            "directSecond": "ZK2IQ3LbLYk",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Breaking Bad",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/dQ4xXdARB1h00g/Breaking_Bad_S03E01_19167_1.mkv.mp4",
+                "2": "https://streamtape.site/v/8O0D3A6zXyToPP8/Breaking_Bad_S03E02_19167_2.mkv.mp4",
+                "3": "https://streamtape.site/v/Qyokzy8q3ks0edr/Breaking_Bad_S03E03_19167_3.mkv.mp4",
+                "4": "https://streamtape.site/v/JoleYb8QgKFjw3a/Breaking_Bad_S03E04_19167_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/7082j9rtbqw2",
+                "2": "https://streamhub.ink/iwnenq0gfe41",
+                "3": "https://streamhub.ink/utefh75nbph0",
+                "4": "https://streamhub.ink/jfl19cmuof55"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/2dx9f6ubo4cx",
+                "2": "https://uploadraja.com/3hldsjnhadc1",
+                "3": "https://uploadraja.com/i2pzsiafr5hr",
+                "4": "https://uploadraja.com/gkvgcf73n45p"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E01%2019167%201.mkv",
+                "2": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E02%2019167%202.mkv",
+                "3": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E03%2019167%203.mkv",
+                "4": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E04%2019167%204.mkv"
+            }
+        }, 
+        {
+            "id": "1171",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Castlevania%20-%20Nocturne%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Castlevania%20-%20Nocturne%20Season%201.jpg",
+            "movieName": "Castlevania - Nocturne Season 1",
+            "htmlFile": "https://www.19171",
+            "directOne": "Action,Animation",
+            "directSecond": "7rX8_vvuZp4",
+            "imbd": "9.1",
+            "rating": "Hindi+English+Japn",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Castlevania - Nocturne",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/O6JJd9MqD8c1r2/Castlevania_-_Nocturne_S01E01_19171_1.mkv.mp4",
+                "2": "https://streamtape.site/v/beOoWLMW60sPr1j/Castlevania_-_Nocturne_S01E02_19171_2.mkv.mp4",
+                "3": "https://streamtape.site/v/vYzOBd8bL3T4VqG/Castlevania_-_Nocturne_S01E03_19171_3.mkv.mp4",
+                "4": "https://streamtape.site/v/kweDW9gW0eCOLvB/Castlevania_-_Nocturne_S01E04_19171_4.mkv.mp4",
+                "5": "https://streamtape.site/v/YVYqGmjAvlHBOj/Castlevania_-_Nocturne_S01E05_19171_5.mkv.mp4",
+                "6": "https://streamtape.site/v/gl4Zxg1DrxFqQoz/Castlevania_-_Nocturne_S01E06_19171_6.mkv.mp4",
+                "7": "https://streamtape.site/v/XBMR1RvQO2iDe4P/Castlevania_-_Nocturne_S01E07_19171_7.mkv.mp4",
+                "8": "https://streamtape.site/v/p4X2km6Z2GIl3A/Castlevania_-_Nocturne_S01E08_19171_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/6bmbwo9ufgcd",
+                "2": "https://streamhub.ink/afidrtb0817r",
+                "3": "https://streamhub.ink/89wivh6jdbl0",
+                "4": "https://streamhub.ink/h9uq910nj0jx",
+                "5": "https://streamhub.ink/r2ebuu4brcoz",
+                "6": "https://streamhub.ink/mubsf35e4mb7",
+                "7": "https://streamhub.ink/gf7z0xreiid0",
+                "8": "https://streamhub.ink/9cunqs2b3vah"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/bt9jw4mvzduq",
+                "2": "https://uploadraja.com/ccew0etv7ra7",
+                "3": "https://uploadraja.com/9hiftui9pcmq",
+                "4": "https://uploadraja.com/cn37jfhgs0an",
+                "5": "https://uploadraja.com/8dkfcu7ai94d",
+                "6": "https://uploadraja.com/5b4swa9bonqq",
+                "7": "https://uploadraja.com/trb3phsyakfo",
+                "8": "https://uploadraja.com/q8wu7nlcnj9l"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Castlevania%20-%20Nocturne%20S01E01%2019171%201.mkv",
+                "2": "http://srs.aapkipooja.com/Castlevania%20-%20Nocturne%20S01E02%2019171%202.mkv",
+                "3": "http://srs.aapkipooja.com/Castlevania%20-%20Nocturne%20S01E03%2019171%203.mkv",
+                "4": "http://srs.aapkipooja.com/Castlevania%20-%20Nocturne%20S01E04%2019171%204.mkv",
+                "5": "http://srs.aapkipooja.com/Castlevania%20-%20Nocturne%20S01E05%2019171%205.mkv",
+                "6": "http://srs.aapkipooja.com/Castlevania%20-%20Nocturne%20S01E06%2019171%206.mkv",
+                "7": "http://srs.aapkipooja.com/Castlevania%20-%20Nocturne%20S01E07%2019171%207.mkv",
+                "8": "http://srs.aapkipooja.com/Castlevania%20-%20Nocturne%20S01E08%2019171%208.mkv"
+            }
+        }, 
+        {
+            "id": "1170",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Choona%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Choona%20Season%201.jpg",
+            "movieName": "Choona Season 1",
+            "htmlFile": "https://www.19170",
+            "directOne": "Crime,Comedy",
+            "directSecond": "YTuQkEmyIlk",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Choona",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/pjK3zgo1DofrpoP/Choona_S01E01_19170_1.mkv.mp4",
+                "2": "https://streamtape.site/v/lx4XYoVW9PCo4X/Choona_S01E02_19170_2.mkv.mp4",
+                "3": "https://streamtape.site/v/mYVDOoq242uXBo/Choona_S01E03_19170_3.mkv.mp4",
+                "4": "https://streamtape.site/v/7kjGxO3a1jIoqA/Choona_S01E04_19170_4.mkv.mp4",
+                "5": "https://streamtape.site/v/BXaMgqxaZ6iyZQR/Choona_S01E05_19170_5.mkv.mp4",
+                "6": "https://streamtape.site/v/ZPxdQ0aLzksqVdZ/Choona_S01E06_19170_6.mkv.mp4",
+                "7": "https://streamtape.site/v/3JMb2wbM91TdBA8/Choona_S01E07_19170_7.mkv.mp4",
+                "8": "https://streamtape.site/v/eo3ozlRRygSOWl/Choona_S01E08_19170_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/s1c430ka3zqf",
+                "2": "https://streamhub.ink/h0pgkq0lzor9",
+                "3": "https://streamhub.ink/3sbmge16vyst",
+                "4": "https://streamhub.ink/qpw6pf2m91uv",
+                "5": "https://streamhub.ink/tm65yjwewfuh",
+                "6": "https://streamhub.ink/aa599cgyoge6",
+                "7": "https://streamhub.ink/pqb7j08c9iud",
+                "8": "https://streamhub.ink/f51x3xwnmy1d"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/3dq8izubi02i",
+                "2": "https://uploadraja.com/3ktu2de5pv50",
+                "3": "https://uploadraja.com/9gei0b9tm9rr",
+                "4": "https://uploadraja.com/h7ebbkmfbkv9",
+                "5": "https://uploadraja.com/eljt3vbt0lt0",
+                "6": "https://uploadraja.com/2qrsfjz747hk",
+                "7": "https://uploadraja.com/rb530ogeotf7",
+                "8": "https://uploadraja.com/h0zjng5p1be7"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Choona%20S01E01%2019170%201.mkv",
+                "2": "http://srs.aapkipooja.com/Choona%20S01E02%2019170%202.mkv",
+                "3": "http://srs.aapkipooja.com/Choona%20S01E03%2019170%203.mkv",
+                "4": "http://srs.aapkipooja.com/Choona%20S01E04%2019170%204.mkv",
+                "5": "http://srs.aapkipooja.com/Choona%20S01E05%2019170%205.mkv",
+                "6": "http://srs.aapkipooja.com/Choona%20S01E06%2019170%206.mkv",
+                "7": "http://srs.aapkipooja.com/Choona%20S01E07%2019170%207.mkv",
+                "8": "http://srs.aapkipooja.com/Choona%20S01E08%2019170%208.mkv"
+            }
+        }, 
+        {
+            "id": "1172",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Gen%20V%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Gen%20V%20Season%201.jpg",
+            "movieName": "Gen V Season 1",
+            "htmlFile": "https://www.19172",
+            "directOne": "Action,Adventure",
+            "directSecond": "UGoVnG4Hs_8",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Gen V",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/p2dMbZX4KPFrYaW/Gen_V_S01E01_19172_1.mkv.mp4",
+                "2": "https://streamtape.site/v/Q2ZXWv02Kzi0PY7/Gen_V_S01E02_19172_2.mkv.mp4",
+                "3": "https://streamtape.site/v/8Wjxmg42ZJUoK9v/Gen_V_S01E03_19172_3.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/6lkf4waxg1uk",
+                "2": "https://streamhub.ink/pd0356m7t07n",
+                "3": "https://streamhub.ink/4jqo3dibkjiv"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/4i6fi2itf2o5",
+                "2": "https://uploadraja.com/lsl1fs0knqwm",
+                "3": "https://uploadraja.com/1tvqfbelb6uo"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Gen%20V%20S01E01%2019172%201.mkv",
+                "2": "http://srs.aapkipooja.com/Gen%20V%20S01E02%2019172%202.mkv",
+                "3": "http://srs.aapkipooja.com/Gen%20V%20S01E03%2019172%203.mkv"
             }
         }
     ]
