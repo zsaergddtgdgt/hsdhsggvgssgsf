@@ -1,5 +1,26 @@
 {
     "AllMovieDataList": [
+     {
+            "id": "3497",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Skanda%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Skanda%20(2023).jpg",
+            "movieName": "Skanda (2023)",
+            "htmlFile": "https://www.13497",
+            "directOne": "Hindi+Tamil",
+            "directSecond": "51XsfbW7Fzc",
+            "rating": "HDCamRip",
+            "catergory": "Action,Drama",
+            "Industry": "South",
+            "hub": "https://streamhub.ink/pl6u6c6haj6m",
+            "tape": "https://streamtape.site/v/GX8o3XbyQqcdlO/Skanda_%282023%29_13497.mkv.mp4",
+            "server3": "http://mvs.aapkipooja.com/720p/Skanda%20(2023)%2013497.mkv",
+            "server4": "https://uploadraja.com/u1nlxcm35g6u",
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.ink/n9bgjvatl3go",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.aapkipooja.com/480p/Skanda%20(2023)%2013497.mkv",
+            "480pS4": "https://uploadraja.com/r7r7tvrljznp"
+        },
         {
             "id": "3484",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Fukrey%203%20(2023).jpg",
