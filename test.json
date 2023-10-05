@@ -1,5 +1,27 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "3355",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Gadar%202%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Gadar%202%20(2023).jpg",
+            "movieName": "Gadar 2 (2023)",
+            "htmlFile": "https://www.3355",
+            "directOne": "Hindi",
+            "directSecond": "vhwr4vc_GY0",
+            "rating": "HD",
+            "catergory": "Action,Drama",
+            "Industry": "Bollywood",
+            "hub": "https://streamhub.ink/fix1erhjdcw3",
+            "tape": "https://streamtape.site/v/AowK3JkxjdfXy3Q/Gadar_2_%282023%29_3355.mkv.mp4",
+            "server3": "http://mvs.aapkipooja.com/720p/Gadar%202%20(2023)%203355.mkv",
+            "server4": "https://uploadraja.com/kgf2jhaeynt2",
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.ink/uq321ki0tar8",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.aapkipooja.com/480p/Gadar%202%20(2023)%203355.mkv",
+            "480pS4": "https://uploadraja.com/q4bn67u7rfgb"
+        },
      {
             "id": "3509",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Khufiya%20(2023).jpg",
@@ -2855,27 +2877,6 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.aapkipooja.com/480p/Virata%20Parvam%20(2023)%2013382.mkv",
             "480pS4": "https://uploadraja.com/wf51r6tyihei"
-        },
-        {
-            "id": "3355",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Gadar%202%20(2023).jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Gadar%202%20(2023).jpg",
-            "movieName": "Gadar 2 (2023)",
-            "htmlFile": "https://www.3355",
-            "directOne": "Hindi",
-            "directSecond": "vhwr4vc_GY0",
-            "rating": "HDTS-V2",
-            "catergory": "Action,Drama",
-            "Industry": "Bollywood",
-            "hub": "http://mvs.aapkipooja.com/720p/Gadar%202%20(2023)%203355.mkv",
-            "tape": "https://streamtape.site/v/jvVaLQvA8Xc4DM/Gadar_2_%282023%29_3355.mkv.mp4",
-            "server3": "http://mvs.aapkipooja.com/720p/Gadar%202%20(2023)%203355.mkv",
-            "server4": "https://uploadraja.com/no3d7vlvisqb",
-            "480p": "TRUE",
-            "480pS1": "https://streamhub.ink/4ed98v7sxf17",
-            "480pS2": "FALSE",
-            "480pS3": "http://mvs.aapkipooja.com/480p/Gadar%202%20(2023)%203355.mkv",
-            "480pS4": "https://uploadraja.com/2rxuev0ir22q"
         },
         {
             "id": "3396",
