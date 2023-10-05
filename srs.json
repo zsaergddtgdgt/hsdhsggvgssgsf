@@ -47155,6 +47155,49 @@
             }
         },
         {
+            "id": "1175",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Ahsoka%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Ahsoka%20Season%201.jpg",
+            "movieName": "Lupin Season 1",
+            "htmlFile": "https://www.19175",
+            "directOne": "Action,Crime",
+            "directSecond": "dDtcjOazd8Y",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Lupin",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/zbr7qVvdw8FYRO0/Lupin_S01E01_19175_1.mkv.mp4",
+                "2": "https://streamtape.site/v/DGLklVDQVzuk7qw/Lupin_S01E02_19175_2.mkv.mp4",
+                "3": "https://streamtape.site/v/KLK2qwOQGyH0XZz/Lupin_S01E03_19175_3.mkv.mp4",
+                "4": "https://streamtape.site/v/Oqw7rkGR1xhZPxJ/Lupin_S01E04_19175_4.mkv.mp4",
+                "5": "https://streamtape.site/v/Mop9gY8mjDsmpVe/Lupin_S01E05_19175_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE",
+                "4": "FALSE",
+                "5": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/ht0om9rbgzyd",
+                "2": "https://uploadraja.com/djruqnpkihcb",
+                "3": "https://uploadraja.com/bahkfi6mfznc",
+                "4": "https://uploadraja.com/5s3v68wljrmk",
+                "5": "https://uploadraja.com/rpo3yxutzhw7"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Lupin%20S01E01%2019175%201.mkv",
+                "2": "http://srs.aapkipooja.com/Lupin%20S01E02%2019175%202.mkv",
+                "3": "http://srs.aapkipooja.com/Lupin%20S01E03%2019175%203.mkv",
+                "4": "http://srs.aapkipooja.com/Lupin%20S01E04%2019175%204.mkv",
+                "5": "http://srs.aapkipooja.com/Lupin%20S01E05%2019175%205.mkv"
+            }
+        },
+        {
             "id": "1096",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Paurashpur%20Season%202.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Paurashpur%20Season%202.jpg",
@@ -50828,11 +50871,11 @@
             }
         },
         {
-            "id": "1175",
+            "id": "1176",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Lupin%20Season%203.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Lupin%20Season%203.jpg",
             "movieName": "Lupin Season 3",
-            "htmlFile": "https://www.19175",
+            "htmlFile": "https://www.19176",
             "directOne": "Action,Crime",
             "directSecond": "O2BzzUSX4AA",
             "imbd": "9.1",
