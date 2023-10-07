@@ -50325,37 +50325,6 @@
             }
         },
         {
-            "id": "1164",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/The%20Continental%20Season%201.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/The%20Continental%20Season%201.webp",
-            "movieName": "The Continental Season 1",
-            "htmlFile": "https://www.19164",
-            "directOne": "Action,Crime",
-            "directSecond": "tsAWFLQHbn0",
-            "imbd": "9.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "The Continental",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/KeXl20QexBU0Z8j/The_Continental_S01E01_19164_1.mkv.mp4",
-                "2": "https://streamtape.site/v/pxj6BZbGYxsrQKK/The_Continental_S01E02_19164_2.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/gb10vyqwtbkq",
-                "2": "https://streamhub.ink/kau0ip90a7hw"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/g8iuxkv3dp3a",
-                "2": "https://uploadraja.com/mzqfpd86c0bk"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/The%20Continental%20S01E01%2019164%201.mkv",
-                "2": "http://srs.aapkipooja.com/The%20Continental%20S01E02%2019164%202.mkv"
-            }
-        },
-        {
             "id": "1170",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Choona%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Choona%20Season%201.jpg",
@@ -50690,65 +50659,6 @@
             }
         },
         {
-            "id": "1167",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Breaking%20Bad%20Season%203.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Breaking%20Bad%20Season%203.jpg",
-            "movieName": "Breaking Bad Season 3",
-            "htmlFile": "https://www.19167",
-            "directOne": "Thriller,Crime",
-            "directSecond": "ZK2IQ3LbLYk",
-            "imbd": "9.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Breaking Bad",
-            "pathName": "S3",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/Z26Vz7PR1OhqALw/Breaking_Bad_S03E01_19167_1.mkv.mp4",
-                "2": "https://streamtape.site/v/MekAkDbbB6tm7l6/Breaking_Bad_S03E02_19167_2.mkv.mp4",
-                "3": "https://streamtape.site/v/rr1XJ1GVV3HyPJ/Breaking_Bad_S03E03_19167_3.mkv.mp4",
-                "4": "https://streamtape.site/v/WeeAGkvJpXfQ8A/Breaking_Bad_S03E04_19167_4.mkv.mp4",
-                "5": "https://streamtape.site/v/0edKW0or8pHbdxo/Breaking_Bad_S03E05_19167_5.mkv.mp4",
-                "6": "https://streamtape.site/v/KP3PRJ6gm7u0e3l/Breaking_Bad_S03E06_19167_6.mkv.mp4",
-                "7": "https://streamtape.site/v/G2MKxK74k9h1Ddp/Breaking_Bad_S03E07_19167_7.mkv.mp4",
-                "8": "https://streamtape.site/v/8ZYRPOedMeFoADB/Breaking_Bad_S03E08_19167_8.mkv.mp4",
-                "9": "https://streamtape.site/v/xyKARwKd14ckAR1/Breaking_Bad_S03E09_19167_9.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/7082j9rtbqw2",
-                "2": "https://streamhub.ink/iwnenq0gfe41",
-                "3": "https://streamhub.ink/utefh75nbph0",
-                "4": "https://streamhub.ink/jfl19cmuof55",
-                "5": "https://streamhub.ink/aah2fdhnt33d",
-                "6": "https://streamhub.ink/93n42gcvyv6f",
-                "7": "https://streamhub.ink/cjzm1hpptt4i",
-                "8": "https://streamhub.ink/ifqp3xlms0va",
-                "9": "https://streamhub.ink/3zkltnqvbbov"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/2dx9f6ubo4cx",
-                "2": "https://uploadraja.com/3hldsjnhadc1",
-                "3": "https://uploadraja.com/i2pzsiafr5hr",
-                "4": "https://uploadraja.com/gkvgcf73n45p",
-                "5": "https://uploadraja.com/nk0qemq8bk62",
-                "6": "https://uploadraja.com/ryt96wretohz",
-                "7": "https://uploadraja.com/3tazjx43qwaw",
-                "8": "https://uploadraja.com/834607x9tdl1",
-                "9": "https://uploadraja.com/7w5i9ekkewpe"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E01%2019167%201.mkv",
-                "2": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E02%2019167%202.mkv",
-                "3": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E03%2019167%203.mkv",
-                "4": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E04%2019167%204.mkv",
-                "5": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E05%2019167%205.mkv",
-                "6": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E06%2019167%206.mkv",
-                "7": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E07%2019167%207.mkv",
-                "8": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E08%2019167%208.mkv",
-                "9": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E09%2019167%209.mkv"
-            }
-        },
-        {
             "id": "1120",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Lakhan%20Leela%20Bhargava%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Lakhan%20Leela%20Bhargava%20Season%201.jpg",
@@ -51029,6 +50939,131 @@
             },
             "episodeServer4": {
                 "1": "http://srs.aapkipooja.com/Loki%20S02E01%2019177%201.mkv"
+            }
+        },
+        {
+            "id": "1180",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Constable%20Girpade%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Constable%20Girpade%20Season%201.jpg",
+            "movieName": "Constable Girpade Season 1",
+            "htmlFile": "https://www.19180",
+            "directOne": "Comedy,Drama",
+            "directSecond": "NZXyjsv5-5o",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Constable Girpade",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/26ZXrDgbeRtZ0Kz/Constable_Girpade_S01_Complete_19180_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "http://srs.aapkipooja.com/Constable%20Girpade%20S01%20Complete%2019180%201.mkv"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/1e9u06h63ol3"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Constable%20Girpade%20S01%20Complete%2019180%201.mkv"
+            }
+        },
+        {
+            "id": "1167",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Breaking%20Bad%20Season%203.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Breaking%20Bad%20Season%203.jpg",
+            "movieName": "Breaking Bad Season 3",
+            "htmlFile": "https://www.19167",
+            "directOne": "Thriller,Crime",
+            "directSecond": "ZK2IQ3LbLYk",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Breaking Bad",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/Z26Vz7PR1OhqALw/Breaking_Bad_S03E01_19167_1.mkv.mp4",
+                "2": "https://streamtape.site/v/MekAkDbbB6tm7l6/Breaking_Bad_S03E02_19167_2.mkv.mp4",
+                "3": "https://streamtape.site/v/rr1XJ1GVV3HyPJ/Breaking_Bad_S03E03_19167_3.mkv.mp4",
+                "4": "https://streamtape.site/v/WeeAGkvJpXfQ8A/Breaking_Bad_S03E04_19167_4.mkv.mp4",
+                "5": "https://streamtape.site/v/0edKW0or8pHbdxo/Breaking_Bad_S03E05_19167_5.mkv.mp4",
+                "6": "https://streamtape.site/v/KP3PRJ6gm7u0e3l/Breaking_Bad_S03E06_19167_6.mkv.mp4",
+                "7": "https://streamtape.site/v/G2MKxK74k9h1Ddp/Breaking_Bad_S03E07_19167_7.mkv.mp4",
+                "8": "https://streamtape.site/v/8ZYRPOedMeFoADB/Breaking_Bad_S03E08_19167_8.mkv.mp4",
+                "9": "https://streamtape.site/v/xyKARwKd14ckAR1/Breaking_Bad_S03E09_19167_9.mkv.mp4",
+                "10": "https://streamtape.site/v/Kqmj7P9pZxT0dzO/Breaking_Bad_S03E10_19167_10.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/7082j9rtbqw2",
+                "2": "https://streamhub.ink/iwnenq0gfe41",
+                "3": "https://streamhub.ink/utefh75nbph0",
+                "4": "https://streamhub.ink/jfl19cmuof55",
+                "5": "https://streamhub.ink/aah2fdhnt33d",
+                "6": "https://streamhub.ink/93n42gcvyv6f",
+                "7": "https://streamhub.ink/cjzm1hpptt4i",
+                "8": "https://streamhub.ink/ifqp3xlms0va",
+                "9": "https://streamhub.ink/3zkltnqvbbov",
+                "10": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E10%2019167%2010.mkv"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/2dx9f6ubo4cx",
+                "2": "https://uploadraja.com/3hldsjnhadc1",
+                "3": "https://uploadraja.com/i2pzsiafr5hr",
+                "4": "https://uploadraja.com/gkvgcf73n45p",
+                "5": "https://uploadraja.com/nk0qemq8bk62",
+                "6": "https://uploadraja.com/ryt96wretohz",
+                "7": "https://uploadraja.com/3tazjx43qwaw",
+                "8": "https://uploadraja.com/834607x9tdl1",
+                "9": "https://uploadraja.com/7w5i9ekkewpe",
+                "10": "https://uploadraja.com/vifyjgnht6fs"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E01%2019167%201.mkv",
+                "2": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E02%2019167%202.mkv",
+                "3": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E03%2019167%203.mkv",
+                "4": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E04%2019167%204.mkv",
+                "5": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E05%2019167%205.mkv",
+                "6": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E06%2019167%206.mkv",
+                "7": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E07%2019167%207.mkv",
+                "8": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E08%2019167%208.mkv",
+                "9": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E09%2019167%209.mkv",
+                "10": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E10%2019167%2010.mkv"
+            }
+        },
+        {
+            "id": "1164",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/The%20Continental%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/The%20Continental%20Season%201.webp",
+            "movieName": "The Continental Season 1",
+            "htmlFile": "https://www.19164",
+            "directOne": "Action,Crime",
+            "directSecond": "tsAWFLQHbn0",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Continental",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/KeXl20QexBU0Z8j/The_Continental_S01E01_19164_1.mkv.mp4",
+                "2": "https://streamtape.site/v/pxj6BZbGYxsrQKK/The_Continental_S01E02_19164_2.mkv.mp4",
+                "3": "https://streamtape.site/v/9ekX6PaMLwUaGL8/The_Continental_S01E03_19164_3.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/gb10vyqwtbkq",
+                "2": "https://streamhub.ink/kau0ip90a7hw",
+                "3": "http://srs.aapkipooja.com/The%20Continental%20S01E03%2019164%203.mkv"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/g8iuxkv3dp3a",
+                "2": "https://uploadraja.com/mzqfpd86c0bk",
+                "3": "https://uploadraja.com/vm1ee1ztiul9"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/The%20Continental%20S01E01%2019164%201.mkv",
+                "2": "http://srs.aapkipooja.com/The%20Continental%20S01E02%2019164%202.mkv",
+                "3": "http://srs.aapkipooja.com/The%20Continental%20S01E03%2019164%203.mkv"
             }
         }
     ]
