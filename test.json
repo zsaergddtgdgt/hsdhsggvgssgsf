@@ -1,5 +1,27 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "3356",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/OMG%202%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/OMG%202%20(2023).jpg",
+            "movieName": "OMG 2 (2023)",
+            "htmlFile": "https://www.13356",
+            "directOne": "Hindi",
+            "directSecond": "Y6ZKXqM7HNQ",
+            "rating": "HD",
+            "catergory": "Drama",
+            "Industry": "Bollywood",
+            "hub": "http://mvs.aapkipooja.com/720p/OMG%202%20(2023)%2013356.mkv",
+            "tape": "https://streamtape.site/v/8Rp2mmmYBVho7lq/OMG_2_%282023%29_13356.mkv.mp4",
+            "server3": "http://mvs.aapkipooja.com/720p/OMG%202%20(2023)%2013356.mkv",
+            "server4": "https://uploadraja.com/ry4z2x758585",
+            "480p": "TRUE",
+            "480pS1": "http://mvs.aapkipooja.com/480p/OMG%202%20(2023)%2013356.mkv",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.aapkipooja.com/480p/OMG%202%20(2023)%2013356.mkv",
+            "480pS4": "https://uploadraja.com/h79qwxhxq2kd"
+        },
         {
             "id": "3521",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Mission%20Raniganj%20(2023).jpg",
@@ -20,6 +42,27 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.aapkipooja.com/480p/Mission%20Raniganj%20(2023)%203521.mkv",
             "480pS4": "https://uploadraja.com/kyqstvf1ldnm"
+        },
+        {
+            "id": "3523",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/The%20Exorcist%20Believer%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/The%20Exorcist%20Believer%20(2023).jpg",
+            "movieName": "The Exorcist Believer (2023)",
+            "htmlFile": "https://www.13523",
+            "directOne": "Hindi",
+            "directSecond": "sZdhLZ3qMk4",
+            "rating": "HDCamRip",
+            "catergory": "Horror",
+            "Industry": "Hollywood",
+            "hub": "http://mvs.aapkipooja.com/720p/The%20Exorcist%20Believer%20(2023)%2013523.mkv",
+            "tape": "https://streamtape.site/v/b301gRb4aeSLAM/The_Exorcist_Believer_%282023%29_13523.mkv.mp4",
+            "server3": "http://mvs.aapkipooja.com/720p/The%20Exorcist%20Believer%20(2023)%2013523.mkv",
+            "server4": "https://uploadraja.com/db9mvtu5crvn",
+            "480p": "TRUE",
+            "480pS1": "http://mvs.aapkipooja.com/480p/The%20Exorcist%20Believer%20(2023)%2013523.mkv",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.aapkipooja.com/480p/The%20Exorcist%20Believer%20(2023)%2013523.mkv",
+            "480pS4": "https://uploadraja.com/p59ruq7ox3y8"
         },
         {
             "id": "3522",
@@ -167,6 +210,27 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.aapkipooja.com/480p/The%20Equalizer%203%20(2023)%2013421.mkv",
             "480pS4": "https://uploadraja.com/mm795m9g8v4i"
+        },
+        {
+            "id": "3524",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/Sniper%20-%20G.R.I.T.%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/Sniper%20-%20G.R.I.T.%20(2023).jpg",
+            "movieName": "Sniper - G.R.I.T. (2023)",
+            "htmlFile": "https://www.13524",
+            "directOne": "Hindi+English",
+            "directSecond": "AAT4TCet1KQ",
+            "rating": "HD",
+            "catergory": "Action,Crime",
+            "Industry": "Hollywood",
+            "hub": "http://mvs.aapkipooja.com/720p/Sniper%20-%20G.R.I.T.%20(2023)%2013524.mkv",
+            "tape": "https://streamtape.site/v/zk683pzWpxSY6GV/Sniper_-_G.R.I.T._%282023%29_13524.mkv.mp4",
+            "server3": "http://mvs.aapkipooja.com/720p/Sniper%20-%20G.R.I.T.%20(2023)%2013524.mkv",
+            "server4": "https://uploadraja.com/u3m9zguky6k4",
+            "480p": "TRUE",
+            "480pS1": "http://mvs.aapkipooja.com/480p/The%20Exorcist%20Believer%20(2023)%2013523.mkv",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.aapkipooja.com/480p/The%20Exorcist%20Believer%20(2023)%2013523.mkv",
+            "480pS4": "https://uploadraja.com/kacd4texwxrw"
         },
         {
             "id": "3519",
@@ -3443,27 +3507,6 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.aapkipooja.com/480p/Roadside%20Rowdy%20(2016)%2013383.mkv",
             "480pS4": "https://uploadraja.com/qupur8lc8pu3"
-        },
-        {
-            "id": "3356",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H1/OMG%202%20(2023).jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V1/OMG%202%20(2023).jpg",
-            "movieName": "OMG 2 (2023)",
-            "htmlFile": "https://www.13356",
-            "directOne": "Hindi",
-            "directSecond": "Y6ZKXqM7HNQ",
-            "rating": "HQ-V2",
-            "catergory": "Drama",
-            "Industry": "Bollywood",
-            "hub": "http://mvs.aapkipooja.com/720p/OMG%202%20(2023)%2013356.mkv",
-            "tape": "https://streamtape.site/v/8Rp2mmmYBVho7lq/OMG_2_%282023%29_13356.mkv.mp4",
-            "server3": "http://mvs.aapkipooja.com/720p/OMG%202%20(2023)%2013356.mkv",
-            "server4": "https://uploadraja.com/6h4u6tv316a9",
-            "480p": "TRUE",
-            "480pS1": "https://streamhub.ink/tjyf61ptha04",
-            "480pS2": "FALSE",
-            "480pS3": "http://mvs.aapkipooja.com/480p/OMG%202%20(2023)%2013356.mkv",
-            "480pS4": "https://uploadraja.com/cqkwqered71r"
         },
         {
             "id": "3378",
