@@ -50663,6 +50663,57 @@
             }
         },
         {
+            "id": "1182",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Upload%20Season%202.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Upload%20Season%202.jpg",
+            "movieName": "Upload Season 2",
+            "htmlFile": "https://www.19182",
+            "directOne": "Mystery,Sci-Fi",
+            "directSecond": "4OtfjPCJpU0",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Upload",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/2zOmBWd7MyiZrLj/Upload_S02E01_19182_1.mkv.mp4",
+                "2": "https://streamtape.site/v/W1ayl4pxmrcb6q8/Upload_S02E02_19182_2.mkv.mp4",
+                "3": "https://streamtape.site/v/m66KzA7kPjfbwwg/Upload_S02E03_19182_3.mkv.mp4",
+                "4": "https://streamtape.site/v/MaKddk4WL1umj97/Upload_S02E04_19182_4.mkv.mp4",
+                "5": "https://streamtape.site/v/Za7OdA06rRhqGkZ/Upload_S02E05_19182_5.mkv.mp4",
+                "6": "https://streamtape.site/v/Xwx4WP6zOxFD96Z/Upload_S02E06_19182_6.mkv.mp4",
+                "7": "https://streamtape.site/v/aPYmMqDGZ1HdAl/Upload_S02E07_19182_7.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/e498ks2lt4cs",
+                "2": "https://streamhub.ink/fu4ogmjuud8q",
+                "3": "https://streamhub.ink/hgonbhcn51qr",
+                "4": "https://streamhub.ink/gjj4tvgicuud",
+                "5": "https://streamhub.ink/2s0i0ehqebva",
+                "6": "https://streamhub.ink/h2q5pvfixkmt",
+                "7": "https://streamhub.ink/8435tglc9p11"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/pis6nbpoj95d",
+                "2": "https://uploadraja.com/w5t6rad4v60y",
+                "3": "https://uploadraja.com/8yl3owvt13t1",
+                "4": "https://uploadraja.com/s9r9l3v9sog6",
+                "5": "https://uploadraja.com/gb75s9fgigha",
+                "6": "https://uploadraja.com/qmiiqhjrx30c",
+                "7": "https://uploadraja.com/dpubnz5bglb8"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/Upload%20S02E01%2019182%201.mkv",
+                "2": "https://srs.aapkipooja.com/Upload%20S02E02%2019182%202.mkv",
+                "3": "https://srs.aapkipooja.com/Upload%20S02E03%2019182%203.mkv",
+                "4": "https://srs.aapkipooja.com/Upload%20S02E04%2019182%204.mkv",
+                "5": "https://srs.aapkipooja.com/Upload%20S02E05%2019182%205.mkv",
+                "6": "https://srs.aapkipooja.com/Upload%20S02E06%2019182%206.mkv",
+                "7": "https://srs.aapkipooja.com/Upload%20S02E07%2019182%207.mkv"
+            }
+        },
+        {
             "id": "1120",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Lakhan%20Leela%20Bhargava%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Lakhan%20Leela%20Bhargava%20Season%201.jpg",
@@ -51146,7 +51197,8 @@
                 "8": "https://streamtape.site/v/8ZYRPOedMeFoADB/Breaking_Bad_S03E08_19167_8.mkv.mp4",
                 "9": "https://streamtape.site/v/xyKARwKd14ckAR1/Breaking_Bad_S03E09_19167_9.mkv.mp4",
                 "10": "https://streamtape.site/v/Kqmj7P9pZxT0dzO/Breaking_Bad_S03E10_19167_10.mkv.mp4",
-                "11": "https://streamtape.site/v/My9xzOl04QfGb8/Breaking_Bad_S03E11_19167_11.mkv.mp4"
+                "11": "https://streamtape.site/v/My9xzOl04QfGb8/Breaking_Bad_S03E11_19167_11.mkv.mp4",
+                "12": "https://streamtape.site/v/aPRobg8X1juQ33/Breaking_Bad_S03E12_19167_12.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.ink/7082j9rtbqw2",
@@ -51159,7 +51211,8 @@
                 "8": "https://streamhub.ink/ifqp3xlms0va",
                 "9": "https://streamhub.ink/3zkltnqvbbov",
                 "10": "https://streamhub.ink/i1dbils41fkd",
-                "11": "https://streamhub.ink/6dn83qzc6n90"
+                "11": "https://streamhub.ink/6dn83qzc6n90",
+                "12": "https://streamhub.ink/qhhzhdeoti89"
             },
             "episodeServer3": {
                 "1": "https://uploadraja.com/2dx9f6ubo4cx",
@@ -51172,7 +51225,8 @@
                 "8": "https://uploadraja.com/834607x9tdl1",
                 "9": "https://uploadraja.com/7w5i9ekkewpe",
                 "10": "https://uploadraja.com/vifyjgnht6fs",
-                "11": "https://uploadraja.com/71i04xm2zxwj"
+                "11": "https://uploadraja.com/71i04xm2zxwj",
+                "12": "https://uploadraja.com/m2lhn6vh5z12"
             },
             "episodeServer4": {
                 "1": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E01%2019167%201.mkv",
@@ -51185,7 +51239,8 @@
                 "8": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E08%2019167%208.mkv",
                 "9": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E09%2019167%209.mkv",
                 "10": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E10%2019167%2010.mkv",
-                "11": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E11%2019167%2011.mkv"
+                "11": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E11%2019167%2011.mkv",
+                "12": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E12%2019167%2012.mkv"
             }
         }
     ]
