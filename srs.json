@@ -48009,49 +48009,6 @@
             }
         },
         {
-            "id": "1115",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Mathagam%20Season%201.webp",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Mathagam%20Season%201.jpg",
-            "movieName": "Mathagam Season 1",
-            "htmlFile": "https://www.19115",
-            "directOne": "Thriller,Drama",
-            "directSecond": "elma-IErbN4",
-            "imbd": "9.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Mathagam",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/zKlx6AglaqiepM/Mathagam_S01E01_19115_1.mkv.mp4",
-                "2": "https://streamtape.site/v/1JwmYv7RopHeYbe/Mathagam_S01E02_19115_2.mkv.mp4",
-                "3": "https://streamtape.site/v/m7LoOP6XY0IXwg/Mathagam_S01E03_19115_3.mkv.mp4",
-                "4": "https://streamtape.site/v/QJqQg18kyzi9zl/Mathagam_S01E04_19115_4.mkv.mp4",
-                "5": "https://streamtape.site/v/vBjxm7vZbrI40G1/Mathagam_S01E05_19115_5.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/8woj9bq6crcq",
-                "2": "https://streamhub.ink/swexcgzczjzj",
-                "3": "https://streamhub.ink/31f9i1vtw4xr",
-                "4": "https://streamhub.ink/8o1lcfq95mhx",
-                "5": "https://streamhub.ink/aalsrivz97if"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/jfdxk1yj1sgr",
-                "2": "https://uploadraja.com/66r0gi4dgs5m",
-                "3": "https://uploadraja.com/6shza77guunh",
-                "4": "https://uploadraja.com/ae174ankk1t3",
-                "5": "https://uploadraja.com/81g7n2hw2t5f"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Mathagam%20S01E01%2019115%201.mkv",
-                "2": "http://srs.aapkipooja.com/Mathagam%20S01E02%2019115%202.mkv",
-                "3": "http://srs.aapkipooja.com/Mathagam%20S01E03%2019115%203.mkv",
-                "4": "http://srs.aapkipooja.com/Mathagam%20S01E04%2019115%204.mkv",
-                "5": "http://srs.aapkipooja.com/Mathagam%20S01E05%2019115%205.mkv"
-            }
-        },
-        {
             "id": "1117",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/V1/New%20Bandits%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/New%20Bandits%20Season%201.jpg",
@@ -51198,7 +51155,8 @@
                 "9": "https://streamtape.site/v/xyKARwKd14ckAR1/Breaking_Bad_S03E09_19167_9.mkv.mp4",
                 "10": "https://streamtape.site/v/Kqmj7P9pZxT0dzO/Breaking_Bad_S03E10_19167_10.mkv.mp4",
                 "11": "https://streamtape.site/v/My9xzOl04QfGb8/Breaking_Bad_S03E11_19167_11.mkv.mp4",
-                "12": "https://streamtape.site/v/aPRobg8X1juQ33/Breaking_Bad_S03E12_19167_12.mkv.mp4"
+                "12": "https://streamtape.site/v/aPRobg8X1juQ33/Breaking_Bad_S03E12_19167_12.mkv.mp4",
+                "13": "https://streamtape.site/v/lwRD6aoPp6H7gY0/Breaking_Bad_S03E13_19167_13.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.ink/7082j9rtbqw2",
@@ -51212,7 +51170,8 @@
                 "9": "https://streamhub.ink/3zkltnqvbbov",
                 "10": "https://streamhub.ink/i1dbils41fkd",
                 "11": "https://streamhub.ink/6dn83qzc6n90",
-                "12": "https://streamhub.ink/qhhzhdeoti89"
+                "12": "https://streamhub.ink/qhhzhdeoti89",
+                "13": "https://streamhub.ink/mv25jev1otpb"
             },
             "episodeServer3": {
                 "1": "https://uploadraja.com/2dx9f6ubo4cx",
@@ -51226,7 +51185,8 @@
                 "9": "https://uploadraja.com/7w5i9ekkewpe",
                 "10": "https://uploadraja.com/vifyjgnht6fs",
                 "11": "https://uploadraja.com/71i04xm2zxwj",
-                "12": "https://uploadraja.com/m2lhn6vh5z12"
+                "12": "https://uploadraja.com/m2lhn6vh5z12",
+                "13": "https://uploadraja.com/g0jw32ha7yoq"
             },
             "episodeServer4": {
                 "1": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E01%2019167%201.mkv",
@@ -51240,7 +51200,137 @@
                 "9": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E09%2019167%209.mkv",
                 "10": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E10%2019167%2010.mkv",
                 "11": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E11%2019167%2011.mkv",
-                "12": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E12%2019167%2012.mkv"
+                "12": "http://srs.aapkipooja.com/Breaking%20Bad%20S03E12%2019167%2012.mkv",
+                "13": "http://srs.aapkipooja.com/lst/Breaking%20Bad%20S03E13%2019167%2013.mkv"
+            }
+        },
+        {
+            "id": "1115",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Mathagam%20Season%201.webp",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Mathagam%20Season%201.jpg",
+            "movieName": "Mathagam Season 1",
+            "htmlFile": "https://www.19115",
+            "directOne": "Thriller,Drama",
+            "directSecond": "elma-IErbN4",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Mathagam",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/zKlx6AglaqiepM/Mathagam_S01E01_19115_1.mkv.mp4",
+                "2": "https://streamtape.site/v/1JwmYv7RopHeYbe/Mathagam_S01E02_19115_2.mkv.mp4",
+                "3": "https://streamtape.site/v/m7LoOP6XY0IXwg/Mathagam_S01E03_19115_3.mkv.mp4",
+                "4": "https://streamtape.site/v/QJqQg18kyzi9zl/Mathagam_S01E04_19115_4.mkv.mp4",
+                "5": "https://streamtape.site/v/vBjxm7vZbrI40G1/Mathagam_S01E05_19115_5.mkv.mp4",
+                "6": "https://streamtape.site/v/aoozZO6aaahx1dz/Mathagam_S01E06-07_19115_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/8woj9bq6crcq",
+                "2": "https://streamhub.ink/swexcgzczjzj",
+                "3": "https://streamhub.ink/31f9i1vtw4xr",
+                "4": "https://streamhub.ink/8o1lcfq95mhx",
+                "5": "https://streamhub.ink/aalsrivz97if",
+                "6": "https://streamhub.ink/wbtv3pf9eb26"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/jfdxk1yj1sgr",
+                "2": "https://uploadraja.com/66r0gi4dgs5m",
+                "3": "https://uploadraja.com/6shza77guunh",
+                "4": "https://uploadraja.com/ae174ankk1t3",
+                "5": "https://uploadraja.com/81g7n2hw2t5f",
+                "6": "https://uploadraja.com/hherw2kga8uo"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Mathagam%20S01E01%2019115%201.mkv",
+                "2": "http://srs.aapkipooja.com/Mathagam%20S01E02%2019115%202.mkv",
+                "3": "http://srs.aapkipooja.com/Mathagam%20S01E03%2019115%203.mkv",
+                "4": "http://srs.aapkipooja.com/Mathagam%20S01E04%2019115%204.mkv",
+                "5": "http://srs.aapkipooja.com/Mathagam%20S01E05%2019115%205.mkv",
+                "6": "http://srs.aapkipooja.com/lst/Mathagam%20S01E06%2019115%206.mkv"
+            }
+        },
+        {
+            "id": "1183",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Half%20Love%20Half%20Arranged%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Half%20Love%20Half%20Arranged%20Season%201.jpg",
+            "movieName": "Half Love Half Arranged Season 1",
+            "htmlFile": "https://www.19183",
+            "directOne": "Romance,Comedy",
+            "directSecond": "PtJdDH9Hj3A",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Half Love Half Arranged",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/B47jvMmm6dhmAW/Half_Love_Half_Arranged_S01Complete_19183_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/ouu9yjb4z3ws"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/orp4v0dbsb6c"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/lst/Half%20Love%20Half%20Arranged%20S01Complete%2019183%201.mkv"
+            }
+        },
+        {
+            "id": "1184",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/The%20Fall%20of%20the%20House%20of%20Usher%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/The%20Fall%20of%20the%20House%20of%20Usher%20Season%201.jpg",
+            "movieName": "The Fall of the House of Usher Season 1",
+            "htmlFile": "https://www.19184",
+            "directOne": "Horror,Drama",
+            "directSecond": "iAH_kHGKfAo",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Fall of the House of Usher",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/A6KrqR6l9BHXKPY/The_Fall_of_the_House_of_Usher_S01E01_19184_1.mkv.mp4",
+                "2": "https://streamtape.site/v/BJYDaXvrmqCQyr/The_Fall_of_the_House_of_Usher_S01E02_19184_2.mkv.mp4",
+                "3": "https://streamtape.site/v/dZqY1wZgABUkWl9/The_Fall_of_the_House_of_Usher_S01E03_19184_3.mkv.mp4",
+                "4": "https://streamtape.site/v/jpLd7L01oBuaWd/The_Fall_of_the_House_of_Usher_S01E04_19184_4.mkv.mp4",
+                "5": "https://streamtape.site/v/ywM7dJ4l70S1LKl/The_Fall_of_the_House_of_Usher_S01E05_19184_5.mkv.mp4",
+                "6": "https://streamtape.site/v/YedV7mPgyLILL6/The_Fall_of_the_House_of_Usher_S01E06_19184_6.mkv.mp4",
+                "7": "https://streamtape.site/v/mwBlPpDpk1FQg4/The_Fall_of_the_House_of_Usher_S01E07_19184_7.mkv.mp4",
+                "8": "https://streamtape.site/v/Y7mPBmJo8YUvVvV/The_Fall_of_the_House_of_Usher_S01E08_19184_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/nli5gfwjqx6l",
+                "2": "https://streamhub.ink/bilmtxg4kgrg",
+                "3": "https://streamhub.ink/45oogionsxdz",
+                "4": "https://streamhub.ink/fj9xodai6hly",
+                "5": "https://streamhub.ink/vx1zkxetyt6t",
+                "6": "https://streamhub.ink/niqsmra6nrv7",
+                "7": "https://streamhub.ink/clxke6i59e67",
+                "8": "https://streamhub.ink/94152wbwtnk4"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/y0zymod2psxa",
+                "2": "https://uploadraja.com/t434ucwd3iwi",
+                "3": "https://uploadraja.com/xq9zap583uxn",
+                "4": "https://uploadraja.com/25rrfuq09sky",
+                "5": "https://uploadraja.com/tlt17u7zh6p0",
+                "6": "https://uploadraja.com/8ye855vz1xb5",
+                "7": "https://uploadraja.com/7r8il2w3c199",
+                "8": "https://uploadraja.com/wgwmnxzkxt0k"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/lst/The%20Fall%20of%20the%20House%20of%20Usher%20S01E01%2019184%201.mkv",
+                "2": "https://srs.aapkipooja.com/lst/The%20Fall%20of%20the%20House%20of%20Usher%20S01E02%2019184%202.mkv",
+                "3": "https://srs.aapkipooja.com/lst/The%20Fall%20of%20the%20House%20of%20Usher%20S01E03%2019184%203.mkv",
+                "4": "https://srs.aapkipooja.com/lst/The%20Fall%20of%20the%20House%20of%20Usher%20S01E04%2019184%204.mkv",
+                "5": "https://srs.aapkipooja.com/lst/The%20Fall%20of%20the%20House%20of%20Usher%20S01E05%2019184%205.mkv",
+                "6": "https://srs.aapkipooja.com/lst/The%20Fall%20of%20the%20House%20of%20Usher%20S01E06%2019184%206.mkv",
+                "7": "https://srs.aapkipooja.com/lst/The%20Fall%20of%20the%20House%20of%20Usher%20S01E07%2019184%207.mkv",
+                "8": "https://srs.aapkipooja.com/lst/The%20Fall%20of%20the%20House%20of%20Usher%20S01E08%2019184%208.mkv"
             }
         }
     ]
