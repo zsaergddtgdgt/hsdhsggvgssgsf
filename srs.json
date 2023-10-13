@@ -51268,6 +51268,80 @@
             }
         },
         {
+            "id": "1187",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Shantit%20Kranti%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Shantit%20Kranti%20Season%201.jpg",
+            "movieName": "Shantit Kranti Season 1",
+            "htmlFile": "https://www.19187",
+            "directOne": "Comedy,Drama",
+            "directSecond": "eZ91EjX2qQ0",
+            "imbd": "9",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Shantit Kranti",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/rdZmOX3mRwCb6oq/Shantit_Kranti_S01E01_19187_1.mkv.mp4",
+                "2": "https://streamtape.site/v/j7pkxRgmK2CJxl/Shantit_Kranti_S01E02_19187_2.mkv.mp4",
+                "3": "https://streamtape.site/v/WymqLwJv02hRV4/Shantit_Kranti_S01E03_19187_3.mkv.mp4",
+                "4": "https://streamtape.site/v/OkG62JKDxvI7xj/Shantit_Kranti_S01E04_19187_4.mkv.mp4",
+                "5": "https://streamtape.site/v/d8AlvBkdAYC1b1/Shantit_Kranti_S01E05_19187_5.mkv.mp4",
+                "6": "https://streamtape.site/v/qyJBQvBZreszXBo/Shantit_Kranti_S01E06_19187_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/sy5ue1nza8li",
+                "2": "https://streamhub.ink/42mn6tzx1jmu",
+                "3": "https://streamhub.ink/c9i9mn875ocx",
+                "4": "https://streamhub.ink/x78vgs1npesm",
+                "5": "https://streamhub.ink/2hj5tmvjek4n",
+                "6": "https://streamhub.ink/u9ape0z1dftx"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/sr9refqvdjn9",
+                "2": "https://uploadraja.com/m3d57hsu34kk",
+                "3": "https://uploadraja.com/4nb3fasat3od",
+                "4": "https://uploadraja.com/pd1f7dz1bzlk",
+                "5": "https://uploadraja.com/o9pnpwa8k6gj",
+                "6": "https://uploadraja.com/hggnstw0aukd"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/lst/Shantit%20Kranti%20S01E01%2019187%201.mkv",
+                "2": "https://srs.aapkipooja.com/lst/Shantit%20Kranti%20S01E02%2019187%202.mkv",
+                "3": "https://srs.aapkipooja.com/lst/Shantit%20Kranti%20S01E03%2019187%203.mkv",
+                "4": "https://srs.aapkipooja.com/lst/Shantit%20Kranti%20S01E04%2019187%204.mkv",
+                "5": "https://srs.aapkipooja.com/lst/Shantit%20Kranti%20S01E05%2019187%205.mkv",
+                "6": "https://srs.aapkipooja.com/lst/Shantit%20Kranti%20S01E06%2019187%206.mkv"
+            }
+        },
+        {
+            "id": "1188",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Shantit%20Kranti%20Season%202.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Shantit%20Kranti%20Season%202.jpg",
+            "movieName": "Shantit Kranti Season 2",
+            "htmlFile": "https://www.19188",
+            "directOne": "Comedy,Drama",
+            "directSecond": "JgZOH8a3T8I",
+            "imbd": "9",
+            "rating": "Hindi+Marathi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Shantit Kranti",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/rdZmOX3mRwCb6oq/Shantit_Kranti_S01E01_19187_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/nau4oikklle9"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/hhha7dltan7q"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/lst/Shantit%20Kranti%20S02Complete%2019188%201.mkv"
+            }
+        },
+        {
             "id": "1186",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Breaking%20Bad%20Season%204.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Breaking%20Bad%20Season%204.jpg",
@@ -51401,6 +51475,65 @@
             "episodeServer4": {
                 "1": "http://srs.aapkipooja.com/Loki%20S02E01%2019177%201.mkv",
                 "2": "https://srs.aapkipooja.com/lst/Loki%20S02E02%2019177%202.mkv"
+            }
+        },
+        {
+            "id": "1189",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Sultan%20Of%20Delhi%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Sultan%20Of%20Delhi%20Season%201.jpg",
+            "movieName": "Sultan Of Delhi Season 1",
+            "htmlFile": "https://www.19189",
+            "directOne": "Action,Crime",
+            "directSecond": "q1rBgcuLLWQ",
+            "imbd": "9",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Sultan Of Delhi",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/jgYrGa8Q1GIgX8/Sultan_Of_Delhi_S01E01_19189_1.mkv.mp4",
+                "2": "https://streamtape.site/v/2PlbAeadA8IZ8Y7/Sultan_Of_Delhi_S01E02_19189_2.mkv.mp4",
+                "3": "https://streamtape.site/v/d7J37ePWdGUkO6P/Sultan_Of_Delhi_S01E03_19189_3.mkv.mp4",
+                "4": "https://streamtape.site/v/P7weZJvOkkF04qP/Sultan_Of_Delhi_S01E04_19189_4.mkv.mp4",
+                "5": "https://streamtape.site/v/DA4Gzlay87iwVR/Sultan_Of_Delhi_S01E05_19189_5.mkv.mp4",
+                "6": "https://streamtape.site/v/bkYX1mZ80YFPAaM/Sultan_Of_Delhi_S01E06_19189_6.mkv.mp4",
+                "7": "https://streamtape.site/v/QDg2KgvOyZf00LY/Sultan_Of_Delhi_S01E07_19189_7.mkv.mp4",
+                "8": "https://streamtape.site/v/z7j34wKV1eIY3rb/Sultan_Of_Delhi_S01E08_19189_8.mkv.mp4",
+                "9": "https://streamtape.site/v/zPDO27vdZlhYPjz/Sultan_Of_Delhi_S01E09_19189_9.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/77iu51wxt1j0",
+                "2": "https://streamhub.ink/vsgrffp8vugw",
+                "3": "https://streamhub.ink/llioytoze52o",
+                "4": "https://streamhub.ink/67fm6d6m1qjw",
+                "5": "https://streamhub.ink/bnle4dt4imkw",
+                "6": "https://streamhub.ink/71g59vpcufuo",
+                "7": "https://streamhub.ink/y68ha3ayvwv5",
+                "8": "https://streamhub.ink/hv6mrda2ewdf",
+                "9": "https://streamhub.ink/cyhi89c92jjc"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/1qm3n6x7tnv8",
+                "2": "https://uploadraja.com/h74grg2zamza",
+                "3": "https://uploadraja.com/qqatsa8j6znw",
+                "4": "https://uploadraja.com/oigv66adua17",
+                "5": "https://uploadraja.com/oi9l6arspmu8",
+                "6": "https://uploadraja.com/fuu2udn4elzt",
+                "7": "https://uploadraja.com/ehd69l1fipl2",
+                "8": "https://uploadraja.com/01194j2hrwmv",
+                "9": "https://uploadraja.com/sk17vq3qaalr"
+            },
+            "episodeServer4": {
+                "1": "https://srs.aapkipooja.com/lst/Sultan%20Of%20Delhi%20S01E01%2019189%201.mkv",
+                "2": "https://srs.aapkipooja.com/lst/Sultan%20Of%20Delhi%20S01E02%2019189%202.mkv",
+                "3": "https://srs.aapkipooja.com/lst/Sultan%20Of%20Delhi%20S01E03%2019189%203.mkv",
+                "4": "https://srs.aapkipooja.com/lst/Sultan%20Of%20Delhi%20S01E04%2019189%204.mkv",
+                "5": "https://srs.aapkipooja.com/lst/Sultan%20Of%20Delhi%20S01E05%2019189%205.mkv",
+                "6": "https://srs.aapkipooja.com/lst/Sultan%20Of%20Delhi%20S01E06%2019189%206.mkv",
+                "7": "https://srs.aapkipooja.com/lst/Sultan%20Of%20Delhi%20S01E07%2019189%207.mkv",
+                "8": "https://srs.aapkipooja.com/lst/Sultan%20Of%20Delhi%20S01E08%2019189%208.mkv",
+                "9": "https://srs.aapkipooja.com/lst/Sultan%20Of%20Delhi%20S01E09%2019189%209.mkv"
             }
         }
     ]
