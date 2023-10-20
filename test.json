@@ -1,5 +1,26 @@
 {
     "AllMovieDataList": [
+        {
+            "id": "3567",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H2/Tiger%20Nageswara%20Rao%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V2/Tiger%20Nageswara%20Rao%20(2023).jpg",
+            "movieName": "Tiger Nageswara Rao (2023)",
+            "htmlFile": "https://www.13567",
+            "directOne": "Hindi+Telugu",
+            "directSecond": "okSmZw_7N0o",
+            "rating": "HDCamRip-V2",
+            "catergory": "Action,Crime",
+            "Industry": "South",
+            "hub": "FALSE",
+            "tape": "https://streamtape.site/v/zXxKzkOQXbHYmdr/Tiger_Nageswara_Rao_%282023%29_13567.mkv.mp4",
+            "server3": "http://mvs.aapkipooja.com/lst/720p/Tiger%20Nageswara%20Rao%20(2023)%2013567.mkv",
+            "server4": "https://uploadraja.com/y13gk4z6lqeb",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.aapkipooja.com/lst/480p/Tiger%20Nageswara%20Rao%20(2023)%2013567.mkv",
+            "480pS4": "https://uploadraja.com/tgec332nozh9"
+        },
     {
             "id": "3565",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H2/Ganapath%20(2023).jpg",
