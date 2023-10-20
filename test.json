@@ -1,5 +1,26 @@
 {
     "AllMovieDataList": [
+    {
+            "id": "3565",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H2/Ganapath%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V2/Ganapath%20(2023).jpg",
+            "movieName": "Ganapath (2023)",
+            "htmlFile": "https://www.3565",
+            "directOne": "Hindi",
+            "directSecond": "szovD3BnvJI",
+            "rating": "pDVDRip",
+            "catergory": "Action,Drama",
+            "Industry": "Bollywood",
+            "hub": "FALSE",
+            "tape": "https://streamtape.site/v/G6GQgkwJ2Yi1XA9/Ganapath_%282023%29_3565.mkv.mp4",
+            "server3": "http://mvs.aapkipooja.com/lst/720p/Ganapath%20(2023)%203565.mkv",
+            "server4": "http://uploadraja.com/k49ucfguug5c",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.aapkipooja.com/lst/480p/Ganapath%20(2023)%203565.mkv",
+            "480pS4": "http://uploadraja.com/hm1riz4rnv7j"
+        }, 
         {
             "id": "3558",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H2/Leo%20(2023).jpg",
