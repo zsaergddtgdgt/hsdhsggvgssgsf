@@ -23,8 +23,8 @@
         }, 
         {
             "id": "3566",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/V2/Yaariyan%202%20(2023).jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/H2/Yaariyan%202%20(2023).jpg",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H2/Yaariyan%202%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V2/Yaariyan%202%20(2023).jpg",
             "movieName": "Yaariyan 2 (2023)",
             "htmlFile": "https://www.3566",
             "directOne": "Hindi",
