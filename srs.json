@@ -51255,115 +51255,6 @@
             }
         },
         {
-            "id": "1185",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Alphonse%20Season%201.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Alphonse%20Season%201.jpg",
-            "movieName": "Alphonse Season 1",
-            "htmlFile": "https://www.19185",
-            "directOne": "Comedy,Drama",
-            "directSecond": "FALSE",
-            "imbd": "9.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Alphonse",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/x2ljXrMvwLFkaq6/Alphonse_S01E01_19185_1.mkv.mp4",
-                "2": "https://streamtape.site/v/4wXbAOLXGeud8V/Alphonse_S01E02_19185_2.mkv.mp4",
-                "3": "https://streamtape.site/v/vx7dk99GQgh4gJL/Alphonse_S01E03_19185_3.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/gy50n4i0ap9n",
-                "2": "https://streamhub.ink/x58ea56240x3",
-                "3": "https://streamhub.ink/oo0hzaigtysl"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/3g3v4c4so18b",
-                "2": "https://uploadraja.com/ccbjvrk9l50c",
-                "3": "https://uploadraja.com/b38ieewmocnd"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/lst/Alphonse%20S01E01%2019185%201.mkv",
-                "2": "http://srs.aapkipooja.com/lst/Alphonse%20S01E02%2019185%202.mkv",
-                "3": "http://srs.aapkipooja.com/lst/Alphonse%20S01E03%2019185%203.mkv"
-            }
-        },
-        {
-            "id": "1172",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Gen%20V%20Season%201.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Gen%20V%20Season%201.jpg",
-            "movieName": "Gen V Season 1",
-            "htmlFile": "https://www.19172",
-            "directOne": "Action,Adventure",
-            "directSecond": "UGoVnG4Hs_8",
-            "imbd": "9.2",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Gen V",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/LqAgVGGVa7uR1Mq/Gen_V_S01E01_19172_1.mkv.mp4",
-                "2": "https://streamtape.site/v/wdYw3vvA4jFeaa/Gen_V_S01E02_19172_2.mkv.mp4",
-                "3": "https://streamtape.site/v/o9YzrOjM4DsJ2a6/Gen_V_S01E03_19172_3.mkv.mp4",
-                "4": "https://streamtape.site/v/bp9ZaMeVXYioJX/Gen_V_S01E04_19172_4.mkv.mp4",
-                "5": "https://streamtape.site/v/dLB23Q2XDGc1Kx/Gen_V_S01E05_19172_5.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/6lkf4waxg1uk",
-                "2": "https://streamhub.ink/pd0356m7t07n",
-                "3": "https://streamhub.ink/4jqo3dibkjiv",
-                "4": "https://streamhub.ink/uj6erk69f4gy",
-                "5": "https://streamhub.ink/9ml67ixijaoi"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/4i6fi2itf2o5",
-                "2": "https://uploadraja.com/lsl1fs0knqwm",
-                "3": "https://uploadraja.com/1tvqfbelb6uo",
-                "4": "https://uploadraja.com/o0zh3e39dift",
-                "5": "https://uploadraja.com/eygq4ylrh2tx"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Gen%20V%20S01E01%2019172%201.mkv",
-                "2": "http://srs.aapkipooja.com/Gen%20V%20S01E02%2019172%202.mkv",
-                "3": "http://srs.aapkipooja.com/Gen%20V%20S01E03%2019172%203.mkv",
-                "4": "http://srs.aapkipooja.com/Gen%20V%20S01E04%2019172%204.mkv",
-                "5": "http://srs.aapkipooja.com/lst/Gen%20V%20S01E05%2019172%205.mkv"
-            }
-        },
-        {
-            "id": "1177",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Loki%20Season%202.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Loki%20Season%202.jpg",
-            "movieName": "Loki Season 2",
-            "htmlFile": "https://www.19177",
-            "directOne": "Action,Adventure",
-            "directSecond": "O9mRs45-CGw",
-            "imbd": "9",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Loki",
-            "pathName": "S2",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/J2MY7Km69AcjpKq/Loki_S02E01_19177_1.mkv.mp4",
-                "2": "https://streamtape.site/v/x1o4gaYpLaIk4D1/Loki_S02E02_19177_2.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/dx9ezmgrtgqw",
-                "2": "https://streamhub.ink/dkj6cdxmmfrl"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/2rz3qni5z8gb",
-                "2": "https://uploadraja.com/giizgxwy8hax"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Loki%20S02E01%2019177%201.mkv",
-                "2": "http://srs.aapkipooja.com/lst/Loki%20S02E02%2019177%202.mkv"
-            }
-        },
-        {
             "id": "1189",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Sultan%20Of%20Delhi%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Sultan%20Of%20Delhi%20Season%201.jpg",
@@ -51881,6 +51772,213 @@
                 "5": "http://srs.aapkipooja.com/lst/Kaala%20Paani%20S01E05%2019198%205.mkv",
                 "6": "http://srs.aapkipooja.com/lst/Kaala%20Paani%20S01E06%2019198%206.mkv",
                 "7": "http://srs.aapkipooja.com/lst/Kaala%20Paani%20S01E07%2019198%207.mkv"
+            }
+        },
+        {
+            "id": "1185",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Alphonse%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Alphonse%20Season%201.jpg",
+            "movieName": "Alphonse Season 1",
+            "htmlFile": "https://www.19185",
+            "directOne": "Comedy,Drama",
+            "directSecond": "FALSE",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Alphonse",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/x2ljXrMvwLFkaq6/Alphonse_S01E01_19185_1.mkv.mp4",
+                "2": "https://streamtape.site/v/4wXbAOLXGeud8V/Alphonse_S01E02_19185_2.mkv.mp4",
+                "3": "https://streamtape.site/v/vx7dk99GQgh4gJL/Alphonse_S01E03_19185_3.mkv.mp4",
+                "4": "https://streamtape.site/v/JX3Ko87OwjCGld/Alphonse_S01E04_19185_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/gy50n4i0ap9n",
+                "2": "https://streamhub.ink/x58ea56240x3",
+                "3": "https://streamhub.ink/oo0hzaigtysl",
+                "4": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/3g3v4c4so18b",
+                "2": "https://uploadraja.com/ccbjvrk9l50c",
+                "3": "https://uploadraja.com/b38ieewmocnd",
+                "4": "http://uploadraja.com/n2bzlbrio0bg"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/lst/Alphonse%20S01E01%2019185%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/Alphonse%20S01E02%2019185%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/Alphonse%20S01E03%2019185%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/Alphonse%20S01E04%2019185%204.mkv"
+            }
+        },
+        {
+            "id": "1199",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Upload%20Season%203.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Upload%20Season%203.jpg",
+            "movieName": "Upload Season 3",
+            "htmlFile": "https://www.19199",
+            "directOne": "Mystery,Sci-Fi",
+            "directSecond": "7dr2pEYI_R4",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Upload",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/8R9M8VWd8zfobAJ/Upload_S03E01_19199_1.mkv.mp4",
+                "2": "https://streamtape.site/v/Gjjeq9LW0Qt1jr3/Upload_S03E02_19199_2.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "http://uploadraja.com/egpczi4wokx8",
+                "2": "http://uploadraja.com/9d1cqm0ba2gf"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/lst/Upload%20S03E01%2019199%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/Upload%20S03E02%2019199%202.mkv"
+            }
+        },
+        {
+            "id": "1172",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Gen%20V%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Gen%20V%20Season%201.jpg",
+            "movieName": "Gen V Season 1",
+            "htmlFile": "https://www.19172",
+            "directOne": "Action,Adventure",
+            "directSecond": "UGoVnG4Hs_8",
+            "imbd": "9.2",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Gen V",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/LqAgVGGVa7uR1Mq/Gen_V_S01E01_19172_1.mkv.mp4",
+                "2": "https://streamtape.site/v/wdYw3vvA4jFeaa/Gen_V_S01E02_19172_2.mkv.mp4",
+                "3": "https://streamtape.site/v/o9YzrOjM4DsJ2a6/Gen_V_S01E03_19172_3.mkv.mp4",
+                "4": "https://streamtape.site/v/bp9ZaMeVXYioJX/Gen_V_S01E04_19172_4.mkv.mp4",
+                "5": "https://streamtape.site/v/dLB23Q2XDGc1Kx/Gen_V_S01E05_19172_5.mkv.mp4",
+                "6": "https://streamtape.site/v/KAmZm1AlZ6S0mog/Gen_V_S01E06_19172_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/6lkf4waxg1uk",
+                "2": "https://streamhub.ink/pd0356m7t07n",
+                "3": "https://streamhub.ink/4jqo3dibkjiv",
+                "4": "https://streamhub.ink/uj6erk69f4gy",
+                "5": "https://streamhub.ink/9ml67ixijaoi",
+                "6": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/4i6fi2itf2o5",
+                "2": "https://uploadraja.com/lsl1fs0knqwm",
+                "3": "https://uploadraja.com/1tvqfbelb6uo",
+                "4": "https://uploadraja.com/o0zh3e39dift",
+                "5": "https://uploadraja.com/eygq4ylrh2tx",
+                "6": "http://uploadraja.com/ur2jjfxwmouh"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Gen%20V%20S01E01%2019172%201.mkv",
+                "2": "http://srs.aapkipooja.com/Gen%20V%20S01E02%2019172%202.mkv",
+                "3": "http://srs.aapkipooja.com/Gen%20V%20S01E03%2019172%203.mkv",
+                "4": "http://srs.aapkipooja.com/Gen%20V%20S01E04%2019172%204.mkv",
+                "5": "http://srs.aapkipooja.com/lst/Gen%20V%20S01E05%2019172%205.mkv",
+                "6": "http://srs.aapkipooja.com/lst/Gen%20V%20S01E06%2019172%206.mkv"
+            }
+        },
+        {
+            "id": "1200",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Creature%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Creature%20Season%201.jpg",
+            "movieName": "Creature Season 1",
+            "htmlFile": "https://www.19200",
+            "directOne": "History,Fantasy",
+            "directSecond": "otfT_qF9nJo",
+            "imbd": "9.2",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Creature",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/1R1B1l8v8yt0v1/Creature_S01E01_19200_1.mkv.mp4",
+                "2": "https://streamtape.site/v/grdLROpvG4CqbvZ/Creature_S01E02_19200_2.mkv.mp4",
+                "3": "https://streamtape.site/v/o296ejbG2OUJzDV/Creature_S01E03_19200_3.mkv",
+                "4": "https://streamtape.site/v/OezA7MPvgdTzXD/Creature_S01E04_19200_4.mkv.mp4",
+                "5": "https://streamtape.site/v/6edxzz6Z00T9rjl/Creature_S01E05_19200_5.mkv.mp4",
+                "6": "https://streamtape.site/v/m3zjOGM8ZGfbKae/Creature_S01E06_19200_6.mkv.mp4",
+                "7": "https://streamtape.site/v/ZbrYjaoYaZCqDp3/Creature_S01E07_19200_7.mkv.mp4",
+                "8": "https://streamtape.site/v/o6V3LWlQgAHJ22K/Creature_S01E08_19200_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE",
+                "4": "FALSE",
+                "5": "FALSE",
+                "6": "FALSE",
+                "7": "FALSE",
+                "8": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "http://uploadraja.com/azs5hlezg24m",
+                "2": "http://uploadraja.com/s45gs622rn0w",
+                "3": "http://uploadraja.com/3bowbx8cwu49",
+                "4": "http://uploadraja.com/upkl1drqfecx",
+                "5": "http://uploadraja.com/xiro74559dda",
+                "6": "http://uploadraja.com/4yratbyuv76y",
+                "7": "http://uploadraja.com/uckds3m25yso",
+                "8": "http://uploadraja.com/asxna68akz2j"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/lst/Creature%20S01E01%2019200%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/Creature%20S01E02%2019200%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/Creature%20S01E03%2019200%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/Creature%20S01E04%2019200%204.mkv",
+                "5": "http://srs.aapkipooja.com/lst/Creature%20S01E05%2019200%205.mkv",
+                "6": "http://srs.aapkipooja.com/lst/Creature%20S01E06%2019200%206.mkv",
+                "7": "http://srs.aapkipooja.com/lst/Creature%20S01E07%2019200%207.mkv",
+                "8": "http://srs.aapkipooja.com/lst/Creature%20S01E08%2019200%208.mkv"
+            }
+        },
+        {
+            "id": "1177",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Loki%20Season%202.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Loki%20Season%202.jpg",
+            "movieName": "Loki Season 2",
+            "htmlFile": "https://www.19177",
+            "directOne": "Action,Adventure",
+            "directSecond": "O9mRs45-CGw",
+            "imbd": "9",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Loki",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/J2MY7Km69AcjpKq/Loki_S02E01_19177_1.mkv.mp4",
+                "2": "https://streamtape.site/v/x1o4gaYpLaIk4D1/Loki_S02E02_19177_2.mkv.mp4",
+                "3": "https://streamtape.site/v/WQdbM6O4zvFbv0G/Loki_S02E03_19177_3.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/dx9ezmgrtgqw",
+                "2": "https://streamhub.ink/dkj6cdxmmfrl",
+                "3": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/2rz3qni5z8gb",
+                "2": "https://uploadraja.com/giizgxwy8hax",
+                "3": "http://uploadraja.com/2h6laxajkeor"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Loki%20S02E01%2019177%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/Loki%20S02E02%2019177%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/Loki%20S02E03%2019177%203.mkv"
             }
         }
     ]
