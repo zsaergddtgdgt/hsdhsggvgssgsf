@@ -51545,49 +51545,6 @@
             }
         },
         {
-            "id": "1186",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Breaking%20Bad%20Season%204.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Breaking%20Bad%20Season%204.jpg",
-            "movieName": "Breaking Bad Season 4",
-            "htmlFile": "https://www.19186",
-            "directOne": "Thriller,Crime",
-            "directSecond": "mE18hd3NxAs",
-            "imbd": "9.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Breaking Bad",
-            "pathName": "S4",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/wORw7KR8MOtjyd/Breaking_Bad_S04E01_19186_1.mkv.mp4",
-                "2": "https://streamtape.site/v/8DYmXmDJl4iGZZ/Breaking_Bad_S04E02_19186_2.mkv.mp4",
-                "3": "https://streamtape.site/v/XgYG9wkyJOFDbA2/Breaking_Bad_S04E03_19186_3.mkv.mp4",
-                "4": "https://streamtape.site/v/kPvK8Xw4jYHO1A8/Breaking_Bad_S04E04_19186_4.mkv.mp4",
-                "5": "https://streamtape.site/v/QKpWPY7wg6s0x2Y/BODIES_S01E05_19194_5.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/l4pnyy5x75w8",
-                "2": "FALSE",
-                "3": "FALSE",
-                "4": "FALSE",
-                "5": "FALSE"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/gkpsx5l6dvml",
-                "2": "https://uploadraja.com/ko88lroelzkj",
-                "3": "http://uploadraja.com/3ff1syis0qeh",
-                "4": "http://uploadraja.com/0cvli7luzdu2",
-                "5": "http://uploadraja.com/74vpuy8luc34"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/lst/Breaking%20Bad%20S04E01%2019186%201.mkv",
-                "2": "http://srs.aapkipooja.com/lst/Breaking%20Bad%20S04E02%2019186%202.mkv",
-                "3": "http://srs.aapkipooja.com/lst/Breaking%20Bad%20S04E03%2019186%203.mkv",
-                "4": "http://srs.aapkipooja.com/lst/Breaking%20Bad%20S04E04%2019186%204.mkv",
-                "5": "http://srs.aapkipooja.com/lst/Breaking%20Bad%20S04E05%2019186%205.mkv"
-            }
-        },
-        {
             "id": "1195",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Permanent%20Roommates%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Permanent%20Roommates%20Season%201.jpg",
@@ -51979,6 +51936,88 @@
                 "1": "http://srs.aapkipooja.com/Loki%20S02E01%2019177%201.mkv",
                 "2": "http://srs.aapkipooja.com/lst/Loki%20S02E02%2019177%202.mkv",
                 "3": "http://srs.aapkipooja.com/lst/Loki%20S02E03%2019177%203.mkv"
+            }
+        },
+        {
+            "id": "1186",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Breaking%20Bad%20Season%204.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Breaking%20Bad%20Season%204.jpg",
+            "movieName": "Breaking Bad Season 4",
+            "htmlFile": "https://www.19186",
+            "directOne": "Thriller,Crime",
+            "directSecond": "mE18hd3NxAs",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Breaking Bad",
+            "pathName": "S4",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/wORw7KR8MOtjyd/Breaking_Bad_S04E01_19186_1.mkv.mp4",
+                "2": "https://streamtape.site/v/8DYmXmDJl4iGZZ/Breaking_Bad_S04E02_19186_2.mkv.mp4",
+                "3": "https://streamtape.site/v/XgYG9wkyJOFDbA2/Breaking_Bad_S04E03_19186_3.mkv.mp4",
+                "4": "https://streamtape.site/v/kPvK8Xw4jYHO1A8/Breaking_Bad_S04E04_19186_4.mkv.mp4",
+                "5": "https://streamtape.site/v/03ZgPPyk0wHby9V/Breaking_Bad_S04E05_19186_5.mkv.mp4",
+                "6": "https://streamtape.site/v/39jrlz20kludze7/Breaking_Bad_S04E06_19186_6.mkv",
+                "7": "https://streamtape.site/v/brWq2QVq8XUPZzg/Breaking_Bad_S04E07_19186_7.mkv",
+                "8": "https://streamtape.site/v/41lKm9pwe3IKKvO/Breaking_Bad_S04E08_19186_8.mkv"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/l4pnyy5x75w8",
+                "2": "FALSE",
+                "3": "FALSE",
+                "4": "FALSE",
+                "5": "FALSE",
+                "6": "FALSE",
+                "7": "FALSE",
+                "8": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/gkpsx5l6dvml",
+                "2": "https://uploadraja.com/ko88lroelzkj",
+                "3": "http://uploadraja.com/3ff1syis0qeh",
+                "4": "http://uploadraja.com/0cvli7luzdu2",
+                "5": "http://uploadraja.com/74vpuy8luc34",
+                "6": "https://uploadraja.com/toohq57265ht",
+                "7": "https://uploadraja.com/mr7izftbmp69",
+                "8": "https://uploadraja.com/9c9mbmrahaf7"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/lst/Breaking%20Bad%20S04E01%2019186%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/Breaking%20Bad%20S04E02%2019186%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/Breaking%20Bad%20S04E03%2019186%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/Breaking%20Bad%20S04E04%2019186%204.mkv",
+                "5": "http://srs.aapkipooja.com/lst/Breaking%20Bad%20S04E05%2019186%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S04E06%2019186%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S04E07%2019186%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S04E08%2019186%208.mkv"
+            }
+        },
+        {
+            "id": "1201",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Duranga%20Season%202.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Duranga%20Season%202.jpg",
+            "movieName": "Duranga Season 2",
+            "htmlFile": "https://www.191201",
+            "directOne": "Thriller,Crime",
+            "directSecond": "9zZ_wQKkR84",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Duranga",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/Z1LobLme1zhq2bk/Duranga_2_Complete_19201_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/p1qemwjyagno"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Duranga%202%20Complete%2019201%201.mkv"
             }
         }
     ]
