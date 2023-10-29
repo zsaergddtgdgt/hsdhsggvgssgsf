@@ -51691,6 +51691,7 @@
                 "8": "http://srs.aapkipooja.com/lst/Creature%20S01E08%2019200%208.mkv"
             }
         },
+        
         {
             "id": "1201",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Duranga%20Season%202.jpg",
@@ -51797,7 +51798,7 @@
             "htmlFile": "https://www.19114",
             "directOne": "Adult,Romance",
             "directSecond": "b1Ukfb5MOOw",
-            "imbd": "9.1",
+            "imbd": "9",
             "rating": "Hindi",
             "catergory": "webSeries",
             "Industry": "webSeries",
@@ -51904,7 +51905,7 @@
             "htmlFile": "https://www.19202",
             "directOne": "Drama",
             "directSecond": "6AOLkrgGsoo",
-            "imbd": "9.1",
+            "imbd": "9",
             "rating": "Hindi",
             "catergory": "webSeries",
             "Industry": "webSeries",
