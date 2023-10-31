@@ -52368,6 +52368,33 @@
                 "12": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S04E12%2019186%2012.mkv",
                 "13": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S04E13%2019186%2013.mkv"
             }
+        },
+        {
+            "id": "1208",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Breaking%20Bad%20Season%205.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Breaking%20Bad%20Season%205.jpg",
+            "movieName": "Breaking Bad Season 5",
+            "htmlFile": "https://www.19208",
+            "directOne": "Thriller,Crime",
+            "directSecond": "V8T7A9LcYnw",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Breaking Bad",
+            "pathName": "S5",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/7kWxDyqgbdtAp3p/Breaking_Bad_S05E01_19208_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv"
+            }
         }
     ]
 }
