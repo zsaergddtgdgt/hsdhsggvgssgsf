@@ -48558,49 +48558,6 @@
             }
         },
         {
-            "id": "1132",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Scam%202003%20-%20The%20Telgi%20Story%20Season%201.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Scam%202003%20-%20The%20Telgi%20Story%20Season%201.jpg",
-            "movieName": "Scam 2003 - The Telgi Story Season 1",
-            "htmlFile": "https://www.19132",
-            "directOne": "Crime,Biography",
-            "directSecond": "JrotIxxCXiA",
-            "imbd": "9.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Scam 2003 - The Telgi Story",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/DX14zWRO2vtd1v/Scam_2003_-_The_Telgi_Story_S01E01_19132_1.mkv.mp4",
-                "2": "https://streamtape.site/v/6xkerZ8RJat9GLJ/Scam_2003_-_The_Telgi_Story_S01E02_19132_2.mkv.mp4",
-                "3": "https://streamtape.site/v/q7DmApRxGmszxAM/Scam_2003_-_The_Telgi_Story_S01E03_19132_3.mkv.mp4",
-                "4": "https://streamtape.site/v/mgpAZvryeWTbJbl/Scam_2003_-_The_Telgi_Story_S01E04_19132_4.mkv.mp4",
-                "5": "https://streamtape.site/v/goybPpQZ83IqD2Q/Scam_2003_-_The_Telgi_Story_S01E05_19132_5.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/dovrm2yjfoim",
-                "2": "https://streamhub.ink/1qd0lfun9m4j",
-                "3": "https://streamhub.ink/2c16eyrgznpm",
-                "4": "https://streamhub.ink/bco71f75b0z4",
-                "5": "https://streamhub.ink/kec6qj7y7esc"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/it7pyvocs62t",
-                "2": "https://uploadraja.com/xmuhdwa7dg94",
-                "3": "https://uploadraja.com/n8fn06ygbqyh",
-                "4": "https://uploadraja.com/mvwvmat4k4rx",
-                "5": "https://uploadraja.com/lbhszt9hygzi"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E01%2019132%201.mkv",
-                "2": "http://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E02%2019132%202.mkv",
-                "3": "http://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E03%2019132%203.mkv",
-                "4": "http://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E04%2019132%204.mkv",
-                "5": "http://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E05%2019132%205.mkv"
-            }
-        },
-        {
             "id": "1133",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/The%20Freelancer%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/The%20Freelancer%20Season%201.jpg",
@@ -51868,33 +51825,6 @@
             }
         },
         {
-            "id": "1204",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Koffee%20With%20Karan%20Season%208.webp",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Koffee%20With%20Karan%20Season%208.png",
-            "movieName": "Koffee With Karan Season 8",
-            "htmlFile": "https://www.19204",
-            "directOne": "Talk-Show,Comedy",
-            "directSecond": "wgMW6bzKHuA",
-            "imbd": "9.1",
-            "rating": "English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Koffee With Karan",
-            "pathName": "S8",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/dpmVWxMoWgIk8w3/Koffee_With_Karan_S08E01_19204_1.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "FALSE"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/uln3p9mnqtn2"
-            },
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E01%2019204%201.mkv"
-            }
-        },
-        {
             "id": "1205",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Masterpeace%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Masterpeace%20Season%201.jpg",
@@ -52468,6 +52398,166 @@
             },
             "episodeServer4": {
                 "1": "http://srs.ringzstudio.online/lst/Takeshis%20Castle%20India%20S01E01%2019210%201.mkv"
+            }
+        },
+        {
+            "id": "1204",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Koffee%20With%20Karan%20Season%208.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Koffee%20With%20Karan%20Season%208.png",
+            "movieName": "Koffee With Karan Season 8",
+            "htmlFile": "https://www.19204",
+            "directOne": "Talk-Show,Comedy",
+            "directSecond": "wgMW6bzKHuA",
+            "imbd": "9.1",
+            "rating": "English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Koffee With Karan",
+            "pathName": "S8",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/dpmVWxMoWgIk8w3/Koffee_With_Karan_S08E01_19204_1.mkv.mp4",
+                "2": "https://streamtape.site/v/ZDx2AjkMGpFqVY0/Koffee_With_Karan_S08E02_19204_2.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E01%2019204%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E02%2019204%202.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E01%2019204%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E02%2019204%202.mkv"
+            }
+        },
+        {
+            "id": "1132",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Scam%202003%20-%20The%20Telgi%20Story%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Scam%202003%20-%20The%20Telgi%20Story%20Season%201.jpg",
+            "movieName": "Scam 2003 - The Telgi Story Season 1",
+            "htmlFile": "https://www.19132",
+            "directOne": "Crime,Biography",
+            "directSecond": "JrotIxxCXiA",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Scam 2003 - The Telgi Story",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/DX14zWRO2vtd1v/Scam_2003_-_The_Telgi_Story_S01E01_19132_1.mkv.mp4",
+                "2": "https://streamtape.site/v/6xkerZ8RJat9GLJ/Scam_2003_-_The_Telgi_Story_S01E02_19132_2.mkv.mp4",
+                "3": "https://streamtape.site/v/q7DmApRxGmszxAM/Scam_2003_-_The_Telgi_Story_S01E03_19132_3.mkv.mp4",
+                "4": "https://streamtape.site/v/mgpAZvryeWTbJbl/Scam_2003_-_The_Telgi_Story_S01E04_19132_4.mkv.mp4",
+                "5": "https://streamtape.site/v/goybPpQZ83IqD2Q/Scam_2003_-_The_Telgi_Story_S01E05_19132_5.mkv.mp4",
+                "6": "https://streamtape.site/v/oAY6YdZXWOtJ6xe/Scam_2003_-_The_Telgi_Story_S01E06_19132_6.mkv.mp4",
+                "7": "https://streamtape.site/v/RAgZLyeLYLtdWVG/Scam_2003_-_The_Telgi_Story_S01E07_19132_7.mkv.mp4",
+                "8": "https://streamtape.site/v/L1v0MGyDxKhRkDo/Scam_2003_-_The_Telgi_Story_S01E08_19132_8.mkv.mp4",
+                "9": "https://streamtape.site/v/0Z6Zeml7kvub9rY/Scam_2003_-_The_Telgi_Story_S01E09_19132_9.mkv.mp4",
+                "10": "https://streamtape.site/v/ywxJMvX7Oec1X1B/Scam_2003_-_The_Telgi_Story_S01E10_19132_10.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/dovrm2yjfoim",
+                "2": "https://streamhub.ink/1qd0lfun9m4j",
+                "3": "https://streamhub.ink/2c16eyrgznpm",
+                "4": "https://streamhub.ink/bco71f75b0z4",
+                "5": "https://streamhub.ink/kec6qj7y7esc",
+                "6": "FALSE",
+                "7": "FALSE",
+                "8": "FALSE",
+                "9": "FALSE",
+                "10": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "http://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E01%2019132%201.mkv",
+                "2": "http://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E02%2019132%202.mkv",
+                "3": "http://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E03%2019132%203.mkv",
+                "4": "http://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E04%2019132%204.mkv",
+                "5": "http://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E05%2019132%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Scam%202003%20-%20The%20Telgi%20Story%20S01E06%2019132%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Scam%202003%20-%20The%20Telgi%20Story%20S01E07%2019132%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Scam%202003%20-%20The%20Telgi%20Story%20S01E08%2019132%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/Scam%202003%20-%20The%20Telgi%20Story%20S01E09%2019132%209.mkv",
+                "10": "http://srs.ringzstudio.online/lst/Scam%202003%20-%20The%20Telgi%20Story%20S01E10%2019132%2010.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E01%2019132%201.mkv",
+                "2": "http://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E02%2019132%202.mkv",
+                "3": "http://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E03%2019132%203.mkv",
+                "4": "http://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E04%2019132%204.mkv",
+                "5": "http://srs.aapkipooja.com/Scam%202003%20-%20The%20Telgi%20Story%20S01E05%2019132%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Scam%202003%20-%20The%20Telgi%20Story%20S01E06%2019132%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Scam%202003%20-%20The%20Telgi%20Story%20S01E07%2019132%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Scam%202003%20-%20The%20Telgi%20Story%20S01E08%2019132%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/Scam%202003%20-%20The%20Telgi%20Story%20S01E09%2019132%209.mkv",
+                "10": "http://srs.ringzstudio.online/lst/Scam%202003%20-%20The%20Telgi%20Story%20S01E10%2019132%2010.mkv"
+            }
+        },
+        {
+            "id": "1211",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/P.I.%20Meena%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/P.I.%20Meena%20Season%201.jpg",
+            "movieName": "P.I. Meena Season 1",
+            "htmlFile": "https://www.19211",
+            "directOne": "Thriller",
+            "directSecond": "_13y_p95KUg",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "P.I. Meena",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/rArmQzaxXQFbV8e/P.I._Meena_S01Complete_19211_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "http://srs.ringzstudio.online/lst/P.I.%20Meena%20S01Complete%2019211%201.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/P.I.%20Meena%20S01Complete%2019211%201.mkv"
+            }
+        },
+        {
+            "id": "1212",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/V1/Aarya%20Season%203.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Aarya%20Season%203.jpg",
+            "movieName": "Aarya Season 3",
+            "htmlFile": "https://www.19212",
+            "directOne": "Thriller",
+            "directSecond": "IG25jfuNF_0",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Aarya",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/1AgpgerYyQSeqyd/Aarya_S03E01_19212_1.mkv.mp4",
+                "2": "https://streamtape.site/v/be4MKOz0PWCP3aV/Aarya_S03E02_19212_2.mkv.mp4",
+                "3": "https://streamtape.site/v/J3vjovAZAlfj1g4/Aarya_S03E03_19212_3.mkv.mp4",
+                "4": "https://streamtape.site/v/j4XLB0Q7KLtz9l8/Aarya_S03E04_19212_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE",
+                "4": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "http://srs.ringzstudio.online/lst/Aarya%20S03E01%2019212%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Aarya%20S03E02%2019212%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Aarya%20S03E03%2019212%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Aarya%20S03E04%2019212%204.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Aarya%20S03E01%2019212%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Aarya%20S03E02%2019212%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Aarya%20S03E03%2019212%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Aarya%20S03E04%2019212%204.mkv"
             }
         }
     ]
