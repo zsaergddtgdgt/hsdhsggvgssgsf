@@ -51868,49 +51868,6 @@
             }
         },
         {
-            "id": "1185",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Alphonse%20Season%201.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Alphonse%20Season%201.jpg",
-            "movieName": "Alphonse Season 1",
-            "htmlFile": "https://www.19185",
-            "directOne": "Comedy,Drama",
-            "directSecond": "FALSE",
-            "imbd": "9.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Alphonse",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/2VPmlROr49FZYr3/Alphonse_S01E01_19185_1.mkv.mp4",
-                "2": "https://streamtape.site/v/8R1oxbAAwXTowVa/Alphonse_S01E02_19185_2.mkv.mp4",
-                "3": "https://streamtape.site/v/ZKP7yg31VOfR40/Alphonse_S01E03_19185_3.mkv.mp4",
-                "4": "https://streamtape.site/v/R6Ragvd24mudP4g/Alphonse_S01E04_19185_4.mkv.mp4",
-                "5": "https://streamtape.site/v/9y6O0m4GJ6FZog/Alphonse_S01E05_19185_5.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/gy50n4i0ap9n",
-                "2": "https://streamhub.ink/x58ea56240x3",
-                "3": "https://streamhub.ink/oo0hzaigtysl",
-                "4": "FALSE",
-                "5": "FALSE"
-            },
-            "episodeServer3": {
-                "1": "https://uploadraja.com/3g3v4c4so18b",
-                "2": "https://uploadraja.com/ccbjvrk9l50c",
-                "3": "https://uploadraja.com/b38ieewmocnd",
-                "4": "http://uploadraja.com/n2bzlbrio0bg",
-                "5": "https://uploadraja.com/cim9ifxmirf5"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/lst/Alphonse%20S01E01%2019185%201.mkv",
-                "2": "http://srs.aapkipooja.com/lst/Alphonse%20S01E02%2019185%202.mkv",
-                "3": "http://srs.aapkipooja.com/lst/Alphonse%20S01E03%2019185%203.mkv",
-                "4": "http://srs.aapkipooja.com/lst/Alphonse%20S01E04%2019185%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/Alphonse%20S01E05%2019185%205.mkv"
-            }
-        },
-        {
             "id": "1204",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Koffee%20With%20Karan%20Season%208.webp",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Koffee%20With%20Karan%20Season%208.png",
@@ -52370,6 +52327,53 @@
             }
         },
         {
+            "id": "1185",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Alphonse%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Alphonse%20Season%201.jpg",
+            "movieName": "Alphonse Season 1",
+            "htmlFile": "https://www.19185",
+            "directOne": "Comedy,Drama",
+            "directSecond": "FALSE",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Alphonse",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/2VPmlROr49FZYr3/Alphonse_S01E01_19185_1.mkv.mp4",
+                "2": "https://streamtape.site/v/8R1oxbAAwXTowVa/Alphonse_S01E02_19185_2.mkv.mp4",
+                "3": "https://streamtape.site/v/ZKP7yg31VOfR40/Alphonse_S01E03_19185_3.mkv.mp4",
+                "4": "https://streamtape.site/v/R6Ragvd24mudP4g/Alphonse_S01E04_19185_4.mkv.mp4",
+                "5": "https://streamtape.site/v/9y6O0m4GJ6FZog/Alphonse_S01E05_19185_5.mkv.mp4",
+                "6": "https://streamtape.site/v/RQKkRWpzmaHdzmp/Alphonse_S01E06_19185_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/gy50n4i0ap9n",
+                "2": "https://streamhub.ink/x58ea56240x3",
+                "3": "https://streamhub.ink/oo0hzaigtysl",
+                "4": "FALSE",
+                "5": "FALSE",
+                "6": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "https://uploadraja.com/3g3v4c4so18b",
+                "2": "https://uploadraja.com/ccbjvrk9l50c",
+                "3": "https://uploadraja.com/b38ieewmocnd",
+                "4": "http://uploadraja.com/n2bzlbrio0bg",
+                "5": "https://uploadraja.com/cim9ifxmirf5",
+                "6": "http://srs.ringzstudio.online/lst/Alphonse%20S01E06%2019185%206.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/lst/Alphonse%20S01E01%2019185%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/Alphonse%20S01E02%2019185%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/Alphonse%20S01E03%2019185%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/Alphonse%20S01E04%2019185%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Alphonse%20S01E05%2019185%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Alphonse%20S01E06%2019185%206.mkv"
+            }
+        },
+        {
             "id": "1208",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Breaking%20Bad%20Season%205.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Breaking%20Bad%20Season%205.jpg",
@@ -52384,16 +52388,86 @@
             "keyName": "Breaking Bad",
             "pathName": "S5",
             "EpisodeTape": {
-                "1": "https://streamtape.site/v/7kWxDyqgbdtAp3p/Breaking_Bad_S05E01_19208_1.mkv.mp4"
+                "1": "https://streamtape.site/v/7kWxDyqgbdtAp3p/Breaking_Bad_S05E01_19208_1.mkv.mp4",
+                "2": "https://streamtape.site/v/RBllOQJp0XFdoDd/Breaking_Bad_S05E02_19208_2.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E02%2019208%202.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E02%2019208%202.mkv"
+            }
+        },
+        {
+            "id": "1209",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/All%20the%20Light%20We%20Cannot%20See%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/All%20the%20Light%20We%20Cannot%20See%20Season%201.jpg",
+            "movieName": "All the Light We Cannot See Season 1",
+            "htmlFile": "https://www.19209",
+            "directOne": "History,War",
+            "directSecond": "CMYRkkv67q4",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "All the Light We Cannot See",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/6BAY1XAGGks9jK8/All_the_Light_We_Cannot_See_S01E01_19209_1.mkv",
+                "2": "https://streamtape.site/v/vQM2yAbxkwiDpz/All_the_Light_We_Cannot_See_S01E02_19209_2.mkv",
+                "3": "https://streamtape.site/v/2bX0WlXxgvtZlX3/All_the_Light_We_Cannot_See_S01E03_19209_3.mkv",
+                "4": "https://streamtape.site/v/RDzj43d8G0sk9d/All_the_Light_We_Cannot_See_S01E04_19209_4.mkv"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE",
+                "4": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "http://srs.ringzstudio.online/lst/All%20the%20Light%20We%20Cannot%20See%20S01E01%2019209%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/All%20the%20Light%20We%20Cannot%20See%20S01E02%2019209%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/All%20the%20Light%20We%20Cannot%20See%20S01E03%2019209%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/All%20the%20Light%20We%20Cannot%20See%20S01E04%2019209%204.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/All%20the%20Light%20We%20Cannot%20See%20S01E01%2019209%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/All%20the%20Light%20We%20Cannot%20See%20S01E02%2019209%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/All%20the%20Light%20We%20Cannot%20See%20S01E03%2019209%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/All%20the%20Light%20We%20Cannot%20See%20S01E04%2019209%204.mkv"
+            }
+        },
+        {
+            "id": "1210",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Takeshis%20Castle%20India%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Takeshis%20Castle%20India%20Season%201.jpg",
+            "movieName": "Takeshis Castle India Season 1",
+            "htmlFile": "https://www.19210",
+            "directOne": "Comedy,Drama",
+            "directSecond": "hNL_64MjELQ",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Takeshis Castle India",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/wa82zGXl33HGA1/Takeshis_Castle_India_S01E01_19210_1.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "FALSE"
             },
             "episodeServer3": {
-                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv"
+                "1": "http://srs.ringzstudio.online/lst/Takeshis%20Castle%20India%20S01E01%2019210%201.mkv"
             },
             "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv"
+                "1": "http://srs.ringzstudio.online/lst/Takeshis%20Castle%20India%20S01E01%2019210%201.mkv"
             }
         }
     ]
