@@ -52175,37 +52175,6 @@
             }
         },
         {
-            "id": "1208",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Breaking%20Bad%20Season%205.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Breaking%20Bad%20Season%205.jpg",
-            "movieName": "Breaking Bad Season 5",
-            "htmlFile": "https://www.19208",
-            "directOne": "Thriller,Crime",
-            "directSecond": "V8T7A9LcYnw",
-            "imbd": "9.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Breaking Bad",
-            "pathName": "S5",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/7kWxDyqgbdtAp3p/Breaking_Bad_S05E01_19208_1.mkv.mp4",
-                "2": "https://streamtape.site/v/RBllOQJp0XFdoDd/Breaking_Bad_S05E02_19208_2.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "FALSE",
-                "2": "FALSE"
-            },
-            "episodeServer3": {
-                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E02%2019208%202.mkv"
-            },
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E02%2019208%202.mkv"
-            }
-        },
-        {
             "id": "1209",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/All%20the%20Light%20We%20Cannot%20See%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/All%20the%20Light%20We%20Cannot%20See%20Season%201.jpg",
@@ -52432,6 +52401,41 @@
             }
         },
         {
+            "id": "1208",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Breaking%20Bad%20Season%205.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Breaking%20Bad%20Season%205.jpg",
+            "movieName": "Breaking Bad Season 5",
+            "htmlFile": "https://www.19208",
+            "directOne": "Thriller,Crime",
+            "directSecond": "V8T7A9LcYnw",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Breaking Bad",
+            "pathName": "S5",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/7kWxDyqgbdtAp3p/Breaking_Bad_S05E01_19208_1.mkv.mp4",
+                "2": "https://streamtape.site/v/RBllOQJp0XFdoDd/Breaking_Bad_S05E02_19208_2.mkv.mp4",
+                "3": "https://streamtape.site/v/MYMG47g3BdfmXkZ/Breaking_Bad_S05E03_19208_3.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E02%2019208%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E03%2019208%203.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E02%2019208%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E03%2019208%203.mkv"
+            }
+        },
+        {
             "id": "1199",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Upload%20Season%203.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Upload%20Season%203.jpg",
@@ -52476,6 +52480,96 @@
                 "4": "http://srs.ringzstudio.online/lst/Upload%20S03E04%2019199%204.mkv",
                 "5": "http://srs.ringzstudio.online/lst/Upload%20S03E05%2019199%205.mkv",
                 "6": "http://srs.ringzstudio.online/lst/Upload%20S03E06%2019199%206.mkv"
+            }
+        },
+        {
+            "id": "1213",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Chernobyl%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Chernobyl%20Season%201.jpg",
+            "movieName": "Chernobyl Season 1",
+            "htmlFile": "https://www.19213",
+            "directOne": "Hisotry,Thriller",
+            "directSecond": "s9APLXM9Ei8",
+            "imbd": "9",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Chernobyl",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/9Xmr8DOGXaFoDO/Chernobyl_S01E01_19213_1.mkv.mp4",
+                "2": "https://streamtape.site/v/0rVPvpP1xBTb4kG/Chernobyl_S01E02_19213_2.mkv.mp4",
+                "3": "https://streamtape.site/v/O7PLW9x0ZzTZyAD/Chernobyl_S01E03_19213_3.mkv.mp4",
+                "4": "https://streamtape.site/v/j4pOBXAlrotz8Ad/Chernobyl_S01E04_19213_4.mkv.mp4",
+                "5": "https://streamtape.site/v/Kzkyy6ROgXSbvM/Chernobyl_S01E05_19213_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE",
+                "4": "FALSE",
+                "5": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "http://srs.ringzstudio.online/lst/Chernobyl%20S01E01%2019213%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Chernobyl%20S01E02%2019213%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Chernobyl%20S01E03%2019213%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Chernobyl%20S01E04%2019213%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Chernobyl%20S01E05%2019213%205.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Chernobyl%20S01E01%2019213%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Chernobyl%20S01E02%2019213%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Chernobyl%20S01E03%2019213%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Chernobyl%20S01E04%2019213%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Chernobyl%20S01E05%2019213%205.mkv"
+            }
+        },
+        {
+            "id": "1214",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Romancero%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Romancero%20Season%201.jpg",
+            "movieName": "Romancero Season 1",
+            "htmlFile": "https://www.19214",
+            "directOne": "Hisotry,Thriller",
+            "directSecond": "gque-loBbxk",
+            "imbd": "9",
+            "rating": "Hindi+English+Spanish",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Romancero",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/p7kR4MDJVziAo1/Romancero_S01E01_19214_1.mkv.mp4",
+                "2": "https://streamtape.site/v/P3K64rWz0gu070o/Romancero_S01E02_19214_2.mkv.mp4",
+                "3": "https://streamtape.site/v/qMlVPg2pKjhL9V/Romancero_S01E03_19214_3.mkv.mp4",
+                "4": "https://streamtape.site/v/lQvjwJQvaxtdK3/Romancero_S01E04_19214_4.mkv.mp4",
+                "5": "https://streamtape.site/v/y0zwbR9AOYt1ZjB/Romancero_S01E05_19214_5.mkv.mp4",
+                "6": "https://streamtape.site/v/RgxXVyLoXztdd4d/Romancero_S01E06_19214_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE",
+                "4": "FALSE",
+                "5": "FALSE",
+                "6": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "http://srs.ringzstudio.online/lst/Romancero%20S01E01%2019214%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Romancero%20S01E02%2019214%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Romancero%20S01E03%2019214%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Romancero%20S01E04%2019214%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Romancero%20S01E05%2019214%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Romancero%20S01E06%2019214%206.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Romancero%20S01E01%2019214%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Romancero%20S01E02%2019214%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Romancero%20S01E03%2019214%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Romancero%20S01E04%2019214%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Romancero%20S01E05%2019214%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Romancero%20S01E06%2019214%206.mkv"
             }
         },
         {
@@ -52558,7 +52652,7 @@
                 "1": "https://streamhub.ink/dx9ezmgrtgqw",
                 "2": "https://streamhub.ink/dkj6cdxmmfrl",
                 "3": "FALSE",
-                "4": "FALSE",
+                "4": "FALSE",	
                 "5": "FALSE"
             },
             "episodeServer3": {
