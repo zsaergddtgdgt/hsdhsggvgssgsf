@@ -543,40 +543,6 @@
             }
         },
         {
-            "id": "21",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/pi5wuvbfc9wfu6c6g.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/g64e268xx3u56uc6g.jpg",
-            "movieName": "Game of Thrones Season 7",
-            "htmlFile": "https://www.5354",
-            "directOne": "Popular, Thriller,Action,Fantasy",
-            "directSecond": "giYeaKsXnsI",
-            "imbd": "9.3",
-            "rating": "Dubbed",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Game of Thrones",
-            "pathName": "S7",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/akj68zGezxcx1Oa/GoT.S07E01_5745.mkv.mp4",
-                "2": "https://streamtape.site/v/xXQdyLvBDjUkaLg/GoT.S07E02_5746.mkv.mp4",
-                "3": "https://streamtape.site/v/rbDokGJ8lVSbW4A/GoT.S07E03_5747.mkv.mp4",
-                "4": "https://streamtape.site/v/XwzLW8wDm8ID6ZD/GoT.S07E04_5748.mkv.mp4",
-                "5": "",
-                "6": "https://streamtape.site/v/qg63GQjVGPtZKo/GoT.S07E06_5750.mkv.mp4",
-                "7": "https://streamtape.site/v/eGVMwrPKwQFY3ov/GoT.S07E07_5751.mkv.mp4"
-            },
-            "EpisodeHub": {},
-            "episodeServer3": {},
-            "episodeServer4": {
-                "1": "http://srsold.aapkipooja.com/srs1/GoT.S07E01%205745.mkv",
-                "2": "http://srsold.aapkipooja.com/srs1/GoT.S07E02%205746.mkv",
-                "3": "http://srsold.aapkipooja.com/srs1/GoT.S07E03%205747.mkv",
-                "4": "http://srsold.aapkipooja.com/srs1/GoT.S07E04%205748.mkv",
-                "6": "http://srsold.aapkipooja.com/srs1/GoT.S07E06%205750.mkv",
-                "7": "http://srsold.aapkipooja.com/srs1/GoT.S07E07%205751.mkv"
-            }
-        },
-        {
             "id": "22",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/kzb21srb7e2qeko6g.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/7six9ke8gqkcs7h6g.jpg",
@@ -3070,39 +3036,6 @@
                 "6": "http://srsold.aapkipooja.com/srs1/Laakhon%20Mein%20Ek%20S02%20E06%2010897.mkv",
                 "7": "http://srsold.aapkipooja.com/srs1/Laakhon%20Mein%20Ek%20S02%20E07%2010898.mkv",
                 "8": "http://srsold.aapkipooja.com/srs1/Laakhon%20Mein%20Ek%20S02%20E08%2010899.mkv"
-            }
-        },
-        {
-            "id": "84",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/z7m0479pm3n4msl6g.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/1l2qy1o9y3w95ph6g.jpg",
-            "movieName": "Game of Thrones Season 8",
-            "htmlFile": "https://www.5541",
-            "directOne": "Popular,Action,Thriller,Fantasy",
-            "directSecond": "rlR4PJn8b8I",
-            "imbd": "9.3",
-            "rating": "Dubbed",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Game of Thrones",
-            "pathName": "S8",
-            "EpisodeTape": {
-                "1": "https://streamtape.cc/v/lxQpj0aqXLUzQ4/GoT.S08E01_7644.mkv.mp4",
-                "2": "https://streamtape.site/v/O6mz98Zy1QiZRaR/GoT.S08E02_7655.mkv.mp4",
-                "3": "https://streamtape.site/v/gj8yo8Zg6QCq8Dk/GoT.S08E03_7744.mkv.mp4",
-                "4": "https://streamtape.site/v/g0lQ6lv9O4UqAY9/GoT.S08E04_7764.mkv.mp4",
-                "5": "https://streamtape.site/v/P6XxMdal4MuRVX/GoT.S08E05_7765.mkv.mp4",
-                "6": "https://streamtape.site/v/R6v3BkjmJRSZro/GoT.S08E06_7766.mkv.mp4"
-            },
-            "EpisodeHub": {},
-            "episodeServer3": {},
-            "episodeServer4": {
-                "1": "http://srsold.aapkipooja.com/srs1/GoT.S08E01%207644.mkv",
-                "2": "http://srsold.aapkipooja.com/srs1/GoT.S08E02%207655.mkv",
-                "3": "http://srsold.aapkipooja.com/srs1/GoT.S08E03%207744.mkv",
-                "4": "http://srsold.aapkipooja.com/srs1/GoT.S08E04%207764.mkv",
-                "5": "http://srsold.aapkipooja.com/srs1/GoT.S08E05%207765.mkv",
-                "6": "http://srsold.aapkipooja.com/srs1/GoT.S08E06%207766.mkv"
             }
         },
         {
@@ -42858,6 +42791,89 @@
                 "8": "http://srs.ringzstudio.online/lst/Game%20of%20Thrones%20S06E08%205353%208.mkv",
                 "9": "http://srs.ringzstudio.online/lst/Game%20of%20Thrones%20S06E09%205353%209.mkv",
                 "10": "http://srs.ringzstudio.online/lst/Game%20of%20Thrones%20S06E10%205353%2010.mkv"
+            }
+        },
+        {
+            "id": "21",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/pi5wuvbfc9wfu6c6g.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/g64e268xx3u56uc6g.jpg",
+            "movieName": "Game of Thrones Season 7",
+            "htmlFile": "https://www.5354",
+            "directOne": "Popular, Thriller,Action,Fantasy",
+            "directSecond": "giYeaKsXnsI",
+            "imbd": "9.3",
+            "rating": "Dubbed",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Game of Thrones",
+            "pathName": "S7",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/YgGOVRrjedFvlJO/Game_of_Thrones_S07E01_5354_1.mkv.mp4",
+                "2": "https://streamtape.site/v/vpLXrdV8aWH4p4K/Game_of_Thrones_S07E02_5354_2.mkv.mp4",
+                "3": "https://streamtape.site/v/r34O2mLrw8UbqJq/Game_of_Thrones_S07E03_5354_3.mkv.mp4",
+                "4": "https://streamtape.site/v/V7wpKYqmPBsKLOW/Game_of_Thrones_S07E04_5354_4.mkv.mp4",
+                "5": "https://streamtape.site/v/6aWZ8GXg3quLje/Game_of_Thrones_S07E05_5354_5.mkv.mp4",
+                "6": "https://streamtape.site/v/waDVvpa0OLfJw0p/Game_of_Thrones_S07E06_5354_6.mkv.mp4",
+                "7": "https://streamtape.site/v/dV2AQx8YR3skarQ/Game_of_Thrones_S07E07_5354_7.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/63928enhwjgb",
+                "2": "https://streamhub.ink/drq6v0hk67wf",
+                "3": "https://streamhub.ink/2jp8ydyhyzws",
+                "4": "https://streamhub.ink/bfaahndvsvll",
+                "5": "https://streamhub.ink/1lqrak15r0qg",
+                "6": "https://streamhub.ink/gtwprylzntxg",
+                "7": "https://streamhub.ink/jwkev1dfuwux"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Game%20of%20Thrones%20S07E01%205354%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Game%20of%20Thrones%20S07E02%205354%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Game%20of%20Thrones%20S07E03%205354%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Game%20of%20Thrones%20S07E04%205354%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Game%20of%20Thrones%20S07E05%205354%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Game%20of%20Thrones%20S07E06%205354%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Game%20of%20Thrones%20S07E07%205354%207.mkv"
+            }
+        },
+        {
+            "id": "84",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/z7m0479pm3n4msl6g.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/1l2qy1o9y3w95ph6g.jpg",
+            "movieName": "Game of Thrones Season 8",
+            "htmlFile": "https://www.5541",
+            "directOne": "Popular,Action,Thriller,Fantasy",
+            "directSecond": "rlR4PJn8b8I",
+            "imbd": "9.3",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Game of Thrones",
+            "pathName": "S8",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/2rW7Ayy6XRuZdJm/Game_of_Thrones_S08E01_5541_1.mkv.mp4",
+                "2": "https://streamtape.site/v/oGAaKjgZJ6cJoMj/Game_of_Thrones_S08E02_5541_2.mkv.mp4",
+                "3": "https://streamtape.site/v/eGm0klmBY1TYq28/Game_of_Thrones_S08E03_5541_3.mkv.mp4",
+                "4": "https://streamtape.site/v/vKo6O2e7MzH4G6e/Game_of_Thrones_S08E04_5541_4.mkv.mp4",
+                "5": "https://streamtape.site/v/V7AjX0DwwWiK2yZ/Game_of_Thrones_S08E05_5541_5.mkv.mp4",
+                "6": "https://streamtape.site/v/e4v92bkjQBfYWP2/Game_of_Thrones_S08E06_5541_6.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/9ga39w99ycpx",
+                "2": "https://streamhub.ink/oshzodtxi250",
+                "3": "https://streamhub.ink/37l22xsq2mei",
+                "4": "https://streamhub.ink/0uyngmraodx1",
+                "5": "https://streamhub.ink/k01ieym063ng",
+                "6": "https://streamhub.ink/yqke7nvqjjht"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Game%20of%20Thrones%20S08E01%205541%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Game%20of%20Thrones%20S08E02%205541%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Game%20of%20Thrones%20S08E03%205541%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Game%20of%20Thrones%20S08E04%205541%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Game%20of%20Thrones%20S08E05%205541%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Game%20of%20Thrones%20S08E06%205541%206.mkv"
             }
         },
         {
