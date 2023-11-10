@@ -29892,42 +29892,6 @@
             }
         },
         {
-            "id": "809",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/House%20of%20the%20Dragon%20Season%201.jpeg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/House%20of%20the%20Dragon%20Season%201.jpg",
-            "movieName": "House of the Dragon Season 1",
-            "htmlFile": "https://www.17912",
-            "directOne": "FALSE",
-            "directSecond": "DotnJ7tTA34",
-            "imbd": "8.8",
-            "rating": "Dual",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "House of the Dragon",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/LqXgJKB2kWhROp9/House_of_the_Dragon_S01E01_17911.mkv.mp4",
-                "2": "https://streamtape.site/v/O4vLjQLkvDTZPm1/House.Of.The.Dragon.S01E02_17944.mkv.mp4",
-                "3": "https://streamtape.site/v/R4XwYxD0MXcjJP/House_of_the_Dragon_S01_E03_17978.mkv.mp4",
-                "4": "https://streamtape.site/v/pbD0AA8jkwIABb/House_of_the_Dragon_S1_E04_18001.mkv.mp4",
-                "5": "https://streamtape.site/v/4dqZROAebjFKar4/House.Of.The.Dragon.S01E05_18069.mkv.mp4",
-                "6": "https://streamtape.cc/v/VV0WLrOMg7CKmkd/House.of.the.Dragon.S01E06.mkv.mp4",
-                "7": "https://streamtape.cc/v/7XRe7dWK48hJvW/House.of.the.Dragon.S01E07.mkv.mp4",
-                "8": "https://streamtape.cc/v/AqRa92YdloSXkm4/House.of.the.Dragon.S01E08.mkv.mp4",
-                "9": "https://streamtape.cc/v/VoY9vXR6xwIK8vA/House.Of.The.Dragon.S01E09.mkv.mp4",
-                "10": "https://streamtape.cc/v/Dk28VZzPKrTkM3b/House.Of.The.Dragon.S01e10.mkv.mp4"
-            },
-            "EpisodeHub": {},
-            "episodeServer3": {},
-            "episodeServer4": {
-                "1": "http://srsold.aapkipooja.com/srs3/House_of_the_Dragon_S01E01_17911.mkv.mp4",
-                "2": "http://srsold.aapkipooja.com/srs3/House.Of.The.Dragon.S01E02_17944.mkv.mp4",
-                "3": "http://srsold.aapkipooja.com/srs3/House_of_the_Dragon_S01_E03_17978.mkv.mp4",
-                "4": "http://srsold.aapkipooja.com/srs3/House_of_the_Dragon_S1_E04_18001.mkv.mp4",
-                "5": "http://srsold.aapkipooja.com/srs3/House.Of.The.Dragon.S01E05_18069.mkv.mp4"
-            }
-        },
-        {
             "id": "830",
             "ImageUrlHorizontal": "https://i.postimg.cc/YSHNWMRp/Karm-Yudh-Season-1-2022.jpg",
             "ImageUrlVertical": "https://i.postimg.cc/BbBfJqmX/Karm-Yudh-Season-1-2022.jpg",
@@ -42942,25 +42906,112 @@
                 "1": "https://streamtape.site/v/7kWxDyqgbdtAp3p/Breaking_Bad_S05E01_19208_1.mkv.mp4",
                 "2": "https://streamtape.site/v/RBllOQJp0XFdoDd/Breaking_Bad_S05E02_19208_2.mkv.mp4",
                 "3": "https://streamtape.site/v/MYMG47g3BdfmXkZ/Breaking_Bad_S05E03_19208_3.mkv.mp4",
-                "4": "https://streamtape.site/v/JbWo47rZ1ksg9Q/Breaking_Bad_S05E04_19208_4.mkv.mp4"
+                "4": "https://streamtape.site/v/JbWo47rZ1ksg9Q/Breaking_Bad_S05E04_19208_4.mkv.mp4",
+                "5": "https://streamtape.site/v/aGr8oZLq7bIxjbX/Breaking_Bad_S05E05_19208_5.mkv.mp4",
+                "6": "https://streamtape.site/v/Dazv89M42ytGkg/Breaking_Bad_S05E06_19208_6.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "https://streamhub.ink/0vrlmv9w969u",
                 "2": "https://streamhub.ink/l8ohtaxjnirv",
                 "3": "https://streamhub.ink/9l88bvkc55rz",
-                "4": "https://streamhub.ink/5qp7o5aob1eq"
+                "4": "https://streamhub.ink/5qp7o5aob1eq",
+                "5": "https://streamhub.ink/yj1brodojy64",
+                "6": "https://streamhub.ink/7vrz1xwpl00u"
             },
             "episodeServer3": {
                 "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv",
                 "2": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E02%2019208%202.mkv",
                 "3": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E03%2019208%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E04%2019208%204.mkv"
+                "4": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E04%2019208%204.mkv",
+                "5": "FALSE",
+                "6": "FALSE"
             },
             "episodeServer4": {
                 "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv",
                 "2": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E02%2019208%202.mkv",
                 "3": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E03%2019208%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E04%2019208%204.mkv"
+                "4": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E04%2019208%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E05%2019208%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E06%2019208%206.mkv"
+            }
+        },
+        {
+            "id": "1215",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Chhotolok%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Chhotolok%20Season%201.jpg",
+            "movieName": "Chhotolok Season 1",
+            "htmlFile": "https://www.19215",
+            "directOne": "Suspense,Thriller",
+            "directSecond": "kDSto24CaVI",
+            "imbd": "9.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Chhotolok",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/Wq8RX0DpjAHbDMW/Chhotolok_S01Complete_19215_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/vcm3hpomz8qs"
+            },
+            "episodeServer3": {
+                
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Chhotolok%20S01Complete%2019215%201.mkv"
+            }
+        },
+        {
+            "id": "809",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/House%20of%20the%20Dragon%20Season%201.jpeg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/House%20of%20the%20Dragon%20Season%201.jpg",
+            "movieName": "House of the Dragon Season 1",
+            "htmlFile": "https://www.17912",
+            "directOne": "FALSE",
+            "directSecond": "DotnJ7tTA34",
+            "imbd": "8.8",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "House of the Dragon",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/wVr02kkW7WuJkp8/House_of_the_Dragon_S01E01_17912_1.mkv.mp4",
+                "2": "https://streamtape.site/v/JvrM1Dapr1ijWg1/House_of_the_Dragon_S01E02_17912_2.mkv.mp4",
+                "3": "https://streamtape.site/v/AXy03kY4oKhv7z/House_of_the_Dragon_S01E03_17912_3.mkv.mp4",
+                "4": "https://streamtape.site/v/z7QD3eRw9ytYddO/House_of_the_Dragon_S01E04_17912_4.mkv.mp4",
+                "5": "https://streamtape.site/v/GMOW7AwzDWh1Xwb/House_of_the_Dragon_S01E05_17912_5.mkv.mp4",
+                "6": "https://streamtape.site/v/DeAkxZDM17skgvx/House_of_the_Dragon_S01E06_17912_6.mkv.mp4",
+                "7": "https://streamtape.site/v/dpXJQlr9MBUkVKB/House_of_the_Dragon_S01E07_17912_7.mkv.mp4",
+                "8": "https://streamtape.site/v/mYYz6qkRVltbA07/House_of_the_Dragon_S01E08_17912_8.mkv.mp4",
+                "9": "https://streamtape.site/v/l2Rr93gK7VIo6z/House_of_the_Dragon_S01E09_17912_9.mkv.mp4",
+                "10": "https://streamtape.site/v/qr6LlBR7xZUZ3D/House_of_the_Dragon_S01E10_17912_10.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/t28m4g80e81y",
+                "2": "https://streamhub.ink/r764tnj6ecat",
+                "3": "https://streamhub.ink/qnopz8jh69jh",
+                "4": "https://streamhub.ink/9qw4chxozunx",
+                "5": "https://streamhub.ink/heh9htx7rn23",
+                "6": "https://streamhub.ink/ajhsrj3py84g",
+                "7": "https://streamhub.ink/zoz1fxnxx0sr",
+                "8": "https://streamhub.ink/8ouwlcfqib8h",
+                "9": "https://streamhub.ink/le4l5pzzccqq",
+                "10": "https://streamhub.ink/knwagaj843fy"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/House%20of%20the%20Dragon%20S01E01%2017912%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/House%20of%20the%20Dragon%20S01E02%2017912%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/House%20of%20the%20Dragon%20S01E03%2017912%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/House%20of%20the%20Dragon%20S01E04%2017912%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/House%20of%20the%20Dragon%20S01E05%2017912%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/House%20of%20the%20Dragon%20S01E06%2017912%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/House%20of%20the%20Dragon%20S01E07%2017912%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/House%20of%20the%20Dragon%20S01E08%2017912%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/House%20of%20the%20Dragon%20S01E09%2017912%209.mkv",
+                "10": "http://srs.ringzstudio.online/lst/House%20of%20the%20Dragon%20S01E10%2017912%2010.mkv"
             }
         },
         {
