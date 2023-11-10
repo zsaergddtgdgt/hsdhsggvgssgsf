@@ -42275,34 +42275,6 @@
             }
         },
         {
-            "id": "1204",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Koffee%20With%20Karan%20Season%208.webp",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Koffee%20With%20Karan%20Season%208.png",
-            "movieName": "Koffee With Karan Season 8",
-            "htmlFile": "https://www.19204",
-            "directOne": "Talk-Show,Comedy",
-            "directSecond": "wgMW6bzKHuA",
-            "imbd": "9.1",
-            "rating": "English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Koffee With Karan",
-            "pathName": "S8",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/dpmVWxMoWgIk8w3/Koffee_With_Karan_S08E01_19204_1.mkv.mp4",
-                "2": "https://streamtape.site/v/ZDx2AjkMGpFqVY0/Koffee_With_Karan_S08E02_19204_2.mkv.mp4"
-            },
-            "EpisodeHub": {},
-            "episodeServer3": {
-                "1": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E01%2019204%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E02%2019204%202.mkv"
-            },
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E01%2019204%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E02%2019204%202.mkv"
-            }
-        },
-        {
             "id": "1132",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Scam%202003%20-%20The%20Telgi%20Story%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Scam%202003%20-%20The%20Telgi%20Story%20Season%201.jpg",
@@ -42963,6 +42935,87 @@
             }
         },
         {
+            "id": "1216",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Durgo%20Rawhoshyo%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Durgo%20Rawhoshyo%20Season%201.jpg",
+            "movieName": "Durgo Rawhoshyo Season 1",
+            "htmlFile": "https://www.19216",
+            "directOne": "Crime,Thriller",
+            "directSecond": "mvc4RUeUwvk",
+            "imbd": "9.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Durgo Rawhoshyo",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/03BWvwY081CeQ1/Durgo_Rawhoshyo_S01Complete_19216_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/3014gvdkluph"
+            },
+            "episodeServer3": {
+                
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Durgo%20Rawhoshyo%20S01Complete%2019216%201.mkv"
+            }
+        },
+        {
+            "id": "1218",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/BhootMate%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/BhootMate%20Season%201.jpg",
+            "movieName": "BhootMate Season 1",
+            "htmlFile": "https://www.19218",
+            "directOne": "Adult,Comedy",
+            "directSecond": "eQ2r3wqwMmM",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "BhootMate",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/rDDxxqM7zZha48/BhootMate_S01Complete_19218_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/gd829dkam3kv"
+            },
+            "episodeServer3": {
+                
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/BhootMate%20S01Complete%2019218%201.mkv"
+            }
+        },
+        {
+            "id": "1217",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Adventures%20of%20Lleo%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Adventures%20of%20Lleo%20Season%201.jpg",
+            "movieName": "The Adventures of Lleo Season 1",
+            "htmlFile": "https://www.19217",
+            "directOne": "Comedy",
+            "directSecond": "fQfbgZD4f1c",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Adventures of Lleo",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/RWQOVmwpjvud10q/The_Adventures_of_Lleo_S01Complete_19217_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/d5d0iypwi07r"
+            },
+            "episodeServer3": {
+                
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/The%20Adventures%20of%20Lleo%20S01Complete%2019217%201.mkv"
+            }
+        },
+        {
             "id": "809",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/House%20of%20the%20Dragon%20Season%201.jpeg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/House%20of%20the%20Dragon%20Season%201.jpg",
@@ -43015,6 +43068,37 @@
             }
         },
         {
+            "id": "1204",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Koffee%20With%20Karan%20Season%208.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Koffee%20With%20Karan%20Season%208.png",
+            "movieName": "Koffee With Karan Season 8",
+            "htmlFile": "https://www.19204",
+            "directOne": "Talk-Show,Comedy",
+            "directSecond": "wgMW6bzKHuA",
+            "imbd": "9.1",
+            "rating": "English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Koffee With Karan",
+            "pathName": "S8",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/dpmVWxMoWgIk8w3/Koffee_With_Karan_S08E01_19204_1.mkv.mp4",
+                "2": "https://streamtape.site/v/ZDx2AjkMGpFqVY0/Koffee_With_Karan_S08E02_19204_2.mkv.mp4",
+                "3": "https://streamtape.site/v/ggx9wPL4vOIJVK/Koffee_With_Karan_S08E03_19204_3.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/6qztz2y1jnv4",
+                "2": "https://streamhub.ink/sc7pg3o3a7f9",
+                "3": "https://streamhub.ink/de5jzo29aftg"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E01%2019204%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E02%2019204%202.mkv",
+                "3": ""
+            }
+        },
+        {
             "id": "1177",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Loki%20Season%202.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Loki%20Season%202.jpg",
@@ -43036,15 +43120,15 @@
                 "5": "https://streamtape.site/v/jAqzvlX4OjszyoW/Loki_S02E05_19177_5.mkv.mp4",
                 "6": "https://streamtape.site/v/O7G3lxB1ZeSZlwV/Loki_S02E06_19177_6.mkv.mp4"
             },
-            "EpisodeHub": {},
-            "episodeServer3": {
-                "1": "http://srs.aapkipooja.com/Loki%20S02E01%2019177%201.mkv",
-                "2": "http://srs.aapkipooja.com/lst/Loki%20S02E02%2019177%202.mkv",
-                "3": "http://srs.aapkipooja.com/lst/Loki%20S02E03%2019177%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Loki%20S02E04%2019177%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/Loki%20S02E05%2019177%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/Loki%20S02E06%2019177%206.mkv"
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/22mmap1gs4ui",
+                "2": "https://streamhub.ink/hc324yb6e9a8",
+                "3": "https://streamhub.ink/9rc2psjxz4lc",
+                "4": "https://streamhub.ink/2lrc6ozfjhbz",
+                "5": "https://streamhub.ink/i336md0i57in",
+                "6": "https://streamhub.ink/nj5jead3wcie"
             },
+            "episodeServer3": {},
             "episodeServer4": {
                 "1": "http://srs.aapkipooja.com/Loki%20S02E01%2019177%201.mkv",
                 "2": "http://srs.aapkipooja.com/lst/Loki%20S02E02%2019177%202.mkv",
