@@ -1,6 +1,28 @@
 {
     "AllMovieDataList": [
     
+     {
+            "id": "3628",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H2/Tiger%203%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V2/Tiger%203%20(2023).jpg",
+            "movieName": "Tiger 3 (2023)",
+            "htmlFile": "https://www.13628",
+            "directOne": "Hindi",
+            "directSecond": "vAp-9i4mFBQ",
+            "rating": "HDCamRip",
+            "catergory": "Action,History",
+            "Industry": "Bollywood",
+            "hub": "https://streamhub.ink/mg326r3t0fbd",
+            "tape": "https://streamtape.site/v/XYk1xwWbZYuD8Wr/Tiger_3_%282023%29_13628.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Tiger%203%20(2023)%2013628.mkv",
+            "server4": "http://mvs.ringzstudio.online/720p/Tiger%203%20(2023)%2013628.mkv",
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.ink/oa1g262yst0h",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Tiger%203%20(2023)%2013628.mkv",
+            "480pS4": "http://mvs.ringzstudio.online/480p/Tiger%203%20(2023)%2013628.mkv"
+        },
+    
         {
             "id": "3624",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/The%20Marvels%20(2023).jpg",
