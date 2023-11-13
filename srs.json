@@ -42877,53 +42877,6 @@
             }
         },
         {
-            "id": "1208",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Breaking%20Bad%20Season%205.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Breaking%20Bad%20Season%205.jpg",
-            "movieName": "Breaking Bad Season 5",
-            "htmlFile": "https://www.19208",
-            "directOne": "Thriller,Crime",
-            "directSecond": "V8T7A9LcYnw",
-            "imbd": "9.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Breaking Bad",
-            "pathName": "S5",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/7kWxDyqgbdtAp3p/Breaking_Bad_S05E01_19208_1.mkv.mp4",
-                "2": "https://streamtape.site/v/RBllOQJp0XFdoDd/Breaking_Bad_S05E02_19208_2.mkv.mp4",
-                "3": "https://streamtape.site/v/MYMG47g3BdfmXkZ/Breaking_Bad_S05E03_19208_3.mkv.mp4",
-                "4": "https://streamtape.site/v/JbWo47rZ1ksg9Q/Breaking_Bad_S05E04_19208_4.mkv.mp4",
-                "5": "https://streamtape.site/v/aGr8oZLq7bIxjbX/Breaking_Bad_S05E05_19208_5.mkv.mp4",
-                "6": "https://streamtape.site/v/Dazv89M42ytGkg/Breaking_Bad_S05E06_19208_6.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/0vrlmv9w969u",
-                "2": "https://streamhub.ink/l8ohtaxjnirv",
-                "3": "https://streamhub.ink/9l88bvkc55rz",
-                "4": "https://streamhub.ink/5qp7o5aob1eq",
-                "5": "https://streamhub.ink/yj1brodojy64",
-                "6": "https://streamhub.ink/7vrz1xwpl00u"
-            },
-            "episodeServer3": {
-                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E02%2019208%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E03%2019208%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E04%2019208%204.mkv",
-                "5": "FALSE",
-                "6": "FALSE"
-            },
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E02%2019208%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E03%2019208%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E04%2019208%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E05%2019208%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E06%2019208%206.mkv"
-            }
-        },
-        {
             "id": "1215",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Chhotolok%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Chhotolok%20Season%201.jpg",
@@ -43179,6 +43132,125 @@
             },
             "episodeServer4": {
                 "1": "http://srs.ringzstudio.online/lst/Crushed%20S03Complete%2019219%201.mkv"
+            }
+        },
+        {
+            "id": "1220",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Hack%20Crimes%20Online%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Hack%20Crimes%20Online%20Season%201.jpg",
+            "movieName": "Hack Crimes Online Season 1",
+            "htmlFile": "https://www.19220",
+            "directOne": "Thriller,Drama",
+            "directSecond": "KZIupn2xfZk",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Hack Crimes Online",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/xObdMR3gRYSwx9/Hack_Crimes_Online_S01Complete_19220_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/8v8ejicyry7j"
+            },
+            "episodeServer3": {
+                
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Hack%20Crimes%20Online%20S01Complete%2019220%201.mkv"
+            }
+        },
+        {
+            "id": "1221",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Hack%20Crimes%20Online%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Hack%20Crimes%20Online%20Season%201.jpg",
+            "movieName": "Hack Crimes Online Season 1",
+            "htmlFile": "https://www.19221",
+            "directOne": "Thriller,Drama",
+            "directSecond": "KZIupn2xfZk",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Hack Crimes Online",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/or7X4KkYbYhJzrg/Label_S01E01_19221_1.mkv.mp4",
+                "2": "https://streamtape.site/v/3AOwo3VgbRHdwZ8/Label_S01E02_19221_2.mkv.mp4",
+                "3": "https://streamtape.site/v/XY79Kx7w7RCAok/Label_S01E03_19221_3.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/xyk0pk3gvhz1",
+                "2": "https://streamhub.ink/ny3kty61lszp",
+                "3": "https://streamhub.ink/v50t0oez8h3p"
+            },
+            "episodeServer3": {
+                
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Label%20S01E01%2019221%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Label%20S01E02%2019221%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Label%20S01E03%2019221%203.mkv"
+            }
+        },
+        {
+            "id": "1208",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Breaking%20Bad%20Season%205.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Breaking%20Bad%20Season%205.jpg",
+            "movieName": "Breaking Bad Season 5",
+            "htmlFile": "https://www.19208",
+            "directOne": "Thriller,Crime",
+            "directSecond": "V8T7A9LcYnw",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Breaking Bad",
+            "pathName": "S5",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/7kWxDyqgbdtAp3p/Breaking_Bad_S05E01_19208_1.mkv.mp4",
+                "2": "https://streamtape.site/v/RBllOQJp0XFdoDd/Breaking_Bad_S05E02_19208_2.mkv.mp4",
+                "3": "https://streamtape.site/v/MYMG47g3BdfmXkZ/Breaking_Bad_S05E03_19208_3.mkv.mp4",
+                "4": "https://streamtape.site/v/JbWo47rZ1ksg9Q/Breaking_Bad_S05E04_19208_4.mkv.mp4",
+                "5": "https://streamtape.site/v/aGr8oZLq7bIxjbX/Breaking_Bad_S05E05_19208_5.mkv.mp4",
+                "6": "https://streamtape.site/v/Dazv89M42ytGkg/Breaking_Bad_S05E06_19208_6.mkv.mp4",
+                "7": "https://streamtape.site/v/D9g4r3XgdrCkX4e/Breaking_Bad_S05E07_19208_7.mkv.mp4",
+                "8": "https://streamtape.site/v/drM4wy026DSkxm7/Breaking_Bad_S05E08_19208_8.mkv.mp4",
+                "9": "https://streamtape.site/v/qD9dxPQzWoczqp1/Breaking_Bad_S05E09_19208_9.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/0vrlmv9w969u",
+                "2": "https://streamhub.ink/l8ohtaxjnirv",
+                "3": "https://streamhub.ink/9l88bvkc55rz",
+                "4": "https://streamhub.ink/5qp7o5aob1eq",
+                "5": "https://streamhub.ink/yj1brodojy64",
+                "6": "https://streamhub.ink/7vrz1xwpl00u",
+                "7": "https://streamhub.ink/u2vhbsg2qz6b",
+                "8": "https://streamhub.ink/1ovzvtq28fjo",
+                "9": "https://streamhub.ink/rgtbg5iuej64"
+            },
+            "episodeServer3": {
+                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E02%2019208%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E03%2019208%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E04%2019208%204.mkv",
+                "5": "FALSE",
+                "6": "FALSE",
+                "7": "FALSE",
+                "8": "FALSE",
+                "9": "FALSE"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E02%2019208%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E03%2019208%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E04%2019208%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E05%2019208%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E06%2019208%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E07%2019208%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E08%2019208%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E09%2019208%209.mkv"
             }
         }
     ]
