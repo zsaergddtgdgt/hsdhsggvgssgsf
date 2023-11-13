@@ -43111,7 +43111,7 @@
             "episodeServer4": {
                 "1": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E01%2019204%201.mkv",
                 "2": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E02%2019204%202.mkv",
-                "3": ""
+                "3": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E03%2019204%203.mkv"
             }
         },
         {
@@ -43152,6 +43152,33 @@
                 "4": "http://srs.ringzstudio.online/lst/Loki%20S02E04%2019177%204.mkv",
                 "5": "http://srs.ringzstudio.online/lst/Loki%20S02E05%2019177%205.mkv",
                 "6": "http://srs.ringzstudio.online/lst/Loki%20S02E06%2019177%206.mkv"
+            }
+        },
+        {
+            "id": "1219",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Crushed%20Season%203.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Crushed%20Season%203.jpg",
+            "movieName": "Crushed Season 3",
+            "htmlFile": "https://www.19219",
+            "directOne": "Romance,Drama",
+            "directSecond": "3tRiy5OHea4",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Crushed",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/X1r6yMW9WDugL3/Crushed_S03Complete_19219_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/ucrp9fmf6y87"
+            },
+            "episodeServer3": {
+                
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Crushed%20S03Complete%2019219%201.mkv"
             }
         }
     ]
