@@ -39574,6 +39574,33 @@
             }
         },
         {
+            "id": "1224",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/XXX%20-%20Uncensored%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/XXX%20-%20Uncensored%20Season%201.jpg",
+            "movieName": "XXX - Uncensored Season 1",
+            "htmlFile": "https://www.19224",
+            "directOne": "Adult,Drama",
+            "directSecond": "19k-iGlhGiI",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "XXX - Uncensored",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/4PxGLBlw12Fpg1/XXX_-_Uncensored_S01Complete_19224_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/44urjmd3ctoh"
+            },
+            "episodeServer3": {
+                
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/XXX%20-%20Uncensored%20S01Complete%2019224%201.mkv"
+            }
+        },
+        {
             "id": "1147",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Virgin%20River%20Season%205.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Virgin%20River%20Season%205.jpg",
@@ -43108,6 +43135,33 @@
             }
         },
         {
+            "id": "1223",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Parnashavarir%20Shaap%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Parnashavarir%20Shaap%20Season%201.jpg",
+            "movieName": "Parnashavarir Shaap Season 1",
+            "htmlFile": "https://www.19223",
+            "directOne": "Horror,Drama",
+            "directSecond": "L8fIQlHiYgU",
+            "imbd": "9.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Parnashavarir Shaap",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/lxQ4O6lerZi73w0/Parnashavarir_Shaap_S01Complete_19223_1.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/k7k5guzz91ux"
+            },
+            "episodeServer3": {
+                
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Parnashavarir%20Shaap%20S01Complete%2019223%201.mkv"
+            }
+        },
+        {
             "id": "1219",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Crushed%20Season%203.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Crushed%20Season%203.jpg",
@@ -43251,6 +43305,57 @@
                 "7": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E07%2019208%207.mkv",
                 "8": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E08%2019208%208.mkv",
                 "9": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E09%2019208%209.mkv"
+            }
+        },
+        {
+            "id": "1222",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Temptation%20Island%20India%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Temptation%20Island%20India%20Season%201.jpg",
+            "movieName": "Temptation Island India Season 1",
+            "htmlFile": "https://www.19222",
+            "directOne": "Adult,Reality",
+            "directSecond": "L8fIQlHiYgU",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Temptation Island India",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/gr6prYKgXbcqKxp/Temptation_Island_India_S01E01_19222_1.mkv.mp4",
+                "2": "https://streamtape.site/v/rb96kQKAOycbbmK/Temptation_Island_India_S01E02_19222_2.mkv.mp4",
+                "3": "https://streamtape.site/v/RXjd4zaQPdTdyXo/Temptation_Island_India_S01E03_19222_3.mkv.mp4",
+                "4": "https://streamtape.site/v/69LPAOKGKBc9R7X/Temptation_Island_India_S01E04_19222_4.mkv.mp4",
+                "5": "https://streamtape.site/v/8Xg6X7eyy8soPqJ/Temptation_Island_India_S01E05_19222_5.mkv.mp4",
+                "6": "https://streamtape.site/v/oeL4mDBrqpsJ6Xz/Temptation_Island_India_S01E06_19222_6.mkv.mp4",
+                "7": "https://streamtape.site/v/OX9lBpR3RefZBYo/Temptation_Island_India_S01E07_19222_7.mkv.mp4",
+                "8": "https://streamtape.site/v/4pkemgP77KcKPvy/Temptation_Island_India_S01E08_19222_8.mkv.mp4",
+                "9": "https://streamtape.site/v/KkMgVQX10ytbQk/Temptation_Island_India_S01E09_19222_9.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/3nggwno6mjb5",
+                "2": "https://streamhub.ink/un6p4x3fufrw",
+                "3": "https://streamhub.ink/syuaqdvygpod",
+                "4": "https://streamhub.ink/blqbirffydjs",
+                "5": "https://streamhub.ink/6xuo9msqf1qo",
+                "6": "https://streamhub.ink/uwr5sr3u6691",
+                "7": "https://streamhub.ink/tfrwh0bng6te",
+                "8": "https://streamhub.ink/ur0htq2me1qs",
+                "9": "https://streamhub.ink/hkrd2wvpd8vl"
+            },
+            "episodeServer3": {
+                
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Temptation%20Island%20India%20S01E01%2019222%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Temptation%20Island%20India%20S01E02%2019222%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Temptation%20Island%20India%20S01E03%2019222%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Temptation%20Island%20India%20S01E04%2019222%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Temptation%20Island%20India%20S01E05%2019222%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Temptation%20Island%20India%20S01E06%2019222%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Temptation%20Island%20India%20S01E07%2019222%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Temptation%20Island%20India%20S01E08%2019222%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/Temptation%20Island%20India%20S01E09%2019222%209.mkv"
             }
         }
     ]
