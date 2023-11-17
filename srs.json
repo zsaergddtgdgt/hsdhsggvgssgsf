@@ -43064,37 +43064,6 @@
             }
         },
         {
-            "id": "1204",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Koffee%20With%20Karan%20Season%208.webp",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Koffee%20With%20Karan%20Season%208.png",
-            "movieName": "Koffee With Karan Season 8",
-            "htmlFile": "https://www.19204",
-            "directOne": "Talk-Show,Comedy",
-            "directSecond": "wgMW6bzKHuA",
-            "imbd": "9.1",
-            "rating": "English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Koffee With Karan",
-            "pathName": "S8",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/dpmVWxMoWgIk8w3/Koffee_With_Karan_S08E01_19204_1.mkv.mp4",
-                "2": "https://streamtape.site/v/ZDx2AjkMGpFqVY0/Koffee_With_Karan_S08E02_19204_2.mkv.mp4",
-                "3": "https://streamtape.site/v/ggx9wPL4vOIJVK/Koffee_With_Karan_S08E03_19204_3.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/6qztz2y1jnv4",
-                "2": "https://streamhub.ink/sc7pg3o3a7f9",
-                "3": "https://streamhub.ink/de5jzo29aftg"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E01%2019204%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E02%2019204%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E03%2019204%203.mkv"
-            }
-        },
-        {
             "id": "1177",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Loki%20Season%202.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Loki%20Season%202.jpg",
@@ -43216,95 +43185,30 @@
             }
         },
         {
-            "id": "1221",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Label%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Label%20Season%201.jpg",
-            "movieName": "Label Season 1",
-            "htmlFile": "https://www.19221",
-            "directOne": "Crime,Drama",
-            "directSecond": "1o_3J7ALRFY",
+            "id": "1226",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Sharey%20Showlo%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Sharey%20Showlo%20Season%201.jpg",
+            "movieName": "Sharey Showlo Season 1",
+            "htmlFile": "https://www.19226",
+            "directOne": "Thriller,Drama",
+            "directSecond": "-rCit5P0QEM",
             "imbd": "9.1",
-            "rating": "Hindi+Tamil",
+            "rating": "Bengali",
             "catergory": "webSeries",
             "Industry": "webSeries",
-            "keyName": "Label",
+            "keyName": "Sharey Showlo",
             "pathName": "S1",
             "EpisodeTape": {
-                "1": "https://streamtape.site/v/or7X4KkYbYhJzrg/Label_S01E01_19221_1.mkv.mp4",
-                "2": "https://streamtape.site/v/3AOwo3VgbRHdwZ8/Label_S01E02_19221_2.mkv.mp4",
-                "3": "https://streamtape.site/v/XY79Kx7w7RCAok/Label_S01E03_19221_3.mkv.mp4"
+                "1": "https://streamtape.site/v/BPOqaY1XyDtyJaa/Sharey_Showlo_S01Complete_19226_1.mkv.mp4"
             },
             "EpisodeHub": {
-                "1": "https://streamhub.ink/xyk0pk3gvhz1",
-                "2": "https://streamhub.ink/ny3kty61lszp",
-                "3": "https://streamhub.ink/v50t0oez8h3p"
+                "1": "https://streamhub.ink/ll4cz33htqrq"
             },
             "episodeServer3": {
                 
             },
             "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Label%20S01E01%2019221%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Label%20S01E02%2019221%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Label%20S01E03%2019221%203.mkv"
-            }
-        },
-        {
-            "id": "1208",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Breaking%20Bad%20Season%205.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Breaking%20Bad%20Season%205.jpg",
-            "movieName": "Breaking Bad Season 5",
-            "htmlFile": "https://www.19208",
-            "directOne": "Thriller,Crime",
-            "directSecond": "V8T7A9LcYnw",
-            "imbd": "9.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Breaking Bad",
-            "pathName": "S5",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/7kWxDyqgbdtAp3p/Breaking_Bad_S05E01_19208_1.mkv.mp4",
-                "2": "https://streamtape.site/v/RBllOQJp0XFdoDd/Breaking_Bad_S05E02_19208_2.mkv.mp4",
-                "3": "https://streamtape.site/v/MYMG47g3BdfmXkZ/Breaking_Bad_S05E03_19208_3.mkv.mp4",
-                "4": "https://streamtape.site/v/JbWo47rZ1ksg9Q/Breaking_Bad_S05E04_19208_4.mkv.mp4",
-                "5": "https://streamtape.site/v/aGr8oZLq7bIxjbX/Breaking_Bad_S05E05_19208_5.mkv.mp4",
-                "6": "https://streamtape.site/v/Dazv89M42ytGkg/Breaking_Bad_S05E06_19208_6.mkv.mp4",
-                "7": "https://streamtape.site/v/D9g4r3XgdrCkX4e/Breaking_Bad_S05E07_19208_7.mkv.mp4",
-                "8": "https://streamtape.site/v/drM4wy026DSkxm7/Breaking_Bad_S05E08_19208_8.mkv.mp4",
-                "9": "https://streamtape.site/v/qD9dxPQzWoczqp1/Breaking_Bad_S05E09_19208_9.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/0vrlmv9w969u",
-                "2": "https://streamhub.ink/l8ohtaxjnirv",
-                "3": "https://streamhub.ink/9l88bvkc55rz",
-                "4": "https://streamhub.ink/5qp7o5aob1eq",
-                "5": "https://streamhub.ink/yj1brodojy64",
-                "6": "https://streamhub.ink/7vrz1xwpl00u",
-                "7": "https://streamhub.ink/u2vhbsg2qz6b",
-                "8": "https://streamhub.ink/1ovzvtq28fjo",
-                "9": "https://streamhub.ink/rgtbg5iuej64"
-            },
-            "episodeServer3": {
-                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E02%2019208%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E03%2019208%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E04%2019208%204.mkv",
-                "5": "FALSE",
-                "6": "FALSE",
-                "7": "FALSE",
-                "8": "FALSE",
-                "9": "FALSE"
-            },
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E02%2019208%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E03%2019208%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E04%2019208%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E05%2019208%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E06%2019208%206.mkv",
-                "7": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E07%2019208%207.mkv",
-                "8": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E08%2019208%208.mkv",
-                "9": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E09%2019208%209.mkv"
+                "1": "http://srs.ringzstudio.online/lst/Sharey%20Showlo%20S01Complete%2019226%201.mkv"
             }
         },
         {
@@ -43356,6 +43260,167 @@
                 "7": "http://srs.ringzstudio.online/lst/Temptation%20Island%20India%20S01E07%2019222%207.mkv",
                 "8": "http://srs.ringzstudio.online/lst/Temptation%20Island%20India%20S01E08%2019222%208.mkv",
                 "9": "http://srs.ringzstudio.online/lst/Temptation%20Island%20India%20S01E09%2019222%209.mkv"
+            }
+        },
+        {
+            "id": "1208",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Breaking%20Bad%20Season%205.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Breaking%20Bad%20Season%205.jpg",
+            "movieName": "Breaking Bad Season 5",
+            "htmlFile": "https://www.19208",
+            "directOne": "Thriller,Crime",
+            "directSecond": "V8T7A9LcYnw",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Breaking Bad",
+            "pathName": "S5",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/7kWxDyqgbdtAp3p/Breaking_Bad_S05E01_19208_1.mkv.mp4",
+                "2": "https://streamtape.site/v/RBllOQJp0XFdoDd/Breaking_Bad_S05E02_19208_2.mkv.mp4",
+                "3": "https://streamtape.site/v/MYMG47g3BdfmXkZ/Breaking_Bad_S05E03_19208_3.mkv.mp4",
+                "4": "https://streamtape.site/v/JbWo47rZ1ksg9Q/Breaking_Bad_S05E04_19208_4.mkv.mp4",
+                "5": "https://streamtape.site/v/aGr8oZLq7bIxjbX/Breaking_Bad_S05E05_19208_5.mkv.mp4",
+                "6": "https://streamtape.site/v/Dazv89M42ytGkg/Breaking_Bad_S05E06_19208_6.mkv.mp4",
+                "7": "https://streamtape.site/v/D9g4r3XgdrCkX4e/Breaking_Bad_S05E07_19208_7.mkv.mp4",
+                "8": "https://streamtape.site/v/drM4wy026DSkxm7/Breaking_Bad_S05E08_19208_8.mkv.mp4",
+                "9": "https://streamtape.site/v/qD9dxPQzWoczqp1/Breaking_Bad_S05E09_19208_9.mkv.mp4",
+                "10": "https://streamtape.site/v/49zkd6az6wfrKr/Breaking_Bad_S05E10_19208_10.mkv.mp4",
+                "11": "https://streamtape.site/v/k0PQbBjPbVCOvqo/Breaking_Bad_S05E11_19208_11.mkv.mp4",
+                "12": "https://streamtape.site/v/V76PpaW6KrTK29P/Breaking_Bad_S05E12_19208_12.mkv.mp4",
+                "13": "https://streamtape.site/v/aokD9p4PA6hxyQb/Breaking_Bad_S05E13_19208_13.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/0vrlmv9w969u",
+                "2": "https://streamhub.ink/l8ohtaxjnirv",
+                "3": "https://streamhub.ink/9l88bvkc55rz",
+                "4": "https://streamhub.ink/5qp7o5aob1eq",
+                "5": "https://streamhub.ink/yj1brodojy64",
+                "6": "https://streamhub.ink/7vrz1xwpl00u",
+                "7": "https://streamhub.ink/u2vhbsg2qz6b",
+                "8": "https://streamhub.ink/1ovzvtq28fjo",
+                "9": "https://streamhub.ink/rgtbg5iuej64",
+                "10": "https://streamhub.ink/8lctdl9t2e9a",
+                "11": "https://streamhub.ink/bun09roh3jru",
+                "12": "https://streamhub.ink/5uahdxchc2h5",
+                "13": "https://streamhub.ink/hkfgvuhonwhg"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E01%2019208%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E02%2019208%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E03%2019208%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E04%2019208%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E05%2019208%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E06%2019208%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E07%2019208%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E08%2019208%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E09%2019208%209.mkv",
+                "10": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E10%2019208%2010.mkv",
+                "11": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E11%2019208%2011.mkv",
+                "12": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E12%2019208%2012.mkv",
+                "13": "http://srs.ringzstudio.online/lst/Breaking%20Bad%20S05E13%2019208%2013.mkv"
+            }
+        },
+        {
+            "id": "1204",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Koffee%20With%20Karan%20Season%208.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Koffee%20With%20Karan%20Season%208.png",
+            "movieName": "Koffee With Karan Season 8",
+            "htmlFile": "https://www.19204",
+            "directOne": "Talk-Show,Comedy",
+            "directSecond": "wgMW6bzKHuA",
+            "imbd": "9.1",
+            "rating": "English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Koffee With Karan",
+            "pathName": "S8",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/dpmVWxMoWgIk8w3/Koffee_With_Karan_S08E01_19204_1.mkv.mp4",
+                "2": "https://streamtape.site/v/ZDx2AjkMGpFqVY0/Koffee_With_Karan_S08E02_19204_2.mkv.mp4",
+                "3": "https://streamtape.site/v/ggx9wPL4vOIJVK/Koffee_With_Karan_S08E03_19204_3.mkv.mp4",
+                "4": "https://streamtape.site/v/ZyVoLzvaQgFPB3/Koffee_With_Karan_S08E04_19204_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/6qztz2y1jnv4",
+                "2": "https://streamhub.ink/sc7pg3o3a7f9",
+                "3": "https://streamhub.ink/de5jzo29aftg",
+                "4": "https://streamhub.ink/52i43m6tlgkd"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E01%2019204%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E02%2019204%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E03%2019204%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E04%2019204%204.mkv"
+            }
+        },
+        {
+            "id": "1225",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Monarch%20-%20Legacy%20Of%20Monsters%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Monarch%20-%20Legacy%20Of%20Monsters%20Season%201.jpg",
+            "movieName": "Monarch - Legacy Of Monsters Season 1",
+            "htmlFile": "https://www.19225",
+            "directOne": "Action,Adventure",
+            "directSecond": "JLHsM4bpfxY",
+            "imbd": "9.1",
+            "rating": "English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Monarch - Legacy Of Monsters",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/0BY3GXz0JxHK2g/Monarch_-_Legacy_Of_Monsters_S01E01_19225_1.mkv",
+                "2": "https://streamtape.site/v/kW3AoAw62oUO2LO/Monarch_-_Legacy_Of_Monsters_S01E02_19225_2.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/m94v6eaaoaxj",
+                "2": "https://streamhub.ink/0iwva5f6hpm4"
+            },
+            "episodeServer3": {
+                
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E01%2019225%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E02%2019225%202.mkv"
+            }
+        },
+        {
+            "id": "1221",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Label%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Label%20Season%201.jpg",
+            "movieName": "Label Season 1",
+            "htmlFile": "https://www.19221",
+            "directOne": "Crime,Drama",
+            "directSecond": "1o_3J7ALRFY",
+            "imbd": "9.1",
+            "rating": "Hindi+Tamil",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Label",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/or7X4KkYbYhJzrg/Label_S01E01_19221_1.mkv.mp4",
+                "2": "https://streamtape.site/v/3AOwo3VgbRHdwZ8/Label_S01E02_19221_2.mkv.mp4",
+                "3": "https://streamtape.site/v/XY79Kx7w7RCAok/Label_S01E03_19221_3.mkv.mp4",
+                "4": "https://streamtape.site/v/ygZopLrZjlu1AxD/Label_S01E04_19221_4.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/xyk0pk3gvhz1",
+                "2": "https://streamhub.ink/ny3kty61lszp",
+                "3": "https://streamhub.ink/v50t0oez8h3p",
+                "4": "https://streamhub.ink/3scr2bhtv6we"
+            },
+            "episodeServer3": {
+                
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Label%20S01E01%2019221%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Label%20S01E02%2019221%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Label%20S01E03%2019221%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Label%20S01E04%2019221%204.mkv"
             }
         }
     ]
