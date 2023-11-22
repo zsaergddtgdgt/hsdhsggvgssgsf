@@ -43358,36 +43358,6 @@
             }
         },
         {
-            "id": "1225",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Monarch%20-%20Legacy%20Of%20Monsters%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Monarch%20-%20Legacy%20Of%20Monsters%20Season%201.jpg",
-            "movieName": "Monarch - Legacy Of Monsters Season 1",
-            "htmlFile": "https://www.19225",
-            "directOne": "Action,Adventure",
-            "directSecond": "JLHsM4bpfxY",
-            "imbd": "9.1",
-            "rating": "English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Monarch - Legacy Of Monsters",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/0BY3GXz0JxHK2g/Monarch_-_Legacy_Of_Monsters_S01E01_19225_1.mkv",
-                "2": "https://streamtape.site/v/kW3AoAw62oUO2LO/Monarch_-_Legacy_Of_Monsters_S01E02_19225_2.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "https://streamhub.ink/m94v6eaaoaxj",
-                "2": "https://streamhub.ink/0iwva5f6hpm4"
-            },
-            "episodeServer3": {
-                
-            },
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E01%2019225%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E02%2019225%202.mkv"
-            }
-        },
-        {
             "id": "1221",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Label%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Label%20Season%201.jpg",
@@ -43586,6 +43556,39 @@
             }
         },
         {
+            "id": "1225",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Monarch%20-%20Legacy%20Of%20Monsters%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Monarch%20-%20Legacy%20Of%20Monsters%20Season%201.jpg",
+            "movieName": "Monarch - Legacy Of Monsters Season 1",
+            "htmlFile": "https://www.19225",
+            "directOne": "Action,Adventure",
+            "directSecond": "JLHsM4bpfxY",
+            "imbd": "9.1",
+            "rating": "English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Monarch - Legacy Of Monsters",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/0BY3GXz0JxHK2g/Monarch_-_Legacy_Of_Monsters_S01E01_19225_1.mkv",
+                "2": "https://streamtape.site/v/kW3AoAw62oUO2LO/Monarch_-_Legacy_Of_Monsters_S01E02_19225_2.mkv.mp4",
+                "3": "https://streamtape.site/v/2aKA76R8RkiZDbL/Monarch_-_Legacy_Of_Monsters_S01E03_19225_3.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.ink/m94v6eaaoaxj",
+                "2": "https://streamhub.ink/0iwva5f6hpm4",
+                "3": "https://streamhub.top/mspx1yz3vems"
+            },
+            "episodeServer3": {
+                
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E01%2019225%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E02%2019225%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E03%2019225%203.mkv"
+            }
+        },
+        {
             "id": "1231",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Railway%20Men%20%E2%80%93%20The%20Untold%20Story%20Of%20Bhopal%201984%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Railway%20Men%20%E2%80%93%20The%20Untold%20Story%20Of%20Bhopal%201984%20Season%201.jpg",
@@ -43619,6 +43622,45 @@
                 "2": "http://srs.ringzstudio.online/lst/The%20Railway%20Men%20S01E02%2019231%202.mkv",
                 "3": "http://srs.ringzstudio.online/lst/The%20Railway%20Men%20S01E03%2019231%203.mkv",
                 "4": "http://srs.ringzstudio.online/lst/The%20Railway%20Men%20S01E04%2019231%204.mkv"
+            }
+        },
+        {
+            "id": "1232",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Squid%20Game%20-%20The%20Challenge%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Squid%20Game%20-%20The%20Challenge%20Season%202.jpg",
+            "movieName": "Squid Game - The Challenge Season 2",
+            "htmlFile": "https://www.19232",
+            "directOne": "Game-Show,Adventure",
+            "directSecond": "9rIqPtNZmaU",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Squid Game",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/l4y1Yozbj6I7xBk/Squid_Game_-_The_Challenge_S02E01_19232_1.mkv.mp4",
+                "2": "https://streamtape.site/v/RgaJJO26d6cde7Y/Squid_Game_-_The_Challenge_S02E02_19232_2.mkv.mp4",
+                "3": "https://streamtape.site/v/6wqJ4mdLg1Sew3/Squid_Game_-_The_Challenge_S02E03_19232_3.mkv.mp4",
+                "4": "https://streamtape.site/v/0BWBDPOoxXIb3wK/Squid_Game_-_The_Challenge_S02E04_19232_4.mkv.mp4",
+                "5": "https://streamtape.site/v/l2l4gw8z32C74Mk/Squid_Game_-_The_Challenge_S02E05_19232_5.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "https://streamhub.top/sqynp8proau0",
+                "2": "https://streamhub.top/f7yg6d3gmjpu",
+                "3": "https://streamhub.top/17sid26v856h",
+                "4": "https://streamhub.top/etr1pkejf4kc",
+                "5": "https://streamhub.top/ufvgj3se6xq5"
+            },
+            "episodeServer3": {
+                
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E01%2019232%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E02%2019232%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E03%2019232%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E04%2019232%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E05%2019232%205.mkv"
             }
         }
     ]
