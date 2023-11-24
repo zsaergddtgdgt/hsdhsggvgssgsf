@@ -1,5 +1,27 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "3658",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Farrey%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Farrey%20(2023).jpg",
+            "movieName": "Farrey (2023)",
+            "htmlFile": "https://www.3658",
+            "directOne": "Hindi",
+            "directSecond": "WUbl1870N7c",
+            "rating": "HDCamRip",
+            "catergory": "Crime,Thriller",
+            "Industry": "Bollywood",
+            "hub": "https://streamhub.top/3urzn7faveoo",
+            "tape": "https://streamtape.cc/v/ZVzXkzzk47HqvOG/Farrey_%282023%29_3658.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Farrey%20(2023)%203658.mkv",
+            "server4": "FALSE",
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.top/hy2ljxg4v82n",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Farrey%20(2023)%203658.mkv",
+            "480pS4": "FALSE"
+        },
         {
             "id": "3558",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H2/Leo%20(2023).jpg",
@@ -82,6 +104,27 @@
             "480pS1": "https://streamhub.top/x8sdyo94b6pj",
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Bhagavanth%20Kesari%20(2023)%2013577.mkv",
+            "480pS4": "FALSE"
+        },
+        {
+            "id": "3659",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Sapta%20Sagaradaache%20Ello%20%E2%80%93%20Side%20B%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Sapta%20Sagaradaache%20Ello%20%E2%80%93%20Side%20B%20(2023).jpg",
+            "movieName": "Sapta Sagaradaache Ello – Side B (2023)",
+            "htmlFile": "https://www.113659",
+            "directOne": "Hindi[Studio]+Kannada",
+            "directSecond": "llKjFW1gv0M",
+            "rating": "HDCamRip",
+            "catergory": "Romance,Drama",
+            "Industry": "South",
+            "hub": "https://streamhub.top/p7cpbq8ul4ru",
+            "tape": "https://streamtape.cc/v/egy4ZmwmLwHYGL6/Sapta_Sagaradaache_Ello_%E2%80%93_Side_B_%282023%29_113659.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Sapta%20Sagaradaache%20Ello%20%E2%80%93%20Side%20B%20(2023)%20113659.mkv",
+            "server4": "FALSE",
+            "480p": "TRUE",
+            "480pS1": "https://streamhub.top/2li3t943w34i",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Sapta%20Sagaradaache%20Ello%20%E2%80%93%20Side%20B%20(2023)%20113659.mkv",
             "480pS4": "FALSE"
         },
         {
