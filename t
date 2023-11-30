@@ -290,7 +290,7 @@
         "webseries": "/srs.json",
         "hubLinkLoader": "https://streamhub.ink/d/#/ddl",
         "tapLinkLoader": "https://streamtape",
-        "notification": " 🪔 🪔 🪔 Happy Diwali Everyone 🪔 🪔 🪔\r\n\r\n!!!!!!!!!! IMPORTANT UPDATE !!!!!!!!\r\n\r\nMovie Server 1 not working for some movies & series, we are working on it.\r\n.\r\n.\r\nJoin Telegram Channel for update.. If face any issue you can report on telegram also\r\n.",
+        "notification": "\r\n!!!!!!!!!! IMPORTANT UPDATE !!!!!!!!\r\n\r\nMovie Server 1 not working for some movies & series, we are working on it.\r\n.\r\n.\r\nJoin Telegram Channel for update.. If face any issue you can report on telegram also\r\n.",
         "version": "5.3.0",
         "closeVersion": "1.0.0",
         "playlink": "https://ringzstudio.pages.dev/",
