@@ -1,6 +1,27 @@
 {
     "AllMovieDataList": [
     {
+            "id": "3689",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Animal%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Animal%20(2023).jpg",
+            "movieName": "Animal (2023)",
+            "htmlFile": "https://www.3689",
+            "directOne": "Hindi",
+            "directSecond": "8FkLRUJj-o0",
+            "rating": "HDCamRip-V2",
+            "catergory": "Action,Crime",
+            "Industry": "Bollywood",
+            "hub": "FALSE",
+            "tape": "https://streamtape.cc/v/m3ZGmPjQajsbJYX/Animal_%282023%29_3689.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Animal%20(2023)%203689.mkv",
+            "server4": "https://pixeldrain.com/api/file/meuoFmHR?download?.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Animal%20(2023)%203689.mkv",
+            "480pS4": "https://pixeldrain.com/api/file/Hjhu8m4r?download?.mkv"
+        },
+    {
             "id": "3688",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Sam%20Bahadur%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Sam%20Bahadur%20(2023).jpg",
