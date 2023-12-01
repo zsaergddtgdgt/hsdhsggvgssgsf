@@ -290,7 +290,7 @@
         "webseries": "/srs.json",
         "hubLinkLoader": "https://streamhub.ink/d/#/ddl",
         "tapLinkLoader": "https://streamtape",
-        "notification": "\r\n!!!!!!!!!! IMPORTANT UPDATE !!!!!!!!\r\n\r\nMovie Server 1 not working for some movies & series, we are working on it.\r\n.\r\n.\r\nJoin Telegram Channel for update.. If face any issue you can report on telegram also\r\n.",
+        "notification": "!!!!!!!!!! IMPORTANT UPDATE !!!!!!!!\r\n\r\nIf App opened via Notification then sometime movie not playing..So close the app & open again..\r\n.\r\nयदि ऐप नोटिफिकेशन के माध्यम से खुलता है तो कभी-कभी मूवी नहीं चलती है.. इसलिए ऐप को बंद करें और दोबारा खोलें।\r\n.\r\nJoin Telegram Channel for update.. If face any issue you can report on telegram also\r\n.",
         "version": "5.3.0",
         "closeVersion": "1.0.0",
         "playlink": "https://ringzstudio.pages.dev/",
