@@ -1,6 +1,26 @@
 {
     "AllMovieDataList": [
-    
+    {
+            "id": "3688",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Sam%20Bahadur%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Sam%20Bahadur%20(2023).jpg",
+            "movieName": "Sam Bahadur (2023)",
+            "htmlFile": "https://www.13688",
+            "directOne": "Hindi",
+            "directSecond": "6xJptj7AVSA",
+            "rating": "HDCamRip",
+            "catergory": "War,Biography",
+            "Industry": "Bollywood",
+            "hub": "FALSE",
+            "tape": "https://streamtape.cc/v/D4MpDopeJGtk7o3/Sam_Bahadur_%282023%29_13688.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Sam%20Bahadur%20(2023)%2013688.mkv",
+            "server4": "https://pixeldrain.com/api/file/21cq7bf2?download?.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Sam%20Bahadur%20(2023)%2013688.mkv",
+            "480pS4": "https://pixeldrain.com/api/file/DiXNPJD5?download?.mkv"
+        },
         {
             "id": "3521",
             "ImageUrlHorizontal": "https://api.ringzstudio.com/Poster/Movies/H1/Mission%20Raniganj%20(2023).jpg",
@@ -254,6 +274,27 @@
             "480pS4": "FALSE"
         },
         {
+            "id": "3687",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Martin%20Luther%20King%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Martin%20Luther%20King%20(2023).jpg",
+            "movieName": "Martin Luther King (2023)",
+            "htmlFile": "https://www.3687",
+            "directOne": "Hindi+Telugu",
+            "directSecond": "dgAX8x6DvyQ",
+            "rating": "HD",
+            "catergory": "Drama",
+            "Industry": "South",
+            "hub": "FALSE",
+            "tape": "https://streamtape.cc/v/1B2emD1VAGTelD1/Martin_Luther_King_%282023%29_3687.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Martin%20Luther%20King%20(2023)%203687.mkv",
+            "server4": "https://pixeldrain.com/api/file/GLp1WQXE?download?.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Martin%20Luther%20King%20(2023)%203687.mkv",
+            "480pS4": "https://pixeldrain.com/api/file/zoDyHiiE?download?.mkv"
+        },
+        {
             "id": "3685",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Ardhangini%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Ardhangini%20(2023).jpg",
@@ -273,6 +314,27 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Ardhangini%20(2023)%203685.mkv",
             "480pS4": "https://pixeldrain.com/api/file/8HWn7kft?download?.mkv"
+        },
+        {
+            "id": "3686",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Sujon%20Majhi%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Sujon%20Majhi%20(2023).jpg",
+            "movieName": "Sujon Majhi (2023)",
+            "htmlFile": "https://www.3686",
+            "directOne": "Bengali",
+            "directSecond": "ktczJe24oc8",
+            "rating": "HD",
+            "catergory": "Romance,Drama",
+            "Industry": "Bengali",
+            "hub": "FALSE",
+            "tape": "https://streamtape.cc/v/r4dxJLoepaUGaJ/Sujon_Majhi_%282023%29_3686.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Sujon%20Majhi%20(2023)%203686.mkv",
+            "server4": "https://pixeldrain.com/api/file/5vTZQ4Nm?download?.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Sujon%20Majhi%20(2023)%203686.mkv",
+            "480pS4": "https://pixeldrain.com/api/file/Gcb8xxWF?download?.mkv"
         },
         {
             "id": "3668",
