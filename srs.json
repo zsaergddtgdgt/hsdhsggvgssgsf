@@ -43326,6 +43326,81 @@
             }
         },
         {
+            "id": "1249",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Aam%20Aadmi%20Family%20Season%204.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Aam%20Aadmi%20Family%20Season%204.jpg",
+            "movieName": "The Aam Aadmi Family Season 1",
+            "htmlFile": "https://www.19249",
+            "directOne": "Comedy,Drama",
+            "directSecond": "pWdxttuQ2n4",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Aam Aadmi Family",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/Mx98YvB7xJTmZ70/The_Aam_Aadmi_Family_S01Complete_19249_1.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/aj7mQoCH?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/The%20Aam%20Aadmi%20Family%20S01Complete%2019249%201.mkv"
+            }
+        },
+        {
+            "id": "1250",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Aam%20Aadmi%20Family%20Season%204.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Aam%20Aadmi%20Family%20Season%204.jpg",
+            "movieName": "The Aam Aadmi Family Season 2",
+            "htmlFile": "https://www.19250",
+            "directOne": "Comedy,Drama",
+            "directSecond": "eSxbsLYtdl4",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Aam Aadmi Family",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/AXqo6VGPBDTXXmO/The_Aam_Aadmi_Family_S02Complete_19250_1.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/8xE4jTHz?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/The%20Aam%20Aadmi%20Family%20S02Complete%2019250%201.mkv"
+            }
+        },
+        {
+            "id": "1251",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Aam%20Aadmi%20Family%20Season%204.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Aam%20Aadmi%20Family%20Season%204.jpg",
+            "movieName": "The Aam Aadmi Family Season 3",
+            "htmlFile": "https://www.19251",
+            "directOne": "Comedy,Drama",
+            "directSecond": "V1Z4j6ldfs4",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Aam Aadmi Family",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/vQ2VdrkGkgtBXZ/The_Aam_Aadmi_Family_S03Complete_19251_1.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/eagAjpae?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/The%20Aam%20Aadmi%20Family%20S03Complete%2019251%201.mkv"
+            }
+        },
+        {
             "id": "1233",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Aam%20Aadmi%20Family%20Season%204.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Aam%20Aadmi%20Family%20Season%204.jpg",
@@ -43517,55 +43592,6 @@
             "episodeServer3": {},
             "episodeServer4": {
                 "1": "http://srs.ringzstudio.online/lst/Johri%20S01Complete%2019238%201.mkv"
-            }
-        },
-        {
-            "id": "1232",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Squid%20Game%20-%20The%20Challenge%20Season%202.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Squid%20Game%20-%20The%20Challenge%20Season%202.jpg",
-            "movieName": "Squid Game - The Challenge Season 2",
-            "htmlFile": "https://www.19232",
-            "directOne": "Game-Show,Adventure",
-            "directSecond": "9rIqPtNZmaU",
-            "imbd": "9.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Squid Game",
-            "pathName": "S2",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/l4y1Yozbj6I7xBk/Squid_Game_-_The_Challenge_S02E01_19232_1.mkv.mp4",
-                "2": "https://streamtape.site/v/RgaJJO26d6cde7Y/Squid_Game_-_The_Challenge_S02E02_19232_2.mkv.mp4",
-                "3": "https://streamtape.site/v/6wqJ4mdLg1Sew3/Squid_Game_-_The_Challenge_S02E03_19232_3.mkv.mp4",
-                "4": "https://streamtape.site/v/0BWBDPOoxXIb3wK/Squid_Game_-_The_Challenge_S02E04_19232_4.mkv.mp4",
-                "5": "https://streamtape.site/v/l2l4gw8z32C74Mk/Squid_Game_-_The_Challenge_S02E05_19232_5.mkv.mp4",
-                "6": "https://streamtape.site/v/Vmj3pDGMoxCKAQP/Squid_Game_-_The_Challenge_S02E06_19232_6.mkv.mp4",
-                "7": "https://streamtape.site/v/O1GMvwWbJMs7DY/Squid_Game_-_The_Challenge_S02E07_19232_7.mkv.mp4",
-                "8": "https://streamtape.site/v/A3yAOKBPbkTXrr6/Squid_Game_-_The_Challenge_S02E08_19232_8.mkv.mp4",
-                "9": "https://streamtape.site/v/08pOoVaYbjFb47x/Squid_Game_-_The_Challenge_S02E09_19232_9.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "FALSE",
-                "2": "FALSE",
-                "3": "FALSE",
-                "4": "FALSE",
-                "5": "FALSE",
-                "6": "https://pixeldra.in/api/file/9d2dmPMV?download?.mkv",
-                "7": "https://pixeldra.in/api/file/ETQeyBMW?download?.mkv",
-                "8": "https://pixeldra.in/api/file/7jYfV33z?download?.mkv",
-                "9": "https://pixeldra.in/api/file/bNriTzEn?download?.mkv"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E01%2019232%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E02%2019232%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E03%2019232%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E04%2019232%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E05%2019232%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E06%2019232%206.mkv",
-                "7": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E07%2019232%207.mkv",
-                "8": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E08%2019232%208.mkv",
-                "9": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E09%2019232%209.mkv"
             }
         },
         {
@@ -43865,6 +43891,275 @@
             },
             "episodeServer4": {
                 "1": "http://srs.ringzstudio.online/lst/Ishqyapa%20S01Complete%2019241%201.mkv"
+            }
+        },
+        {
+            "id": "1246",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Procholito%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Procholito%20Season%201.jpg",
+            "movieName": "Procholito Season 1",
+            "htmlFile": "https://www.19246",
+            "directOne": "Horror,Mystery",
+            "directSecond": "YU6iWUteVww",
+            "imbd": "9.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Procholito",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/Q0xDk0MpLLS0XdD/Procholito_S01Complete_19246_1.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/RbrgLs4W?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Procholito%20S01Complete%2019246%201.mkv"
+            }
+        },
+        {
+            "id": "1247",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Campus%20Beats%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Campus%20Beats%20Season%202.jpg",
+            "movieName": "Campus Beats Season 2",
+            "htmlFile": "https://www.19247",
+            "directOne": "Drama",
+            "directSecond": "oEZrujL_ios",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Campus Beats",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/6x7Gyxy01Ps9z8P/Campus_Beats_S02Complete_19247_1.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/uuoHf4T7?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Campus%20Beats%20S02Complete%2019247%201.mkv"
+            }
+        },
+        {
+            "id": "1248",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Campus%20Beats%20Season%203.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Campus%20Beats%20Season%203.jpg",
+            "movieName": "Campus Beats Season 3",
+            "htmlFile": "https://www.19248",
+            "directOne": "Drama",
+            "directSecond": "aZzW9feieQI",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Campus Beats",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://pixeldra.in/api/file/gSeFzWWr?download?.mkv"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/gSeFzWWr?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Campus%20Beats%20S03Complete%2019248%201.mkv"
+            }
+        },
+        {
+            "id": "1232",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Squid%20Game%20-%20The%20Challenge%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Squid%20Game%20-%20The%20Challenge%20Season%202.jpg",
+            "movieName": "Squid Game - The Challenge Season 2",
+            "htmlFile": "https://www.19232",
+            "directOne": "Game-Show,Adventure",
+            "directSecond": "9rIqPtNZmaU",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Squid Game",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/l4y1Yozbj6I7xBk/Squid_Game_-_The_Challenge_S02E01_19232_1.mkv.mp4",
+                "2": "https://streamtape.site/v/RgaJJO26d6cde7Y/Squid_Game_-_The_Challenge_S02E02_19232_2.mkv.mp4",
+                "3": "https://streamtape.site/v/6wqJ4mdLg1Sew3/Squid_Game_-_The_Challenge_S02E03_19232_3.mkv.mp4",
+                "4": "https://streamtape.site/v/0BWBDPOoxXIb3wK/Squid_Game_-_The_Challenge_S02E04_19232_4.mkv.mp4",
+                "5": "https://streamtape.site/v/l2l4gw8z32C74Mk/Squid_Game_-_The_Challenge_S02E05_19232_5.mkv.mp4",
+                "6": "https://streamtape.site/v/Vmj3pDGMoxCKAQP/Squid_Game_-_The_Challenge_S02E06_19232_6.mkv.mp4",
+                "7": "https://streamtape.site/v/O1GMvwWbJMs7DY/Squid_Game_-_The_Challenge_S02E07_19232_7.mkv.mp4",
+                "8": "https://streamtape.site/v/A3yAOKBPbkTXrr6/Squid_Game_-_The_Challenge_S02E08_19232_8.mkv.mp4",
+                "9": "https://streamtape.site/v/08pOoVaYbjFb47x/Squid_Game_-_The_Challenge_S02E09_19232_9.mkv.mp4",
+                "10": "https://streamtape.site/v/or7M7dRR06FJlB4/Squid_Game_-_The_Challenge_S02E10_19232_10.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE",
+                "4": "FALSE",
+                "5": "FALSE",
+                "6": "https://pixeldra.in/api/file/9d2dmPMV?download?.mkv",
+                "7": "https://pixeldra.in/api/file/ETQeyBMW?download?.mkv",
+                "8": "https://pixeldra.in/api/file/7jYfV33z?download?.mkv",
+                "9": "https://pixeldra.in/api/file/bNriTzEn?download?.mkv",
+                "10": "https://pixeldra.in/api/file/dBEX2rjA?download?.mkv"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E01%2019232%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E02%2019232%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E03%2019232%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E04%2019232%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E05%2019232%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E06%2019232%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E07%2019232%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E08%2019232%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E09%2019232%209.mkv",
+                "10": "http://srs.ringzstudio.online/lst/Squid%20Game%20-%20The%20Challenge%20S02E10%2019232%2010.mkv"
+            }
+        },
+        {
+            "id": "1245",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/My%20Life%20with%20the%20Walter%20Boys%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/My%20Life%20with%20the%20Walter%20Boys%20Season%201.jpg",
+            "movieName": "My Life with the Walter Boys Season 1",
+            "htmlFile": "https://www.19245",
+            "directOne": "Romance,Drama",
+            "directSecond": "Jf-ozGpKOWU",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "My Life with the Walter Boys",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/Q13B2w3mAph0Z3D/My_Life_with_the_Walter_Boys_S01E01_19245_1.mkv",
+                "2": "https://streamtape.site/v/olw3Jz68Z0Ib4a/My_Life_with_the_Walter_Boys_S01E02_19245_2.mkv.mp4",
+                "3": "https://streamtape.site/v/z7L0PGbweRFYjWg/My_Life_with_the_Walter_Boys_S01E03_19245_3.mkv.mp4",
+                "4": "https://streamtape.site/v/DQ1AwemZg9SLBe/My_Life_with_the_Walter_Boys_S01E04_19245_4.mkv.mp4",
+                "5": "https://streamtape.site/v/DXmOMkVmW3fkZGG/My_Life_with_the_Walter_Boys_S01E05_19245_5.mkv.mp4",
+                "6": "https://streamtape.site/v/jPwB683r76SzBZg/My_Life_with_the_Walter_Boys_S01E06_19245_6.mkv.mp4",
+                "7": "https://streamtape.site/v/ggORRraLV1fGGZ/My_Life_with_the_Walter_Boys_S01E07_19245_7.mkv.mp4",
+                "8": "https://streamtape.site/v/4GLa73GZgBsK4Ad/My_Life_with_the_Walter_Boys_S01E08_19245_8.mkv",
+                "9": "https://streamtape.site/v/Gv7D780e1kS1rkj/My_Life_with_the_Walter_Boys_S01E09_19245_9.mkv.mp4",
+                "10": "https://streamtape.site/v/ydMbjwBzelc1Wo8/My_Life_with_the_Walter_Boys_S01E10_19245_10.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/ozemxogo?download?.mkv",
+                "2": "https://pixeldra.in/api/file/77K9ukbV?download?.mkv",
+                "3": "https://pixeldra.in/api/file/jz1RKMD8?download?.mkv",
+                "4": "https://pixeldra.in/api/file/L2iiEMrr?download?.mkv",
+                "5": "https://pixeldra.in/api/file/tEyzNmWP?download?.mkv",
+                "6": "https://pixeldra.in/api/file/9QkkYq1G?download?.mkv",
+                "7": "https://pixeldra.in/api/file/o5EuC7n5?download?.mkv",
+                "8": "https://pixeldra.in/api/file/9dQqS1Do?download?.mkv",
+                "9": "https://pixeldra.in/api/file/qzFZdcUH?download?.mkv",
+                "10": "https://pixeldra.in/api/file/5XLJvhjx?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/My%20Life%20with%20the%20Walter%20Boys%20S01E01%2019245%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/My%20Life%20with%20the%20Walter%20Boys%20S01E02%2019245%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/My%20Life%20with%20the%20Walter%20Boys%20S01E03%2019245%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/My%20Life%20with%20the%20Walter%20Boys%20S01E04%2019245%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/My%20Life%20with%20the%20Walter%20Boys%20S01E05%2019245%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/My%20Life%20with%20the%20Walter%20Boys%20S01E06%2019245%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/My%20Life%20with%20the%20Walter%20Boys%20S01E07%2019245%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/My%20Life%20with%20the%20Walter%20Boys%20S01E08%2019245%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/My%20Life%20with%20the%20Walter%20Boys%20S01E09%2019245%209.mkv",
+                "10": "http://srs.ringzstudio.online/lst/My%20Life%20with%20the%20Walter%20Boys%20S01E10%2019245%2010.mkv"
+            }
+        },
+        {
+            "id": "1244",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Blood%20Coast%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Blood%20Coast%20Season%201.jpg",
+            "movieName": "Blood Coast Season 1",
+            "htmlFile": "https://www.19244",
+            "directOne": "Action,Crime",
+            "directSecond": "XEpfp9C0UF8",
+            "imbd": "9.1",
+            "rating": "Hindi+English+French",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Blood Coast",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/dgeZq9x2ZXskoZv/Blood_Coast_S01E01_19244_1.mkv.mp4",
+                "2": "https://streamtape.site/v/kqAyoKJ7DghOALy/Blood_Coast_S01E02_19244_2.mkv.mp4",
+                "3": "https://streamtape.site/v/vxo7Wpzkg6iaom/Blood_Coast_S01E03_19244_3.mkv.mp4",
+                "4": "https://streamtape.site/v/9kpQBOgPkOuad9m/Blood_Coast_S01E04_19244_4.mkv.mp4",
+                "5": "https://streamtape.site/v/JY7bKlq07gcjLqe/Blood_Coast_S01E05_19244_5.mkv.mp4",
+                "6": "https://streamtape.site/v/QAkD9G14Dbi0136/Blood_Coast_S01E06_19244_6.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/1bxj5dpp?download?.mkv",
+                "2": "https://pixeldra.in/api/file/uEBMCZDf?download?.mkv",
+                "3": "https://pixeldra.in/api/file/9y5rGXa4?download?.mkv",
+                "4": "https://pixeldra.in/api/file/CGRB5FLC?download?.mkv",
+                "5": "https://pixeldra.in/api/file/5aUG9GK4?download?.mkv",
+                "6": "https://pixeldra.in/api/file/s3a3ZPkb?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Blood%20Coast%20S01E01%2019244%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Blood%20Coast%20S01E02%2019244%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Blood%20Coast%20S01E03%2019244%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Blood%20Coast%20S01E04%2019244%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Blood%20Coast%20S01E05%2019244%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Blood%20Coast%20S01E06%2019244%206.mkv"
+            }
+        },
+        {
+            "id": "1252",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Chamak%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Chamak%20Season%201.jpg",
+            "movieName": "Chamak Season 1",
+            "htmlFile": "https://www.19252",
+            "directOne": "Musical,Crime",
+            "directSecond": "-g-GckbcJJA",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Chamak",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/KkLO8xy12Zf02pO/Chamak_S01Complete_19252_1.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/5SeppNEY?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Chamak%20S01Complete%2019252%201.mkv"
+            }
+        },
+        {
+            "id": "1253",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Zakir%20Khan%20-%20Mannpasand.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Zakir%20Khan%20-%20Mannpasand.jpg",
+            "movieName": "Zakir Khan - Mannpasand",
+            "htmlFile": "https://www.19253",
+            "directOne": "Comedy",
+            "directSecond": "qytRb2hNjQA",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Zakir Khan-Mannpasand",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/1ODO08BwlKIez02/Zakir_Khan-Mannpasand_S01Complete_19253_1.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/DdanYFwq?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Zakir%20Khan-Mannpasand%20S01Complete%2019253%201.mkv"
             }
         }
     ]
