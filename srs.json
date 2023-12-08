@@ -43549,7 +43549,8 @@
                 "3": "https://streamtape.site/v/ggx9wPL4vOIJVK/Koffee_With_Karan_S08E03_19204_3.mkv.mp4",
                 "4": "https://streamtape.site/v/ZyVoLzvaQgFPB3/Koffee_With_Karan_S08E04_19204_4.mkv.mp4",
                 "5": "https://streamtape.site/v/86azdLk092IorqW/Koffee_With_Karan_S08E05_19204_5.mkv.mp4",
-                "6": "https://streamtape.site/v/YGjYvmWvO6uvG8V/Koffee_With_Karan_S08E06_19204_6.mkv.mp4"
+                "6": "https://streamtape.site/v/YGjYvmWvO6uvG8V/Koffee_With_Karan_S08E06_19204_6.mkv.mp4",
+                "7": "https://streamtape.site/v/elLB2JJyakCYPZp/Koffee_With_Karan_S08E07_19204_7.mkv.mp4"
             },
             "EpisodeHub": {
                 "1": "FALSE",
@@ -43557,7 +43558,8 @@
                 "3": "FALSE",
                 "4": "FALSE",
                 "5": "FALSE",
-                "6": "https://pixeldra.in/api/file/YZZZgZp4?download?.mkv"
+                "6": "https://pixeldra.in/api/file/YZZZgZp4?download?.mkv",
+                "7": "FALSE"
             },
             "episodeServer3": {},
             "episodeServer4": {
@@ -43566,7 +43568,8 @@
                 "3": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E03%2019204%203.mkv",
                 "4": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E04%2019204%204.mkv",
                 "5": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E05%2019204%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E06%2019204%206.mkv"
+                "6": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E06%2019204%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E07%2019204%207.mkv"
             }
         },
         {
@@ -43958,14 +43961,30 @@
             "keyName": "Campus Beats",
             "pathName": "S3",
             "EpisodeTape": {
-                "1": "https://pixeldra.in/api/file/gSeFzWWr?download?.mkv"
+                "1": "https://streamtape.site/v/BjVw082v1kSyJVB/Campus_Beats_S03E01_19248_1.mkv.mp4",
+                "2": "https://streamtape.site/v/GP6ovqO0L4ImAv/Campus_Beats_S03E02_19248_2.mkv.mp4",
+                "3": "https://streamtape.site/v/xM9rALrPl9fkkV8/Campus_Beats_S03E03_19248_3.mkv.mp4",
+                "4": "https://streamtape.site/v/o6mj0B7xPrcJmmw/Campus_Beats_S03E04_19248_4.mkv.mp4",
+                "5": "https://streamtape.site/v/wJwdAWmomMHlPy/Campus_Beats_S03E05_19248_5.mkv.mp4",
+                "6": "https://streamtape.site/v/QJPDBAXLxxC00Kp/Campus_Beats_S03E06_19248_6.mkv.mp4",
+                "7": "https://streamtape.site/v/Vyx1GmlDKDtyPV/Campus_Beats_S03E07_19248_7.mkv.mp4",
+                "8": "https://streamtape.site/v/ylyzYADPw1iB0J/Campus_Beats_S03E08_19248_8.mkv.mp4",
+                "9": "https://streamtape.site/v/o1ylWdRJaBTJagd/Campus_Beats_S03E09_19248_9.mkv.mp4",
+                "10": "https://streamtape.site/v/Bz0R7OBar9SQW2/Campus_Beats_S03E10_19248_10.mkv.mp4"
             },
             "EpisodeHub": {},
-            "episodeServer3": {
-                "1": "https://pixeldra.in/api/file/gSeFzWWr?download?.mkv"
-            },
+            "episodeServer3": {},
             "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Campus%20Beats%20S03Complete%2019248%201.mkv"
+                "1": "http://srs.ringzstudio.online/lst/Campus%20Beats%20S03E01%2019248%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Campus%20Beats%20S03E02%2019248%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Campus%20Beats%20S03E03%2019248%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Campus%20Beats%20S03E04%2019248%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Campus%20Beats%20S03E05%2019248%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Campus%20Beats%20S03E06%2019248%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Campus%20Beats%20S03E07%2019248%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Campus%20Beats%20S03E08%2019248%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/Campus%20Beats%20S03E09%2019248%209.mkv",
+                "10": "http://srs.ringzstudio.online/lst/Campus%20Beats%20S03E10%2019248%2010.mkv"
             }
         },
         {
