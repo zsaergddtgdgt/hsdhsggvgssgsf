@@ -43496,49 +43496,6 @@
             }
         },
         {
-            "id": "1204",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Koffee%20With%20Karan%20Season%208.webp",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Koffee%20With%20Karan%20Season%208.png",
-            "movieName": "Koffee With Karan Season 8",
-            "htmlFile": "https://www.19204",
-            "directOne": "Talk-Show,Comedy",
-            "directSecond": "wgMW6bzKHuA",
-            "imbd": "9.1",
-            "rating": "English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Koffee With Karan",
-            "pathName": "S8",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/dpmVWxMoWgIk8w3/Koffee_With_Karan_S08E01_19204_1.mkv.mp4",
-                "2": "https://streamtape.site/v/ZDx2AjkMGpFqVY0/Koffee_With_Karan_S08E02_19204_2.mkv.mp4",
-                "3": "https://streamtape.site/v/ggx9wPL4vOIJVK/Koffee_With_Karan_S08E03_19204_3.mkv.mp4",
-                "4": "https://streamtape.site/v/ZyVoLzvaQgFPB3/Koffee_With_Karan_S08E04_19204_4.mkv.mp4",
-                "5": "https://streamtape.site/v/86azdLk092IorqW/Koffee_With_Karan_S08E05_19204_5.mkv.mp4",
-                "6": "https://streamtape.site/v/YGjYvmWvO6uvG8V/Koffee_With_Karan_S08E06_19204_6.mkv.mp4",
-                "7": "https://streamtape.site/v/elLB2JJyakCYPZp/Koffee_With_Karan_S08E07_19204_7.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "FALSE",
-                "2": "FALSE",
-                "3": "FALSE",
-                "4": "FALSE",
-                "5": "FALSE",
-                "6": "https://pixeldra.in/api/file/YZZZgZp4?download?.mkv",
-                "7": "https://pixeldra.in/api/file/XiCX9xdm?download?.mkv"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E01%2019204%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E02%2019204%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E03%2019204%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E04%2019204%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E05%2019204%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E06%2019204%206.mkv",
-                "7": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E07%2019204%207.mkv"
-            }
-        },
-        {
             "id": "1238",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Johri%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Johri%20Season%201.jpg",
@@ -43749,46 +43706,6 @@
                 "6": "http://srs.ringzstudio.online/lst/Obliterated%20S01E06%2019239%206.mkv",
                 "7": "http://srs.ringzstudio.online/lst/Obliterated%20S01E07%2019239%207.mkv",
                 "8": "http://srs.ringzstudio.online/lst/Obliterated%20S01E08%2019239%208.mkv"
-            }
-        },
-        {
-            "id": "1221",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Label%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Label%20Season%201.jpg",
-            "movieName": "Label Season 1",
-            "htmlFile": "https://www.19221",
-            "directOne": "Crime,Drama",
-            "directSecond": "1o_3J7ALRFY",
-            "imbd": "9.1",
-            "rating": "Hindi+Tamil",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Label",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/or7X4KkYbYhJzrg/Label_S01E01_19221_1.mkv.mp4",
-                "2": "https://streamtape.site/v/3AOwo3VgbRHdwZ8/Label_S01E02_19221_2.mkv.mp4",
-                "3": "https://streamtape.site/v/XY79Kx7w7RCAok/Label_S01E03_19221_3.mkv.mp4",
-                "4": "https://streamtape.site/v/ygZopLrZjlu1AxD/Label_S01E04_19221_4.mkv.mp4",
-                "5": "https://streamtape.site/v/JK9J8gA749FjBk1/Label_S01E05_19221_5.mkv.mp4",
-                "6": "https://streamtape.site/v/PG7pr2qd26txzg/Label_S01E06_19221_6.mkv.mp4"
-            },
-            "EpisodeHub": {},
-            "episodeServer3": {
-                "1": "https://pixeldra.in/api/file/h47YwZ7d?download?.mkv",
-                "2": "https://pixeldra.in/api/file/2nW2zY4S?download?.mkv",
-                "3": "https://pixeldra.in/api/file/4BwM88jb?download?.mkv",
-                "4": "https://pixeldra.in/api/file/6zkuFdv4?download?.mkv",
-                "5": "https://pixeldra.in/api/file/9krpx1wH?download?.mkv",
-                "6": "https://pixeldra.in/api/file/BmYkF5Xc?download?.mkv"
-            },
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Label%20S01E01%2019221%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Label%20S01E02%2019221%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Label%20S01E03%2019221%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Label%20S01E04%2019221%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/Label%20S01E05%2019221%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/Label%20S01E06%2019221%206.mkv"
             }
         },
         {
@@ -44207,6 +44124,203 @@
             },
             "episodeServer4": {
                 "1": "http://srs.ringzstudio.online/lst/Zakir%20Khan-Mannpasand%20S01Complete%2019253%201.mkv"
+            }
+        },
+        {
+            "id": "1257",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Adbhut%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Adbhut%20Season%201.jpg",
+            "movieName": "Adbhut Season 1",
+            "htmlFile": "https://www.19257",
+            "directOne": "Horror",
+            "directSecond": "XyulP3KVQgw",
+            "imbd": "9.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Adbhut",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/8KAd836Vj3IokdG/Adbhut_S01Complete_19257_1.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/66N3daDN?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Adbhut%20S01Complete%2019257%201.mkv"
+            }
+        },
+        {
+            "id": "1204",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Koffee%20With%20Karan%20Season%208.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Koffee%20With%20Karan%20Season%208.png",
+            "movieName": "Koffee With Karan Season 8",
+            "htmlFile": "https://www.19204",
+            "directOne": "Talk-Show,Comedy",
+            "directSecond": "wgMW6bzKHuA",
+            "imbd": "9.1",
+            "rating": "English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Koffee With Karan",
+            "pathName": "S8",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/dpmVWxMoWgIk8w3/Koffee_With_Karan_S08E01_19204_1.mkv.mp4",
+                "2": "https://streamtape.site/v/ZDx2AjkMGpFqVY0/Koffee_With_Karan_S08E02_19204_2.mkv.mp4",
+                "3": "https://streamtape.site/v/ggx9wPL4vOIJVK/Koffee_With_Karan_S08E03_19204_3.mkv.mp4",
+                "4": "https://streamtape.site/v/ZyVoLzvaQgFPB3/Koffee_With_Karan_S08E04_19204_4.mkv.mp4",
+                "5": "https://streamtape.site/v/86azdLk092IorqW/Koffee_With_Karan_S08E05_19204_5.mkv.mp4",
+                "6": "https://streamtape.site/v/YGjYvmWvO6uvG8V/Koffee_With_Karan_S08E06_19204_6.mkv.mp4",
+                "7": "https://streamtape.site/v/elLB2JJyakCYPZp/Koffee_With_Karan_S08E07_19204_7.mkv.mp4",
+                "8": "https://streamtape.site/v/A163lBwOq3fW7J/Koffee_With_Karan_S08E08_19204_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE",
+                "4": "FALSE",
+                "5": "FALSE",
+                "6": "https://pixeldra.in/api/file/YZZZgZp4?download?.mkv",
+                "7": "https://pixeldra.in/api/file/XiCX9xdm?download?.mkv",
+                "8": "https://pixeldra.in/api/file/EFJbK8Tb?download?.mkv"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E01%2019204%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E02%2019204%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E03%2019204%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E04%2019204%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E05%2019204%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E06%2019204%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E07%2019204%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E08%2019204%208.mkv"
+            }
+        },
+        {
+            "id": "1221",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Label%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Label%20Season%201.jpg",
+            "movieName": "Label Season 1",
+            "htmlFile": "https://www.19221",
+            "directOne": "Crime,Drama",
+            "directSecond": "1o_3J7ALRFY",
+            "imbd": "9.1",
+            "rating": "Hindi+Tamil",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Label",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/or7X4KkYbYhJzrg/Label_S01E01_19221_1.mkv.mp4",
+                "2": "https://streamtape.site/v/3AOwo3VgbRHdwZ8/Label_S01E02_19221_2.mkv.mp4",
+                "3": "https://streamtape.site/v/XY79Kx7w7RCAok/Label_S01E03_19221_3.mkv.mp4",
+                "4": "https://streamtape.site/v/ygZopLrZjlu1AxD/Label_S01E04_19221_4.mkv.mp4",
+                "5": "https://streamtape.site/v/JK9J8gA749FjBk1/Label_S01E05_19221_5.mkv.mp4",
+                "6": "https://streamtape.site/v/PG7pr2qd26txzg/Label_S01E06_19221_6.mkv.mp4",
+                "7": "https://streamtape.site/v/OJWy1dA268hZr4K/Label_S01E07_19221_7.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/h47YwZ7d?download?.mkv",
+                "2": "https://pixeldra.in/api/file/2nW2zY4S?download?.mkv",
+                "3": "https://pixeldra.in/api/file/4BwM88jb?download?.mkv",
+                "4": "https://pixeldra.in/api/file/6zkuFdv4?download?.mkv",
+                "5": "https://pixeldra.in/api/file/9krpx1wH?download?.mkv",
+                "6": "https://pixeldra.in/api/file/BmYkF5Xc?download?.mkv",
+                "7": "https://pixeldra.in/api/file/Z1UHHiaM?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Label%20S01E01%2019221%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Label%20S01E02%2019221%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Label%20S01E03%2019221%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Label%20S01E04%2019221%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Label%20S01E05%2019221%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Label%20S01E06%2019221%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Label%20S01E07%2019221%207.mkv"
+            }
+        },
+        {
+            "id": "1255",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Los%20Farad%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Los%20Farad%20Season%201.jpg",
+            "movieName": "Los Farad Season 1",
+            "htmlFile": "https://www.19255",
+            "directOne": "Thriller",
+            "directSecond": "1Lb333Lmaqs",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Los Farad",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/MrQ99Z9ljptmayd/Los_Farad_S01E01_19255_1.mkv",
+                "2": "https://streamtape.site/v/4owlaJPoG7TJzq/Los_Farad_S01E02_19255_2.mkv",
+                "3": "https://streamtape.site/v/Vdk4vQxmGOSKmLj/Los_Farad_S01E03_19255_3.mkv",
+                "4": "https://streamtape.site/v/1Pm9yljPlpteowQ/Los_Farad_S01E04_19255_4.mkv",
+                "5": "https://streamtape.site/v/GAG094p807f132K/Los_Farad_S01E05_19255_5.mkv",
+                "6": "https://streamtape.site/v/rxP42erKd0Sbbgz/Los_Farad_S01E06_19255_6.mkv",
+                "7": "https://streamtape.site/v/3dxpG4w1MPcdev6/Los_Farad_S01E07_19255_7.mkv",
+                "8": "https://streamtape.site/v/1xBaV4PqOgHe3ww/Los_Farad_S01E08_19255_8.mkv"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/m3KMWiKJ?download?.mkv",
+                "2": "https://pixeldra.in/api/file/jQjVVTvN?download?.mkv",
+                "3": "https://pixeldra.in/api/file/3UpKHX8X?download?.mkv",
+                "4": "https://pixeldra.in/api/file/Tr6gT1os?download?.mkv",
+                "5": "https://pixeldra.in/api/file/8gFEHgvo?download?.mkv",
+                "6": "https://pixeldra.in/api/file/67F4da7X?download?.mkv",
+                "7": "https://pixeldra.in/api/file/uZkDXaXJ?download?.mkv",
+                "8": "https://pixeldra.in/api/file/ov8x2PZm?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Los%20Farad%20S01E01%2019255%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Los%20Farad%20S01E02%2019255%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Los%20Farad%20S01E03%2019255%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Los%20Farad%20S01E04%2019255%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Los%20Farad%20S01E05%2019255%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Los%20Farad%20S01E06%2019255%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Los%20Farad%20S01E07%2019255%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Los%20Farad%20S01E08%2019255%208.mkv"
+            }
+        },
+        {
+            "id": "1256",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Yu%20Yu%20Hakusho%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Yu%20Yu%20Hakusho%20Season%201.jpg",
+            "movieName": "Yu Yu Hakusho Season 1",
+            "htmlFile": "https://www.19256",
+            "directOne": "Action,Adventure",
+            "directSecond": "Q-xbLSKZUck",
+            "imbd": "9.1",
+            "rating": "Hindi+English+Japanese",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Yu Yu Hakusho",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/9lwezwaGOvUar1K/Yu_Yu_Hakusho_S01E01_19256_1.mkv",
+                "2": "https://streamtape.site/v/ZrpwKJMq2Mhqbb7/Yu_Yu_Hakusho_S01E02_19256_2.mkv.mp4",
+                "3": "https://streamtape.site/v/d894KAklmLIkKDm/Yu_Yu_Hakusho_S01E03_19256_3.mkv.mp4",
+                "4": "https://streamtape.site/v/P6D1d44ZGkF01p6/Yu_Yu_Hakusho_S01E04_19256_4.mkv.mp4",
+                "5": "https://streamtape.site/v/Pk4e7WMQ6gSbW4/Yu_Yu_Hakusho_S01E05_19256_5.mkv"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/zziipnEs?download?.mkv",
+                "2": "https://pixeldra.in/api/file/h3UGgHGk?download?.mkv",
+                "3": "https://pixeldra.in/api/file/nDcHHkCr?download?.mkv",
+                "4": "https://pixeldra.in/api/file/FeqdD6XV?download?.mkv",
+                "5": "https://pixeldra.in/api/file/Pry6oF2z?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Yu%20Yu%20Hakusho%20S01E01%2019256%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Yu%20Yu%20Hakusho%20S01E02%2019256%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Yu%20Yu%20Hakusho%20S01E03%2019256%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Yu%20Yu%20Hakusho%20S01E04%2019256%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Yu%20Yu%20Hakusho%20S01E05%2019256%205.mkv"
             }
         }
     ]
