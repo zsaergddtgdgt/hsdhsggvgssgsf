@@ -13865,6 +13865,47 @@
             }
         },
         {
+            "id": "1259",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/5h124ivuduipx276g.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/pi1qa300s62gac16g.jpg",
+            "movieName": "The Crown Season 5",
+            "htmlFile": "https://www.19259",
+            "directOne": "Drama",
+            "directSecond": "Ej0vb8xhvbw",
+            "imbd": "6.8",
+            "rating": "Dual",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Crown",
+            "pathName": "S5",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/mwrz1lwzLKSb1KP/The_Crown_S05E01_19259_1.mkv.mp4",
+                "2": "https://streamtape.site/v/Q2PyqLd022H0QrB/The_Crown_S05E02_19259_2.mkv.mp4",
+                "3": "https://streamtape.site/v/xvG2a6ZKROhk4GV/The_Crown_S05E03_19259_3.mkv.mp4",
+                "4": "https://streamtape.site/v/d7XwJBZopzhkXM3/The_Crown_S05E04_19259_4.mkv.mp4",
+                "5": "https://streamtape.site/v/7PpMmJGRdbSApLj/The_Crown_S05E05_19259_5.mkv.mp4",
+                "6": "https://streamtape.site/v/lP0l03lo8Pf7ROA/The_Crown_S05E06_19259_6.mkv.mp4",
+                "7": "https://streamtape.site/v/adRbDeZdM7sx6R4/The_Crown_S05E07_19259_7.mkv.mp4",
+                "8": "https://streamtape.site/v/3dqxaW0RMxhlgD/The_Crown_S05E08_19259_8.mkv.mp4",
+                "9": "https://streamtape.site/v/vwrZo3pd4rt49wr/The_Crown_S05E09_19259_9.mkv.mp4",
+                "10": "https://streamtape.site/v/ykV9B4VjGZTy7p/The_Crown_S05E10_19259_10.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {},
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/The%20Crown%20S05E01%2019259%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/The%20Crown%20S05E02%2019259%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/The%20Crown%20S05E03%2019259%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/The%20Crown%20S05E04%2019259%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/The%20Crown%20S05E05%2019259%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/The%20Crown%20S05E06%2019259%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/The%20Crown%20S05E07%2019259%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/The%20Crown%20S05E08%2019259%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/The%20Crown%20S05E09%2019259%209.mkv",
+                "10": "http://srs.ringzstudio.online/lst/The%20Crown%20S05E10%2019259%2010.mkv"
+            }
+        },
+        {
             "id": "363",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/uv1qkcf6jjfegbh6g.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/qgxkdbbfkbrfgni6g.jpg",
@@ -29338,9 +29379,34 @@
             }
         },
         {
+            "id": "1261",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/ImMature%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/ImMature%20Season%201.jpg",
+            "movieName": "ImMature Season 1",
+            "htmlFile": "https://www.19261",
+            "directOne": "FALSE",
+            "directSecond": "fy74NYJ7q5U",
+            "imbd": "7.2",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "ImMature",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/VrBokMgqMXFK1B6/ImMATURE_S01Complete_19261_1.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/XVPE5our?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/ImMATURE%20S01Complete%2019261%201.mkv"
+            }
+        },
+        {
             "id": "815",
-            "ImageUrlHorizontal": "https://leathermed.net//Poster/h1/ImMature%20Season%202.jpg",
-            "ImageUrlVertical": "https://i.postimg.cc/qM7Fcc6t/Im-Mature-Season-2.png",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/ImMature%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/ImMature%20Season%201.jpg",
             "movieName": "ImMature Season 2",
             "htmlFile": "https://www.17967",
             "directOne": "FALSE",
@@ -39076,40 +39142,6 @@
             }
         },
         {
-            "id": "1133",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/The%20Freelancer%20Season%201.jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/The%20Freelancer%20Season%201.jpg",
-            "movieName": "The Freelancer Season 1",
-            "htmlFile": "https://www.19133",
-            "directOne": "Thriller,Drama",
-            "directSecond": "KvorFo2pivI",
-            "imbd": "9.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "The Freelancer",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/G2kvGBY47lsa2G/The_Freelancer_S01E01_19133_1.mkv.mp4",
-                "2": "https://streamtape.site/v/lq7azYGDARIzPx/The_Freelancer_S01E02_19133_2.mkv.mp4",
-                "3": "https://streamtape.site/v/AlmGb9oQGBfXok1/The_Freelancer_S01E03_19133_3.mkv.mp4",
-                "4": "https://streamtape.site/v/JKO6x2l2q6ijpLV/The_Freelancer_S01E04_19133_4.mkv.mp4"
-            },
-            "EpisodeHub": {},
-            "episodeServer3": {
-                "1": "https://uploadraja.com/13xvlqvb7w1l",
-                "2": "https://uploadraja.com/dj494emmrvxj",
-                "3": "https://uploadraja.com/boc4zy10xc5c",
-                "4": "https://uploadraja.com/e2wtnx6mto8y"
-            },
-            "episodeServer4": {
-                "1": "http://srs.aapkipooja.com/The%20Freelancer%20S01E01%2019133%201.mkv",
-                "2": "http://srs.aapkipooja.com/The%20Freelancer%20S01E02%2019133%202.mkv",
-                "3": "http://srs.aapkipooja.com/The%20Freelancer%20S01E03%2019133%203.mkv",
-                "4": "http://srs.aapkipooja.com/The%20Freelancer%20S01E04%2019133%204.mkv"
-            }
-        },
-        {
             "id": "1129",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Breaking%20Bad%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Breaking%20Bad%20Season%201.jpg",
@@ -44321,6 +44353,184 @@
                 "3": "http://srs.ringzstudio.online/lst/Yu%20Yu%20Hakusho%20S01E03%2019256%203.mkv",
                 "4": "http://srs.ringzstudio.online/lst/Yu%20Yu%20Hakusho%20S01E04%2019256%204.mkv",
                 "5": "http://srs.ringzstudio.online/lst/Yu%20Yu%20Hakusho%20S01E05%2019256%205.mkv"
+            }
+        },
+        {
+            "id": "1260",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Crown%20Season%206.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Crown%20Season%206.jpg",
+            "movieName": "The Crown Season 6",
+            "htmlFile": "https://www.19260",
+            "directOne": "Drama",
+            "directSecond": "RtJLfEX8tKM",
+            "imbd": "6.8",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Crown",
+            "pathName": "S6",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/841yDX7pdwIokqG/The_Crown_S06E01_19260_1.mkv.mp4",
+                "2": "https://streamtape.site/v/JbvewMpm4OS9DJ/The_Crown_S06E02_19260_2.mkv.mp4",
+                "3": "https://streamtape.site/v/4d1Gmd1rMPhVxR/The_Crown_S06E03_19260_3.mkv.mp4",
+                "4": "https://streamtape.site/v/Jw9pwvJVAyFjzZ3/The_Crown_S06E04_19260_4.mkv.mp4",
+                "5": "https://streamtape.site/v/Rjmr02yr1jCdz3Z/The_Crown_S06E05_19260_5.mkv.mp4",
+                "6": "https://streamtape.site/v/WeR6a1W0z7sbV4J/The_Crown_S06E06_19260_6.mkv.mp4",
+                "7": "https://streamtape.site/v/XqzM8Ak2Rwu3y2/The_Crown_S06E07_19260_7.mkv.mp4",
+                "8": "https://streamtape.site/v/OWjz4qZBrGiZBee/The_Crown_S06E08_19260_8.mkv.mp4",
+                "9": "https://streamtape.site/v/BQPKryBB6kf67B/The_Crown_S06E09_19260_9.mkv.mp4",
+                "10": "https://streamtape.site/v/3xrJQ4P7L6ideKR/The_Crown_S06E10_19260_10.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/gnPomogX?download?.mkv",
+                "2": "https://pixeldra.in/api/file/8ruqJf2C?download?.mkv",
+                "3": "https://pixeldra.in/api/file/22hSuMvK?download?.mkv",
+                "4": "https://pixeldra.in/api/file/Kd7DTzAk?download?.mkv",
+                "5": "https://pixeldra.in/api/file/eSB3b2pQ?download?.mkv",
+                "6": "https://pixeldra.in/api/file/4z2ciK66?download?.mkv",
+                "7": "https://pixeldra.in/api/file/YP9Zr1bB?download?.mkv",
+                "8": "https://pixeldra.in/api/file/biNwxPq8?download?.mkv",
+                "9": "https://pixeldra.in/api/file/xyGScZXp?download?.mkv",
+                "10": "https://pixeldra.in/api/file/Le37huLk?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/The%20Crown%20S06E01%2019260%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/The%20Crown%20S06E02%2019260%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/The%20Crown%20S06E03%2019260%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/The%20Crown%20S06E04%2019260%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/The%20Crown%20S06E05%2019260%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/The%20Crown%20S06E06%2019260%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/The%20Crown%20S06E07%2019260%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/The%20Crown%20S06E08%2019260%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/The%20Crown%20S06E09%2019260%209.mkv",
+                "10": "http://srs.ringzstudio.online/lst/The%20Crown%20S06E10%2019260%2010.mkv"
+            }
+        },
+        {
+            "id": "1258",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Kill%20It%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Kill%20It%20Season%201.jpg",
+            "movieName": "Kill It Season 1",
+            "htmlFile": "https://www.19258",
+            "directOne": "Thriller,Mystery",
+            "directSecond": "KreLLs20ziw",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Kill It",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/41879gXozbiZXV/Kill_It_S01E01_19258_1.mkv.mp4",
+                "2": "https://streamtape.site/v/XYxDBOeJLBCDrWg/Kill_It_S01E02_19258_2.mkv.mp4",
+                "3": "https://streamtape.site/v/lWOKB9DW7qh7x6k/Kill_It_S01E03_19258_3.mkv",
+                "4": "https://streamtape.site/v/jp6zAMl2B2iz8bQ/Kill_It_S01E04_19258_4.mkv.mp4",
+                "5": "https://streamtape.site/v/GPdbdVbBy0fZw3/Kill_It_S01E05_19258_5.mkv",
+                "6": "https://streamtape.site/v/dVYlokzQ4KTk8rg/Kill_It_S01E06_19258_6.mkv.mp4",
+                "7": "https://streamtape.site/v/7kLVr8VxJgFA1Lx/Kill_It_S01E07_19258_7.mkv.mp4",
+                "8": "https://streamtape.site/v/o9rJLkRgpVU9a4/Kill_It_S01E08_19258_8.mkv.mp4",
+                "9": "https://streamtape.site/v/3D4ol9G998ha4m/Kill_It_S01E09_19258_9.mkv",
+                "10": "https://streamtape.site/v/1q0PGD9DQWCeqWw/Kill_It_S01E10_19258_10.mkv",
+                "11": "https://streamtape.site/v/kgBRGZ7kGqH8Z0/Kill_It_S01E11_19258_11.mkv.mp4",
+                "12": "https://streamtape.site/v/kK0XzxlBybIOVK4/Kill_It_S01E12_19258_12.mkv"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/WFp6yD8a?download?.mkv",
+                "2": "https://pixeldra.in/api/file/Wmb4zvGy?download?.mkv",
+                "3": "https://pixeldra.in/api/file/BHRtNYap?download?.mkv",
+                "4": "https://pixeldra.in/api/file/LQi2TUyP?download?.mkv",
+                "5": "https://pixeldra.in/api/file/b213r3z2?download?.mkv",
+                "6": "https://pixeldra.in/api/file/kCcnnN32?download?.mkv",
+                "7": "https://pixeldra.in/api/file/odqML5fa?download?.mkv",
+                "8": "https://pixeldra.in/api/file/ZnPWegwN?download?.mkv",
+                "9": "https://pixeldra.in/api/file/QdL8M6Cw?download?.mkv",
+                "10": "https://pixeldra.in/api/file/fXx5hDh9?download?.mkv",
+                "11": "https://pixeldra.in/api/file/sZJn9bPN?download?.mkv",
+                "12": "https://pixeldra.in/api/file/5HKRqAoP?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Kill%20It%20S01E01%2019258%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Kill%20It%20S01E02%2019258%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Kill%20It%20S01E03%2019258%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Kill%20It%20S01E04%2019258%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Kill%20It%20S01E05%2019258%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Kill%20It%20S01E06%2019258%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Kill%20It%20S01E07%2019258%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Kill%20It%20S01E08%2019258%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/Kill%20It%20S01E09%2019258%209.mkv",
+                "10": "http://srs.ringzstudio.online/lst/Kill%20It%20S01E10%2019258%2010.mkv",
+                "11": "http://srs.ringzstudio.online/lst/Kill%20It%20S01E11%2019258%2011.mkv",
+                "12": "http://srs.ringzstudio.online/lst/Kill%20It%20S01E12%2019258%2012.mkv"
+            }
+        },
+        {
+            "id": "1133",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/The%20Freelancer%20Season%201.jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/The%20Freelancer%20Season%201.jpg",
+            "movieName": "The Freelancer Season 1",
+            "htmlFile": "https://www.19133",
+            "directOne": "Thriller,Drama",
+            "directSecond": "KvorFo2pivI",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Freelancer",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/G2kvGBY47lsa2G/The_Freelancer_S01E01_19133_1.mkv.mp4",
+                "2": "https://streamtape.site/v/lq7azYGDARIzPx/The_Freelancer_S01E02_19133_2.mkv.mp4",
+                "3": "https://streamtape.site/v/AlmGb9oQGBfXok1/The_Freelancer_S01E03_19133_3.mkv.mp4",
+                "4": "https://streamtape.site/v/JKO6x2l2q6ijpLV/The_Freelancer_S01E04_19133_4.mkv.mp4",
+                "5": "https://streamtape.site/v/Jy9wW4oDbRtjpk0/The_Freelancer_S01E05_19133_5.mkv",
+                "6": "https://streamtape.site/v/rrqBb34ae0FgKy/The_Freelancer_S01E06_19133_6.mkv.mp4",
+                "7": "https://streamtape.site/v/kb1MlgDRALcOjxX/The_Freelancer_S01E07_19133_7.mkv"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE",
+                "4": "FALSE",
+                "5": "https://pixeldra.in/api/file/sRQYfmW1?download?.mkv",
+                "6": "https://pixeldra.in/api/file/YXUjKLcr?download?.mkv",
+                "7": "https://pixeldra.in/api/file/6CPVv8ix?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.aapkipooja.com/The%20Freelancer%20S01E01%2019133%201.mkv",
+                "2": "http://srs.aapkipooja.com/The%20Freelancer%20S01E02%2019133%202.mkv",
+                "3": "http://srs.aapkipooja.com/The%20Freelancer%20S01E03%2019133%203.mkv",
+                "4": "http://srs.aapkipooja.com/The%20Freelancer%20S01E04%2019133%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/The%20Freelancer%20S01E05%2019133%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/The%20Freelancer%20S01E06%2019133%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/The%20Freelancer%20S01E07%2019133%207.mkv"
+            }
+        },
+        {
+            "id": "1262",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/ImMature%20Season%203.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/ImMature%20Season%203.jpg",
+            "movieName": "ImMature Season 3",
+            "htmlFile": "https://www.19262",
+            "directOne": "Comedy,Romance",
+            "directSecond": "hd_oHK2rBQc",
+            "imbd": "7.2",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "ImMature",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/D4pDWk6833ukaaX/ImMATURE_S03Complete_19262_1.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/8EQxTTZU?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/ImMATURE%20S03Complete%2019262%201.mkv"
             }
         }
     ]
