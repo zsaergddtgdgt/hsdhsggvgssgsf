@@ -44007,43 +44007,6 @@
             }
         },
         {
-            "id": "1225",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Monarch%20-%20Legacy%20Of%20Monsters%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Monarch%20-%20Legacy%20Of%20Monsters%20Season%201.jpg",
-            "movieName": "Monarch - Legacy Of Monsters Season 1",
-            "htmlFile": "https://www.19225",
-            "directOne": "Action,Adventure",
-            "directSecond": "JLHsM4bpfxY",
-            "imbd": "9.1",
-            "rating": "English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Monarch - Legacy Of Monsters",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/0BY3GXz0JxHK2g/Monarch_-_Legacy_Of_Monsters_S01E01_19225_1.mkv",
-                "2": "https://streamtape.site/v/kW3AoAw62oUO2LO/Monarch_-_Legacy_Of_Monsters_S01E02_19225_2.mkv.mp4",
-                "3": "https://streamtape.site/v/2aKA76R8RkiZDbL/Monarch_-_Legacy_Of_Monsters_S01E03_19225_3.mkv.mp4",
-                "4": "https://streamtape.site/v/z7bQyKzaALuY0vz/Monarch_-_Legacy_Of_Monsters_S01E04_19225_4.mkv.mp4",
-                "5": "https://streamtape.site/v/4BZl7MGVpbfpBm/Monarch_-_Legacy_Of_Monsters_S01E05_19225_5.mkv"
-            },
-            "EpisodeHub": {
-                "1": "FALSE",
-                "2": "FALSE",
-                "3": "FALSE",
-                "4": "https://pixeldra.in/api/file/FZLVvnUQ?download?.mkv",
-                "5": "https://pixeldra.in/api/file/L4pYBjta?download?.mkv"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E01%2019225%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E02%2019225%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E03%2019225%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E04%2019225%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E05%2019225%205.mkv"
-            }
-        },
-        {
             "id": "1244",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Blood%20Coast%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Blood%20Coast%20Season%201.jpg",
@@ -44227,49 +44190,6 @@
                 "6": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E06%2019204%206.mkv",
                 "7": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E07%2019204%207.mkv",
                 "8": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E08%2019204%208.mkv"
-            }
-        },
-        {
-            "id": "1221",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Label%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Label%20Season%201.jpg",
-            "movieName": "Label Season 1",
-            "htmlFile": "https://www.19221",
-            "directOne": "Crime,Drama",
-            "directSecond": "1o_3J7ALRFY",
-            "imbd": "9.1",
-            "rating": "Hindi+Tamil",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Label",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/or7X4KkYbYhJzrg/Label_S01E01_19221_1.mkv.mp4",
-                "2": "https://streamtape.site/v/3AOwo3VgbRHdwZ8/Label_S01E02_19221_2.mkv.mp4",
-                "3": "https://streamtape.site/v/XY79Kx7w7RCAok/Label_S01E03_19221_3.mkv.mp4",
-                "4": "https://streamtape.site/v/ygZopLrZjlu1AxD/Label_S01E04_19221_4.mkv.mp4",
-                "5": "https://streamtape.site/v/JK9J8gA749FjBk1/Label_S01E05_19221_5.mkv.mp4",
-                "6": "https://streamtape.site/v/PG7pr2qd26txzg/Label_S01E06_19221_6.mkv.mp4",
-                "7": "https://streamtape.site/v/OJWy1dA268hZr4K/Label_S01E07_19221_7.mkv.mp4"
-            },
-            "EpisodeHub": {},
-            "episodeServer3": {
-                "1": "https://pixeldra.in/api/file/h47YwZ7d?download?.mkv",
-                "2": "https://pixeldra.in/api/file/2nW2zY4S?download?.mkv",
-                "3": "https://pixeldra.in/api/file/4BwM88jb?download?.mkv",
-                "4": "https://pixeldra.in/api/file/6zkuFdv4?download?.mkv",
-                "5": "https://pixeldra.in/api/file/9krpx1wH?download?.mkv",
-                "6": "https://pixeldra.in/api/file/BmYkF5Xc?download?.mkv",
-                "7": "https://pixeldra.in/api/file/Z1UHHiaM?download?.mkv"
-            },
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Label%20S01E01%2019221%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Label%20S01E02%2019221%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Label%20S01E03%2019221%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Label%20S01E04%2019221%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/Label%20S01E05%2019221%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/Label%20S01E06%2019221%206.mkv",
-                "7": "http://srs.ringzstudio.online/lst/Label%20S01E07%2019221%207.mkv"
             }
         },
         {
@@ -44531,6 +44451,92 @@
             },
             "episodeServer4": {
                 "1": "http://srs.ringzstudio.online/lst/ImMATURE%20S03Complete%2019262%201.mkv"
+            }
+        },
+        {
+            "id": "1221",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Label%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Label%20Season%201.jpg",
+            "movieName": "Label Season 1",
+            "htmlFile": "https://www.19221",
+            "directOne": "Crime,Drama",
+            "directSecond": "1o_3J7ALRFY",
+            "imbd": "9.1",
+            "rating": "Hindi+Tamil",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Label",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/or7X4KkYbYhJzrg/Label_S01E01_19221_1.mkv.mp4",
+                "2": "https://streamtape.site/v/3AOwo3VgbRHdwZ8/Label_S01E02_19221_2.mkv.mp4",
+                "3": "https://streamtape.site/v/XY79Kx7w7RCAok/Label_S01E03_19221_3.mkv.mp4",
+                "4": "https://streamtape.site/v/ygZopLrZjlu1AxD/Label_S01E04_19221_4.mkv.mp4",
+                "5": "https://streamtape.site/v/JK9J8gA749FjBk1/Label_S01E05_19221_5.mkv.mp4",
+                "6": "https://streamtape.site/v/PG7pr2qd26txzg/Label_S01E06_19221_6.mkv.mp4",
+                "7": "https://streamtape.site/v/OJWy1dA268hZr4K/Label_S01E07_19221_7.mkv.mp4",
+                "8": "https://streamtape.site/v/1BjOy3zygVteW9Q/Label_S01E08_19221_8.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/h47YwZ7d?download?.mkv",
+                "2": "https://pixeldra.in/api/file/2nW2zY4S?download?.mkv",
+                "3": "https://pixeldra.in/api/file/4BwM88jb?download?.mkv",
+                "4": "https://pixeldra.in/api/file/6zkuFdv4?download?.mkv",
+                "5": "https://pixeldra.in/api/file/9krpx1wH?download?.mkv",
+                "6": "https://pixeldra.in/api/file/BmYkF5Xc?download?.mkv",
+                "7": "https://pixeldra.in/api/file/Z1UHHiaM?download?.mkv",
+                "8": "https://pixeldra.in/api/file/vZp7yxYk?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Label%20S01E01%2019221%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Label%20S01E02%2019221%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Label%20S01E03%2019221%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Label%20S01E04%2019221%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Label%20S01E05%2019221%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Label%20S01E06%2019221%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Label%20S01E07%2019221%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Label%20S01E08%2019221%208.mkv"
+            }
+        },
+        {
+            "id": "1225",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Monarch%20-%20Legacy%20Of%20Monsters%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Monarch%20-%20Legacy%20Of%20Monsters%20Season%201.jpg",
+            "movieName": "Monarch - Legacy Of Monsters Season 1",
+            "htmlFile": "https://www.19225",
+            "directOne": "Action,Adventure",
+            "directSecond": "JLHsM4bpfxY",
+            "imbd": "9.1",
+            "rating": "English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Monarch - Legacy Of Monsters",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/0BY3GXz0JxHK2g/Monarch_-_Legacy_Of_Monsters_S01E01_19225_1.mkv",
+                "2": "https://streamtape.site/v/kW3AoAw62oUO2LO/Monarch_-_Legacy_Of_Monsters_S01E02_19225_2.mkv.mp4",
+                "3": "https://streamtape.site/v/2aKA76R8RkiZDbL/Monarch_-_Legacy_Of_Monsters_S01E03_19225_3.mkv.mp4",
+                "4": "https://streamtape.site/v/z7bQyKzaALuY0vz/Monarch_-_Legacy_Of_Monsters_S01E04_19225_4.mkv.mp4",
+                "5": "https://streamtape.site/v/4BZl7MGVpbfpBm/Monarch_-_Legacy_Of_Monsters_S01E05_19225_5.mkv",
+                "6": "https://streamtape.site/v/AJ9RDB9MVYCXVzB/Monarch_-_Legacy_Of_Monsters_S01E06_19225_6.mkv"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE",
+                "4": "https://pixeldra.in/api/file/FZLVvnUQ?download?.mkv",
+                "5": "https://pixeldra.in/api/file/L4pYBjta?download?.mkv",
+                "6": "https://pixeldra.in/api/file/DmEkbfHH?download?.mkv"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E01%2019225%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E02%2019225%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E03%2019225%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E04%2019225%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E05%2019225%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E06%2019225%206.mkv"
             }
         }
     ]
