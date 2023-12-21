@@ -22,7 +22,7 @@
             "480pS3": "http://mvs.ringzstudio.online/480p/Dunki%20(2023)%2037488.mkv",
             "480pS4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/dunki_480p.mkv"
         }, 
-    {
+       {
             "id": "3747",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Aquaman%20and%20the%20Lost%20Kingdom%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Aquaman%20and%20the%20Lost%20Kingdom%20(2023).jpg",
@@ -42,6 +42,27 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Aquaman%20and%20the%20Lost%20Kingdom%20(2023)%2013747.mkv",
             "480pS4": "FALSE"
+        },
+        {
+            "id": "3749",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Hidimbha%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Hidimbha%20(2023).jpg",
+            "movieName": "Hidimbha (2023)",
+            "htmlFile": "https://www.13749",
+            "directOne": "Hindi+Telugu",
+            "directSecond": "RwzIwXEk3D8",
+            "rating": "HD",
+            "catergory": "Action,Drama",
+            "Industry": "South",
+            "hub": "FALSE",
+            "tape": "https://streamtape.xyz/v/2qPwPPPRLySAAl/Hidimbha_%282023%29_13749.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Hidimbha%20(2023)%2013749.mkv",
+            "server4": "https://pixeldra.in/api/file/j5QwM5z3?download?.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Hidimbha%20(2023)%2013749.mkv",
+            "480pS4": "https://pixeldra.in/api/file/W6weY6vV?download?.mkv"
         },
         {
             "id": "3716",
@@ -107,6 +128,27 @@
             "480pS4": "FALSE"
         },
         {
+            "id": "3750",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Maragadha%20Naanayam%20(2017).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Maragadha%20Naanayam%20(2017).jpg",
+            "movieName": "Maragadha Naanayam (2017)",
+            "htmlFile": "https://www.3750",
+            "directOne": "Hindi+Tamil",
+            "directSecond": "9XwlgDenj6c",
+            "rating": "HD",
+            "catergory": "Adventure,Fantasy",
+            "Industry": "South",
+            "hub": "FALSE",
+            "tape": "https://streamtape.xyz/v/PbADrpbdr2F073j/Maragadha_Naanayam_%282017%29_3750.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Maragadha%20Naanayam%20(2017)%203750.mkv",
+            "server4": "https://pixeldra.in/api/file/hk6DQ5dX?download?.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Maragadha%20Naanayam%20(2017)%203750.mkv",
+            "480pS4": "https://pixeldra.in/api/file/ua6eL4ps?download?.mkv"
+        },
+        {
             "id": "3638",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Japan%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Japan%20(2023).jpg",
@@ -147,6 +189,27 @@
             "480pS2": "FALSE",
             "480pS3": "FALSE",
             "480pS4": "http://mvs.ringzstudio.online/480p/Animal%20(20244)%203689.mkv"
+        },
+        {
+            "id": "3751",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/CBI%205%20%E2%80%93%20The%20Brain%20(2022).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/CBI%205%20%E2%80%93%20The%20Brain%20(2022).jpg",
+            "movieName": "CBI 5 – The Brain (2022)",
+            "htmlFile": "https://www.3751",
+            "directOne": "Hindi+Tamil",
+            "directSecond": "PKbL-427wms",
+            "rating": "HD",
+            "catergory": "Crime,Mystery",
+            "Industry": "South",
+            "hub": "FALSE",
+            "tape": "https://streamtape.xyz/v/0Dwl9z0ldlt0BV/CBI_5_%E2%80%93_The_Brain_%282022%29_3751.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/CBI%205%20%E2%80%93%20The%20Brain%20(2022)%203751.mkv",
+            "server4": "https://pixeldra.in/api/file/aNHRVcy4?download?.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/CBI%205%20%E2%80%93%20The%20Brain%20(2022)%203751.mkv",
+            "480pS4": "https://pixeldra.in/api/file/bTBSnJ7Z?download?.mkv"
         },
          {
             "id": "3739",
