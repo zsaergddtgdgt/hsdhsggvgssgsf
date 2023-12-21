@@ -1,5 +1,27 @@
 {
-    "AllMovieDataList": [  
+    "AllMovieDataList": [ 
+    
+         {
+            "id": "3748",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Dunki%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Dunki%20(2023).jpg",
+            "movieName": "Dunki (2023)",
+            "htmlFile": "https://www.3748",
+            "directOne": "Hindi",
+            "directSecond": "ACKQDAlAfFE",
+            "rating": "HQ-V2",
+            "catergory": "Action,Comedy",
+            "Industry": "Bollywood",
+            "hub": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Dunki_2023_720.mkv",
+            "tape": "https://streamtape.site/v/aZ079QXXrpTzA1/Dunki_%282023%29_3748.mkv",
+            "server3": "http://mvs.ringzstudio.online/720p/Dunki%20(2023)%203748.mkv",
+            "server4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Dunki_2023_720.mkv",
+            "480p": "TRUE",
+            "480pS1": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/dunki_480p.mkv",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Dunki%20(2023)%203748.mkv",
+            "480pS4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/dunki_480p.mkv"
+        }, 
     {
             "id": "3747",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Aquaman%20and%20the%20Lost%20Kingdom%20(2023).jpg",
