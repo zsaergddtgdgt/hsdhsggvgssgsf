@@ -1,6 +1,5 @@
 {
     "AllMovieDataList": [ 
-    
          {
             "id": "3748",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Dunki%20(2023).jpg",
@@ -21,6 +20,27 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Dunki%20(2023)%2037488.mkv",
             "480pS4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/dunki_480p.mkv"
+        }, 
+        {
+            "id": "3752",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Dry%20Day%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Dry%20Day%20(2023).jpg",
+            "movieName": "Dry Day (2023)",
+            "htmlFile": "https://www.13752",
+            "directOne": "Hindi",
+            "directSecond": "LDX8S2oy9WY",
+            "rating": "HD",
+            "catergory": "Action,Comedy",
+            "Industry": "Bollywood",
+            "hub": "FALSE",
+            "tape": "https://streamtape.xyz/v/KGPdw3WLoVC0eaZ/Dry_Day_%282023%29_13752.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Dry%20Day%20(2023)%2013752.mkv",
+            "server4": "https://pixeldra.in/api/file/F6YJpMzY?download?.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Dry%20Day%20(2023)%2013752.mkv",
+            "480pS4": "https://pixeldra.in/api/file/ExDDx93V?download?.mkv"
         }, 
        {
             "id": "3747",
