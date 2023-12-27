@@ -63,6 +63,27 @@
             "480pS3": "http://mvs.ringzstudio.online/480p/Aquaman%20and%20the%20Lost%20Kingdom%20(2023)%2013747.mkv",
             "480pS4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Aqua_480.mkv"
         },
+         {
+            "id": "3766",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Kho%20Gaye%20Hum%20Kahan%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Kho%20Gaye%20Hum%20Kahan%20(2023).jpg",
+            "movieName": "Kho Gaye Hum Kahan (2023)",
+            "htmlFile": "https://www.13766",
+            "directOne": "Hindi",
+            "directSecond": "E1da2YxROaw",
+            "rating": "HD",
+            "catergory": "Romance,Comedy",
+            "Industry": "Bollywood",
+            "hub": "FALSE",
+            "tape": "https://streamtape.cc/v/y7rpxWRekrsBLk/Kho_Gaye_Hum_Kahan_%282023%29_13766.mkv.mp4",
+            "server3": "https://mvs.ringzstudio.online/720p/Kho%20Gaye%20Hum%20Kahan%20(2023)%2013766.mkv",
+            "server4": "https://pixeldra.in/api/file/fqDPuFUF?download?.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "https://mvs.ringzstudio.online/480p/Kho%20Gaye%20Hum%20Kahan%20(2023)%2013766.mkv",
+            "480pS4": "https://pixeldra.in/api/file/5xPW1mEC?download?.mkv"
+        }, 
         {
             "id": "3752",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Dry%20Day%20(2023).jpg",
