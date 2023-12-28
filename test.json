@@ -1,6 +1,6 @@
 {
-    "AllMovieDataList": [ 
-    {
+    "AllMovieDataList": [
+        {
             "id": "3753",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Salaar%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Salaar%20(2023).jpg",
@@ -20,8 +20,8 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Salaar%20(2023)%201375334.mkv",
             "480pS4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Salar_480.mkv"
-        }, 
-         {
+        },
+        {
             "id": "3748",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Dunki%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Dunki%20(2023).jpg",
@@ -41,8 +41,8 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Dunki%20(2023)%20374888.mkv",
             "480pS4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/dunki_480p.mkv"
-        }, 
-       {
+        },
+        {
             "id": "3747",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Aquaman%20and%20the%20Lost%20Kingdom%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Aquaman%20and%20the%20Lost%20Kingdom%20(2023).jpg",
@@ -63,7 +63,28 @@
             "480pS3": "http://mvs.ringzstudio.online/480p/Aquaman%20and%20the%20Lost%20Kingdom%20(2023)%2013747.mkv",
             "480pS4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Aqua_480.mkv"
         },
-         {
+        {
+            "id": "3591",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/12th%20Fail%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/12th%20Fail%20(2023).jpg",
+            "movieName": "12th Fail (2023)",
+            "htmlFile": "https://www.13591",
+            "directOne": "Hindi",
+            "directSecond": "WeMJo701mvQ",
+            "rating": "HD",
+            "catergory": "Drama",
+            "Industry": "Bollywood",
+            "hub": "FALSE",
+            "tape": "https://streamtape.cc/v/eLqGZMPokGTYrzl/12th_Fail_%282023%29_13591.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/12th%20Fail%20(2023)%2013591.mkv",
+            "server4": "https://pixeldra.in/api/file/f4JWDacj?download?.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/12th%20Fail%20(2023)%2013591.mkv",
+            "480pS4": "https://pixeldra.in/api/file/6pKz2sRr?download?.mkv"
+        },
+        {
             "id": "3766",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Kho%20Gaye%20Hum%20Kahan%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Kho%20Gaye%20Hum%20Kahan%20(2023).jpg",
@@ -83,8 +104,71 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Kho%20Gaye%20Hum%20Kahan%20(2023)%2013766.mkv",
             "480pS4": "https://pixeldra.in/api/file/5xPW1mEC?download?.mkv"
-        }, 
-         {
+        },
+        {
+            "id": "3520",
+            "ImageUrlHorizontal": "https://api.ringzstudio.com/Poster/Movies/H1/Dono%20(2023).jpg",
+            "ImageUrlVertical": "https://api.ringzstudio.com/Poster/Movies/V1/Dono%20(2023).jpg",
+            "movieName": "Dono (2023)",
+            "htmlFile": "https://www.3520",
+            "directOne": "Hindi",
+            "directSecond": "vX-8Xvon8tM",
+            "rating": "HD",
+            "catergory": "Drama",
+            "Industry": "Bollywood",
+            "hub": "FALSE",
+            "tape": "https://streamtape.cc/v/oDLLbAQYDoSJQ0y/Dono_%282023%29_3520.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Dono%20(2023)%203520.mkv",
+            "server4": "https://pixeldra.in/api/file/jrE5TPin?download?.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Dono%20(2023)%203520.mkv",
+            "480pS4": "https://pixeldra.in/api/file/LQNMo1gp?download?.mkv"
+        },
+        {
+            "id": "3614",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Three%20Of%20Us%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Three%20Of%20Us%20(2023).jpg",
+            "movieName": "Three Of Us (2023)",
+            "htmlFile": "https://www.13614",
+            "directOne": "Hindi",
+            "directSecond": "LGMsX_RzGl4",
+            "rating": "HD",
+            "catergory": "Drama",
+            "Industry": "Bollywood",
+            "hub": "FALSE",
+            "tape": "https://streamtape.cc/v/VOP9vVxQdeIKLm3/Three_Of_Us_%282023%29_13614.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Three%20Of%20Us%20(2023)%2013614.mkv",
+            "server4": "https://pixeldra.in/api/file/PCfw4omn?download?.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Three%20Of%20Us%20(2023)%2013614.mkv",
+            "480pS4": "https://pixeldra.in/api/file/99Q2TQpb?download?.mkv"
+        },
+        {
+            "id": "3629",
+            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H2/Shastry%20Viruddh%20Shastry%20(2023).jpg",
+            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V2/Shastry%20Viruddh%20Shastry%20(2023).jpg",
+            "movieName": "Shastry Viruddh Shastry (2023)",
+            "htmlFile": "https://www.13629",
+            "directOne": "Hindi",
+            "directSecond": "7FoL7PYsoxs",
+            "rating": "HD",
+            "catergory": "Drama",
+            "Industry": "Bollywood",
+            "hub": "FALSE",
+            "tape": "https://streamtape.cc/v/VO6d2xzbMofKMYo/Shastry_Viruddh_Shastry_%282023%29_13629.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Shastry%20Viruddh%20Shastry%20(2023)%2013629.mkv",
+            "server4": "https://pixeldra.in/api/file/aZdoW6BK?download?.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Shastry%20Viruddh%20Shastry%20(2023)%2013629.mkv",
+            "480pS4": "https://pixeldra.in/api/file/aNg5MFdd?download?.mkv"
+        },
+        {
             "id": "3765",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/DD%20Returns%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/DD%20Returns%20(2023).jpg",
@@ -104,7 +188,7 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/DD%20Returns%20(2023)%2013765.mkv",
             "480pS4": "https://pixeldra.in/api/file/9LV9Ui3f?download?.mkv"
-        }, 
+        },
         {
             "id": "3752",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Dry%20Day%20(2023).jpg",
@@ -125,8 +209,8 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Dry%20Day%20(2023)%2013752.mkv",
             "480pS4": "https://pixeldra.in/api/file/ExDDx93V?download?.mkv"
-        }, 
-         {
+        },
+        {
             "id": "3772",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Neru%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Neru%20(2023).jpg",
@@ -146,8 +230,8 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Neru%20(2023)%2013772.mkv",
             "480pS4": "FALSE"
-        }, 
-         {
+        },
+        {
             "id": "3763",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Out%20Of%20Time%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Out%20Of%20Time%20(2023).jpg",
@@ -167,8 +251,8 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Out%20Of%20Time%20(2023)%203763.mkv",
             "480pS4": "https://pixeldra.in/api/file/Fp341ep3?download?.mkv"
-        }, 
-         {
+        },
+        {
             "id": "3743",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Mangalavaaram%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Mangalavaaram%20(2023).jpg",
@@ -188,7 +272,7 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Mangalavaar%20(2023)%203743.mkv",
             "480pS4": "FALSE"
-        }, 
+        },
         {
             "id": "3592",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Sajini%20Shinde%20Ka%20Viral%20Video%20(2023).jpg",
@@ -210,7 +294,7 @@
             "480pS3": "http://mvs.ringzstudio.online/480p/Sajini%20Shinde%20Ka%20Viral%20Video%20(2023)%2013592.mkv",
             "480pS4": "https://pixeldra.in/api/file/Mz1vYReu?download?.mkv"
         },
-         {
+        {
             "id": "3764",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Naa%20Rakumarudu%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Naa%20Rakumarudu%20(2023).jpg",
@@ -230,7 +314,7 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Naa%20Rakumarudu%20(2023)%2013764.mkv",
             "480pS4": "https://pixeldra.in/api/file/Mq3gNCy9?download?.mkv"
-        }, 
+        },
         {
             "id": "3757",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Rebel%20Moon%20%E2%80%93%20A%20Child%20of%20Fire%20(2023).jpg",
@@ -251,8 +335,8 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Rebel%20Moon%20%E2%80%93%20A%20Child%20of%20Fire%20(2023)%203757.mkv",
             "480pS4": "https://pixeldra.in/api/file/fdwgcRWL?download?.mkv"
-        }, 
-         {
+        },
+        {
             "id": "3768",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Avarice%20(2022).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Avarice%20(2022).jpg",
@@ -272,8 +356,8 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Avarice%20(2022)%2013768.mkv",
             "480pS4": "https://pixeldra.in/api/file/e9HEdFgZ?download?.mkv"
-        }, 
-         {
+        },
+        {
             "id": "3769",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Thanksgiving%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Thanksgiving%20(2023).jpg",
@@ -293,8 +377,8 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Thanksgiving%20(2023)%2013769.mkv",
             "480pS4": "https://pixeldra.in/api/file/WHpenL76?download?.mkv"
-        }, 
-         {
+        },
+        {
             "id": "3770",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/The%20World%20of%20Killing%20People%20(2022).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/The%20World%20of%20Killing%20People%20(2022).jpg",
@@ -315,7 +399,7 @@
             "480pS3": "http://mvs.ringzstudio.online/480p/The%20World%20of%20Killing%20People%20(2022)%2013770.mkv",
             "480pS4": "https://pixeldra.in/api/file/jLCHkwTV?download?.mkv"
         },
-         {
+        {
             "id": "3767",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Leila%E2%80%99s%20Brothers%20(2022).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Leila%E2%80%99s%20Brothers%20(2022).jpg",
@@ -420,7 +504,7 @@
             "480pS3": "http://mvs.ringzstudio.online/480p/Wyrmwood%20-%20Apocalypse%20(2021)%203759.mkv",
             "480pS4": "https://pixeldra.in/api/file/Dqxg3MUP?download?.mkv"
         },
-         {
+        {
             "id": "3771",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Prem%20Pretitir%20Bondhon%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Prem%20Pretitir%20Bondhon%20(2023).jpg",
@@ -651,7 +735,7 @@
             "480pS3": "http://mvs.ringzstudio.online/480p/Japan%20(2023)%2013638.mkv",
             "480pS4": "https://pixeldra.in/api/file/8hRphceo?download?.mkv"
         },
-         {
+        {
             "id": "3689",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Animal%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Animal%20(2023).jpg",
@@ -693,7 +777,7 @@
             "480pS3": "http://mvs.ringzstudio.online/480p/CBI%205%20%E2%80%93%20The%20Brain%20(2022)%203751.mkv",
             "480pS4": "https://pixeldra.in/api/file/bTBSnJ7Z?download?.mkv"
         },
-         {
+        {
             "id": "3739",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Pulikkuthi%20Pandi%20(2021).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Pulikkuthi%20Pandi%20(2021).jpg",
@@ -819,7 +903,7 @@
             "480pS3": "http://mvs.ringzstudio.online/480p/Ballistic%20-%20Ecks%20vs.%20Sever%20(2002)%2013745.mkv",
             "480pS4": "https://pixeldra.in/api/file/muPDpYUo?download?.mkv"
         },
-         {
+        {
             "id": "3740",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Falimy%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Falimy%20(2023).jpg",
@@ -840,7 +924,7 @@
             "480pS3": "http://mvs.ringzstudio.online/480p/Falimy%20(2023)%203740.mkv",
             "480pS4": "https://pixeldra.in/api/file/1ygt25Dh?download?.mkv"
         },
-         {
+        {
             "id": "3736",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Aaraattu%20(2022).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Aaraattu%20(2022).jpg",
@@ -987,7 +1071,7 @@
             "480pS3": "http://mvs.ringzstudio.online/480p/Trolls%20Band%20Together%20(2023)%203734.mkv",
             "480pS4": "https://pixeldra.in/api/file/yKq8pjAs?download?.mkv"
         },
-         {
+        {
             "id": "3726",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Sesham%20Mikeil%20Fathima%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Sesham%20Mikeil%20Fathima%20(2023).jpg",
@@ -1071,7 +1155,7 @@
             "480pS3": "http://mvs.ringzstudio.online/480p/Minus%2031%20The%20Nagpur%20Files%20(2023)%203318.mkv",
             "480pS4": "https://pixeldra.in/api/file/Mwv1rWir?download?.mkv"
         },
-         {
+        {
             "id": "3727",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Uniki%20(2022).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Uniki%20(2022).jpg",
@@ -1155,7 +1239,7 @@
             "480pS3": "http://mvs.ringzstudio.online/480p/Hi%20Papa%20(2023)%2013704.mkv",
             "480pS4": "FALSE"
         },
-         {
+        {
             "id": "3728",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Something%20Like%20an%20Autobiography%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Something%20Like%20an%20Autobiography%20(2023).jpg",
@@ -3634,27 +3718,6 @@
             "480pS4": "FALSE"
         },
         {
-            "id": "3629",
-            "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H2/Shastry%20Viruddh%20Shastry%20(2023).jpg",
-            "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V2/Shastry%20Viruddh%20Shastry%20(2023).jpg",
-            "movieName": "Shastry Viruddh Shastry (2023)",
-            "htmlFile": "https://www.13629",
-            "directOne": "Hindi",
-            "directSecond": "7FoL7PYsoxs",
-            "rating": "HDCamRip",
-            "catergory": "Drama",
-            "Industry": "Bollywood",
-            "hub": "FALSE",
-            "tape": "https://streamtape.xyz/v/9ObmkxMeo6IYLW/Shastry_Viruddh_Shastry_%282023%29_13629.mkv.mp4",
-            "server3": "http://mvs.ringzstudio.online/720p/Shastry%20Viruddh%20Shastry%20(2023)%2013629.mkv",
-            "server4": "FALSE",
-            "480p": "TRUE",
-            "480pS1": "FALSE",
-            "480pS2": "FALSE",
-            "480pS3": "http://mvs.ringzstudio.online/480p/Shastry%20Viruddh%20Shastry%20(2023)%2013629.mkv",
-            "480pS4": "FALSE"
-        },
-        {
             "id": "3484",
             "ImageUrlHorizontal": "https://api.ringzstudio.com/Poster/Movies/H1/Fukrey%203%20(2023).jpg",
             "ImageUrlVertical": "https://api.ringzstudio.com/Poster/Movies/V1/Fukrey%203%20(2023).jpg",
@@ -3928,27 +3991,6 @@
             "480pS4": "FALSE"
         },
         {
-            "id": "3614",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Three%20Of%20Us%20(2023).jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Three%20Of%20Us%20(2023).jpg",
-            "movieName": "Three Of Us (2023)",
-            "htmlFile": "https://www.13614",
-            "directOne": "Hindi",
-            "directSecond": "LGMsX_RzGl4",
-            "rating": "HDCamRip",
-            "catergory": "Drama",
-            "Industry": "Bollywood",
-            "hub": "FALSE",
-            "tape": "https://streamtape.xyz/v/3WxVz1RLxPidZ61/Three_Of_Us_%282023%29_13614.mkv.mp4",
-            "server3": "http://mvs.ringzstudio.online/720p/Three%20Of%20Us%20(2023)%2013614.mkv",
-            "server4": "FALSE",
-            "480p": "TRUE",
-            "480pS1": "FALSE",
-            "480pS2": "FALSE",
-            "480pS3": "http://mvs.ringzstudio.online/480p/Three%20Of%20Us%20(2023)%2013614.mkv",
-            "480pS4": "FALSE"
-        },
-        {
             "id": "3616",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Dastaan-E-Sirhind%20(2023).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Dastaan-E-Sirhind%20(2023).jpg",
@@ -4135,27 +4177,6 @@
             "480pS1": "FALSE",
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Wonder%20Woman%20(2017)%203374.mkv",
-            "480pS4": "FALSE"
-        },
-        {
-            "id": "3591",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/12th%20Fail%20(2023).jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/12th%20Fail%20(2023).jpg",
-            "movieName": "12th Fail (2023)",
-            "htmlFile": "https://www.13591",
-            "directOne": "Hindi",
-            "directSecond": "WeMJo701mvQ",
-            "rating": "HDTS",
-            "catergory": "Drama",
-            "Industry": "Bollywood",
-            "hub": "FALSE",
-            "tape": "https://streamtape.xyz/v/opKAWoxOA3i3jV/12th_Fail_%282023%29_13591.mkv.mp4",
-            "server3": "http://mvs.ringzstudio.online/720p/12th%20Fail%20(2023)%2013591.mkv",
-            "server4": "FALSE",
-            "480p": "TRUE",
-            "480pS1": "FALSE",
-            "480pS2": "FALSE",
-            "480pS3": "http://mvs.ringzstudio.online/480p/12th%20Fail%20(2023)%2013591.mkv",
             "480pS4": "FALSE"
         },
         {
@@ -5962,27 +5983,6 @@
             "480pS1": "FALSE",
             "480pS2": "FALSE",
             "480pS3": "http://mvs.aapkipooja.com/480p/Gadar%202%20(2023)%203355.mkv",
-            "480pS4": "FALSE"
-        },
-        {
-            "id": "3520",
-            "ImageUrlHorizontal": "https://api.ringzstudio.com/Poster/Movies/H1/Dono%20(2023).jpg",
-            "ImageUrlVertical": "https://api.ringzstudio.com/Poster/Movies/V1/Dono%20(2023).jpg",
-            "movieName": "Dono (2023)",
-            "htmlFile": "https://www.3520",
-            "directOne": "Hindi",
-            "directSecond": "vX-8Xvon8tM",
-            "rating": "HDCamRip",
-            "catergory": "Drama",
-            "Industry": "Bollywood",
-            "hub": "FALSE",
-            "tape": "https://streamtape.xyz/v/JwgKMWQ1y6SjwBK/Dono_%282023%29_3520.mkv.mp4",
-            "server3": "http://mvs.aapkipooja.com/720p/Dono%20(2023)%203520.mkv",
-            "server4": "FALSE",
-            "480p": "TRUE",
-            "480pS1": "FALSE",
-            "480pS2": "FALSE",
-            "480pS3": "http://mvs.aapkipooja.com/480p/Dono%20(2023)%203520.mkv",
             "480pS4": "FALSE"
         },
         {
