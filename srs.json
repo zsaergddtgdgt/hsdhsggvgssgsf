@@ -44433,147 +44433,6 @@
             }
         },
         {
-            "id": "1204",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Koffee%20With%20Karan%20Season%208.webp",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Koffee%20With%20Karan%20Season%208.png",
-            "movieName": "Koffee With Karan Season 8",
-            "htmlFile": "https://www.19204",
-            "directOne": "Talk-Show,Comedy",
-            "directSecond": "wgMW6bzKHuA",
-            "imbd": "9.1",
-            "rating": "English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Koffee With Karan",
-            "pathName": "S8",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/7XjLxeZ1vvtJ60/Koffee_With_Karan_S08E01_19204_1.mkv.mp4",
-                "2": "https://streamtape.site/v/DapeA0AmX2HkP4w/Koffee_With_Karan_S08E02_19204_2.mkv.mp4",
-                "3": "https://streamtape.site/v/90ayzYkVwRtaa9Y/Koffee_With_Karan_S08E03_19204_3.mkv.mp4",
-                "4": "https://streamtape.site/v/D0DdzbZDz9tk790/Koffee_With_Karan_S08E04_19204_4.mkv.mp4",
-                "5": "https://streamtape.site/v/RL71367xqmUJqa/Koffee_With_Karan_S08E05_19204_5.mkv.mp4",
-                "6": "https://streamtape.site/v/YGjYvmWvO6uvG8V/Koffee_With_Karan_S08E06_19204_6.mkv.mp4",
-                "7": "https://streamtape.site/v/v9XX6Rq36oH412K/Koffee_With_Karan_S08E07_19204_7.mkv.mp4",
-                "8": "https://streamtape.site/v/3kY1AkaGJbFdw1d/Koffee_With_Karan_S08E08_19204_8.mkv.mp4",
-                "9": "https://streamtape.site/v/xl7G9PwzWbHk4oy/Koffee_With_Karan_S08E09_19204_9.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "FALSE",
-                "2": "FALSE",
-                "3": "FALSE",
-                "4": "FALSE",
-                "5": "FALSE",
-                "6": "https://pixeldra.in/api/file/YZZZgZp4?download?.mkv",
-                "7": "https://pixeldra.in/api/file/XiCX9xdm?download?.mkv",
-                "8": "https://pixeldra.in/api/file/EFJbK8Tb?download?.mkv",
-                "9": "https://pixeldra.in/api/file/zCncvF2v?download?.mkv"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E01%2019204%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E02%2019204%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E03%2019204%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E04%2019204%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E05%2019204%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E06%2019204%206.mkv",
-                "7": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E07%2019204%207.mkv",
-                "8": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E08%2019204%208.mkv",
-                "9": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E09%2019204%209.mkv"
-            }
-        },
-        {
-            "id": "1221",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Label%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Label%20Season%201.jpg",
-            "movieName": "Label Season 1",
-            "htmlFile": "https://www.19221",
-            "directOne": "Crime,Drama",
-            "directSecond": "1o_3J7ALRFY",
-            "imbd": "9.1",
-            "rating": "Hindi+Tamil",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Label",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/RDXXazbjYRSdQY7/Label_S01E01_19221_1.mkv.mp4",
-                "2": "https://streamtape.site/v/GvRLMAaaOmF1zvo/Label_S01E02_19221_2.mkv.mp4",
-                "3": "https://streamtape.site/v/JJjBwmYkdbhjqJK/Label_S01E03_19221_3.mkv.mp4",
-                "4": "https://streamtape.site/v/z7axWQGwGJfQpZ/Label_S01E04_19221_4.mkv.mp4",
-                "5": "https://streamtape.site/v/2kdmwkLaLMhZX4r/Label_S01E05_19221_5.mkv.mp4",
-                "6": "https://streamtape.site/v/oe9R0dv6WXfJ22p/Label_S01E06_19221_6.mkv.mp4",
-                "7": "https://streamtape.site/v/39Dox1Ad0rIR8J/Label_S01E07_19221_7.mkv.mp4",
-                "8": "https://streamtape.site/v/1BjOy3zygVteW9Q/Label_S01E08_19221_8.mkv.mp4",
-                "9": "https://streamtape.site/v/rrZr32JK3vHe2A/Label_S01E09_19221_9.mkv.mp4"
-            },
-            "EpisodeHub": {},
-            "episodeServer3": {
-                "1": "https://pixeldra.in/api/file/h47YwZ7d?download?.mkv",
-                "2": "https://pixeldra.in/api/file/2nW2zY4S?download?.mkv",
-                "3": "https://pixeldra.in/api/file/4BwM88jb?download?.mkv",
-                "4": "https://pixeldra.in/api/file/6zkuFdv4?download?.mkv",
-                "5": "https://pixeldra.in/api/file/9krpx1wH?download?.mkv",
-                "6": "https://pixeldra.in/api/file/BmYkF5Xc?download?.mkv",
-                "7": "https://pixeldra.in/api/file/Z1UHHiaM?download?.mkv",
-                "8": "https://pixeldra.in/api/file/vZp7yxYk?download?.mkv",
-                "9": "https://pixeldra.in/api/file/vURhHS4W?download?.mkv"
-            },
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Label%20S01E01%2019221%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Label%20S01E02%2019221%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Label%20S01E03%2019221%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Label%20S01E04%2019221%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/Label%20S01E05%2019221%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/Label%20S01E06%2019221%206.mkv",
-                "7": "http://srs.ringzstudio.online/lst/Label%20S01E07%2019221%207.mkv",
-                "8": "http://srs.ringzstudio.online/lst/Label%20S01E08%2019221%208.mkv",
-                "9": "http://srs.ringzstudio.online/lst/Label%20S01E09%2019221%209.mkv"
-            }
-        },
-        {
-            "id": "1225",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Monarch%20-%20Legacy%20Of%20Monsters%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Monarch%20-%20Legacy%20Of%20Monsters%20Season%201.jpg",
-            "movieName": "Monarch - Legacy Of Monsters Season 1",
-            "htmlFile": "https://www.19225",
-            "directOne": "Action,Adventure",
-            "directSecond": "JLHsM4bpfxY",
-            "imbd": "9.1",
-            "rating": "English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Monarch - Legacy Of Monsters",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/Bj7ZGQKWDGFyyqg/Monarch_-_Legacy_Of_Monsters_S01E01_19225_1.mkv.mp4",
-                "2": "https://streamtape.site/v/7kgGdkyRdetAOqA/Monarch_-_Legacy_Of_Monsters_S01E02_19225_2.mkv.mp4",
-                "3": "https://streamtape.site/v/bgOgqbpdJQfPYbe/Monarch_-_Legacy_Of_Monsters_S01E03_19225_3.mkv.mp4",
-                "4": "https://streamtape.site/v/z7bQyKzaALuY0vz/Monarch_-_Legacy_Of_Monsters_S01E04_19225_4.mkv.mp4",
-                "5": "https://streamtape.site/v/ZzXmJjvLemidPa/Monarch_-_Legacy_Of_Monsters_S01E05_19225_5.mkv.mp4",
-                "6": "https://streamtape.site/v/AJ9RDB9MVYCXVzB/Monarch_-_Legacy_Of_Monsters_S01E06_19225_6.mkv",
-                "7": "https://streamtape.site/v/o69lPjrDbdSJlxe/Monarch_-_Legacy_Of_Monsters_S01E07_19225_7.mkv.mp4"
-            },
-            "EpisodeHub": {
-                "1": "FALSE",
-                "2": "FALSE",
-                "3": "FALSE",
-                "4": "https://pixeldra.in/api/file/FZLVvnUQ?download?.mkv",
-                "5": "https://pixeldra.in/api/file/L4pYBjta?download?.mkv",
-                "6": "https://pixeldra.in/api/file/DmEkbfHH?download?.mkv",
-                "7": "https://pixeldra.in/api/file/MkHMoVSb?download?.mkv"
-            },
-            "episodeServer3": {},
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E01%2019225%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E02%2019225%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E03%2019225%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E04%2019225%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E05%2019225%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E06%2019225%206.mkv",
-                "7": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E07%2019225%207.mkv"
-            }
-        },
-        {
             "id": "1268",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Mission%20Start%20Ab%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Mission%20Start%20Ab%20Season%201.jpg",
@@ -44596,68 +44455,6 @@
             },
             "episodeServer4": {
                 "1": "http://srs.ringzstudio.online/lst/Mission%20Start%20Ab%20S01Complete%2019268%201.mkv"
-            }
-        },
-        {
-            "id": "1265",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Reacher%20Season%202.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Reacher%20Season%202.jpg",
-            "movieName": "Reacher Season 2",
-            "htmlFile": "https://www.19265",
-            "directOne": "Action,Crime",
-            "directSecond": "tC-rRhQcnlI",
-            "imbd": "9.1",
-            "rating": "Hindi+English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Reacher",
-            "pathName": "S2",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/grAoWxek2zS9vo/Reacher_S02E01_19265_1.mkv",
-                "2": "https://streamtape.site/v/G9YM3GWa7PI1xqG/Reacher_S02E02_19265_2.mkv.mp4",
-                "3": "https://streamtape.site/v/a7xr9zxJ3KIxXAQ/Reacher_S02E03_19265_3.mkv",
-                "4": "https://streamtape.site/v/z6DoV0zak3h4kX/Reacher_S02E04_19265_4.mkv.mp4"
-            },
-            "EpisodeHub": {},
-            "episodeServer3": {
-                "1": "https://pixeldra.in/api/file/kXQyB2ia?download?.mkv",
-                "2": "https://pixeldra.in/api/file/8vPKoJAF?download?.mkv",
-                "3": "https://pixeldra.in/api/file/3YyiRd14?download?.mkv",
-                "4": "https://pixeldra.in/api/file/UuYsS56Y?download?.mkv"
-            },
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Reacher%20S02E01%2019265%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Reacher%20S02E02%2019265%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Reacher%20S02E03%2019265%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Reacher%20S02E04%2019265%204.mkv"
-            }
-        },
-        {
-            "id": "1266",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Percy%20Jackson%20and%20the%20Olympians%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Percy%20Jackson%20and%20the%20Olympians%20Season%201.jpg",
-            "movieName": "Percy Jackson and the Olympians Season 1",
-            "htmlFile": "https://www.19266",
-            "directOne": "Action,Adventure",
-            "directSecond": "bzHMAXqFFvc",
-            "imbd": "9.1",
-            "rating": "English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Percy Jackson and the Olympians",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/3aV3AazjmLtdP6Z/Percy_Jackson_and_the_Olympians_S01E01_19266_1.mkv.mp4",
-                "2": "https://streamtape.site/v/Gbp8kJPlmKUVqa/Percy_Jackson_and_the_Olympians_S01E02_19266_2.mkv.mp4"
-            },
-            "EpisodeHub": {},
-            "episodeServer3": {
-                "1": "https://pixeldra.in/api/file/B6XzWp9J?download?.mkv",
-                "2": "https://pixeldra.in/api/file/f32LvfiS?download?.mkv"
-            },
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E01%2019266%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E02%2019266%202.mkv"
             }
         },
         {
@@ -44701,16 +44498,329 @@
             "pathName": "S2",
             "EpisodeTape": {
                 "1": "https://streamtape.site/v/JoZZojKM3QFjxLe/What_If_S02E01_19269_1.mkv.mp4",
-                "2": "https://streamtape.site/v/ayx3wg3ogVHxk04/What_If_S02E02_19269_2.mkv.mp4"
+                "2": "https://streamtape.site/v/ayx3wg3ogVHxk04/What_If_S02E02_19269_2.mkv.mp4",
+                "3": "https://streamtape.site/v/o9YGjxP4yaUKxl/What_If_S02E03_19269_3.mkv.mp4",
+                "4": "https://streamtape.site/v/djVZBXm83LFkKyb/What_If_S02E04_19269_4.mkv.mp4",
+                "5": "https://streamtape.site/v/roR9Kl69YLu8G3/What_If_S02E05_19269_5.mkv.mp4",
+                "6": "https://streamtape.site/v/2zxL2V6z0XcZv1Z/What_If_S02E06_19269_6.mkv.mp4",
+                "7": "https://streamtape.site/v/zkRY7Zro0wsYAWK/What_If_S02E07_19269_7.mkv.mp4",
+                "8": "https://streamtape.site/v/9p82JdZpDeTBRV/What_If_S02E08_19269_8.mkv.mp4"
             },
             "EpisodeHub": {},
             "episodeServer3": {
                 "1": "https://pixeldra.in/api/file/yugh8Hp2?download?.mkv",
-                "2": "https://pixeldra.in/api/file/D5zFuCyG?download?.mkv"
+                "2": "https://pixeldra.in/api/file/D5zFuCyG?download?.mkv",
+                "3": "https://pixeldra.in/api/file/JQmSHxWh?download?.mkv",
+                "4": "https://pixeldra.in/api/file/hMy5QghW?download?.mkv",
+                "5": "https://pixeldra.in/api/file/4154ngjP?download?.mkv",
+                "6": "https://pixeldra.in/api/file/SRVKnspf?download?.mkv",
+                "7": "https://pixeldra.in/api/file/QPK8EzRh?download?.mkv",
+                "8": "https://pixeldra.in/api/file/nCYfLTHu?download?.mkv"
             },
             "episodeServer4": {
                 "1": "http://srs.ringzstudio.online/lst/What%20If%20S02E01%2019269%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/What%20If%20S02E02%2019269%202.mkv"
+                "2": "http://srs.ringzstudio.online/lst/What%20If%20S02E02%2019269%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/What%20If%20S02E03%2019269%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/What%20If%20S02E04%2019269%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/What%20If%20S02E05%2019269%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/What%20If%20S02E06%2019269%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/What%20If%20S02E07%2019269%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/What%20If%20S02E08%2019269%208.mkv"
+            }
+        },
+        {
+            "id": "1266",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Percy%20Jackson%20and%20the%20Olympians%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Percy%20Jackson%20and%20the%20Olympians%20Season%201.jpg",
+            "movieName": "Percy Jackson and the Olympians Season 1",
+            "htmlFile": "https://www.19266",
+            "directOne": "Action,Adventure",
+            "directSecond": "bzHMAXqFFvc",
+            "imbd": "9.1",
+            "rating": "English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Percy Jackson and the Olympians",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/3aV3AazjmLtdP6Z/Percy_Jackson_and_the_Olympians_S01E01_19266_1.mkv.mp4",
+                "2": "https://streamtape.site/v/Gbp8kJPlmKUVqa/Percy_Jackson_and_the_Olympians_S01E02_19266_2.mkv.mp4",
+                "3": "https://streamtape.site/v/VzeQaaJMd4tKDOQ/Percy_Jackson_and_the_Olympians_S01E03_19266_3.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/B6XzWp9J?download?.mkv",
+                "2": "https://pixeldra.in/api/file/f32LvfiS?download?.mkv",
+                "3": "https://pixeldra.in/api/file/iyhYcxkD?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E01%2019266%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E02%2019266%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E03%2019266%203.mkv"
+            }
+        },
+        {
+            "id": "1265",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Reacher%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Reacher%20Season%202.jpg",
+            "movieName": "Reacher Season 2",
+            "htmlFile": "https://www.19265",
+            "directOne": "Action,Crime",
+            "directSecond": "tC-rRhQcnlI",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Reacher",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/grAoWxek2zS9vo/Reacher_S02E01_19265_1.mkv",
+                "2": "https://streamtape.site/v/G9YM3GWa7PI1xqG/Reacher_S02E02_19265_2.mkv.mp4",
+                "3": "https://streamtape.site/v/a7xr9zxJ3KIxXAQ/Reacher_S02E03_19265_3.mkv",
+                "4": "https://streamtape.site/v/z6DoV0zak3h4kX/Reacher_S02E04_19265_4.mkv.mp4",
+                "5": "https://streamtape.site/v/OYZLjqzMlXcZdD6/Reacher_S02E05_19265_5.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/kXQyB2ia?download?.mkv",
+                "2": "https://pixeldra.in/api/file/8vPKoJAF?download?.mkv",
+                "3": "https://pixeldra.in/api/file/3YyiRd14?download?.mkv",
+                "4": "https://pixeldra.in/api/file/UuYsS56Y?download?.mkv",
+                "5": "https://pixeldra.in/api/file/tWbeg6Bf?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Reacher%20S02E01%2019265%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Reacher%20S02E02%2019265%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Reacher%20S02E03%2019265%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Reacher%20S02E04%2019265%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Reacher%20S02E05%2019265%205.mkv"
+            }
+        },
+        {
+            "id": "1204",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Koffee%20With%20Karan%20Season%208.webp",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Koffee%20With%20Karan%20Season%208.png",
+            "movieName": "Koffee With Karan Season 8",
+            "htmlFile": "https://www.19204",
+            "directOne": "Talk-Show,Comedy",
+            "directSecond": "wgMW6bzKHuA",
+            "imbd": "9.1",
+            "rating": "English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Koffee With Karan",
+            "pathName": "S8",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/7XjLxeZ1vvtJ60/Koffee_With_Karan_S08E01_19204_1.mkv.mp4",
+                "2": "https://streamtape.site/v/DapeA0AmX2HkP4w/Koffee_With_Karan_S08E02_19204_2.mkv.mp4",
+                "3": "https://streamtape.site/v/90ayzYkVwRtaa9Y/Koffee_With_Karan_S08E03_19204_3.mkv.mp4",
+                "4": "https://streamtape.site/v/D0DdzbZDz9tk790/Koffee_With_Karan_S08E04_19204_4.mkv.mp4",
+                "5": "https://streamtape.site/v/RL71367xqmUJqa/Koffee_With_Karan_S08E05_19204_5.mkv.mp4",
+                "6": "https://streamtape.site/v/YGjYvmWvO6uvG8V/Koffee_With_Karan_S08E06_19204_6.mkv.mp4",
+                "7": "https://streamtape.site/v/v9XX6Rq36oH412K/Koffee_With_Karan_S08E07_19204_7.mkv.mp4",
+                "8": "https://streamtape.site/v/3kY1AkaGJbFdw1d/Koffee_With_Karan_S08E08_19204_8.mkv.mp4",
+                "9": "https://streamtape.site/v/xl7G9PwzWbHk4oy/Koffee_With_Karan_S08E09_19204_9.mkv.mp4",
+                "10": "https://streamtape.site/v/orX2BQlqaPFJoLZ/Koffee_With_Karan_S08E10_19204_10.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE",
+                "4": "FALSE",
+                "5": "FALSE",
+                "6": "https://pixeldra.in/api/file/YZZZgZp4?download?.mkv",
+                "7": "https://pixeldra.in/api/file/XiCX9xdm?download?.mkv",
+                "8": "https://pixeldra.in/api/file/EFJbK8Tb?download?.mkv",
+                "9": "https://pixeldra.in/api/file/zCncvF2v?download?.mkv",
+                "10": "https://pixeldra.in/api/file/MosUu3As?download?.mkv"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E01%2019204%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E02%2019204%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E03%2019204%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E04%2019204%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E05%2019204%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E06%2019204%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E07%2019204%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E08%2019204%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E09%2019204%209.mkv",
+                "10": "http://srs.ringzstudio.online/lst/Koffee%20With%20Karan%20S08E10%2019204%2010.mkv"
+            }
+        },
+        {
+            "id": "1221",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Label%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Label%20Season%201.jpg",
+            "movieName": "Label Season 1",
+            "htmlFile": "https://www.19221",
+            "directOne": "Crime,Drama",
+            "directSecond": "1o_3J7ALRFY",
+            "imbd": "9.1",
+            "rating": "Hindi+Tamil",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Label",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/RDXXazbjYRSdQY7/Label_S01E01_19221_1.mkv.mp4",
+                "2": "https://streamtape.site/v/GvRLMAaaOmF1zvo/Label_S01E02_19221_2.mkv.mp4",
+                "3": "https://streamtape.site/v/JJjBwmYkdbhjqJK/Label_S01E03_19221_3.mkv.mp4",
+                "4": "https://streamtape.site/v/z7axWQGwGJfQpZ/Label_S01E04_19221_4.mkv.mp4",
+                "5": "https://streamtape.site/v/2kdmwkLaLMhZX4r/Label_S01E05_19221_5.mkv.mp4",
+                "6": "https://streamtape.site/v/oe9R0dv6WXfJ22p/Label_S01E06_19221_6.mkv.mp4",
+                "7": "https://streamtape.site/v/39Dox1Ad0rIR8J/Label_S01E07_19221_7.mkv.mp4",
+                "8": "https://streamtape.site/v/1BjOy3zygVteW9Q/Label_S01E08_19221_8.mkv.mp4",
+                "9": "https://streamtape.site/v/rrZr32JK3vHe2A/Label_S01E09_19221_9.mkv.mp4",
+                "10": "https://streamtape.site/v/kKBYo9WYxriOo76/Label_S01E10_19221_10.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/h47YwZ7d?download?.mkv",
+                "2": "https://pixeldra.in/api/file/2nW2zY4S?download?.mkv",
+                "3": "https://pixeldra.in/api/file/4BwM88jb?download?.mkv",
+                "4": "https://pixeldra.in/api/file/6zkuFdv4?download?.mkv",
+                "5": "https://pixeldra.in/api/file/9krpx1wH?download?.mkv",
+                "6": "https://pixeldra.in/api/file/BmYkF5Xc?download?.mkv",
+                "7": "https://pixeldra.in/api/file/Z1UHHiaM?download?.mkv",
+                "8": "https://pixeldra.in/api/file/vZp7yxYk?download?.mkv",
+                "9": "https://pixeldra.in/api/file/vURhHS4W?download?.mkv",
+                "10": "https://pixeldra.in/api/file/o4n85NDy?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Label%20S01E01%2019221%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Label%20S01E02%2019221%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Label%20S01E03%2019221%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Label%20S01E04%2019221%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Label%20S01E05%2019221%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Label%20S01E06%2019221%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Label%20S01E07%2019221%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Label%20S01E08%2019221%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/Label%20S01E09%2019221%209.mkv",
+                "10": "http://srs.ringzstudio.online/lst/Label%20S01E10%2019221%2010.mkv"
+            }
+        },
+        {
+            "id": "1225",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Monarch%20-%20Legacy%20Of%20Monsters%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Monarch%20-%20Legacy%20Of%20Monsters%20Season%201.jpg",
+            "movieName": "Monarch - Legacy Of Monsters Season 1",
+            "htmlFile": "https://www.19225",
+            "directOne": "Action,Adventure",
+            "directSecond": "JLHsM4bpfxY",
+            "imbd": "9.1",
+            "rating": "English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Monarch - Legacy Of Monsters",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/Bj7ZGQKWDGFyyqg/Monarch_-_Legacy_Of_Monsters_S01E01_19225_1.mkv.mp4",
+                "2": "https://streamtape.site/v/7kgGdkyRdetAOqA/Monarch_-_Legacy_Of_Monsters_S01E02_19225_2.mkv.mp4",
+                "3": "https://streamtape.site/v/bgOgqbpdJQfPYbe/Monarch_-_Legacy_Of_Monsters_S01E03_19225_3.mkv.mp4",
+                "4": "https://streamtape.site/v/z7bQyKzaALuY0vz/Monarch_-_Legacy_Of_Monsters_S01E04_19225_4.mkv.mp4",
+                "5": "https://streamtape.site/v/ZzXmJjvLemidPa/Monarch_-_Legacy_Of_Monsters_S01E05_19225_5.mkv.mp4",
+                "6": "https://streamtape.site/v/AJ9RDB9MVYCXVzB/Monarch_-_Legacy_Of_Monsters_S01E06_19225_6.mkv",
+                "7": "https://streamtape.site/v/o69lPjrDbdSJlxe/Monarch_-_Legacy_Of_Monsters_S01E07_19225_7.mkv.mp4",
+                "8": "https://streamtape.site/v/7wJ3z1VwJvS8yg/Monarch_-_Legacy_Of_Monsters_S01E08_19225_8.mkv.mp4"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE",
+                "4": "https://pixeldra.in/api/file/FZLVvnUQ?download?.mkv",
+                "5": "https://pixeldra.in/api/file/L4pYBjta?download?.mkv",
+                "6": "https://pixeldra.in/api/file/DmEkbfHH?download?.mkv",
+                "7": "https://pixeldra.in/api/file/MkHMoVSb?download?.mkv",
+                "8": "https://pixeldra.in/api/file/5w4iydfi?download?.mkv"
+            },
+            "episodeServer3": {},
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E01%2019225%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E02%2019225%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E03%2019225%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E04%2019225%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E05%2019225%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E06%2019225%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E07%2019225%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Monarch%20-%20Legacy%20Of%20Monsters%20S01E08%2019225%208.mkv"
+            }
+        },
+        {
+            "id": "1271",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Pokemon%20Concierge%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Pokemon%20Concierge%20Season%201.jpg",
+            "movieName": "Pokemon Concierge Season 1",
+            "htmlFile": "https://www.19271",
+            "directOne": "Animated,Adventures",
+            "directSecond": "_rfMLLxzfxU",
+            "imbd": "6.6",
+            "rating": "Hindi+English+Japnese",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Pokemon Concierge",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/pM129GQ70eCrOzr/Pokemon_Concierge_S01E01_19271_1.mkv.mp4",
+                "2": "https://streamtape.site/v/XYZ0zbO7PJcDaR7/Pokemon_Concierge_S01E02_19271_2.mkv.mp4",
+                "3": "https://streamtape.site/v/D2yMMLbRwvikeG8/Pokemon_Concierge_S01E03_19271_3.mkv.mp4",
+                "4": "https://streamtape.site/v/X286xRxRbRtDjbp/Pokemon_Concierge_S01E04_19271_4.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/9gmhECCY?download?.mkv",
+                "2": "https://pixeldra.in/api/file/KKCdh2ay?download?.mkv",
+                "3": "https://pixeldra.in/api/file/sdYFg5sd?download?.mkv",
+                "4": "https://pixeldra.in/api/file/Ny49QmGx?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Pokemon%20Concierge%20S01E01%2019271%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Pokemon%20Concierge%20S01E02%2019271%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Pokemon%20Concierge%20S01E03%2019271%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Pokemon%20Concierge%20S01E04%2019271%204.mkv"
+            }
+        },
+        {
+            "id": "1272",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Gyeongseong%20Creature%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Gyeongseong%20Creature%20Season%201.jpg",
+            "movieName": "Gyeongseong Creature Season 1",
+            "htmlFile": "https://www.19272",
+            "directOne": "Thriller,Action",
+            "directSecond": "_rfMLLxzfxU",
+            "imbd": "6.6",
+            "rating": "Hindi+English+Korean",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Gyeongseong Creature",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/0dBpOW3qGbUKee/Gyeongseong_Creature_S01E01_19272_1.mkv.mp4",
+                "2": "https://streamtape.site/v/r39q9MApK3Ubrm2/Gyeongseong_Creature_S01E02_19272_2.mkv.mp4",
+                "3": "https://streamtape.site/v/rlP1Lk4OmOsbVPy/Gyeongseong_Creature_S01E03_19272_3.mkv.mp4",
+                "4": "https://streamtape.site/v/Zxw2Q0zjz2fq27z/Gyeongseong_Creature_S01E04_19272_4.mkv.mp4",
+                "5": "https://streamtape.site/v/qxWvAKBLmeUzz9p/Gyeongseong_Creature_S01E05_19272_5.mkv.mp4",
+                "6": "https://streamtape.site/v/adg84boBGvTxL3V/Gyeongseong_Creature_S01E06_19272_6.mkv.mp4",
+                "7": "https://streamtape.site/v/Dk7vWKoDgAsk0Bo/Gyeongseong_Creature_S01E07_19272_7.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/CymkaJMp?download?.mkv",
+                "2": "https://pixeldra.in/api/file/F5fnPGfp?download?.mkv",
+                "3": "https://pixeldra.in/api/file/RawLnyjZ?download?.mkv",
+                "4": "https://pixeldra.in/api/file/QQrwxJiq?download?.mkv",
+                "5": "https://pixeldra.in/api/file/JEuNT2FJ?download?.mkv",
+                "6": "https://pixeldra.in/api/file/hg497SaU?download?.mkv",
+                "7": "https://pixeldra.in/api/file/HSqUnf2m?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Gyeongseong%20Creature%20S01E01%2019272%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Gyeongseong%20Creature%20S01E02%2019272%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Gyeongseong%20Creature%20S01E03%2019272%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Gyeongseong%20Creature%20S01E04%2019272%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Gyeongseong%20Creature%20S01E05%2019272%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Gyeongseong%20Creature%20S01E06%2019272%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Gyeongseong%20Creature%20S01E07%2019272%207.mkv"
             }
         },
         {
