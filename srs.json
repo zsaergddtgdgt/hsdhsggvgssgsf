@@ -43434,7 +43434,8 @@
             "EpisodeTape": {
                 "1": "https://streamtape.cc/v/9ePo4bdP8LSa8jX/Fuh_se_Fantasy_S03E01_19264_1.mkv.mp4",
                 "2": "https://streamtape.cc/v/Xw7dvrYkwefD88A/Fuh_se_Fantasy_S03E02_19264_2.mkv.mp4",
-                "3": "https://streamtape.cc/v/9BGedYZpyAto8y/Fuh_se_Fantasy_S03E03_19264_3.mkv.mp4"
+                "3": "https://streamtape.cc/v/9BGedYZpyAto8y/Fuh_se_Fantasy_S03E03_19264_3.mkv.mp4",
+                "4": "https://streamtape.site/v/la3OgM1BVpFZWl/Fuh_se_Fantasy_S03E04_19264_4.mkv.mp4"
             },
             "EpisodeHub": {},
             "episodeServer3": {
@@ -43446,7 +43447,8 @@
             "episodeServer4": {
                 "1": "http://srs.ringzstudio.online/lst/Fuh%20se%20Fantasy%20S03E01%2019264%201.mkv",
                 "2": "http://srs.ringzstudio.online/lst/Fuh%20se%20Fantasy%20S03E02%2019264%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Fuh%20se%20Fantasy%20S03E03%2019264%203.mkv"
+                "3": "http://srs.ringzstudio.online/lst/Fuh%20se%20Fantasy%20S03E03%2019264%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Fuh%20se%20Fantasy%20S03E04%2019264%204.mkv"
             }
         },
         {
@@ -44100,6 +44102,37 @@
                 "5": "http://srs.ringzstudio.online/lst/Perilloor%20Premier%20League%20S01E05%2019275%205.mkv",
                 "6": "http://srs.ringzstudio.online/lst/Perilloor%20Premier%20League%20S01E06%2019275%206.mkv",
                 "7": "http://srs.ringzstudio.online/lst/Perilloor%20Premier%20League%20S01E07%2019275%207.mkv"
+            }
+        },
+        {
+            "id": "1284",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Echo%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Echo%20Season%201.jpg",
+            "movieName": "Echo Season 1",
+            "htmlFile": "https://www.19284",
+            "directOne": "Action,Adventure",
+            "directSecond": "ZciCB9bsa60",
+            "imbd": "6.6",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Echo",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/oA68LK09o8FJyvk/Echo_S01E01_19284_1.mkv.mp4",
+                "2": "https://streamtape.site/v/dkOMP3rDjDCkwgY/Echo_S01E02_19284_2.mkv.mp4",
+                "3": "https://streamtape.site/v/jYDR9JKoy7Izw78/Echo_S01E03_19284_3.mkv.mp4",
+                "4": "https://streamtape.site/v/0V0XPaZ4yWTb8YQ/Echo_S01E04_19284_4.mkv.mp4",
+                "5": "https://streamtape.site/v/LqPlqz37MaI6yw/Echo_S01E05_19284_5.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {},
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Echo%20S01E01%2019284%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Echo%20S01E02%2019284%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Echo%20S01E03%2019284%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Echo%20S01E04%2019284%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Echo%20S01E05%2019284%205.mkv"
             }
         }
     ]
