@@ -1,6 +1,27 @@
 {
     "AllMovieDataList": [
+        
         {
+            "id": "3822",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Hanuman%20(2024).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Hanuman%20(2024).jpg",
+            "movieName": "Hanuman (2024)",
+            "htmlFile": "https://www.13822",
+            "directOne": "Hindi+Telugu",
+            "directSecond": "MKqJBhOgapM",
+            "rating": "HDTS-V2",
+            "catergory": "Family,Romance",
+            "Industry": "South",
+            "hub": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Hanuman_720.mkv",
+            "tape": "https://streamtape.site/v/2OQ78Q1xJktAWp/Hanuman_%282024%29_13822.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Hanuman%20(2024)%2013822.mkv",
+            "server4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Hanuman_720.mkv",
+            "480p": "TRUE",
+            "480pS1": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Hanuman_480.mkv",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Hanuman%20(2024)%2013822.mkv",
+            "480pS4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Hanuman_480.mkv"
+        },{
             "id": "3628",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H2/Tiger%203%20(2023).jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V2/Tiger%203%20(2023).jpg",
