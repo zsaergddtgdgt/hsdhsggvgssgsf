@@ -1,6 +1,26 @@
 {
     "AllMovieDataList": [
-        
+        {
+            "id": "3824",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Captain%20Miller%20(2024).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Captain%20Miller%20(2024).jpg",
+            "movieName": "Captain Miller (2024)",
+            "htmlFile": "https://www.3824",
+            "directOne": "Hindi",
+            "directSecond": "cHa5xu_UN2U",
+            "rating": "HDTS-V2",
+            "catergory": "Action,Adventure",
+            "Industry": "South",
+            "hub": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Captain_Miller_720.mkv",
+            "tape": "https://streamtape.site/v/41lM17l3AZCKbxV/Captain_Miller_%282024%29_3824.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Captain%20Miller%20(2024)%203824.mkv",
+            "server4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Captain_Miller_720.mkvv",
+            "480p": "TRUE",
+            "480pS1": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Captain_Miller_480.mkv",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Captain%20Miller%20(2024)%203824.mkv",
+            "480pS4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Captain_Miller_480.mkv"
+        },
         {
             "id": "3822",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Hanuman%20(2024).jpg",
@@ -21,7 +41,29 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Hanuman%20(2024)%2013822.mkv",
             "480pS4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Hanuman_480.mkv"
-        },{
+        },
+        {
+            "id": "3823",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Merry%20Christmas%20(2024).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Merry%20Christmas%20(2024).jpg",
+            "movieName": "Merry Christmas (2024)",
+            "htmlFile": "https://www.13823",
+            "directOne": "Hindi",
+            "directSecond": "UUKdUNMgk7Q",
+            "rating": "HDTS-V2",
+            "catergory": "Thriller,Drama",
+            "Industry": "Bollywood",
+            "hub": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Merry_Christmas_720.mkv",
+            "tape": "https://streamtape.site/v/ay0r01V92JsxgJ6/Merry_Christmas_%282024%29_13823.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Merry%20Christmas%20(2024)%2013823.mkv",
+            "server4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Merry_Christmas_720.mkv",
+            "480p": "TRUE",
+            "480pS1": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Merry_Christmas_480.mkv",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Merry%20Christmas%20(2024)%2013823.mkv",
+            "480pS4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Merry_Christmas_480.mkv"
+        },
+        {
             "id": "3628",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Movies/H2/Tiger%203%20(2023).jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Movies/V2/Tiger%203%20(2023).jpg",
