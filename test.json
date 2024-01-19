@@ -2,6 +2,27 @@
     "AllMovieDataList": [
     
         {
+            "id": "3837",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Main%20Atal%20Hoon%20(2024).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Main%20Atal%20Hoon%20(2024).jpg",
+            "movieName": "Main Atal Hoon (2024)",
+            "htmlFile": "https://www.13837",
+            "directOne": "Hindi",
+            "directSecond": "VhXP6RDqb1k",
+            "rating": "HDTS-V2",
+            "catergory": "Biography,Drama",
+            "Industry": "Bollywood",
+            "hub": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/MainAtalHoon720.mkv",
+            "tape": "https://streamtape.site/v/yxJQa2VzYGIwOW/Main_Atal_Hoon_%282024%29_13837.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Main%20Atal%20Hoon%20(2024)%2013837.mkv",
+            "server4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/MainAtalHoon720.mkv",
+            "480p": "TRUE",
+            "480pS1": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/MainAtalHoon480.mkv",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Main%20Atal%20Hoon%20(2024)%2013837.mkv",
+            "480pS4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/MainAtalHoon480.mkv"
+        },
+        {
             "id": "3836",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Saindhav%20(2024).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Saindhav%20(2024).jpg",
@@ -42,6 +63,27 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Aquaman%20and%20the%20Lost%20Kingdom%20(2023)%2013747.mkv",
             "480pS4": "https://pixeldra.in/api/file/tBVV6jSD?download?.mkv"
+        },
+        {
+            "id": "3664",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Starfish%20(2023).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Starfish%20(2023).jpg",
+            "movieName": "Starfish (2023)",
+            "htmlFile": "https://www.13664",
+            "directOne": "Hindi",
+            "directSecond": "NRN0lpmsrlU",
+            "rating": "HD",
+            "catergory": "Romance,Thriller",
+            "Industry": "Bollywood",
+            "hub": "FALSE",
+            "tape": "https://streamtape.site/v/0AgJQAZGgetb77A/Starfish_%282023%29_13664.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Starfish%20(2023)%2013664.mkv",
+            "server4": "FALSE",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Starfish%20(2023)%2013664.mkv",
+            "480pS4": "FALSE"
         },
     {
             "id": "3832",
@@ -3842,27 +3884,6 @@
             "480pS1": "FALSE",
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Farrey%20(2023)%203658.mkv",
-            "480pS4": "FALSE"
-        },
-        {
-            "id": "3664",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Starfish%20(2023).jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Starfish%20(2023).jpg",
-            "movieName": "Starfish (2023)",
-            "htmlFile": "https://www.13664",
-            "directOne": "Hindi",
-            "directSecond": "NRN0lpmsrlU",
-            "rating": "HDCamRip",
-            "catergory": "Romance,Thriller",
-            "Industry": "Bollywood",
-            "hub": "FALSE",
-            "tape": "https://streamtape.site/v/p2X73MGK9JHrMy8/Starfish_%282023%29_13664.mkv.mp4",
-            "server3": "http://mvs.ringzstudio.online/720p/Starfish%20(2023)%2013664.mkv",
-            "server4": "FALSE",
-            "480p": "TRUE",
-            "480pS1": "FALSE",
-            "480pS2": "FALSE",
-            "480pS3": "http://mvs.ringzstudio.online/480p/Starfish%20(2023)%2013664.mkv",
             "480pS4": "FALSE"
         },
         {
