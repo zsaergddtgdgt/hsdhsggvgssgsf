@@ -1,6 +1,26 @@
 {
     "AllMovieDataList": [
-    
+    {
+            "id": "3850",
+            "ImageUrlHorizontal": "https://i.ytimg.com/vi/973Ct2AC3EA/maxresdefault.jpg",
+            "ImageUrlVertical": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/fighter-et00304730-1704191105.jpg",
+            "movieName": "Fighter (2024)",
+            "htmlFile": "https://www.113850",
+            "directOne": "Hindi",
+            "directSecond": "6amIq_mP4xM",
+            "rating": "PreDVD",
+            "catergory": "Action,Thriller",
+            "Industry": "Bollywood",
+            "hub": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Fighter_4.mkv",
+            "tape": "https://streamtape.site/v/2zdQ1qAxRwCz6K/Fighter_%282024%29_113850.mkv.mp4",
+            "server3": "http://mvs.ringzstudio.online/720p/Fighter%20(2024)%20113850.mkv",
+            "server4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Fighter_4.mkv",
+            "480p": "TRUE",
+            "480pS1": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Fighter_4_Org.mkv",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs.ringzstudio.online/480p/Fighter%20(2024)%20113850.mkv",
+            "480pS4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Fighter_4_Org.mkv"
+        },
         {
             "id": "3837",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Main%20Atal%20Hoon%20(2024).jpg",
