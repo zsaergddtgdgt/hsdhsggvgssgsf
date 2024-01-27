@@ -44055,46 +44055,6 @@
             }
         },
         {
-            "id": "1266",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Percy%20Jackson%20and%20the%20Olympians%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Percy%20Jackson%20and%20the%20Olympians%20Season%201.jpg",
-            "movieName": "Percy Jackson and the Olympians Season 1",
-            "htmlFile": "https://www.19266",
-            "directOne": "Action,Adventure",
-            "directSecond": "bzHMAXqFFvc",
-            "imbd": "9.1",
-            "rating": "English",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Percy Jackson and the Olympians",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.cc/v/qWAV087gZeu1qo/Percy_Jackson_and_the_Olympians_S01E01_19266_1.mkv.mp4",
-                "2": "https://streamtape.cc/v/pLpmaXvdR4FRmP/Percy_Jackson_and_the_Olympians_S01E02_19266_2.mkv.mp4",
-                "3": "https://streamtape.cc/v/wZYJYa27BzhJKkZ/Percy_Jackson_and_the_Olympians_S01E03_19266_3.mkv.mp4",
-                "4": "https://streamtape.cc/v/gqapo0mJLmSqobg/Percy_Jackson_and_the_Olympians_S01E04_19266_4.mkv.mp4",
-                "5": "https://streamtape.site/v/0zPRLMbdAzuby1m/Percy_Jackson_and_the_Olympians_S01E05_19266_5.mkv.mp4",
-                "6": "https://streamtape.site/v/0L9d4XRxrOSbbYO/Percy_Jackson_and_the_Olympians_S01E06_19266_6.mkv.mp4"
-            },
-            "EpisodeHub": {},
-            "episodeServer3": {
-                "1": "https://pixeldra.in/api/file/B6XzWp9J?download?.mkv",
-                "2": "https://pixeldra.in/api/file/f32LvfiS?download?.mkv",
-                "3": "https://pixeldra.in/api/file/iyhYcxkD?download?.mkv",
-                "4": "https://pixeldra.in/api/file/pJRHdYFJ?download?.mkv",
-                "5": "https://pixeldra.in/api/file/fvANzsKg?download?.mkv",
-                "6": "https://pixeldra.in/api/file/ePeVaXhk?download?.mkv"
-            },
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E01%2019266%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E02%2019266%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E03%2019266%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E04%2019266%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E05%2019266%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E06%2019266%206.mkv"
-            }
-        },
-        {
             "id": "1265",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Reacher%20Season%202.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Reacher%20Season%202.jpg",
@@ -44348,6 +44308,218 @@
                 "4": "http://srs.ringzstudio.online/lst/The%20Bequeathed%20S01E04%2019289%204.mkv",
                 "5": "http://srs.ringzstudio.online/lst/The%20Bequeathed%20S01E05%2019289%205.mkv",
                 "6": "http://srs.ringzstudio.online/lst/The%20Bequeathed%20S01E06%2019289%206.mkv"
+            }
+        },
+        {
+            "id": "1266",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Percy%20Jackson%20and%20the%20Olympians%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Percy%20Jackson%20and%20the%20Olympians%20Season%201.jpg",
+            "movieName": "Percy Jackson and the Olympians Season 1",
+            "htmlFile": "https://www.19266",
+            "directOne": "Action,Adventure",
+            "directSecond": "bzHMAXqFFvc",
+            "imbd": "9.1",
+            "rating": "English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Percy Jackson and the Olympians",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.cc/v/qWAV087gZeu1qo/Percy_Jackson_and_the_Olympians_S01E01_19266_1.mkv.mp4",
+                "2": "https://streamtape.cc/v/pLpmaXvdR4FRmP/Percy_Jackson_and_the_Olympians_S01E02_19266_2.mkv.mp4",
+                "3": "https://streamtape.cc/v/wZYJYa27BzhJKkZ/Percy_Jackson_and_the_Olympians_S01E03_19266_3.mkv.mp4",
+                "4": "https://streamtape.cc/v/gqapo0mJLmSqobg/Percy_Jackson_and_the_Olympians_S01E04_19266_4.mkv.mp4",
+                "5": "https://streamtape.site/v/0zPRLMbdAzuby1m/Percy_Jackson_and_the_Olympians_S01E05_19266_5.mkv.mp4",
+                "6": "https://streamtape.site/v/0L9d4XRxrOSbbYO/Percy_Jackson_and_the_Olympians_S01E06_19266_6.mkv.mp4",
+                "7": "https://streamtape.site/v/KLgdd3dL79t0Y1Q/Percy_Jackson_and_the_Olympians_S01E07_19266_7.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/B6XzWp9J?download?.mkv",
+                "2": "https://pixeldra.in/api/file/f32LvfiS?download?.mkv",
+                "3": "https://pixeldra.in/api/file/iyhYcxkD?download?.mkv",
+                "4": "https://pixeldra.in/api/file/pJRHdYFJ?download?.mkv",
+                "5": "https://pixeldra.in/api/file/fvANzsKg?download?.mkv",
+                "6": "https://pixeldra.in/api/file/ePeVaXhk?download?.mkv",
+                "7": "https://pixeldra.in/api/file/vBaV5c5A?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E01%2019266%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E02%2019266%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E03%2019266%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E04%2019266%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E05%2019266%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E06%2019266%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Percy%20Jackson%20and%20the%20Olympians%20S01E07%2019266%207.mkv"
+            }
+        },
+        {
+            "id": "1291",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Griselda%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Griselda%20Season%201.jpg",
+            "movieName": "Griselda Season 1",
+            "htmlFile": "https://www.19291",
+            "directOne": "Biography,Drama",
+            "directSecond": "P51qNMwvZKs",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Griselda",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/dAa9DpvqZMSZg7/Griselda_S01E01_19291_1.mkv.mp4",
+                "2": "https://streamtape.site/v/6qPKMp0p7dC9MMr/Griselda_S01E02_19291_2.mkv.mp4",
+                "3": "https://streamtape.site/v/Z13Qlz3k0vIq6KX/Griselda_S01E03_19291_3.mkv.mp4",
+                "4": "https://streamtape.site/v/Rwdp29QeVDIdVMP/Griselda_S01E04_19291_4.mkv.mp4",
+                "5": "https://streamtape.site/v/mOPk389mWLSbLmk/Griselda_S01E05_19291_5.mkv.mp4",
+                "6": "https://streamtape.site/v/1OGvOVgvpoTevmY/Griselda_S01E06_19291_6.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/PyRwLmc8?download?.mkv",
+                "2": "https://pixeldra.in/api/file/U3WdgbJS?download?.mkv",
+                "3": "https://pixeldra.in/api/file/M9pmCcac?download?.mkv",
+                "4": "https://pixeldra.in/api/file/fhhMW4RS?download?.mkv",
+                "5": "https://pixeldra.in/api/file/NQsJAC82?download?.mkv",
+                "6": "https://pixeldra.in/api/file/fZSAq2zz?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Griselda%20S01E01%2019291%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Griselda%20S01E02%2019291%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Griselda%20S01E03%2019291%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Griselda%20S01E04%2019291%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Griselda%20S01E05%2019291%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Griselda%20S01E06%2019291%206.mkv"
+            }
+        },
+        {
+            "id": "1292",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Expats%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Expats%20Season%201.jpg",
+            "movieName": "Expats Season 1",
+            "htmlFile": "https://www.19292",
+            "directOne": "Drama",
+            "directSecond": "tFPMrafgh-Y",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Expats",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/QJXdGzAOe4T0ZoW/Expats_S01E01_19292_1.mkv.mp4",
+                "2": "https://streamtape.site/v/9jXQR8vYQAtagyl/Expats_S01E02_19292_2.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/ugJmwNhn?download?.mkv",
+                "2": "https://pixeldra.in/api/file/dkvAUwKw?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Expats%20S01E01%2019292%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Expats%20S01E02%2019292%202.mkv"
+            }
+        },
+        {
+            "id": "1293",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Fear%20The%20Walking%20Dead%20Season%208.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Fear%20The%20Walking%20Dead%20Season%208.jpg",
+            "movieName": "Fear The Walking Dead Season 8",
+            "htmlFile": "https://www.19293",
+            "directOne": "Sci-Fi,Horror",
+            "directSecond": "58j16ansB9M",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Fear The Walking Dead",
+            "pathName": "S8",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/RQxxwgeGV2udVBp/Fear_The_Walking_Dead_S08E01_19293_1.mkv.mp4",
+                "2": "https://streamtape.site/v/A1Yv9V2gJRSvYw/Fear_The_Walking_Dead_S08E02_19293_2.mkv.mp4",
+                "3": "https://streamtape.site/v/QrPeLexB4YiyYR/Fear_The_Walking_Dead_S08E03_19293_3.mkv.mp4",
+                "4": "https://streamtape.site/v/eP0YPB3vaefY6QX/Fear_The_Walking_Dead_S08E04_19293_4.mkv.mp4",
+                "5": "https://streamtape.site/v/bea004bemeiQ9p/Fear_The_Walking_Dead_S08E05_19293_5.mkv.mp4",
+                "6": "https://streamtape.site/v/46lKXqZkpwuKaqo/Fear_The_Walking_Dead_S08E06_19293_6.mkv.mp4",
+                "7": "https://streamtape.site/v/rlpmK8wlokfbZr0/Fear_The_Walking_Dead_S08E07_19293_7.mkv.mp4",
+                "8": "https://streamtape.site/v/KeWQB92gyYs0RRK/Fear_The_Walking_Dead_S08E08_19293_8.mkv.mp4",
+                "9": "https://streamtape.site/v/GAB9OaRXlmh1xvK/Fear_The_Walking_Dead_S08E09_19293_9.mkv.mp4",
+                "10": "https://streamtape.site/v/JqdRjBXRZAsjvOg/Fear_The_Walking_Dead_S08E10_19293_10.mkv.mp4",
+                "11": "https://streamtape.site/v/27mkXmz4A4HZrxK/Fear_The_Walking_Dead_S08E11_19293_11.mkv.mp4",
+                "12": "https://streamtape.site/v/rBm3b8yK8lhbPZk/Fear_The_Walking_Dead_S08E12_19293_12.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/SvCjpdo1?download?.mkv",
+                "2": "https://pixeldra.in/api/file/r1SBrtCk?download?.mkv",
+                "3": "https://pixeldra.in/api/file/54rmQ9hA?download?.mkv",
+                "4": "https://pixeldra.in/api/file/8Je6mVCK?download?.mkv",
+                "5": "https://pixeldra.in/api/file/pNVgHaGq?download?.mkv",
+                "6": "https://pixeldra.in/api/file/7GK2wYKT?download?.mkv",
+                "7": "https://pixeldra.in/api/file/KKdHdBt1?download?.mkv",
+                "8": "https://pixeldra.in/api/file/ttcAFrsD?download?.mkv",
+                "9": "https://pixeldra.in/api/file/sZG74Z37?download?.mkv",
+                "10": "https://pixeldra.in/api/file/c4VhU5Eg?download?.mkv",
+                "11": "https://pixeldra.in/api/file/B9PiK486?download?.mkv",
+                "12": "https://pixeldra.in/api/file/951mGyeL?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Fear%20The%20Walking%20Dead%20S08E01%2019293%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Fear%20The%20Walking%20Dead%20S08E02%2019293%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Fear%20The%20Walking%20Dead%20S08E03%2019293%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Fear%20The%20Walking%20Dead%20S08E04%2019293%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Fear%20The%20Walking%20Dead%20S08E05%2019293%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Fear%20The%20Walking%20Dead%20S08E06%2019293%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Fear%20The%20Walking%20Dead%20S08E07%2019293%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Fear%20The%20Walking%20Dead%20S08E08%2019293%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/Fear%20The%20Walking%20Dead%20S08E09%2019293%209.mkv",
+                "10": "http://srs.ringzstudio.online/lst/Fear%20The%20Walking%20Dead%20S08E10%2019293%2010.mkv",
+                "11": "http://srs.ringzstudio.online/lst/Fear%20The%20Walking%20Dead%20S08E11%2019293%2011.mkv",
+                "12": "http://srs.ringzstudio.online/lst/Fear%20The%20Walking%20Dead%20S08E12%2019293%2012.mkv"
+            }
+        },
+        {
+            "id": "1294",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Karmma%20Calling%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Karmma%20Calling%20Season%201.jpg",
+            "movieName": "Karmma Calling Season 1",
+            "htmlFile": "https://www.19294",
+            "directOne": "Drama",
+            "directSecond": "d_UTOLPcRKk",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Karmma Calling",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/27eR29K29MhZ7r0/Karmma_Calling_S01E01_19294_1.mkv.mp4",
+                "2": "https://streamtape.site/v/3B3YVQpOwKidOz4/Karmma_Calling_S01E02_19294_2.mkv.mp4",
+                "3": "https://streamtape.site/v/12Lo2oMkXxTe2r2/Karmma_Calling_S01E03_19294_3.mkv.mp4",
+                "4": "https://streamtape.site/v/8OzDg9Jx3ecov9m/Karmma_Calling_S01E04_19294_4.mkv.mp4",
+                "5": "https://streamtape.site/v/gw7bMV8mV7Iq7x7/Karmma_Calling_S01E05_19294_5.mkv.mp4",
+                "6": "https://streamtape.site/v/oG2AXzvzvWTJeV2/Karmma_Calling_S01E06_19294_6.mkv.mp4",
+                "7": "https://streamtape.site/v/4RJJZjXRP1fKYZ9/Karmma_Calling_S01E07_19294_7.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/RahaPEgT?download?.mkv",
+                "2": "https://pixeldra.in/api/file/EwNbTgKw?download?.mkv",
+                "3": "https://pixeldra.in/api/file/z2VtT8yi?download?.mkv",
+                "4": "https://pixeldra.in/api/file/5uVi68ED?download?.mkv",
+                "5": "https://pixeldra.in/api/file/Tjt9LYed?download?.mkv",
+                "6": "https://pixeldra.in/api/file/Nb2Prpxg?download?.mkv",
+                "7": "https://pixeldra.in/api/file/wFiDtATv?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Karmma%20Calling%20S01E01%2019294%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Karmma%20Calling%20S01E02%2019294%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Karmma%20Calling%20S01E03%2019294%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Karmma%20Calling%20S01E04%2019294%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Karmma%20Calling%20S01E05%2019294%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Karmma%20Calling%20S01E06%2019294%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Karmma%20Calling%20S01E07%2019294%207.mkv"
             }
         }
     ]
