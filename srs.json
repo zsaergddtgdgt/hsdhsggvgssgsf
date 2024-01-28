@@ -43973,7 +43973,8 @@
                 "3": "https://streamtape.cc/v/9BGedYZpyAto8y/Fuh_se_Fantasy_S03E03_19264_3.mkv.mp4",
                 "4": "https://streamtape.site/v/la3OgM1BVpFZWl/Fuh_se_Fantasy_S03E04_19264_4.mkv.mp4",
                 "5": "https://streamtape.site/v/jvJVJ0yOvBuzKZx/Fuh_se_Fantasy_S03E05_19264_5.mkv",
-                "6": "https://streamtape.site/v/4BmlWKyR0VTKQrR/Fuh_se_Fantasy_S03E06_19264_6.mkv"
+                "6": "https://streamtape.site/v/4BmlWKyR0VTKQrR/Fuh_se_Fantasy_S03E06_19264_6.mkv",
+                "7": "https://streamtape.site/v/jjRO1R6zaxTz9kv/Fuh_se_Fantasy_S03E07_19264_7.mkv.mp4"
             },
             "EpisodeHub": {},
             "episodeServer3": {
@@ -43982,7 +43983,8 @@
                 "3": "https://pixeldra.in/api/file/XiqZg4fb?download?.mkv",
                 "4": "https://pixeldra.in/api/file/64hBB6RL?download?.mkv",
                 "5": "https://pixeldra.in/api/file/K2wswk5e?download?.mkv",
-                "6": "https://pixeldra.in/api/file/amiG82qV?download?.mkv"
+                "6": "https://pixeldra.in/api/file/amiG82qV?download?.mkv",
+                "7": "https://pixeldra.in/api/file/yeN1S3a2?download?.mkv"
             },
             "episodeServer4": {
                 "1": "http://srs.ringzstudio.online/lst/Fuh%20se%20Fantasy%20S03E01%2019264%201.mkv",
@@ -43990,7 +43992,8 @@
                 "3": "http://srs.ringzstudio.online/lst/Fuh%20se%20Fantasy%20S03E03%2019264%203.mkv",
                 "4": "http://srs.ringzstudio.online/lst/Fuh%20se%20Fantasy%20S03E04%2019264%204.mkv",
                 "5": "http://srs.ringzstudio.online/lst/Fuh%20se%20Fantasy%20S03E05%2019264%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/Fuh%20se%20Fantasy%20S03E06%2019264%206.mkv"
+                "6": "http://srs.ringzstudio.online/lst/Fuh%20se%20Fantasy%20S03E06%2019264%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Fuh%20se%20Fantasy%20S03E07%2019264%207.mkv"
             }
         },
         {
@@ -44394,6 +44397,131 @@
             }
         },
         {
+            "id": "1299",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Hrid%20Majhare%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Hrid%20Majhare%20Season%201.jpg",
+            "movieName": "Hrid Majhare Season 1",
+            "htmlFile": "https://www.19299",
+            "directOne": "Drama",
+            "directSecond": "0cok80MS2O4",
+            "imbd": "9.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Hrid Majhare",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/e3yjgrxvoKtJlY/Hrid_Majhare_S01Complete_19299_1.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/uwmmQfwj?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Hrid%20Majhare%20S01Complete%2019299%201.mkv"
+            }
+        },
+        {
+            "id": "1298",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Kolonko%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Kolonko%20Season%201.jpg",
+            "movieName": "Kolonko Season 1",
+            "htmlFile": "https://www.19298",
+            "directOne": "Drama",
+            "directSecond": "k7-6Pg_Qgow",
+            "imbd": "9.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Kolonko",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/kkMqVbAJZQhOz0d/Kolonko_S01Complete_19298_1.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/trrSdibx?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Kolonko%20S01Complete%2019298%201.mkv"
+            }
+        },
+        {
+            "id": "1297",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Cabaret%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Cabaret%20Season%201.jpg",
+            "movieName": "Cabaret Season 1",
+            "htmlFile": "https://www.19297",
+            "directOne": "Drama",
+            "directSecond": "4cUr-3ealb8",
+            "imbd": "9.1",
+            "rating": "Bengali",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Cabaret",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/r0kbJYOjjvtb63g/Cabaret_S01Complete_19297_1.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/ALEfS9Fs?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Cabaret%20S01Complete%2019297%201.mkv"
+            }
+        },
+        {
+            "id": "1300",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Wajah%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Wajah%20Season%201.jpg",
+            "movieName": "Wajah Season 1",
+            "htmlFile": "https://www.19300",
+            "directOne": "Mystery,Drama",
+            "directSecond": "iz5nVVqCMLM",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Wajah",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/2bJO0xaYL3fZl8Q/Wajah_S01Complete_19300_1.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/2g4ZPs5A?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Wajah%20S01Complete%2019300%201.mkv"
+            }
+        },
+        {
+            "id": "1301",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Warso%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Warso%20Season%201.jpg",
+            "movieName": "Warso Season 1",
+            "htmlFile": "https://www.19301",
+            "directOne": "Drama",
+            "directSecond": "xXIG4K8aJdo",
+            "imbd": "9.1",
+            "rating": "Gujarati",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Warso",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/myP1xkrz6ACba9o/Warso_S01Complete_19301_1.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/eGF4GLjw?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Warso%20S01Complete%2019301%201.mkv"
+            }
+        },
+        {
             "id": "1292",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Expats%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Expats%20Season%201.jpg",
@@ -44480,6 +44608,34 @@
             }
         },
         {
+            "id": "1302",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Badi%20Heroine%20Banti%20Hai%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Badi%20Heroine%20Banti%20Hai%20Season%201.jpg",
+            "movieName": "Badi Heroine Banti Hai Season 1",
+            "htmlFile": "https://www.19302",
+            "directOne": "Romance,Drama",
+            "directSecond": "iVJwmEyzRSc",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Badi Heroine Banti Hai",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/3r7ykpeW8XCdBPO/Badi_Heroine_Banti_Hai_S01E01-E07_19302_1.mkv",
+                "2": "https://streamtape.site/v/jVQJzGRqA8TzX3m/Badi_Heroine_Banti_Hai_S01E08-E15_19302_2.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/iwWUvDvX?download?.mkv",
+                "2": "https://pixeldra.in/api/file/gwisWhi7?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Badi%20Heroine%20Banti%20Hai%20S01E01-E07%2019302%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Badi%20Heroine%20Banti%20Hai%20S01E08-E15%2019302%202.mkv"
+            }
+        },
+        {
             "id": "1296",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Hustlers%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Hustlers%20Season%201.jpg",
@@ -44494,7 +44650,7 @@
             "keyName": "Hustlers",
             "pathName": "S1",
             "EpisodeTape": {
-                "1": "https://streamtape.site/v/g9Yb16jO8aUqoqe/Hustlers_S01Complete_19296_1.mkv.mp4"
+                "1": "https://streamtape.site/v/XWoZRkRqD1H0vY/Hustlers_S01Complete_19296_1.mkv.mp4"
             },
             "EpisodeHub": {},
             "episodeServer3": {
