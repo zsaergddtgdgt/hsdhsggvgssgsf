@@ -41204,35 +41204,6 @@
             }
         },
         {
-            "id": "1212",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/V1/Aarya%20Season%203.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Aarya%20Season%203.jpg",
-            "movieName": "Aarya Season 3",
-            "htmlFile": "https://www.19212",
-            "directOne": "Action,Crime",
-            "directSecond": "IG25jfuNF_0",
-            "imbd": "9.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Aarya",
-            "pathName": "S3",
-            "EpisodeTape": {
-                "1": "https://streamtape.xyz/v/XxV2PKaVOwFDkRK/Aarya_S03E01_19212_1.mkv.mp4",
-                "2": "https://streamtape.xyz/v/AqXr2Ka4AQcX3ro/Aarya_S03E02_19212_2.mkv.mp4",
-                "3": "https://streamtape.xyz/v/RWA9OdoMZGFdgxk/Aarya_S03E03_19212_3.mkv.mp4",
-                "4": "https://streamtape.xyz/v/m3A39xjwWXUk02/Aarya_S03E04_19212_4.mkv.mp4"
-            },
-            "EpisodeHub": {},
-            "episodeServer3": {},
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Aarya%20S03E01%2019212%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Aarya%20S03E02%2019212%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Aarya%20S03E03%2019212%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Aarya%20S03E04%2019212%204.mkv"
-            }
-        },
-        {
             "id": "1199",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Series/H1/Upload%20Season%203.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Series/V1/Upload%20Season%203.jpg",
@@ -45024,6 +44995,43 @@
                 "6": "http://srs.ringzstudio.online/lst/Miss%20Perfect%20S01E06%2019305%206.mkv",
                 "7": "http://srs.ringzstudio.online/lst/Miss%20Perfect%20S01E07%2019305%207.mkv",
                 "8": "http://srs.ringzstudio.online/lst/Miss%20Perfect%20S01E08%2019305%208.mkv"
+            }
+        },
+        {
+            "id": "1212",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/V1/Aarya%20Season%203.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Aarya%20Season%203.jpg",
+            "movieName": "Aarya Season 3",
+            "htmlFile": "https://www.19212",
+            "directOne": "Action,Crime",
+            "directSecond": "IG25jfuNF_0",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Aarya",
+            "pathName": "S3",
+            "EpisodeTape": {
+                "1": "https://streamtape.xyz/v/XxV2PKaVOwFDkRK/Aarya_S03E01_19212_1.mkv.mp4",
+                "2": "https://streamtape.xyz/v/AqXr2Ka4AQcX3ro/Aarya_S03E02_19212_2.mkv.mp4",
+                "3": "https://streamtape.xyz/v/RWA9OdoMZGFdgxk/Aarya_S03E03_19212_3.mkv.mp4",
+                "4": "https://streamtape.xyz/v/m3A39xjwWXUk02/Aarya_S03E04_19212_4.mkv.mp4",
+                "5": "https://streamtape.site/v/lr87K1gl46T7Xjw/Aarya_S03E05_19212_5.mkv"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/FCnpTmwe?download?.mkv",
+                "2": "https://pixeldra.in/api/file/3NWeDfWj?download?.mkv",
+                "3": "https://pixeldra.in/api/file/jtdDyggB?download?.mkv",
+                "4": "https://pixeldra.in/api/file/LgUib45M?download?.mkv",
+                "5": "https://pixeldra.in/api/file/JYSfekYf?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Aarya%20S03E01%2019212%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Aarya%20S03E02%2019212%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Aarya%20S03E03%2019212%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Aarya%20S03E04%2019212%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Aarya%20S03E05%2019212%205.mkv"
             }
         }
     ]
