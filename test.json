@@ -116,15 +116,15 @@
             "rating": "PreDVD",
             "catergory": "Action,Thriller",
             "Industry": "South",
-            "hub": "FALSE",
+            "hub": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Eagle_720.mkv",
             "tape": "https://streamtape.site/v/jWWW6YxXadczpb7/Eagle_%282024%29_13892.mkv.mp4",
             "server3": "http://mvs.ringzstudio.online/720p/Eagle%20(2024)%2013892.mkv",
-            "server4": "https://mvs.aapkipooja.com/720p/Eagle_720.mkv",
+            "server4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Eagle_720.mkv",
             "480p": "TRUE",
-            "480pS1": "FALSE",
+            "480pS1": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Eagle_480.mkv",
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Eagle%20(2024)%2013892.mkv",
-            "480pS4": "https://mvs.aapkipooja.com/720p/Eagle_480.mkv"
+            "480pS4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Eagle_480.mkv"
         },
         {
             "id": "3890",
