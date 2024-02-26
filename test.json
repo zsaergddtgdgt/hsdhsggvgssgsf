@@ -1,5 +1,27 @@
 {
     "AllMovieDataList": [
+    
+    {
+            "id": "3928",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/All%20India%20Rank%20(2024).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/All%20India%20Rank%20(2024).jpg",
+            "movieName": "All India Rank (2024)",
+            "htmlFile": "https://www.13928",
+            "directOne": "Hindi",
+            "directSecond": "ahttNxGnLsQ",
+            "rating": "HDTS-V2",
+            "catergory": "Drama,Comedy",
+            "Industry": "Bollywood",
+            "hub": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/All_India_Rank_720p.mkv",
+            "tape": "https://streamtape.site/v/MXW3dW0lL4ImgLd/All_India_Rank_%282024%29_13928.mkv.mp4",
+            "server3": "http://mvs2.ringzstudio.online/720p/All%20India%20Rank%20(2024)%2013928.mkv",
+            "server4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/All_India_Rank_720p.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs2.ringzstudio.online/480p/All%20India%20Rank%20(2024)%2013928.mkv",
+            "480pS4": "FALSE"
+        },
     {
             "id": "3923",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Crakk%20-%20Jeethegaa%20Toh%20Jiyegaa!%20(2024).jpg",
@@ -21,7 +43,7 @@
             "480pS3": "http://mvs2.ringzstudio.online/480p/Crakk%20-%20Jeethegaa%20Toh%20Jiyegaa!%20(2024)%20113923.mkv",
             "480pS4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Crakk%20_480p.mkv"
         },
-    {
+        {
             "id": "3922",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Article%20370%20(2024).jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Article%20370%20(2024).jpg",
@@ -41,6 +63,27 @@
             "480pS2": "FALSE",
             "480pS3": "http://mvs2.ringzstudio.online/480p/Article%20370%20(2024)%20113922.mkv",
             "480pS4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Article_370_480p.mkv"
+        },
+        {
+            "id": "3926",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Je%20Paisa%20Bolda%20Hunda%20(2024).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Je%20Paisa%20Bolda%20Hunda%20(2024).jpg",
+            "movieName": "Je Paisa Bolda Hunda (2024)",
+            "htmlFile": "https://www.1113926",
+            "directOne": "Punjabi",
+            "directSecond": "6yIUn2gwsXQ",
+            "rating": "HDCam",
+            "catergory": "Music,Drama",
+            "Industry": "Punjabi",
+            "hub": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/JePaisaBolda7.mkv",
+            "tape": "https://streamtape.site/v/DPaYrPkYx7fkJmG/Je_Paisa_Bolda_Hunda_%282024%29_1113926.mkv.mp4",
+            "server3": "http://mvs2.ringzstudio.online/720p/Je%20Paisa%20Bolda%20Hunda%20(2024)%201113926.mkv",
+            "server4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/JePaisaBolda7.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs2.ringzstudio.online/480p/Je%20Paisa%20Bolda%20Hunda%20(2024)%201113926.mkv",
+            "480pS4": "FALSE"
         },
     {
             "id": "3901",
@@ -1654,10 +1697,10 @@
             "server3": "http://mvs.ringzstudio.online/720p/Main%20Atal%20Hoon%20(2024)%2013837.mkv",
             "server4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/MainAtalHoon720.mkv",
             "480p": "TRUE",
-            "480pS1": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/MainAtalHoon480.mkv",
+            "480pS1": "FALSE",
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Main%20Atal%20Hoon%20(2024)%2013837.mkv",
-            "480pS4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/MainAtalHoon480.mkv"
+            "480pS4": "FALSE"
         },
         {
             "id": "3800",
@@ -2515,10 +2558,10 @@
             "server3": "http://mvs.ringzstudio.online/720p/Merry%20Christmas%20(2024)%2013823.mkv",
             "server4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Merry_Christmas_720.mkv",
             "480p": "TRUE",
-            "480pS1": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Merry_Christmas_480.mkv",
+            "480pS1": "FALSE",
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Merry%20Christmas%20(2024)%2013823.mkv",
-            "480pS4": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/Merry_Christmas_480.mkv"
+            "480pS4": "FALSE"
         },
         {
             "id": "3831",
