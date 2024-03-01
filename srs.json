@@ -45289,37 +45289,6 @@
             }
         },
         {
-            "id": "1314",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Raisinghani%20vs%20Raisinghani%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Raisinghani%20vs%20Raisinghani%20Season%201.jpg",
-            "movieName": "Raisinghani vs Raisinghani Season 1",
-            "htmlFile": "https://www.19314",
-            "directOne": "Drama,Legal",
-            "directSecond": "tSUY6vpVXEg",
-            "imbd": "9.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Raisinghani vs Raisinghani",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/3WmJWb0e7eClJg/Raisinghani_vs_Raisinghani_S01E01_19314_1.mkv.mp4",
-                "2": "https://streamtape.site/v/VWdO3v3RPjikrJ/Raisinghani_vs_Raisinghani_S01E02_19314_2.mkv.mp4",
-                "3": "https://streamtape.site/v/ogDjdL418YcJqDr/Raisinghani_vs_Raisinghani_S01E03_19314_3.mkv.mp4"
-            },
-            "EpisodeHub": {},
-            "episodeServer3": {
-                "1": "https://pixeldra.in/api/file/emjMssd2?download?.mkv",
-                "2": "https://pixeldra.in/api/file/nPjZ82My?download?.mkv",
-                "3": "https://pixeldra.in/api/file/KuBqGB8w?download?.mkv"
-            },
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E01%2019314%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E02%2019314%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E03%2019314%203.mkv"
-            }
-        },
-        {
             "id": "1312",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/House%20of%20Ninjas%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/House%20of%20Ninjas%20Season%201.jpg",
@@ -45649,6 +45618,55 @@
                 "26": "http://srs.ringzstudio.online/lst/Shark%20Tank%20India%20S03E26%2019295%2026.mkv",
                 "27": "http://srs.ringzstudio.online/lst/Shark%20Tank%20India%20S03E27%2019295%2027.mkv",
                 "28": "http://srs.ringzstudio.online/lst/Shark%20Tank%20India%20S03E28%2019295%2028.mkv"
+            }
+        },
+        {
+            "id": "1314",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Raisinghani%20vs%20Raisinghani%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Raisinghani%20vs%20Raisinghani%20Season%201.jpg",
+            "movieName": "Raisinghani vs Raisinghani Season 1",
+            "htmlFile": "https://www.19314",
+            "directOne": "Drama,Legal",
+            "directSecond": "tSUY6vpVXEg",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Raisinghani vs Raisinghani",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/3WmJWb0e7eClJg/Raisinghani_vs_Raisinghani_S01E01_19314_1.mkv.mp4",
+                "2": "https://streamtape.site/v/VWdO3v3RPjikrJ/Raisinghani_vs_Raisinghani_S01E02_19314_2.mkv.mp4",
+                "3": "https://streamtape.site/v/ogDjdL418YcJqDr/Raisinghani_vs_Raisinghani_S01E03_19314_3.mkv.mp4",
+                "4": "https://streamtape.site/v/B7AXY303pOHyY0J/Raisinghani_vs_Raisinghani_S01E04_19314_4.mkv.mp4",
+                "5": "https://streamtape.site/v/6arwDBL2YWtvqP/Raisinghani_vs_Raisinghani_S01E05_19314_5.mkv.mp4",
+                "6": "https://streamtape.site/v/8OW1maJyYGToKQV/Raisinghani_vs_Raisinghani_S01E06_19314_6.mkv.mp4",
+                "7": "https://streamtape.site/v/dKo43OpVPLC0ab/Raisinghani_vs_Raisinghani_S01E07_19314_7.mkv.mp4",
+                "8": "https://streamtape.site/v/kzMgZYDzy4TOdRZ/Raisinghani_vs_Raisinghani_S01E08_19314_8.mkv.mp4",
+                "9": "https://streamtape.site/v/g2kl2lMWjBtq6qX/Raisinghani_vs_Raisinghani_S01E09_19314_9.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/emjMssd2?download?.mkv",
+                "2": "https://pixeldra.in/api/file/nPjZ82My?download?.mkv",
+                "3": "https://pixeldra.in/api/file/KuBqGB8w?download?.mkv",
+                "4": "https://pixeldra.in/api/file/PafYMKkR?download?.mkv",
+                "5": "https://pixeldra.in/api/file/hA6U3cwM?download?.mkv",
+                "6": "https://pixeldra.in/api/file/2j9hEQ4i?download?.mkv",
+                "7": "https://pixeldra.in/api/file/4YCLmzcU?download?.mkv",
+                "8": "https://pixeldra.in/api/file/eijRzFRv?download?.mkv",
+                "9": "https://pixeldra.in/api/file/dGJ2NoVc?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E01%2019314%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E02%2019314%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E03%2019314%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E04%2019314%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E05%2019314%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E06%2019314%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E07%2019314%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E08%2019314%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E09%2019314%209.mkv"
             }
         },
         {
