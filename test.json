@@ -1,6 +1,27 @@
 {
     "AllMovieDataList": [
     
+        {
+            "id": "3943",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Operation%20Valentine%20(2024).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Operation%20Valentine%20(2024).jpg",
+            "movieName": "Operation Valentine (2024)",
+            "htmlFile": "https://www.13943",
+            "directOne": "Hindi+Telugu",
+            "directSecond": "DrPEnrhbX4Y",
+            "rating": "HDTS-V2",
+            "catergory": "Action,Thriller",
+            "Industry": "Bollywood",
+            "hub": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Operation_Valentine_720p.mkv",
+            "tape": "https://streamtape.site/v/aygzwxBQxwfx4PK/Operation_Valentine_%282024%29_13943.mkv.mp4",
+            "server3": "http://mvs2.ringzstudio.online/720p/Operation%20Valentine%20(2024)%2013943.mkv",
+            "server4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Operation_Valentine_720p.mkv",
+            "480p": "TRUE",
+            "480pS1": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Operation_Valentine_480p.mkv",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs2.ringzstudio.online/480p/Operation%20Valentine%20(2024)%2013943.mkv",
+            "480pS4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Operation_Valentine_480p.mkv"
+        },
     {
             "id": "3942",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Laapataa%20Ladies%20(2024).jpg",
