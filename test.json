@@ -1,5 +1,26 @@
 {
     "AllMovieDataList": [
+    {
+            "id": "3960",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Shaitan%20(2024).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Shaitan%20(2024).jpg",
+            "movieName": "Shaitan (2024)",
+            "htmlFile": "https://www.3960",
+            "directOne": "Hindi",
+            "directSecond": "Yxe-mIVIwM4",
+            "rating": "HQ-V1",
+            "catergory": "Horror,Thriller",
+            "Industry": "Bollywood",
+            "hub": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Shaitan_720.mkv",
+            "tape": "https://streamtape.site/v/qywKvAzQgquzlgB/Shaitan_%282024%29_3960.mkv.mp4",
+            "server3": "http://mvs2.ringzstudio.online/720p/Shaitan%20(2024)%203960.mkv",
+            "server4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Shaitan_720.mkv",
+            "480p": "TRUE",
+            "480pS1": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Shaitan_480.mkv",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs2.ringzstudio.online/480p/Shaitan%20(2024)%203960.mkv",
+            "480pS4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Shaitan_480.mkv"
+        },
         {
             "id": "3943",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Operation%20Valentine%20(2024).jpg",
