@@ -45998,6 +45998,40 @@
                 "7": "http://srs.ringzstudio.online/lst/Maharani%20S03E07%2019331%207.mkv",
                 "8": "http://srs.ringzstudio.online/lst/Maharani%20S03E08%2019331%208.mkv"
             }
+        },
+        {
+            "id": "1332",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Showtime%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Showtime%20Season%201.jpg",
+            "movieName": "Showtime Season 1",
+            "htmlFile": "https://www.19332",
+            "directOne": "Drama",
+            "directSecond": "tAXew1iKCnw",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Showtime",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/RBx9gMlbkyFdrjG/Showtime_S01E01_19332_1.mkv",
+                "2": "https://streamtape.site/v/ZxoyvjZrWJfqA1l/Showtime_S01E02_19332_2.mkv",
+                "3": "https://streamtape.site/v/vrOxQzOaj0T4xzk/Showtime_S01E03_19332_3.mkv",
+                "4": "https://streamtape.site/v/967pX4A1ayc1m1/Showtime_S01E04_19332_4.mkv"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/XTZmQPzn?download?.mkv",
+                "2": "https://pixeldra.in/api/file/kKAC4NdY?download?.mkv",
+                "3": "https://pixeldra.in/api/file/Q9SwVueC?download?.mkv",
+                "4": "https://pixeldra.in/api/file/JhV1FNF6?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Showtime%20S01E01%2019332%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Showtime%20S01E02%2019332%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Showtime%20S01E03%2019332%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Showtime%20S01E04%2019332%204.mkv"
+            }
         }
     ]
 }
