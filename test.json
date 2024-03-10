@@ -410,15 +410,15 @@
             "rating": "HD",
             "catergory": "Action,Thriller",
             "Industry": "South",
-            "hub": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Eagle_720.mkv",
+            "hub": "FALSE",
             "tape": "https://streamtape.site/v/RQ700lbjrGsdrmL/Eagle_%282024%29_13892.mkv.mp4",
             "server3": "http://mvs2.ringzstudio.online/720p/Eagle%20(2024)%2013892.mkv",
-            "server4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Eagle_720.mkv",
+            "server4": "https://pixeldra.in/api/file/9X9ZgqTW?download?.mkv",
             "480p": "TRUE",
-            "480pS1": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Eagle_480.mkv",
+            "480pS1": "FALSE",
             "480pS2": "FALSE",
             "480pS3": "http://mvs2.ringzstudio.online/480p/Eagle%20(2024)%2013892.mkv",
-            "480pS4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Eagle_480.mkv"
+            "480pS4": "https://pixeldra.in/api/file/X5d2mupb?download?.mkv"
         },
         {
             "id": "3963",
@@ -620,15 +620,15 @@
             "rating": "HDTS-V2",
             "catergory": "Drama,Comedy",
             "Industry": "Bollywood",
-            "hub": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/All_India_Rank_720p.mkv",
+            "hub": "FALSE",
             "tape": "https://streamtape.site/v/3r2lKjxDdWCdVLD/All_India_Rank_%282024%29_13928.mkv.mp4",
             "server3": "http://mvs2.ringzstudio.online/720p/All%20India%20Rank%20(2024)%2013928.mkv",
-            "server4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/All_India_Rank_720p.mkv",
+            "server4": "https://pixeldra.in/api/file/SU5PPUJv?download?.mkv",
             "480p": "TRUE",
             "480pS1": "FALSE",
             "480pS2": "FALSE",
             "480pS3": "http://mvs2.ringzstudio.online/480p/All%20India%20Rank%20(2024)%2013928.mkv",
-            "480pS4": "FALSE"
+            "480pS4": "https://pixeldra.in/api/file/S39SpKfW?download?.mkv"
         },
         {
             "id": "3923",
@@ -998,15 +998,15 @@
             "rating": "HDTS-V2",
             "catergory": "Comedy,Drama",
             "Industry": "Bollywood",
-            "hub": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/KchKta7.mkv",
+            "hub": "FALSE",
             "tape": "https://streamtape.site/v/0eMQwyZVBXCb4br/Kuch_Khattaa_Ho_Jaay_%282024%29_13901.mkv.mp4",
             "server3": "http://mvs.ringzstudio.online/720p/Kuch%20Khattaa%20Ho%20Jaay%20(2024)%2013901.mkv",
-            "server4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/KchKta7.mkv",
+            "server4": "https://pixeldra.in/api/file/NDuKGrGc?download?.mkv",
             "480p": "TRUE",
-            "480pS1": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/KchKta4.mkv",
+            "480pS1": "FALSE",
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Kuch%20Khattaa%20Ho%20Jaay%20(2024)%2013901.mkv",
-            "480pS4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/KchKta4.mkv"
+            "480pS4": "https://pixeldra.in/api/file/jLxiuzDh?download?.mkv"
         },
         {
             "id": "3908",
@@ -1019,15 +1019,15 @@
             "rating": "HDTS-V2",
             "catergory": "Drama",
             "Industry": "Bollywood",
-            "hub": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/AakhirPalaayan7.mkv",
+            "hub": "FALSE",
             "tape": "https://streamtape.site/v/elwRVzyvzAsYRAB/Aakhir_Palaayan_Kab_Tak_%282024%29_13908.mkv.mp4",
             "server3": "http://mvs.ringzstudio.online/720p/Aakhir%20Palaayan%20Kab%20Tak%20(2024)%2013908.mkv",
-            "server4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/AakhirPalaayan7.mkv",
+            "server4": "https://pixeldra.in/api/file/ysrzMm7C?download?.mkv",
             "480p": "TRUE",
             "480pS1": "FALSE",
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Aakhir%20Palaayan%20Kab%20Tak%20(2024)%2013908.mkv",
-            "480pS4": "FALSE"
+            "480pS4": "https://pixeldra.in/api/file/aUjJSoQU?download?.mkv"
         },
         {
             "id": "3567",
@@ -1145,15 +1145,15 @@
             "rating": "HDTS-V2",
             "catergory": "Comedy,Romance",
             "Industry": "Bollywood",
-            "hub": "http://mvs.aapkipooja.com/720p/triBatonMein7.mkv",
+            "hub": "FALSE",
             "tape": "https://streamtape.site/v/bpZPJpa1wjUPXdy/Teri_Baaton_Mein_Aisa_Uljha_Jiya_%282024%29_3889.mkv.mp4",
             "server3": "http://mvs.ringzstudio.online/720p/Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya%20(2024)%203889.mkv",
-            "server4": "FALSE",
+            "server4": "https://pixeldra.in/api/file/YBcq5fDr?download?.mkv",
             "480p": "TRUE",
-            "480pS1": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/triBatonMein4.mkv",
+            "480pS1": "FALSE",
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya%20(2024)%203889.mkv",
-            "480pS4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/triBatonMein4.mkv"
+            "480pS4": "https://pixeldra.in/api/file/xnQtq7py?download?.mkv"
         },
         {
             "id": "3926",
