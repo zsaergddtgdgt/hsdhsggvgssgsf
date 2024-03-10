@@ -36043,18 +36043,36 @@
             "keyName": "Asur",
             "pathName": "S2",
             "EpisodeTape": {
-                "1": "https://streamtape.not/v/A13xPYeJ6luX8kQ/Asur_S02E01_19036_1.mkv.mp4",
-                "2": "https://streamtape.not/v/MybdjrX281u618/Asur_S02E02_19036_2.mkv.mp4",
-                "3": "https://streamtape.not/v/zly1w272GKUYZVV/Asur_S02E03_19036_3.mkv.mp4",
-                "4": "https://streamtape.not/v/RB7qlvYKY9hddre/Asur_S02E04_19036_4.mkv.mp4",
-                "5": "https://streamtape.not/v/adwpb64alyixqQg/Asur_S02E05_19036_5.mkv.mp4",
-                "6": "https://streamtape.not/v/qa0a6lePg3szJGZ/Asur_S02E06_19036_6.mkv.mp4",
-                "7": "https://streamtape.not/v/KzRPJYxjzxi0Zkm/Asur_S02E07_19036_7.mkv.mp4",
-                "8": "https://streamtape.not/v/DPRoDl7M86UkoPz/Asur_S02E08_19036_8.mkv.mp4"
+                "1": "https://streamtape.site/v/3JJqKO8D0GUdVYW/Asur_S02E01_19036_1.mkv.mp4",
+                "2": "https://streamtape.site/v/KGMvrZvXRyH00O7/Asur_S02E02_19036_2.mkv.mp4",
+                "3": "https://streamtape.site/v/YZJvzp3Yebuv0Lg/Asur_S02E03_19036_3.mkv.mp4",
+                "4": "https://streamtape.site/v/a2j8LGxeW1UxkD8/Asur_S02E04_19036_4.mkv.mp4",
+                "5": "https://streamtape.site/v/BezrqYvb8lfyzQa/Asur_S02E05_19036_5.mkv.mp4",
+                "6": "https://streamtape.site/v/yw3Xq60ZPzFeYr/Asur_S02E06_19036_6.mkv.mp4",
+                "7": "https://streamtape.site/v/9O4M9Wq9kxtyjQ/Asur_S02E07_19036_7.mkv.mp4",
+                "8": "https://streamtape.site/v/26Q78vYx42hZOrR/Asur_S02E08_19036_8.mkv.mp4"
             },
             "EpisodeHub": {},
-            "episodeServer3": {},
-            "episodeServer4": {}
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/eKuGuwqP?download?.mkv",
+                "2": "https://pixeldra.in/api/file/hSaLdNKj?download?.mkv",
+                "3": "https://pixeldra.in/api/file/QHxtMYqJ?download?.mkv",
+                "4": "https://pixeldra.in/api/file/6tCaS1nL?download?.mkv",
+                "5": "https://pixeldra.in/api/file/vTHz1NSC?download?.mkv",
+                "6": "https://pixeldra.in/api/file/8QiBmFQx?download?.mkv",
+                "7": "https://pixeldra.in/api/file/6iAkWDYL?download?.mkv",
+                "8": "https://pixeldra.in/api/file/KQrjCAum?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Asur%20S02E01%2019036%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Asur%20S02E02%2019036%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Asur%20S02E03%2019036%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Asur%20S02E04%2019036%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Asur%20S02E05%2019036%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Asur%20S02E06%2019036%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Asur%20S02E07%2019036%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Asur%20S02E08%2019036%208.mkv"
+            }
         },
         {
             "id": "1040",
@@ -45395,55 +45413,6 @@
             }
         },
         {
-            "id": "1314",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Raisinghani%20vs%20Raisinghani%20Season%201.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Raisinghani%20vs%20Raisinghani%20Season%201.jpg",
-            "movieName": "Raisinghani vs Raisinghani Season 1",
-            "htmlFile": "https://www.19314",
-            "directOne": "Drama,Legal",
-            "directSecond": "tSUY6vpVXEg",
-            "imbd": "9.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Raisinghani vs Raisinghani",
-            "pathName": "S1",
-            "EpisodeTape": {
-                "1": "https://streamtape.site/v/3dL8XZYVjxcdOql/Raisinghani_vs_Raisinghani_S01E01_19314_1.mkv.mp4",
-                "2": "https://streamtape.site/v/bz1Gzym9kwfPZ4m/Raisinghani_vs_Raisinghani_S01E02_19314_2.mkv.mp4",
-                "3": "https://streamtape.site/v/MPx869apBWt6Q1/Raisinghani_vs_Raisinghani_S01E03_19314_3.mkv.mp4",
-                "4": "https://streamtape.site/v/MxyVkgbJjRTedJ/Raisinghani_vs_Raisinghani_S01E04_19314_4.mkv.mp4",
-                "5": "https://streamtape.site/v/jVGyjzPWP9Iz1LZ/Raisinghani_vs_Raisinghani_S01E05_19314_5.mkv.mp4",
-                "6": "https://streamtape.site/v/6KrLe63g6qT9zbv/Raisinghani_vs_Raisinghani_S01E06_19314_6.mkv.mp4",
-                "7": "https://streamtape.site/v/wG0W0KBjr1tJk28/Raisinghani_vs_Raisinghani_S01E07_19314_7.mkv.mp4",
-                "8": "https://streamtape.site/v/8WX0OaloKlUo7ll/Raisinghani_vs_Raisinghani_S01E08_19314_8.mkv.mp4",
-                "9": "https://streamtape.site/v/JJAx0vZGG9UjWQJ/Raisinghani_vs_Raisinghani_S01E09_19314_9.mkv.mp4"
-            },
-            "EpisodeHub": {},
-            "episodeServer3": {
-                "1": "https://pixeldra.in/api/file/emjMssd2?download?.mkv",
-                "2": "https://pixeldra.in/api/file/nPjZ82My?download?.mkv",
-                "3": "https://pixeldra.in/api/file/KuBqGB8w?download?.mkv",
-                "4": "https://pixeldra.in/api/file/PafYMKkR?download?.mkv",
-                "5": "https://pixeldra.in/api/file/hA6U3cwM?download?.mkv",
-                "6": "https://pixeldra.in/api/file/2j9hEQ4i?download?.mkv",
-                "7": "https://pixeldra.in/api/file/4YCLmzcU?download?.mkv",
-                "8": "https://pixeldra.in/api/file/eijRzFRv?download?.mkv",
-                "9": "https://pixeldra.in/api/file/dGJ2NoVc?download?.mkv"
-            },
-            "episodeServer4": {
-                "1": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E01%2019314%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E02%2019314%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E03%2019314%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E04%2019314%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E05%2019314%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E06%2019314%206.mkv",
-                "7": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E07%2019314%207.mkv",
-                "8": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E08%2019314%208.mkv",
-                "9": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E09%2019314%209.mkv"
-            }
-        },
-        {
             "id": "1326",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Red%20Queen%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Red%20Queen%20Season%201.jpg",
@@ -45676,7 +45645,7 @@
                 "22": "https://streamtape.site/v/wrjmORKpmjTJmwo/Jab_Mila_Tu_S01E22_19306_22.mkv.mp4",
                 "23": "https://streamtape.site/v/7mqwVeLmpmiA96b/Jab_Mila_Tu_S01E23_19306_23.mkv.mp4",
                 "24": "https://streamtape.site/v/ZkBOaXDqAqtqJqg/Jab_Mila_Tu_S01E24_19306_24.mkv.mp4"
-            },
+          },
             "EpisodeHub": {},
             "episodeServer3": {
                 "1": "https://pixeldra.in/api/file/BXdrTsFo?download?.mkv",
@@ -45836,7 +45805,9 @@
                 "30": "https://streamtape.site/v/KJM2xedkD9i02My/Shark_Tank_India_S03E30_19295_30.mkv.mp4",
                 "31": "https://streamtape.site/v/d3xWvD0YgLskky0/Shark_Tank_India_S03E31_19295_31.mkv.mp4",
                 "32": "https://streamtape.site/v/XgqJGdqaAGfPWm/Shark_Tank_India_S03E32_19295_32.mkv.mp4",
-                "33": "https://streamtape.site/v/mP0MydwWj0IbwBJ/Shark_Tank_India_S03E33_19295_33.mkv.mp4"
+                "33": "https://streamtape.site/v/mP0MydwWj0IbwBJ/Shark_Tank_India_S03E33_19295_33.mkv.mp4",
+                "34": "https://streamtape.site/v/wx4lDJ1b6MtJ16D/Shark_Tank_India_S03E34_19295_34.mkv.mp4",
+                "35": "https://streamtape.site/v/Q0348X1GdgI041q/Shark_Tank_India_S03E35_19295_35.mkv"
             },
             "EpisodeHub": {},
             "episodeServer3": {
@@ -45872,7 +45843,9 @@
                 "30": "https://pixeldra.in/api/file/kJYqgoPk?download?.mkv",
                 "31": "https://pixeldra.in/api/file/LmTVmy8A?download?.mkv",
                 "32": "https://pixeldra.in/api/file/3ZcQt3gh?download?.mkv",
-                "33": "FALSE"
+                "33": "https://pixeldra.in/api/file/gYB1CCEv?download?.mkv",
+                "34": "https://pixeldra.in/api/file/ukAr38f6?download?.mkv",
+                "35": "https://pixeldra.in/api/file/6ndPrWZB?download?.mkv"
             },
             "episodeServer4": {
                 "1": "http://srs.ringzstudio.online/lst/Shark%20Tank%20India%20S03E01%2019295%201.mkv",
@@ -45907,7 +45880,67 @@
                 "30": "http://srs.ringzstudio.online/lst/Shark%20Tank%20India%20S03E30%2019295%2030.mkv",
                 "31": "http://srs.ringzstudio.online/lst/Shark%20Tank%20India%20S03E31%2019295%2031.mkv",
                 "32": "http://srs.ringzstudio.online/lst/Shark%20Tank%20India%20S03E32%2019295%2032.mkv",
-                "33": "http://srs.ringzstudio.online/lst/Shark%20Tank%20India%20S03E33%2019295%2033.mkv"
+                "33": "http://srs.ringzstudio.online/lst/Shark%20Tank%20India%20S03E33%2019295%2033.mkv",
+                "34": "http://srs.ringzstudio.online/lst/Shark%20Tank%20India%20S03E34%2019295%2034.mkv",
+                "35": "http://srs.ringzstudio.online/lst/Shark%20Tank%20India%20S03E35%2019295%2035.mkv"
+            }
+        },
+        {
+            "id": "1314",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Raisinghani%20vs%20Raisinghani%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Raisinghani%20vs%20Raisinghani%20Season%201.jpg",
+            "movieName": "Raisinghani vs Raisinghani Season 1",
+            "htmlFile": "https://www.19314",
+            "directOne": "Drama,Legal",
+            "directSecond": "tSUY6vpVXEg",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Raisinghani vs Raisinghani",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/3dL8XZYVjxcdOql/Raisinghani_vs_Raisinghani_S01E01_19314_1.mkv.mp4",
+                "2": "https://streamtape.site/v/bz1Gzym9kwfPZ4m/Raisinghani_vs_Raisinghani_S01E02_19314_2.mkv.mp4",
+                "3": "https://streamtape.site/v/MPx869apBWt6Q1/Raisinghani_vs_Raisinghani_S01E03_19314_3.mkv.mp4",
+                "4": "https://streamtape.site/v/MxyVkgbJjRTedJ/Raisinghani_vs_Raisinghani_S01E04_19314_4.mkv.mp4",
+                "5": "https://streamtape.site/v/jVGyjzPWP9Iz1LZ/Raisinghani_vs_Raisinghani_S01E05_19314_5.mkv.mp4",
+                "6": "https://streamtape.site/v/6KrLe63g6qT9zbv/Raisinghani_vs_Raisinghani_S01E06_19314_6.mkv.mp4",
+                "7": "https://streamtape.site/v/wG0W0KBjr1tJk28/Raisinghani_vs_Raisinghani_S01E07_19314_7.mkv.mp4",
+                "8": "https://streamtape.site/v/8WX0OaloKlUo7ll/Raisinghani_vs_Raisinghani_S01E08_19314_8.mkv.mp4",
+                "9": "https://streamtape.site/v/JJAx0vZGG9UjWQJ/Raisinghani_vs_Raisinghani_S01E09_19314_9.mkv.mp4",
+                "10": "https://streamtape.site/v/Qramra270Vh0YX0/Raisinghani_vs_Raisinghani_S01E10_19314_10.mkv.mp4",
+                "11": "https://streamtape.site/v/rB0yrzOa2jsb19P/Raisinghani_vs_Raisinghani_S01E11_19314_11.mkv.mp4",
+                "12": "https://streamtape.site/v/6aPyLjQawzf92ml/Raisinghani_vs_Raisinghani_S01E12_19314_12.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/emjMssd2?download?.mkv",
+                "2": "https://pixeldra.in/api/file/nPjZ82My?download?.mkv",
+                "3": "https://pixeldra.in/api/file/KuBqGB8w?download?.mkv",
+                "4": "https://pixeldra.in/api/file/PafYMKkR?download?.mkv",
+                "5": "https://pixeldra.in/api/file/hA6U3cwM?download?.mkv",
+                "6": "https://pixeldra.in/api/file/2j9hEQ4i?download?.mkv",
+                "7": "https://pixeldra.in/api/file/4YCLmzcU?download?.mkv",
+                "8": "https://pixeldra.in/api/file/eijRzFRv?download?.mkv",
+                "9": "https://pixeldra.in/api/file/dGJ2NoVc?download?.mkv",
+                "10": "https://pixeldra.in/api/file/pHqufZLK?download?.mkv",
+                "11": "https://pixeldra.in/api/file/gWVV2qrT?download?.mkv",
+                "12": "https://pixeldra.in/api/file/FJUd6Ki9?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E01%2019314%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E02%2019314%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E03%2019314%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E04%2019314%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E05%2019314%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E06%2019314%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E07%2019314%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E08%2019314%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E09%2019314%209.mkv",
+                "10": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E10%2019314%2010.mkv",
+                "11": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E11%2019314%2011.mkv",
+                "12": "http://srs.ringzstudio.online/lst/Raisinghani%20vs%20Raisinghani%20S01E12%2019314%2012.mkv"
             }
         },
         {
@@ -45951,6 +45984,86 @@
                 "5": "http://srs.ringzstudio.online/lst/SuperSex%20S01E05%2019330%205.mkv",
                 "6": "http://srs.ringzstudio.online/lst/SuperSex%20S01E06%2019330%206.mkv",
                 "7": "http://srs.ringzstudio.online/lst/SuperSex%20S01E07%2019330%207.mkv"
+            }
+        },
+        {
+            "id": "1333",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Gentlemen%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Gentlemen%20Season%201.jpg",
+            "movieName": "The Gentlemen Season 1",
+            "htmlFile": "https://www.19333",
+            "directOne": "Action,Crime",
+            "directSecond": "hMJ0QjvNvGM",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Gentlemen",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/kWjggLoBwxhOGYq/The_Gentlemen_S01E01_19333_1.mkv",
+                "2": "https://streamtape.site/v/GGJeLlM1VMi1vKx/The_Gentlemen_S01E02_19333_2.mkv",
+                "3": "https://streamtape.site/v/bKQv7l1qZXSPwmM/The_Gentlemen_S01E03_19333_3.mkv",
+                "4": "https://streamtape.site/v/mQl8Rkwwxwik4l/The_Gentlemen_S01E04_19333_4.mkv",
+                "5": "https://streamtape.site/v/jABoW3VQOmSJkR/The_Gentlemen_S01E05_19333_5.mkv",
+                "6": "https://streamtape.site/v/QAAQop9WreI0jyk/The_Gentlemen_S01E06_19333_6.mkv",
+                "7": "https://streamtape.site/v/74GgKgaQJyUVx2/The_Gentlemen_S01E07_19333_7.mkv",
+                "8": "https://streamtape.site/v/Bz2MBlqwZksyL48/The_Gentlemen_S01E08_19333_8.mkv"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/4rneaLbA?download?.mkv",
+                "2": "https://pixeldra.in/api/file/SqewmKKz?download?.mkv",
+                "3": "https://pixeldra.in/api/file/Y5ffHGh7?download?.mkv",
+                "4": "https://pixeldra.in/api/file/htWH9dN6?download?.mkv",
+                "5": "https://pixeldra.in/api/file/MBtSWxe9?download?.mkv",
+                "6": "https://pixeldra.in/api/file/uDomXFWH?download?.mkv",
+                "7": "https://pixeldra.in/api/file/4ra75cTR?download?.mkv",
+                "8": "https://pixeldra.in/api/file/TesqXHje?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/The%20Gentlemen%20S01E01%2019333%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/The%20Gentlemen%20S01E02%2019333%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/The%20Gentlemen%20S01E03%2019333%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/The%20Gentlemen%20S01E04%2019333%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/The%20Gentlemen%20S01E05%2019333%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/The%20Gentlemen%20S01E06%2019333%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/The%20Gentlemen%20S01E07%2019333%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/The%20Gentlemen%20S01E08%2019333%208.mkv"
+            }
+        },
+        {
+            "id": "1334",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/The%20Signal%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/The%20Signal%20Season%201.jpg",
+            "movieName": "The Signal Season 1",
+            "htmlFile": "https://www.19334",
+            "directOne": "Sci-Fi,Mystery",
+            "directSecond": "n2Ym_rQKGOg",
+            "imbd": "9.1",
+            "rating": "Hindi+English",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "The Signal",
+            "pathName": "S1",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/XBM8rWXrVeFD82v/The_Signal_S01E01_19334_1.mkv.mp4",
+                "2": "https://streamtape.site/v/r4o42qBrMWf3QP/The_Signal_S01E02_19334_2.mkv.mp4",
+                "3": "https://streamtape.site/v/wPZO34wqMjFeKG/The_Signal_S01E03_19334_3.mkv.mp4",
+                "4": "https://streamtape.site/v/kpogpJApR0s9oV/The_Signal_S01E04_19334_4.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/FxwZHdBx?download?.mkv",
+                "2": "https://pixeldra.in/api/file/MPpJNpde?download?.mkv",
+                "3": "https://pixeldra.in/api/file/ELQczzni?download?.mkv",
+                "4": "https://pixeldra.in/api/file/92GdjTLf?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/The%20Signal%20S01E01%2019334%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/The%20Signal%20S01E02%2019334%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/The%20Signal%20S01E03%2019334%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/The%20Signal%20S01E04%2019334%204.mkv"
             }
         },
         {
