@@ -1,5 +1,27 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "3972",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Bhimaa%20(2024).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Bhimaa%20(2024).jpg",
+            "movieName": "Bhimaa (2024)",
+            "htmlFile": "https://www.13972",
+            "directOne": "Hindi[Studio]+Telugu",
+            "directSecond": "P3t--CmbibE",
+            "rating": "HD",
+            "catergory": "Action,Drama",
+            "Industry": "South",
+            "hub": "FALSE",
+            "tape": "https://streamtape.site/v/YLAvxmv2RMsvvMK/Bhimaa_%282024%29_13972.mkv.mp4",
+            "server3": "http://mvs2.ringzstudio.online/720p/Bhimaa%20(2024)%2013972.mkv",
+            "server4": "https://pixeldra.in/api/file/Mb47MpmR?download?.mkv",
+            "480p": "TRUE",
+            "480pS1": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Bhimaa_480.mkv",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs2.ringzstudio.online/480p/Bhimaa%20(2024)%2013972.mkv",
+            "480pS4": "FALSE"
+        },
     {
             "id": "3960",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Shaitan%20(2024).jpg",
@@ -229,7 +251,7 @@
             "480pS1": "FALSE",
             "480pS2": "FALSE",
             "480pS3": "http://mvs2.ringzstudio.online/480p/Dange%20(2024)%2013952.mkv",
-            "480pS4": "FALSE"
+            "480pS4": "https://pixeldra.in/api/file/xNeaCaQM?download?.mkv"
         },
         {
             "id": "3386",
@@ -1418,15 +1440,15 @@
             "rating": "HDTS-V2",
             "catergory": "Action,Adventures",
             "Industry": "Hollywood",
-            "hub": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/MadmWb7.mkv",
+            "hub": "FALSE",
             "tape": "https://streamtape.site/v/BQg0kyRXJrIy01x/Madame_Web_%282024%29_13905.mkv.mp4",
             "server3": "http://mvs.ringzstudio.online/720p/Madame%20Web%20(2024)%2013905.mkv",
-            "server4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/MadmWb7.mkv",
+            "server4": "https://pixeldra.in/api/file/TQf7VNBV?download?.mkv",
             "480p": "TRUE",
             "480pS1": "FALSE",
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Madame%20Web%20(2024)%2013905.mkv",
-            "480pS4": "FALSE"
+            "480pS4": "https://pixeldra.in/api/file/zNUmoSu4?download?.mkv"
         },
         {
             "id": "3828",
@@ -1439,15 +1461,15 @@
             "rating": "HD",
             "catergory": "Action,Sci-Fi",
             "Industry": "South",
-            "hub": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Aylan7.mkv",
+            "hub": "FALSE",
             "tape": "https://streamtape.site/v/3Gja6X4oLwSrY8/Ayalaan_%282024%29_13828.mkv.mp4",
             "server3": "http://mvs.ringzstudio.online/720p/Ayalaan%20(2024)%2013828.mkv",
-            "server4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Aylan7.mkv",
+            "server4": "https://pixeldra.in/api/file/UmoqiDKb?download?.mkv",
             "480p": "TRUE",
             "480pS1": "FALSE",
             "480pS2": "FALSE",
             "480pS3": "http://mvs.ringzstudio.online/480p/Ayalaan%20(2024)%2013828.mkv",
-            "480pS4": "FALSE"
+            "480pS4": "https://pixeldra.in/api/file/buT9BHUv?download?.mkv"
         },
         {
             "id": "3748",
