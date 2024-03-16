@@ -46337,6 +46337,49 @@
             "episodeServer4": {
                 "1": "http://srs.ringzstudio.online/lst/Love%20Adhura%20S01Complete%2019338%201.mkv"
             }
+        },
+        {
+            "id": "1340",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Series/H1/Save%20the%20Tigers%20Season%202.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Series/V1/Save%20the%20Tigers%20Season%202.jpg",
+            "movieName": "Save the Tigers Season 2",
+            "htmlFile": "https://www.19340",
+            "directOne": "Thriller,Comedy",
+            "directSecond": "VpJbvKrDCSI",
+            "imbd": "9.1",
+            "rating": "Hindi",
+            "catergory": "webSeries",
+            "Industry": "webSeries",
+            "keyName": "Save the Tigers",
+            "pathName": "S2",
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/Z1loDa0v42Hqzx7/Save_the_Tigers_S02E01_19340_1.mkv.mp4",
+                "2": "https://streamtape.site/v/gLA8G1zeO4t3a3/Save_the_Tigers_S02E02_19340_2.mkv.mp4",
+                "3": "https://streamtape.site/v/9jBq3qR7q6HaM3W/Save_the_Tigers_S02E03_19340_3.mkv.mp4",
+                "4": "https://streamtape.site/v/aZDjDAjRdJixxxz/Save_the_Tigers_S02E04_19340_4.mkv.mp4",
+                "5": "https://streamtape.site/v/vp3ydZb6LBH4pkm/Save_the_Tigers_S02E05_19340_5.mkv.mp4",
+                "6": "https://streamtape.site/v/7d4mvqd8PmsA62g/Save_the_Tigers_S02E06_19340_6.mkv.mp4",
+                "7": "https://streamtape.site/v/lAdBaKljVQtoLx/Save_the_Tigers_S02E07_19340_7.mkv.mp4"
+            },
+            "EpisodeHub": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/bz93567q?download?.mkv",
+                "2": "https://pixeldra.in/api/file/EwqmsuoH?download?.mkv",
+                "3": "https://pixeldra.in/api/file/rYWzMey2?download?.mkv",
+                "4": "https://pixeldra.in/api/file/QewKH8am?download?.mkv",
+                "5": "https://pixeldra.in/api/file/3Cu3Ldx8?download?.mkv",
+                "6": "https://pixeldra.in/api/file/xRoptQHF?download?.mkv",
+                "7": "https://pixeldra.in/api/file/w7ng5sj9?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "http://srs.ringzstudio.online/lst/Save%20the%20Tigers%20S02E01%2019340%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Save%20the%20Tigers%20S02E02%2019340%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Save%20the%20Tigers%20S02E03%2019340%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Save%20the%20Tigers%20S02E04%2019340%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Save%20the%20Tigers%20S02E05%2019340%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Save%20the%20Tigers%20S02E06%2019340%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Save%20the%20Tigers%20S02E07%2019340%207.mkv"
+            }
         }
     ]
 }
