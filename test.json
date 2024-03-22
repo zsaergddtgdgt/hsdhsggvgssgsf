@@ -1,6 +1,47 @@
 {
     "AllMovieDataList": [
-    
+    {
+            "id": "3997",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Madgaon%20Express%20(2024).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Madgaon%20Express%20(2024).jpg",
+            "movieName": "Madgaon Express (2024)",
+            "htmlFile": "https://www.13997",
+            "directOne": "Hindi",
+            "directSecond": "B7VP47oCZfE",
+            "rating": "HDTS-V2",
+            "catergory": "Comedy,Drama",
+            "Industry": "Bollywood",
+            "hub": "FALSE",
+            "tape": "https://streamtape.site/v/78oBWvOkrWSoP8/Madgaon_Express_%282024%29_13997.mkv",
+            "server3": "http://mvs3.ringzstudio.online/720p/Madgaon%20Express%20(2024)%2013997.mkv",
+            "server4": "https://pixeldra.in/api/file/osiuC5M3?download?.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs3.ringzstudio.online/480p/Madgaon%20Express%20(2024)%2013997.mkv",
+            "480pS4": "https://pixeldra.in/api/file/WC3eJssM?download?.mkv"
+        },
+    {
+            "id": "3998",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Swatantra%20Veer%20Savarkar%20(2024).jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Movies/V2/Swatantra%20Veer%20Savarkar%20(2024).jpg",
+            "movieName": "Swatantra Veer Savarkar (2024)",
+            "htmlFile": "https://www.3998",
+            "directOne": "Hindi",
+            "directSecond": "7LfDYSQdUuc",
+            "rating": "HDTS-V2",
+            "catergory": "Biography,History",
+            "Industry": "Bollywood",
+            "hub": "FALSE",
+            "tape": "https://streamtape.site/v/vB4XXqqGOBH4GJo/Swatantra_Veer_Savarkar_%282024%29_3998.mkv.mp4",
+            "server3": "http://mvs3.ringzstudio.online/720p/Swatantra%20Veer%20Savarkar%20(2024)%203998.mkv",
+            "server4": "https://pixeldra.in/api/file/LnCLQJWS?download?.mkv",
+            "480p": "TRUE",
+            "480pS1": "FALSE",
+            "480pS2": "FALSE",
+            "480pS3": "http://mvs3.ringzstudio.online/480p/Swatantra%20Veer%20Savarkar%20(2024)%203998.mkv",
+            "480pS4": "https://pixeldra.in/api/file/s3FJ7K1s?download?.mkv"
+        },
         {
             "id": "3850",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Movies/H2/Fighter%20(2024).jpg",
